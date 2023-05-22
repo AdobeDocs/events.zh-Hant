@@ -6,11 +6,11 @@ description: 來自Adobe即時流式活動的錄制集合。
 type: Event
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/events.zh-Hant
-hide: true
-source-git-commit: fa7aa346db744f390ec839472cd978caf983a976
+index: true
+source-git-commit: 01971230eeaa291ac8f9130ece58484e925d611a
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 83%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
