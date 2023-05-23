@@ -44,8 +44,6 @@ ht-degree: 47%
       + [跨B2B和B2C的客戶旅程趨勢和創新](customer-journeys/2022/keynote.md)
       + [最佳拍檔 - Adobe Marketo Engage 和 Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
       + [Marketo Engage 和 Adobe Experience Cloud 的 B2B 體驗](customer-journeys/2022/b2b-experiences.md)
-&lt;!---    + 
-[Adobe Campaign Classic V7 與 V8](customer-journeys/2022/classic-v7-vs-v8.md) --->
 + 資料和見解 {#data-and-insights}
    + [總覽](data-and-insights/overview.md)
    + 2022 {#2022}
