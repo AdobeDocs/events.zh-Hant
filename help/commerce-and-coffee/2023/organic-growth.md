@@ -1,6 +1,6 @@
 ---
-title: Commerce & Coffee — 有機增長
-description: 在本次會議中，我們回顧了Adobe的一些主要戰略，以幫助有機地發展電子商務網站。 在生成有機增長時，必須將企業的數字生態系統作為一個整體來看待。 從SEO和社交媒體有機地發展電子商務業務，將構建與現場優化相銜接的7種方式。 Corey對Adobe Commerce的功能進行即時演示，包括URL重寫、站點地圖生成、規範元標籤、元資料等。 與以往一樣，我們在會議結束時還要進行現場問答。
+title: 商務與咖啡 — 有機增長
+description: 在這場會議中，我們將檢閱Adobe的一些主要策略，以協助自然增長電子商務網站。 在創造自然成長時，必須整體審視企業的數位生態系統。 我們將從SEO和社群媒體到連結建立和網站最佳化，剖析7種有機的發展電子商務業務的方法。 Cory會執行Adobe Commerce功能的即時示範，包括URL重寫、網站地圖產生、標準中繼標籤、中繼資料等。 一如既往，我們會以即時問答結束會議。
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -9,15 +9,16 @@ doc-type: Event
 last-substantial-update: 2023-03-03T00:00:00Z
 jira: KT-11945
 thumbnail: 3416128.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+event-start-time: 2023-2-23 08:30-8
+source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
 
 ---
 
-# Commerce &amp; Coffee:有機增長
+# 商務與咖啡：有機增長
 
-在本次會議中，我們回顧了Adobe的一些主要戰略，以幫助有機地發展電子商務網站。 在生成有機增長時，必須將企業的數字生態系統作為一個整體來看待。 從SEO和社交媒體有機地發展電子商務業務，將構建與現場優化相銜接的7種方式。 Corey對Adobe Commerce的功能進行即時演示，包括URL重寫、站點地圖生成、規範元標籤、元資料等。 與以往一樣，我們在會議結束時還要進行現場問答。
+在這場會議中，我們將檢閱Adobe的一些主要策略，以協助自然增長電子商務網站。 在創造自然成長時，必須整體審視企業的數位生態系統。 我們將從SEO和社群媒體到連結建立和網站最佳化，剖析7種有機的發展電子商務業務的方法。 Cory會執行Adobe Commerce功能的即時示範，包括URL重寫、網站地圖產生、標準中繼標籤、中繼資料等。 一如既往，我們會以即時問答結束會議。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416128/?quality=12&learn=on)

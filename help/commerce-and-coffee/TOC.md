@@ -1,26 +1,27 @@
 ---
-user-guide-title: 商業和咖啡活動
-breadcrumb-title: 商業和咖啡活動
-user-guide-description: Adobe Commerce和咖啡是一個視頻庫，專家和同行分享了他們關於如何使用Adobe Commerce的想法和想法。
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+user-guide-title: Commerce和Coffee活動
+breadcrumb-title: Commerce和Coffee活動
+user-guide-description: Adobe Commerce和Coffee是專家和同業交流使用Adobe Commerce想法和構想的影片庫。
+source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 7%
+source-wordcount: '63'
+ht-degree: 6%
 
 ---
 
 
-# 商業與咖啡 {#commerce-and-coffee-recordings}
+# 商務與咖啡 {#commerce-and-coffee-recordings}
 
 + [總覽](overview.md)
 + 2023 {#2023}
-   + [有機增長](2023/organic-growth.md)
+   + [自然成長](2023/organic-growth.md)
+   + [建立客戶忠誠度和客戶保留率的7種方法](2023/loyalty-retention.md)
 + 2022 {#2022}
-   + [人工智慧與自動化](2022/ai-and-automation.md)
+   + [AI和自動化](2022/ai-and-automation.md)
    + [電子商務趨勢](2022/ecommerce-trends.md)
-   + [假日追溯](2022/holiday.md)
+   + [假日回顧](2022/holiday.md)
    + [旺季準備](2022/peak-season-prep.md)
-   + [旺季問我什麼](2022/peak-season-ask-anything.md)
+   + [旺季詢問我任何事情](2022/peak-season-ask-anything.md)
    + [個人化](2022/personalization.md)
 
 <!---+ Commerce Events {#commerce-events}
