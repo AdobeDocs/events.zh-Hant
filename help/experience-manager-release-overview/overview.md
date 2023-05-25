@@ -2,14 +2,14 @@
 title: Adobe Experience Manager as a Cloud Service 版本總覽
 description: 取得 Adobe Experience Manager as a Cloud Service 最新功能快速總覽
 user-guide-breadcrumb: AEM Release Events
-source-git-commit: 284ccf5a5cebf2f813dbe2b8df98a8cb325526a3
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 100%
 
 ---
 
-<!---
+<!--
 # Adobe Experience Manager as a Cloud Service release updates
 
 Get a quick overview of the latest features on Adobe Experience Manager as a Cloud Service. These are short, roughly 10 minutes videos delivered by the AEM product team that share highlights of the latest release.
@@ -180,7 +180,7 @@ Get a quick overview of the latest features on Adobe Experience Manager as a Clo
     </td>
   </tr>
 </table>
---->
+-->
 
 # Adobe Experience Manager as a Cloud Service 版本更新
 

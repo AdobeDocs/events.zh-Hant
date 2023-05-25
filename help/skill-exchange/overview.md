@@ -1,22 +1,22 @@
 ---
-title: 經驗創造者技能交流
-description: 體驗創造者技能交流是一系列全球虛擬客戶學習活動，重點是深入瞭解Adobe Experience Cloud解決方案。
-source-git-commit: 284ccf5a5cebf2f813dbe2b8df98a8cb325526a3
+title: Experience Makers技能交流
+description: Experience Makers技能交流是全球性的虛擬客戶學習活動系列，專注於深入瞭解Adobe Experience Cloud解決方案。
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-# 經驗創造者技能交流 {#overview}
+# Experience Makers技能交流 {#overview}
 
-<img alt="經驗創造者技能交流" src="./assets/skill-exchange.png" />
+<img alt="Experience Makers技能交流" src="./assets/skill-exchange.png" />
 
-體驗創造者技能交流是一系列全球虛擬客戶學習活動，重點是深入瞭解Adobe Experience Cloud解決方案。 此計畫通過分享最佳做法和技巧與技巧，提供向Adobe產品專家和專家同行學習的機會。
+Experience Makers技能交流是全球性的虛擬客戶學習活動系列，專注於深入瞭解Adobe Experience Cloud解決方案。 此計畫透過分享最佳實務和秘訣提供向Adobe產品專家和專家同行學習的機會。
 
 >[!TIP]
 >
->**所有錄制的會話都列在左側的導航中**。
+>**左側導覽中會列出所有錄製的工作階段**.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -30,21 +30,21 @@ ht-degree: 0%
 
 </div>
 
-## 特色會話
+## 精選工作階段
 
 <table>
   <tr>
    <td>
       <a href="analytics/jun2021/getting-started.md">
-      <img alt="分析入門" src="./assets/analytics-getting-started.png"/>
+      <img alt="Analytics快速入門" src="./assets/analytics-getting-started.png"/>
       </a>
       <div>
-         <a href="analytics/jun2021/getting-started.md"><strong>Adobe Analytics入門</strong></a>
-<!----         <br/><em>foo</em> --->
+         <a href="analytics/jun2021/getting-started.md"><strong>Adobe Analytics快速入門</strong></a>
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
-         熟悉基本的分析用戶介面，並在Analysis Workspace啟動第一個項目。
+         熟悉基本的Analytics使用者介面，並在Analysis Workspace中開始您的第一個專案。
       </p>
     </td>
    <td>
@@ -53,24 +53,24 @@ ht-degree: 0%
       </a>
       <div>
          <a href="marketo/feb2022/data-maintenance.md"><strong>資料維護</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
-         輕鬆採用的方法體系來保持您最重要的資產的清潔。
+         簡單採用的方法，讓您最重要的資產保持乾淨。
       </p>
     </td>
    <td>
       <a href="workfront/apr2022/ten-tips.md">
-      <img alt="10個讓你的Workfront" src="./assets/workfront-10-tips.png"/>
+      <img alt="讓您的Workfront驚豔的10個秘訣" src="./assets/workfront-10-tips.png"/>
       </a>
       <div>
-         <a href="workfront/apr2022/ten-tips.md"><strong>10個讓你的Workfront</strong></a>
-<!----         <br/><em>foo</em> --->
+         <a href="workfront/apr2022/ten-tips.md"><strong>讓您的Workfront驚豔的10個秘訣</strong></a>
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
-         這些小貼士面向已經參與一段時間的管理員，希望以更高效的方式做事。
+         這些秘訣是專為已執行一段時間並希望以更有效率的方式做事的管理員所提供。
       </p>
     </td>
   </tr>
