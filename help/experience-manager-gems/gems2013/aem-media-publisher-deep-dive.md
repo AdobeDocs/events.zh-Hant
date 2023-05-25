@@ -1,34 +1,34 @@
 ---
-title: AEM 5.6 Media Publisher深度挖掘
-description: 從體系結構角度概括瞭解CQ 5.6 Commerce Framework。 瞭解基於JCR儲存庫的參考實施的詳細資訊。
+title: AEM 5.6 Media Publisher深入探討
+description: 從架構的角度取得CQ 5.6商務架構的概觀。 根據JCR存放庫，瞭解參考實施的詳細資訊。
 uuid: 20701264-a2fb-4f8e-a818-02247acbb2eb
 discoiquuid: a6a4f598-2f3b-4428-9237-40b1d21b482e
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 2%
+source-wordcount: '120'
+ht-degree: 6%
 
 ---
 
-# AEM 5.6 Media Publisher深度挖掘 {#aem-media-publisher-deep-dive}
+# AEM 5.6 Media Publisher深入探討 {#aem-media-publisher-deep-dive}
 
-作為Adobe Experience Manager的一部分，CQ 5.6提供了新的商業框架，以在第三方商業平台之上構建體驗驅動的商業網站。 本會話從體系結構角度概括了該框架，並基於JCR儲存庫介紹了參考實現的一些詳細資訊。
+CQ 5.6是Adobe Experience Manager的一部分，提供新的Commerce架構，可在協力廠商商務平台之上建立Experience Driven Commerce網站。 此會議從架構角度提供架構概覽，並根據JCR存放庫提供參考實作的一些細節。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19574/?quality=9)
 
-*2013年4月17日交付*
+*2013年4月17日提供*
 
-**提交者：**
+**展示者：**
 
-約翰費特
+John Fait
 
-**演示者幻燈片**
+**簡報者投影片**
 
 [取得檔案](assets/cq-gems-aem-media-publisher-04-17-2013-final.pdf)
 
 ## 相關連結 {#related-links}
 
 * [文件](https://docs.adobe.com/content/docs/en/cq/5-6-1/media-publisher.html)
-* [DPS產品頁](http://www.adobe.com/ca/products/digital-publishing-suite-family.html)
-* [DPSCloud Service](https://digitalpublishing.acrobat.com/welcome.html)
+* [DPS產品頁面](http://www.adobe.com/ca/products/digital-publishing-suite-family.html)
+* [DPSCLOUD SERVICE](https://helpx.adobe.com/tw/digital-publishing-suite/help/eol-statement-for-dpsc.html)

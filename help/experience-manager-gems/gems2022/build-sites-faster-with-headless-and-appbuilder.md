@@ -1,6 +1,6 @@
 ---
-title: 使用Headless和App AEMBuilder更快地構建網站
-description: 觀看演示和演示，瞭解如何使用AdobeApp Builder工作流工具快速引導和部署單SPA頁應用程式()。
+title: 使用AEM Headless和App Builder更快建立網站
+description: 觀看簡報和示範，瞭解如何使用AdobeApp Builder工作流程及工具快速啟動載入和部署單頁應用程式(SPA)。
 solution: Experience Manager
 feature-set: Experience Manager
 version: Cloud Service, 6.5
@@ -10,26 +10,25 @@ role: Developer
 level: Intermediate
 kt: 10053
 thumbnail: 341311.jpeg
-source-git-commit: 5d20c88e799787b91a4f224efcdeb917ccdd259f
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 1%
+source-wordcount: '143'
+ht-degree: 2%
 
 ---
 
-# 使用Headless和App AEMBuilder更快地構建網站
+# 使用AEM Headless和App Builder更快建立網站
 
-本AEMGEM網路研討會錄制包括以下演示和演示：
+此AEM GEM網路研討會影片包含下列簡報與示範：
 
-使用AdobeApp Builder工作流和工具快速引導和部署單頁應用程式(SPA)，而不需要傳統的Experience Manager技能，如Java和Sling。 有了Experience Manager無頭公司，營銷人員和開發人員就可以在自己的領域擁有專業知識。 開發人員控制整個應用程式框架，同時營銷人員確定內容及其顯示方式。
+使用AdobeApp Builder工作流程和工具快速啟動載入和部署單頁應用程式(SPA)，無須具備如Java和Sling等傳統Experience Manager技能。 有了Experience Manager Headless，行銷人員和開發人員就能在自己的領域擁有專業知識。 開發人員可控制整體應用程式架構，而行銷人員則可決定內容及其顯示方式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341311/?quality=12&learn=on)
 
-本網路研討會於2022年3月23日舉行，由軟體開發工程師Duy Nguyen介紹
+此網路研討會於2022年3月23日舉行，由軟體開發工程師Duy Nguyen主持
 
 >[!MORELIKETHIS]
->
->* [對應的Adobe Experience Manager用戶組事件頁](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/)
->* [相應上下文線程](https://adobe.ly/3LkSWdm)
->* 請在 [AdobeAEM的用戶組](https://aem-augs.adobe.com/) 獲取有關即將進行的網路研討會的通知。
+<!-- >>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/) -->
+>* [對應的內容執行緒](https://adobe.ly/3LkSWdm)
+>* 請在以下網址報名： [Adobe的AEM使用者群組](https://aem-augs.adobe.com/) 以取得有關即將舉辦的網路研討會的通知。
 
