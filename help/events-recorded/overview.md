@@ -1,18 +1,19 @@
 ---
 title: Adobe Experience League事件
-description: 用於使用Adobe企業產品的事件錄制的集合
-source-git-commit: 9dc3872ec0b8bb547a8a8993517aad09bf544c59
+description: 強制使用Adobe企業產品的活動錄製集合
+exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
+source-git-commit: ecbca1c217f26d718dc5fb69f063c8fbb0f5cdb2
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '747'
 ht-degree: 10%
 
 ---
 
-# Adobe Experience League事件錄制 {#events}
+# Adobe Experience League活動錄製 {#events}
 
-## 有了Experience League，學習就成了事。
+## 對於Experience League來說，學習就是事件。
 
-在獨家活動和網路研討會上保持循環，以擴展您的學習。 經常訪問此空間，查看過去事件的錄制，如Experience LeagueLIVE、技能構建者、開發人員Live等。 如果要註冊即將舉辦的活動，請查看 [即將到來的事件](https://%65xperienceleague.adobe.com/events/?lang=en) Experience League。
+與專屬活動和網路研討會保持聯絡，擴大您的學習範圍。 請經常造訪此空間，檢視過去活動的錄影，例如Experience League直播、Skill Builders、開發人員直播，等等。 如果您想報名參加即將到來的活動，請檢視 [即將到來的活動](https://%65xperienceleague.adobe.com/events/?lang=en) 在Experience League上。
 
 ## 事件系列
 
@@ -20,15 +21,15 @@ ht-degree: 10%
   <tr>
    <td>
       <a href="/help/adobe-campaign-insider/overview.md">
-      <img style="width:100%" alt="Adobe Campaign內幕" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-campaign-insider-series.png"/>      
+      <img style="width:100%" alt="Adobe Campaign Insider" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-campaign-insider-series.png"/>      
       </a>
       <div>
-         <a href="/help/adobe-campaign-insider/overview.md"><strong>Adobe Campaign內幕</strong></a>
+         <a href="/help/adobe-campaign-insider/overview.md"><strong>Adobe Campaign測試人員系列</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;"> Adobe Campaign</em>
       </div>
       <p>
         <br/>
-         為Adobe Campaign客戶提供的技巧和靈感，幫助他們發展跨渠道營銷策略，提高團隊營銷從業者技能，並幫助組織推出更先進的跨渠道營銷策略。
+         Adobe Campaign客戶的秘訣與技巧和靈感，有助於改進跨頻道行銷策略、提升團隊行銷從業人員的技能，並幫助組織推出更進階的跨頻道行銷策略。
       </p>
     </td>
    <td>
@@ -41,7 +42,7 @@ ht-degree: 10%
       </div>
       <p>
         <br/>
-         在Adobe專家討論內容管理戰略、交付件、挑戰和技術要求的當前和未來狀態時，請向他們學習。
+         向Adobe專家學習，討論內容管理策略、交付專案、挑戰和技術要求的目前和未來狀態。
       </p>
     </td>
    <td>
@@ -50,65 +51,65 @@ ht-degree: 10%
       </a>
       <div>
          <a href="/help/adobe-developers-live/overview.md"><strong>Adobe Developers Live</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce、Adobe Experience Manager、Adobe Experience Platform、Acrobat服務、Workfront</em>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce， Adobe Experience Manager， Adobe Experience Platform， Acrobat Services， Workfront</em>
       </div>
       <p>
         <br/>
-         Adobe Developers Live將擁有不同背景和獨特目的的Adobe開發商和經驗建築商聚在一起，創造出令人難以置信的端到端體驗。
+         Adobe Developers Live彙集多元背景的Adobe開發人員和有經驗的建置者，其目的只有一個，就是創造令人驚豔的端對端體驗。
       </p>
     </td>
    <td>
       <a href="/help/apac-commerce/overview.md">
-      <img style="width:100%" alt="APACAdobe Commerce網路研討會" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png"/>
+      <img style="width:100%" alt="APAC Adobe Commerce網路研討會" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png"/>
       </a>
       <div>
-         <a href="/help/apac-commerce/overview.md"><strong>APACAdobe Commerce網路研討會</strong></a>
+         <a href="/help/apac-commerce/overview.md"><strong>APAC Adobe Commerce網路研討會</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
       </div>
       <p>
         <br/>
-         APAC Commerce Webinar系列是為Adobe Commerce客戶舉辦的每月研討會，內容涵蓋從最佳做法到產品路線圖和行業趨勢等廣泛的主題。
+         APAC商務網路研討會系列是每月為Adobe Commerce客戶提供的一系列研討會，涵蓋從最佳實務到產品藍圖和行業趨勢的廣泛主題。
       </p>
     </td>
     </tr>
     <tr>
    <td>
       <a href="/help/commerce-and-coffee/overview.md">
-      <img style="width:100%" alt="商業與咖啡" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png"/>
+      <img style="width:100%" alt="商務與咖啡" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png"/>
       </a>
       <div>
-         <a href="/help/commerce-and-coffee/overview.md"><strong>商業與咖啡</strong></a>
+         <a href="/help/commerce-and-coffee/overview.md"><strong>商務與咖啡</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
       </div>
       <p>
         <br/>
-         Commerce &amp; Coffee系列面向所有技能級別和功能的現有Adobe Commerce客戶，Sr. Commerce Strategy Consultant, Corey Gelato。 該系列重點介紹商業戰略和戰術，並輔以反映該事件主題的統計資料。
+         Commerce &amp; Coffee系列適用於所有技能等級的現有Adobe Commerce客戶，並提供Sr. Commerce Strategy Consultant， Corey Gelato的功能。 此系列專注於商務策略和戰術，由反映事件主題的統計資料所支援。
       </p>
     </td>
    <td>
       <a href="/help/customer-data-management-voices/overview.md">
-      <img style="width:100%" alt="客戶資料管理聲明" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png"/>
+      <img style="width:100%" alt="客戶資料管理意見" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png"/>
       </a>
       <div>
-         <a href="/help/customer-data-management-voices/overview.md"><strong>客戶資料管理聲明</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Platform,Real-Time CDP</em>
+         <a href="/help/customer-data-management-voices/overview.md"><strong>客戶資料管理意見</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Platform、Real-Time CDP</em>
       </div>
       <p>
         <br/>
-         作為客戶資料管理技術和營銷業務領導和專家的目標。 一站式商店，聽同伴們講解，獲得靈感，並瞭解馬特克的發展。
+         您身為客戶資料管理技術和行銷實務領導和專家的目的地。 一站式商店，聽取同行的意見、獲得靈感並瞭解Martech的發展。
       </p>
     </td>
    <td>
       <a href="/help/deep-dives/overview.md">
-      <img style="width:100%" alt="深潛" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png"/>
+      <img style="width:100%" alt="深入探討" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png"/>
       </a>
       <div>
-         <a href="/help/deep-dives/overview.md"><strong>深潛</strong></a>
+         <a href="/help/deep-dives/overview.md"><strong>深入探討</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">AdobeMarketo</em>
       </div>
       <p>
         <br/>
-         深度挖掘按需活動錄音可幫助您更好地瞭解如何使用AdobeMarketo支援您的業務。
+         Deep Dive隨選活動錄製可幫助您更好地瞭解如何使用AdobeMarketo來支援您的業務。
       </p>
     </td>
    <td>
@@ -116,7 +117,7 @@ ht-degree: 10%
       <img style="width:100%" alt="Experience League LIVE" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png"/>
       </a>
       <div>
-         <a href="/help/experience-league-live/overview.md"><strong>Experience LeagueLIVE</strong></a>
+         <a href="/help/experience-league-live/overview.md"><strong>Experience League即時</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics、Adobe Audience Manager、Adobe Experience Manager、Adobe Experience Platform、Real-Time CDP、Adobe Journey Optimizer、Adobe Target </em>
       </div>
       <p>
@@ -126,23 +127,23 @@ ht-degree: 10%
   <tr>  
    <td>
       <a href="/help/experience-manager-gems/overview.md">
-      <img style="width:100%" alt="Experience Manager寶石。" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png"/>
+      <img style="width:100%" alt="EXPERIENCE MANAGERGEMS" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png"/>
       </a>
       <div>
-         <a href="/help/experience-manager-gems/overview.md"><strong>Experience Manager寶石。</strong></a>
+         <a href="/help/experience-manager-gems/overview.md"><strong>EXPERIENCE MANAGERGEMS</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Manager</em>
       </div>
       <p>
         <br/>
-         技術Adobe Experience Manager深潛由Adobe專家交付。 本系列是對產品文檔和有關Adobe Experience Manager的所有其他技術渠道的補充，使開發人員能夠聯繫並深入討論特定主題。
+         由Adobe專家提供的技術Adobe Experience Manager深入探討。 此系列補充了產品檔案和所有其他有關Adobe Experience Manager的技術管道，讓開發人員可以聯絡並深入瞭解特定主題。
       </p>
     </td>
     <td>
       <a href="/help/experience-manager-release-overview/overview.md">
-      <img style="width:100%" alt="Experience Manager發行概述" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png"/>
+      <img style="width:100%" alt="Experience Manager版本總覽" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png"/>
       </a>
       <div>
-         <a href="/help/experience-manager-release-overview/overview.md"><strong>Experience Manager發行概述</strong></a>
+         <a href="/help/experience-manager-release-overview/overview.md"><strong>Experience Manager版本總覽</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Manager</em>
       </div>
       <p>
@@ -151,28 +152,28 @@ ht-degree: 10%
     </td>
     <td>
       <a href="/help/learn-from-your-peers/overview.md">
-      <img style="width:100%" alt="向同行學習" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png"/>
+      <img style="width:100%" alt="向同儕學習" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png"/>
       </a>
       <div>
-         <a href="/help/learn-from-your-peers/overview.md"><strong>向同行學習</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics,AdobeMarketo</em>
+         <a href="/help/learn-from-your-peers/overview.md"><strong>向同儕學習</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics， Adobe Experience Manager，AdobeMarketo</em>
       </div>
       <p>
         <br/>
-         向Adobe專家和同行學習如何從您的Adobe解決方案中獲得最大價值。 通過為從業人員選擇主題，這些互動式會議共用「可能的藝術」使用案例、最佳做法以及提示和技巧。
+         向Adobe專家和同行學習如何充分利用您的Adobe解決方案。 透過從業者選擇的主題，這些互動式會議分享了「可能藝術」的使用案例、最佳實踐和提示與技巧。
       </p>
     </td>
    <td>
       <a href="/help/marketo-and-mochas/overview.md">
-      <img style="width:100%" alt="Marketo和莫恰斯" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png"/>
+      <img style="width:100%" alt="Marketo和Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png"/>
       </a>
       <div>
-         <a href="/help/marketo-and-mochas/overview.md"><strong>Marketo和莫恰斯</strong></a>
+         <a href="/help/marketo-and-mochas/overview.md"><strong>Marketo和Mochas</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">AdobeMarketo</em>
       </div>
       <p>
         <br/>
-         Marketo和莫恰斯將幫助您更好地瞭解如何使用AdobeMarketo支援您的業務。
+         Marketo和Mochas可協助您更加瞭解如何使用AdobeMarketo支援您的業務。
       </p>
     </td>
   </tr>
@@ -187,33 +188,33 @@ ht-degree: 10%
       </div>
       <p>
         <br/>
-         MBI網路研討會系列是MBI客戶的定期活動。 網路研討會涵蓋各種主題和最佳實踐，以便最大限度地利用MBI。
+         MBI網路研討會系列是MBI客戶的定期活動。 這些網路研討會涵蓋了使用MBI的廣泛主題和最佳實務，以發揮其最大潛力。
       </p>
     </td>
     <td>
       <a href="/help/skill-builder/overview.md">
-      <img style="width:100%" alt="技能生成器" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png"/>
+      <img style="width:100%" alt="技能培養" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png"/>
       </a>
       <div>
-         <a href="/help/skill-builder/overview.md"><strong>技能構建者</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics、Adobe Commerce、Adobe Experience Manager、Adobe Campaign、AdobeMarketo、Adobe Target、Customer Journey Analytics、Real-Time CDP</em>
+         <a href="/help/skill-builder/overview.md"><strong>Skill Builder</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics， Adobe Commerce， Adobe Experience Manager， Adobe Campaign，Adobe Marketo， Adobe Target，Customer Journey Analytics， Real-Time CDP</em>
       </div>
       <p>
         <br/>
-         Skill Builder是一個網路研討會系列，旨在構建您的知識庫並最大限度地提高您在Adobe Experience Cloud的投資。
+         Skill Builder是網路研討會系列，旨在建立您的知識庫，並將您對Adobe Experience Cloud的投資發揮到極致。
       </p>
     </td>
    <td>
       <a href="/help/skill-exchange/overview.md">
-      <img style="width:100%" alt="Marketo和莫恰斯" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
+      <img style="width:100%" alt="Marketo和Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
       </a>
       <div>
-         <a href="/help/skill-exchange/overview.md"><strong>技能交換</strong></a>
+         <a href="/help/skill-exchange/overview.md"><strong>技能交流</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics、Adobe Experience Manager、AdobeMarketo、Adobe Workfront</em>
       </div>
       <p>
         <br/>
-         體驗創造者技能交流是一系列全球虛擬客戶學習活動，重點是深入瞭解Adobe Experience Cloud解決方案。 此計畫通過分享最佳做法和技巧與技巧，提供向Adobe產品專家和專家同行學習的機會。
+         Experience Makers技能交流是全球性的虛擬客戶學習活動系列，專注於深入瞭解Adobe Experience Cloud解決方案。 此計畫透過分享最佳實務和秘訣提供向Adobe產品專家和專家同行學習的機會。
       </p>
     </td>
     <td>
@@ -226,7 +227,7 @@ ht-degree: 10%
       </div>
       <p>
         <br/>
-         一個記錄Workfront事件的圖書館，專家和同伴分享如何使用Workfront的想法。
+         Workfront活動錄音庫，專家和同行可在此分享如何使用Workfront的想法。
       </p>
     </td>
   </tr>    
