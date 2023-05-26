@@ -1,7 +1,7 @@
 ---
 title: APAC商務網路研討會系列
 description: APAC商務網路研討會系列是每月為Adobe Commerce客戶提供的一系列研討會，涵蓋從最佳實務到產品藍圖和行業趨勢的廣泛主題。
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+source-git-commit: fe18679ea0bdbb10d88e651b001737833ed1abff
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
@@ -44,7 +44,7 @@ APAC商務網路研討會系列是每月為Adobe Commerce客戶提供的一系�
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
-      <img alt="New Relic Masterclass" src="./assets/new-relic.png" />
+      <img alt="New Relic Masterclass" src="https://video.tv.adobe.com/v/345148?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
