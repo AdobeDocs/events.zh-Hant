@@ -1,24 +1,24 @@
 ---
-title: Customer Journey Analytics — 內部獨家
-description: Customer Journey Analytics(CJA)允許您將多個資料集合到介面中，並跨整個業務執行自定義分析。 但是，你可能已經知道了。 但你知道CJA為什麼被建立嗎？ 或者為什麼它是這樣設計的？ 或者，如何最好地利用新資料視圖功能來分析你以前從未能做到的？ 在本Experience League實況節目中，從設計和建造CJA的人那裡瞭解CJA的所有內容，並聽聽它是如何形成的。 瞭解他們最喜愛的一些功能和技巧，以充分利用整個企業的資料。
+title: Customer Journey Analytics — 內幕消息
+description: Customer Journey Analytics(CJA)可讓您將多個資料集合併到介面上，並在您的業務中進行自訂分析。 但話又說回來，您可能已經知道了。 但您知道建立CJA的原因嗎？ 或為何如此設計？ 或如何以最佳方式使用新的資料檢視功能進行分析，就像您以前從未能夠做到的那樣？ 在此Experience League現場單元，從設計和建立它的人那裡瞭解CJA的所有細節，並瞭解它是如何形成的。 瞭解他們最喜歡的一些功能和提示，以充分利用整個企業的資料。
 solution: Customer Journey Analytics
 kt: 9607
-thumbnail: 340025.jpg
+thumbnail: https://video.tv.adobe.com/v/340025?format=jpeg
 event-start-time: 2022-01-25 09:00-8
 event-cta-url: null
 event-guests: Trevor Paulsen,Rohit Gossain,Alex Strawn
 exl-id: 0bc46796-e2bf-43ec-a346-14aac5b52b45
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
-# Customer Journey Analytics — 內部獨家
+# Customer Journey Analytics — 內幕消息
 
-Customer Journey Analytics(CJA)允許您將多個資料集合到介面中，並跨整個業務執行自定義分析。 但是，你可能已經知道了。 但你知道CJA為什麼被建立嗎？ 或者為什麼它是這樣設計的？ 或者，如何最好地利用新資料視圖功能來分析你以前從未能做到的？
+Customer Journey Analytics(CJA)可讓您將多個資料集合併到介面上，並在您的業務中進行自訂分析。 但話又說回來，您可能已經知道了。 但您知道建立CJA的原因嗎？ 或為何如此設計？ 或如何以最佳方式使用新的資料檢視功能進行分析，就像您以前從未能夠做到的那樣？
 
-在本Experience League實況節目中，從設計和建造CJA的人那裡瞭解CJA的所有內容，並聽聽它是如何形成的。 瞭解他們最喜愛的一些功能和技巧，以充分利用整個企業的資料。
+在此Experience League現場單元，從設計和建立它的人那裡瞭解CJA的所有細節，並瞭解它是如何形成的。 瞭解他們最喜歡的一些功能和提示，以充分利用整個企業的資料。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340025/?quality=12&learn=on)
