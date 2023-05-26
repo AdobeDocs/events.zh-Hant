@@ -1,5 +1,5 @@
 ---
-source-git-commit: 504ae54ecf4ea2a687e1aa3c90cf0e74734d4a9a
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 100%
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 本專案的所有第三方貢獻者均須簽署貢獻者
 授權合約。 如此 Adobe 才能在專案中
-二次使用您貢獻的內容。 [敬請簽署我們的 CLA](http://opensource.adobe.com/cla.html)。 Adobe CLA 只需提交一次，因此若您先前已提交過 Adobe CLA，您現在可以開始貢獻內容了!
+二次使用您貢獻的內容。 [敬請簽署我們的 CLA](https://opensource.adobe.com/cla.html)。 Adobe CLA 只需提交一次，因此若您先前已提交過 Adobe CLA，您現在可以開始貢獻內容了!
 
 ## 程式碼審核
 

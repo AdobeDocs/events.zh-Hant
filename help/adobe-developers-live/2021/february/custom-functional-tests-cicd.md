@@ -1,6 +1,6 @@
 ---
-title: 自定義功能Test，以實現更安全的CI/CD管道
-description: 瞭解如何在生產中放心地部署您的代碼，這要歸功於自定義功能test。 即使是在週五的繁忙下午，質量也不會難。
+title: 安全的CI/CD管道的自訂功能測試
+description: 瞭解如何透過自訂功能測試，讓您的計畫碼在生產環境中自信地部署。 即使在忙碌的星期五下午，品質應該也不難。
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -12,20 +12,20 @@ version: Cloud Service
 kt: 7409
 type: Event
 thumbnail: 332309.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: c5819fbd-b0b0-4675-9f96-43ffb83c283a
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
+# 安全的CI/CD管道的自訂功能測試
 
-# 自定義功能Test，以實現更安全的CI/CD管道
+瞭解如何透過自訂功能測試，讓您的計畫碼在生產環境中自信地部署。 即使在忙碌的星期五下午，品質應該也不難。
 
-瞭解如何在生產中放心地部署您的代碼，這要歸功於自定義功能test。 即使是在週五的繁忙下午，質量也不會難。
-
-在中繼續對話 **[Experience League社區](http://adobe.ly/36Yd3v6)**。
+繼續對話於 **[Experience League社群](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332309/?quality=12&learn=on&hidetitle=true)
 
-按一下 **[這裡](/help/adobe-developers-live/assets/custom-functional-tests-cicd.pdf)** 的下界。
+按一下 **[此處](/help/adobe-developers-live/assets/custom-functional-tests-cicd.pdf)** 用於工作階段投影片。

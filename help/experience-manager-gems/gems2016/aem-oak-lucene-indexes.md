@@ -1,38 +1,44 @@
 ---
-title: 奧克·盧塞內指數
-description: 我們描述了Oak Lucene索引的功能，以及如何使用這些索引來使查詢效能更好。 在第二部分，我們將討論非同步索引在一般情況下如何工作以及如何監視它。
+title: Oak Lucene索引
+description: 我們說明Oak Lucene索引的功能，以及如何使用它們讓您的查詢執行得更好。 在第二部分中，我們將討論非同步索引的一般運作方式以及如何對其進行監視。
 uuid: 7664c6b2-3f09-4de4-9ade-b934465ac829
 discoiquuid: f69d9c38-a316-4409-94b3-5ff576034bf3
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 671b41ee-851b-460b-86d9-8b3a24587408
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 7%
+source-wordcount: '189'
+ht-degree: 11%
 
 ---
 
-# 奧克·盧塞內指數{#oak-lucene-indexes}
+# Oak Lucene索引{#oak-lucene-indexes}
 
-我們描述了Oak Lucene索引的功能，以及如何使用這些索引來使查詢效能更好。 在第二部分，我們將討論非同步索引在一般情況下如何工作以及如何監視它。
+我們說明Oak Lucene索引的功能，以及如何使用它們讓您的查詢執行得更好。 在第二部分中，我們將討論非同步索引的一般運作方式以及如何對其進行監視。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19303/?quality=9)
 
-*2016年1月20日交付*
+*2016年1月20日傳遞*
 
-**提交者：**
+**展示者：**
 
-* 切坦·梅赫羅特拉，高級電腦科學家，Adobe
-* Alex Parvulescu，高級開發人員，Adobe
+* Chetan Mehrotra，Adobe資深電腦科學家
+* Alex Parvulescu，Adobe資深開發人員
 
-**演示者幻燈片**
+**簡報者投影片**
 
 [取得檔案](assets/aem-gems-012016-oak-lucene-indexes-async-local.pdf)
 
-**會話問題和答案**
+**工作階段問答**
 
 [取得檔案](assets/q-a-1-20-16-gem-session-oak-lucene-indexes.pdf)
 
 ## 相關連結 {#related-links}
 
-* [Oak查詢和索引](https://docs.adobe.com/docs/en/aem/6-1/deploy/platform/queries-and-indexing.html)
-* [Oak文檔：盧塞內指數](https://jackrabbit.apache.org/oak/docs/query/lucene.html)
+>[!WARNING]
+>
+>AEM 6.4版及舊版已終止服務，Adobe不再販售。  Adobe建議升級至最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  檔案的封存版本可從此處存取 [頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>
+>與此工作階段相關的資訊，請參閱 *Oak查詢和索引* 在AEM 6.1檔案中。
+
+* [Oak檔案： Lucene索引](https://jackrabbit.apache.org/oak/docs/query/lucene.html)

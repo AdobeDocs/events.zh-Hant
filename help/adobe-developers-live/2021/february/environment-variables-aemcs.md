@@ -1,6 +1,6 @@
 ---
-title: 環境變數與Adobe Experience Manager as a Cloud Service
-description: 瞭解如何使用Adobe Experience Manager as a Cloud Service管理環境變數，並在生成過程或OSGI配置變數的上下文中使用它們。
+title: 使用Adobe Experience Manager as a Cloud Service的環境變數
+description: 瞭解如何使用Adobe Experience Manager as a Cloud Service管理環境變數，並在建置流程或OSGI設定變數的內容中使用它們。
 solution: Experience Manager
 product: experience manager
 feature: Developer Tools
@@ -11,20 +11,20 @@ version: Cloud Service
 kt: 7404
 type: Event
 thumbnail: 332304.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: 774bdb45-6179-4763-8e4a-0f61a5785406
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
+# 使用Adobe Experience Manager as a Cloud Service的環境變數
 
-# 環境變數與Adobe Experience Manager as a Cloud Service
+瞭解如何使用Adobe Experience Manager as a Cloud Service管理環境變數，並在建置流程或OSGI設定變數的內容中使用它們。
 
-瞭解如何使用Adobe Experience Manager as a Cloud Service管理環境變數，並在生成過程或OSGI配置變數的上下文中使用它們。
-
-在中繼續對話 **[Experience League社區](http://adobe.ly/36Yd3v6)**。
+繼續對話於 **[Experience League社群](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332304/?quality=12&learn=on&hidetitle=true)
 
-按一下 **[這裡](/help/adobe-developers-live/assets/environment-variables-aemcs.pdf)** 的下界。
+按一下 **[此處](/help/adobe-developers-live/assets/environment-variables-aemcs.pdf)** 用於工作階段投影片。

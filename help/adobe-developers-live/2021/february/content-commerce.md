@@ -1,6 +1,6 @@
 ---
-title: 與Adobe Experience Manager as a Cloud Service
-description: 此會話幫助開發人員開始在Adobe Experience Manager as a Cloud Service開展商務 — 從Adobe Experience ManagerSDK+商務整合框架的本地設定到雲中的Adobe Experience Manager和Magento。 本次會議是作為Adobe Developers Live內容活動的一部分進行的。
+title: 使用Adobe Experience Manager as a Cloud Service的內容與商務
+description: 此課程可協助開發人員開始使用Adobe Experience Manager as a Cloud Service上的Commerce ，包括Adobe Experience Manager SDK + Commerce Integration Framework的本機設定，以及雲端中的Adobe Experience Manager和Magento。 此工作階段為Adobe Developers Live內容事件的一部分。
 solution: Experience Manager,Experience Manager Sites, Commerce
 product: experience manager
 sub-product: sites
@@ -12,20 +12,20 @@ version: Cloud Service
 kt: 7188
 type: Event
 thumbnail: 331851.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: 3c0af2d0-c672-4f69-b5c7-9467661fc15e
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
+# 使用Adobe Experience Manager as a Cloud Service的內容與商務
 
-# 與Adobe Experience Manager as a Cloud Service
+此課程可協助開發人員開始使用Adobe Experience Manager as a Cloud Service上的Commerce ，包括Adobe Experience Manager SDK + Commerce Integration Framework的本機設定，以及雲端中的Adobe Experience Manager和Magento。
 
-此會話幫助開發人員開始在Adobe Experience Manager as a Cloud Service開展商務 — 從Adobe Experience ManagerSDK+商務整合框架的本地設定到雲中的Adobe Experience Manager和Magento。
-
-在中繼續對話 **[Experience League社區](http://adobe.ly/36Yd3v6)**。
+繼續對話於 **[Experience League社群](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331851/?quality=12&learn=on&hidetitle=true)
 
-按一下 **[這裡](/help/adobe-developers-live/assets/content-commerce.pdf)** 的下界。
+按一下 **[此處](/help/adobe-developers-live/assets/content-commerce.pdf)** 用於工作階段投影片。

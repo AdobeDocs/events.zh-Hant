@@ -1,6 +1,6 @@
 ---
-title: 準備Cloud Service — 遷移最佳做法
-description: 調整您的代碼庫，使其對雲友好且防彈，防止未來在引擎蓋下處理的升級，是實現Adobe Experience ManagerCloud Service優勢最大化的關鍵。
+title: 準備好進行Cloud Service — 移轉最佳實務
+description: 調整您的程式碼基底，使其支援雲端使用並嚴防未來在幕後處理的升級，這是最大化Adobe Experience ManagerCloud Service效益的關鍵。
 solution: Experience Manager
 product: experience manager
 feature: Migration
@@ -11,20 +11,20 @@ version: Cloud Service
 kt: 7405
 type: Event
 thumbnail: 332308.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: 388a1e82-e341-42a9-9cde-9dc7ea5ebddf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
+# 準備好進行Cloud Service — 移轉最佳實務
 
-# 準備Cloud Service — 遷移最佳做法
+調整您的程式碼基底，使其支援雲端使用並嚴防未來在幕後處理的升級，這是最大化Adobe Experience ManagerCloud Service效益的關鍵。
 
-調整您的代碼庫，使其對雲友好且防彈，防止未來在引擎蓋下處理的升級，是實現Adobe Experience ManagerCloud Service優勢最大化的關鍵。
-
-在中繼續對話 **[Experience League社區](http://adobe.ly/36Yd3v6)**。
+繼續對話於 **[Experience League社群](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332308/?quality=12&learn=on&hidetitle=true)
 
-按一下 **[這裡](/help/adobe-developers-live/assets/get-ready-aem-cloud.pdf)** 的下界。
+按一下 **[此處](/help/adobe-developers-live/assets/get-ready-aem-cloud.pdf)** 用於工作階段投影片。

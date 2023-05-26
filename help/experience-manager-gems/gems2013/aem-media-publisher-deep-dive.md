@@ -4,7 +4,8 @@ description: 從架構的角度取得CQ 5.6商務架構的概觀。 根據JCR存
 uuid: 20701264-a2fb-4f8e-a818-02247acbb2eb
 discoiquuid: a6a4f598-2f3b-4428-9237-40b1d21b482e
 targetaudience: target-audience advanced
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+exl-id: d4579ae7-70f8-4ad4-9f4f-7f2a4182a827
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 6%
@@ -30,5 +31,5 @@ John Fait
 ## 相關連結 {#related-links}
 
 * [文件](https://docs.adobe.com/content/docs/en/cq/5-6-1/media-publisher.html)
-* [DPS產品頁面](http://www.adobe.com/ca/products/digital-publishing-suite-family.html)
+* [DPS產品頁面](https://www.adobe.com/ca/products/digital-publishing-suite-family.html)
 * [DPSCLOUD SERVICE](https://helpx.adobe.com/tw/digital-publishing-suite/help/eol-statement-for-dpsc.html)

@@ -1,6 +1,6 @@
 ---
-title: asset compute服務擴展性
-description: 瞭解如何使用Adobe Developer應用程式構建器來構建自定義Asset compute工作器，以便在接收到Adobe Experience Manager時進行資產處理。 本次會議是作為Adobe Developers Live內容活動的一部分進行的。
+title: asset compute服務擴充性
+description: 瞭解如何使用Adobe Developer App Builder建立自訂Asset compute背景工作，以便在擷取至Adobe Experience Manager期間處理資產。 此工作階段為Adobe Developers Live內容事件的一部分。
 solution: Experience Manager,Experience Manager Assets
 product: experience manager
 sub-product: assets
@@ -12,17 +12,18 @@ version: Cloud Service
 kt: 7186
 type: Event
 thumbnail: 331849.jpg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 367217d0-5b22-4428-a70d-572aa56f2d09
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-# asset compute服務擴展性
+# asset compute服務擴充性
 
-瞭解如何使用Adobe Developer應用程式構建器來構建自定義Asset compute工作器，以便在接收到Adobe Experience Manager時進行資產處理。
+瞭解如何使用Adobe Developer App Builder建立自訂Asset compute背景工作，以便在擷取至Adobe Experience Manager期間處理資產。
 
-在中繼續對話 **[Experience League社區](http://adobe.ly/36Yd3v6)**。
+繼續對話於 **[Experience League社群](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331849/?quality=12&learn=on&hidetitle=true)

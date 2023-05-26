@@ -13,10 +13,11 @@ last-substantial-update: 2023-01-31T00:00:00Z
 kt: 11797
 thumbnail: kt-11797.jpeg
 event-start-time: 2023-2-22 08:30-8
-source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
+exl-id: 6749cb7d-9130-4855-8a6a-8818810339ae
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -41,6 +42,6 @@ RDE可讓開發人員快速部署和檢閱變更，將測試經證實可在本�
 
 >[!NOTE]
 >
->* 若為Experience League上特定工作階段的社群互動，請造訪此 [內容執行緒](http://bit.ly/3x1Cl8x)
+>* 若為Experience League上特定工作階段的社群互動，請造訪此 [內容執行緒](https://bit.ly/3x1Cl8x)
 >* 若要收到有關我們即將舉辦的網路研討會的通知，請註冊於 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
 
