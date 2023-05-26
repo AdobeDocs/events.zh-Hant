@@ -1,7 +1,7 @@
 ---
 user-guide-title: 技能培養
 user-guide-description: 此為將顯示在登入頁面上的使用手冊說明。
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+source-git-commit: 37202c8171ae1638888b80c55b39c42ce580355f
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 45%
@@ -44,8 +44,6 @@ ht-degree: 45%
       + [跨B2B和B2C的Customer Journey趨勢和創新](customer-journeys/2022/keynote.md)
       + [最佳拍檔 - Adobe Marketo Engage 和 Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
       + [Marketo Engage 和 Adobe Experience Cloud 的 B2B 體驗](customer-journeys/2022/b2b-experiences.md)
-
-<!--    + [Adobe Campaign Classic V7 vs V8](customer-journeys/2022/classic-v7-vs-v8.md) -->
 + 資料和深入分析 {#data-and-insights}
    + [總覽](data-and-insights/overview.md)
    + 2022 {#2022}
@@ -54,3 +52,5 @@ ht-degree: 45%
       + [使用 Adobe Target 實現個人化和自動化](data-and-insights/2022/personalize.md)
       + [適用於行動應用程式的Analytics和Target應用程式](data-and-insights/2022/mobile-and-apps.md)
       + [跨裝置分析與Customer Journey Analytics](data-and-insights/2022/cross-device-analytics.md)
+
+<!--    + [Adobe Campaign Classic V7 vs V8](customer-journeys/2022/classic-v7-vs-v8.md) -->
