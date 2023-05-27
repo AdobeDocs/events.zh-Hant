@@ -1,7 +1,8 @@
 ---
-title: 技能構建器 — 內容和商業
-description: 錄制的網路研討會系列可構建您的知識庫，並最大限度地增加您在Adobe內容和商務解決方案方面的投資
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+title: 技能培養 — 內容與商務
+description: 網路研討會系列影片，協助您建立知識庫，並將Adobe內容與商務解決方案的投資發揮到極致
+exl-id: 9345d894-5059-485f-93ba-ea47d251e8c7
+source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 46%
@@ -10,7 +11,7 @@ ht-degree: 46%
 
 # Content and Commerce
 
-建立和管理一系列具有吸引力的網站、移動應用和表單。 此外，還要學習利用我們靈活的、基於人工智慧的商務解決方案在單個平台上構建多渠道的商務體驗。
+建立並管理一系列有趣的網站、行動應用程式和表單。 此外，您還可以學習如何使用我們靈活的AI支援商務解決方案，在單一平台上建立多管道商務體驗。
 
 ## 新增功能
 
@@ -18,7 +19,7 @@ ht-degree: 46%
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
-      <img alt="使用 Adobe Experience Manager 提供無頭式體驗" src="assets/343816.jpeg" />
+      <img alt="使用 Adobe Experience Manager 提供無頭式體驗" src="https://video.tv.adobe.com/v/343816?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
@@ -31,7 +32,7 @@ ht-degree: 46%
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
-      <img alt="在 Adobe Experience Manager Assets 中讓中繼資料可供您的企業使用" src="assets/343815.jpeg" />
+      <img alt="在 Adobe Experience Manager Assets 中讓中繼資料可供您的企業使用" src="https://video.tv.adobe.com/v/343815?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
@@ -44,7 +45,7 @@ ht-degree: 46%
   </td>  
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">
-      <img alt="充分利用企業工作流程管理" src="assets/343817.jpeg" />
+      <img alt="充分利用企業工作流程管理" src="https://video.tv.adobe.com/v/343817?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html">
@@ -52,7 +53,7 @@ ht-degree: 46%
       </a>
     </div>
     <p>
-    <em>在此會話中，您將瞭解將工作流用於資產管理的好處以及如何快速建立工作流。</em>
+    <em>在這場會議中，您將瞭解使用工作流程進行資產管理的好處，以及如何快速建立它們。</em>
     <p>
   </td>
 </tr>
@@ -60,4 +61,4 @@ ht-degree: 46%
 
 >[!TIP]
 >
->**所有錄制的會話都列在左側的導航中**。
+>**左側導覽中會列出所有錄製的工作階段**.

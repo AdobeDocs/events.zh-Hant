@@ -1,7 +1,8 @@
 ---
-title: 技能構建器 — 客戶旅程
-description: 錄制的網路研討會系列旨在通過從所有來源獲取資料來建立個性化的跨渠道旅行，幫助您開發即時客戶概要資訊。
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+title: 技能建立 — 客戶歷程
+description: 網路研討會影片系列，透過從所有來源提取資料，協助您開發即時客戶設定檔，以建立個人化的跨管道歷程。
+exl-id: 0ea7bc07-8b82-4aba-abaa-78ac7f4c8ce2
+source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 24%
@@ -10,7 +11,7 @@ ht-degree: 24%
 
 # 客戶歷程
 
-通過從所有來源提取資料來建立個性化的跨渠道行程，來開發即時客戶配置檔案。
+從所有來源提取資料，建立個人化的跨管道歷程，以開發即時客戶設定檔。
 
 ## 新增功能
 
@@ -18,7 +19,7 @@ ht-degree: 24%
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-      <img alt="最佳拍檔 - Adobe Marketo Engage 和 Real-Time CDP" src="assets/343824.jpeg" />
+      <img alt="最佳拍檔 - Adobe Marketo Engage 和 Real-Time CDP" src="https://video.tv.adobe.com/v/343824?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
@@ -26,12 +27,12 @@ ht-degree: 24%
       </a>
     </div>
     <p>
-    <em>瞭解如何使用Marketo Engage和RT-CDP（B2B版本）協調B2B活動，以及哪些是未鎖定的頂級使用案例和優勢。</em>
+    <em>瞭解如何使用Marketo Engage和RT-CDP （B2B版本）來編排B2B行銷活動，以及解鎖的主要使用案例和優勢有哪些。</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-      <img alt="在 Adobe Campaign Classic 中開發和自訂資料模型" src="assets/343829.jpeg" />
+      <img alt="在 Adobe Campaign Classic 中開發和自訂資料模型" src="https://video.tv.adobe.com/v/343829?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
@@ -39,12 +40,12 @@ ht-degree: 24%
       </a>
     </div>
     <p>
-    <em>與我們的營銷培訓員一起參加此會議，瞭解如何在Campaign Classic內的資料模型內開發資料模式。</em>
+    <em>與我們的Campaign培訓師一起參加此會議，瞭解如何在Campaign Classic的資料模型內開發資料結構描述。</em>
     <p>
   </td>  
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html">
-      <img alt="Adobe Campaign Standard 的重要提示和祕訣" src="assets/343828.jpeg" />
+      <img alt="Adobe Campaign Standard 的重要提示和祕訣" src="https://video.tv.adobe.com/v/343828?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html">
@@ -52,7 +53,7 @@ ht-degree: 24%
       </a>
     </div>
     <p>
-    <em>插入您的Adobe Campaign Standard實例，並發現針對性、個性化和營銷疲勞方面的最佳實踐，以更好地使用ACS。</em>
+    <em>瞭解您的Adobe Campaign Standard執行個體，並探索有關目標定位、個人化和行銷疲勞的最佳實務，以更有效地使用ACS。</em>
     <p>
   </td>
 </tr>
@@ -60,4 +61,4 @@ ht-degree: 24%
 
 >[!TIP]
 >
->**所有錄制的會話都列在左側的導航中**。
+>**左側導覽中會列出所有錄製的工作階段**.
