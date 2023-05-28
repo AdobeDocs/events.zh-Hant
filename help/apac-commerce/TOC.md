@@ -2,7 +2,7 @@
 user-guide-title: APAC商務活動
 breadcrumb-title: APAC商務活動
 user-guide-description: Adobe Commerce活動是影片庫，專家和同業可在其中分享如何使用Adobe Commerce的想法和想法。
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 8%
@@ -28,7 +28,7 @@ ht-degree: 8%
   + [Overview](commerce-events/overview.md)
   + 2022 {#2022}
     + [Top Tips and Tricks for Adobe Campaign Standard](customer-journeys/2022/tips-and-tricks.md)
-    + [Develop and customize data models in Adobe Campaign Classic](customer-journeys/2022/data-models.md)
+    + [Develop and customize data models in Adobe [!DNL Campaign Classic]](customer-journeys/2022/data-models.md)
 
 + Data and insights {#commerce-release-updates}
   + [Overview](commerce-release-updates/overview.md)

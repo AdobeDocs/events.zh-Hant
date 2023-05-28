@@ -3,9 +3,9 @@ user-guide-title: Adobe Developers Live 活動
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Adobe Developers Live Content 活動錄影集合
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
+source-git-commit: e7e3172bb80aab23550aab7720e7554beedfd269
 workflow-type: tm+mt
-source-wordcount: '664'
+source-wordcount: '663'
 ht-degree: 5%
 
 ---
@@ -87,7 +87,7 @@ ht-degree: 5%
       + [總覽](2021/october/overview.md)
       + [開啟主題演講](2021/october/keynote.md)
       + [加速轉換至Experience ManagerCS](2021/october/accelerate-transistion.md)
-      + [2021年須知的Adobe Analytics API](2021/october/analytics-api.md)
+      + [Adobe [!DNL Analytics] 2021年須知的API](2021/october/analytics-api.md)
       + [Adobe使用者端資料層](2021/october/adobe-client-data-layer.md)
       + [Adobe Commerce與社群貢獻模型](2021/october/community-contribution-model.md)
       + [Adobe Commerce即時搜尋結果](2021/october/adobe-commerce-search.md)

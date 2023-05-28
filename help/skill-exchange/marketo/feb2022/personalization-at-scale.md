@@ -1,24 +1,25 @@
 ---
-title: 按比例個性化
-description: 利用Adobe Marketo Engage的力量，讓代幣變得個性化。
+title: 大規模個人化
+description: 駕馭強大的Adobe功能 [!DNL Marketo Engage]，使用Token以外的個人化。
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9769
 thumbnail: 340594.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: fb04fab6-5ff2-48cc-8c23-f1ef10e18b2c
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# 規模個性化 — 利用Adobe Marketo Engage資料的威力推動參與
+# 大規模個人化 — 運用Adobe的力量 [!DNL Marketo Engage] 推動參與度的資料
 
-開始個性化外聯非常容易使用令牌等，但是，當你想在個性化方面做得比令牌允許的更深入時呢？ Adobe Marketo Engage允許您收集大量有關潛在客戶的資訊，利用這些資訊可以成為個性化外聯、在雜亂的收件箱中脫穎而出並幫助潛在客戶從漏斗中前進的最強大方法之一。 在本屆會議上，我們將介紹：
+使用代號等輕鬆開始個人化外展活動，但您何時想比代號允許的更深入進行個人化呢？ Adobe [!DNL Marketo Engage] 可讓您收集有關潛在客戶的許多資訊，利用這些資訊可能是最有效的方法之一，以個人化外聯、在雜亂無章的收件匣中脫穎而出，並幫助將潛在客戶推進到漏斗下。 在本次研討會中，我們將涵蓋：
 
-* 令牌外個性化的設想
-* 不同的個性化用例
-* 自動化個性化並使其更高效的方法
+* Token以外的個人化構想
+* 不同的個人化使用案例
+* 自動化個人化並提高其效率的方法
 
 >[!VIDEO](https://video.tv.adobe.com/v/340594/?quality=12&learn=on)

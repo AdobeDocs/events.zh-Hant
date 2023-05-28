@@ -1,11 +1,11 @@
 ---
 user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
-user-guide-description: 從經驗創造者技能交流中收集錄音
+user-guide-description: 來自Experience Makers The Skill Exchange的錄製集合
 event-series: The Skill Exchange
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: d2aab682b1ae08111655081bd39b29b8370ad816
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '361'
 ht-degree: 9%
 
 ---
@@ -18,92 +18,92 @@ ht-degree: 9%
    + 2022 年 10 月 {#oct2022}
       + [快速入門](analytics/oct2022/getting-started.md)
       + [分析資料](analytics/oct2022/analyzing-the-data.md)
-      + [把它們放在一起](analytics/oct2022/putting-it-all-together.md)
-      + [分析ROI](analytics/oct2022/analytics-roi.md)
-      + [分析學習體驗創造者聚焦](analytics/oct2022/spotlight.md)
-      + [掌握你的Adobe Analytics工具帶](analytics/oct2022/toolbelt.md)
+      + [整合所有內容](analytics/oct2022/putting-it-all-together.md)
+      + [Analytics ROI](analytics/oct2022/analytics-roi.md)
+      + [Analytics學習Experience Makers焦點](analytics/oct2022/spotlight.md)
+      + [掌握Adobe Analytics工具帶](analytics/oct2022/toolbelt.md)
    + 2022 年 9 月 {#sept2022}
       + [快速入門](analytics/sept2022/getting-started.md)
       + [分析資料](analytics/sept2022/analyzing-the-data.md)
-      + [把它們放在一起](analytics/sept2022/putting-it-all-together.md)
-      + [讓Adobe Analytics成為你自己的](analytics/sept2022/making-analytics-your-own.md)
-      + [分析促進體驗創造者聚焦](analytics/sept2022/grow-spotlight.md)
-      + [分析學習體驗創造者聚焦](analytics/sept2022/learn-spotlight.md)
-      + [掌握你的Adobe Analytics工具帶](analytics/sept2022/toolbelt.md)
+      + [整合所有內容](analytics/sept2022/putting-it-all-together.md)
+      + [打造您自己的Adobe Analytics](analytics/sept2022/making-analytics-your-own.md)
+      + [Analytics成長Experience Makers焦點](analytics/sept2022/grow-spotlight.md)
+      + [Analytics學習Experience Makers焦點](analytics/sept2022/learn-spotlight.md)
+      + [掌握Adobe Analytics工具帶](analytics/sept2022/toolbelt.md)
       + [時間在你身邊](analytics/sept2022/time-is-on-your-side.md)
    + 2022 年 5 月 {#may2022}
-      + [Adobe Analytics技巧與技巧](analytics/may2022/tips-and-tricks.md)
+      + [Adobe Analytics提示與秘訣](analytics/may2022/tips-and-tricks.md)
       + [分析資料](analytics/may2022/analyze-data.md)
-      + [體驗創造者聚光燈](analytics/may2022/experience-makers-spotlight.md)
+      + [Experience Makers焦點](analytics/may2022/experience-makers-spotlight.md)
       + [快速入門](analytics/may2022/getting-started.md)
-      + [將所有內容放在一起](analytics/may2022/putting-all-together.md)
-      + [10大數字分析理論](analytics/may2022/top-ten.md)
+      + [整合所有內容](analytics/may2022/putting-all-together.md)
+      + [前10大數位Analytics生存准則](analytics/may2022/top-ten.md)
    + 2021 年 10 月 {#oct2021}
-      + [Adobe Analytics岩星](analytics/oct2021/analytics-rockstars.md)
-      + [Adobe Analytics技巧與技巧](analytics/oct2021/tips-and-tricks.md)
-      + [Analysis Workspace技巧與技巧](analytics/oct2021/analysis-workspace-tips-and-tricks.md)
+      + [Adobe Analytics Rockstars](analytics/oct2021/analytics-rockstars.md)
+      + [Adobe Analytics提示與秘訣](analytics/oct2021/tips-and-tricks.md)
+      + [Analysis Workspace提示與秘訣](analytics/oct2021/analysis-workspace-tips-and-tricks.md)
       + [分析資料](analytics/oct2021/analyze-data.md)
       + [快速入門](analytics/oct2021/getting-started.md)
-      + [將所有內容放在一起](analytics/oct2021/putting-all-together.md)
+      + [整合所有內容](analytics/oct2021/putting-all-together.md)
    + 2021 年 9 月 {#sept2021}
-      + [Adobe Analytics岩星](analytics/sept2021/analytics-rockstars.md)
-      + [Adobe Analytics技巧與技巧](analytics/sept2021/tips-and-tricks.md)
+      + [Adobe Analytics Rockstars](analytics/sept2021/analytics-rockstars.md)
+      + [Adobe Analytics提示與秘訣](analytics/sept2021/tips-and-tricks.md)
       + [分析資料](analytics/sept2021/analyze-data.md)
       + [快速入門](analytics/sept2021/getting-started.md)
-      + [導航SPATest構建和分析中的挑戰](analytics/sept2021/navigate-spa.md)
-      + [將所有內容放在一起](analytics/sept2021/putting-all-together.md)
+      + [在測試建置和分析中導覽SPA挑戰](analytics/sept2021/navigate-spa.md)
+      + [整合所有內容](analytics/sept2021/putting-all-together.md)
    + 2021 年 6 月 {#jun2021}
-      + [Adobe Analytics技巧與技巧](analytics/jun2021/tips-and-tricks.md)
-      + [Adobe Analytics岩星](analytics/jun2021/analytics-rockstars.md)
+      + [Adobe Analytics提示與秘訣](analytics/jun2021/tips-and-tricks.md)
+      + [Adobe Analytics Rockstars](analytics/jun2021/analytics-rockstars.md)
       + [分析資料](analytics/jun2021/analyze-data.md)
       + [快速入門](analytics/jun2021/getting-started.md)
-      + [營銷渠道，請負責任地使用](analytics/jun2021/marketing-channels.md)
-      + [將所有內容放在一起](analytics/jun2021/putting-all-together.md)
+      + [行銷管道，請負責任地使用](analytics/jun2021/marketing-channels.md)
+      + [整合所有內容](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
    + 2022 年 8 月 {#aug2022}
-      + 開發人員跟蹤 {#developer-track}
-         + [體驗創造者聚光燈](aem/aug2022/spotlight.md)
-         + [AEM Champion會話多租賃](aem/aug2022/multi-tenancy.md)
-         + [核AEM心元件和樣式系統](aem/aug2022/core-components.md)
-         + [使用App AEM Builder擴展無頭](aem/aug2022/app-builder.md)
-      + 營銷商/Web製作商 {#marketer}
-         + [可重用性的力量](aem/aug2022/reusability.md)
-         + [在中通過內容個性化提升業務價AEM值](aem/aug2022/personalization.md)
-         + [最大限度地AEM實現](aem/aug2022/implementation.md)
+      + 開發人員追蹤 {#developer-track}
+         + [Experience Makers焦點](aem/aug2022/spotlight.md)
+         + [AEM Champion工作階段多重租用](aem/aug2022/multi-tenancy.md)
+         + [AEM核心元件與樣式系統](aem/aug2022/core-components.md)
+         + [使用App Builder延伸AEM Headless](aem/aug2022/app-builder.md)
+      + 行銷人員/網頁製作者 {#marketer}
+         + [可重複使用的功能](aem/aug2022/reusability.md)
+         + [透過AEM中的內容個人化推動業務價值](aem/aug2022/personalization.md)
+         + [將AEM實作最大化](aem/aug2022/implementation.md)
 + Marketo {#marketo}
    + 2022 年 2 月 {#feb2022}
       + [資料維護](marketo/feb2022/data-maintenance.md)
-      + [動態內容與個性化的力量](marketo/feb2022/dynamic-content.md)
-      + [體驗創造者聚光燈](marketo/feb2022/experience-makers-spotlight.md)
-      + [資料庫中的隱藏GEM — 重新訂閱記錄](marketo/feb2022/hidden-gems.md)
-      + [按比例個性化](marketo/feb2022/personalization-at-scale.md)
-      + [使用令牌的可擴充性和效率](marketo/feb2022/using-tokens.md)
-      + [利用項目計畫與客戶接洽](marketo/feb2022/utilize-engagement-programs.md)
+      + [動態內容與個人化的力量](marketo/feb2022/dynamic-content.md)
+      + [Experience Makers焦點](marketo/feb2022/experience-makers-spotlight.md)
+      + [資料庫中隱藏的Gem — 重新參與記錄](marketo/feb2022/hidden-gems.md)
+      + [大規模個人化](marketo/feb2022/personalization-at-scale.md)
+      + [使用Token的可擴充性和效率](marketo/feb2022/using-tokens.md)
+      + [利用參與計畫吸引客戶](marketo/feb2022/utilize-engagement-programs.md)
    + 2021 年 8 月 {#aug2021}
-      + [在Marketo Engage中建立程式](marketo/aug2021/create-programs.md)
-      + [Marketo Engage岩星](marketo/aug2021/engage-rockstars.md)
-      + [智慧營銷的力量](marketo/aug2021/smart-campaign.md)
-      + [程式成員自定義欄位](marketo/aug2021/program-member-custom-fields.md)
-      + [在Marketo Engage內報告](marketo/aug2021/reporting.md)
-      + [您的Marketo路線圖](marketo/aug2021/marketo-roadmap.md)
+      + [在中建立計畫 [!DNL Marketo Engage]](marketo/aug2021/create-programs.md)
+      + [[!DNL Marketo Engage] Rockstars](marketo/aug2021/engage-rockstars.md)
+      + [智慧行銷活動的力量](marketo/aug2021/smart-campaign.md)
+      + [計畫成員自訂欄位](marketo/aug2021/program-member-custom-fields.md)
+      + [報告範圍 [!DNL Marketo Engage]](marketo/aug2021/reporting.md)
+      + [您的Marketo藍圖](marketo/aug2021/marketo-roadmap.md)
    + 2021 年 2 月 {#feb2021}
-      + [一根頂繩紮入定制物體和速度](marketo/feb2021/custom-objects.md)
-      + [Adobe Marketo Engage羅克斯塔段](marketo/feb2021/rockstar.md)
-      + [在Adobe Marketo Engage建立程式](marketo/feb2021/create-programs.md)
-      + [智慧營銷的力量](marketo/feb2021/power-of-smart-campaign.md)
-      + [在Marketo Engage內報告](marketo/feb2021/reporting-within-marketo.md)
-      + [終極技巧和技巧，為您的Forms](marketo/feb2021/forms-tips-and-tricks.md)
+      + [探索自訂物件和速度的最上層繩子](marketo/feb2021/custom-objects.md)
+      + [Adobe [!DNL Marketo Engage] Rockstar區段](marketo/feb2021/rockstar.md)
+      + [在Adobe中建立計畫 [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
+      + [智慧行銷活動的力量](marketo/feb2021/power-of-smart-campaign.md)
+      + [報告範圍 [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
+      + [Forms的終極秘訣與技巧](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + 2022 年 4 月 {#apr2022}
-      + [10個讓你的Workfront](workfront/apr2022/ten-tips.md)
-      + [每個人應知道的計算欄位](workfront/apr2022/calculated-fields.md)
-      + [爭取用戶採納的考慮](workfront/apr2022/user-adoption.md)
-      + [Adobe Workfront證明的未來](workfront/apr2022/workfront-proof.md)
-      + [成長軌道體驗創造者聚光燈](workfront/apr2022/grow-track-spotlight.md)
-      + [學習跟蹤體驗創造者聚焦](workfront/apr2022/learn-track-spotlight.md)
-      + [掌握項目日期和時間表](workfront/apr2022/projects-dates-timelines.md)
-      + [理解Workfront物體](workfront/apr2022/understanding-objects.md)
-+ 數字摘要 {#digital-bites}
-   + [使用同類最佳的操作模型解鎖運營效率](digital-bites/operational-model.md)
-   + [價值映射與價值實現路線圖](digital-bites/roadmap.md)
-   + [如何在客戶旅程中釋放業務價值](digital-bites/business-value.md)
+      + [讓您的Workfront驚豔的10個秘訣](workfront/apr2022/ten-tips.md)
+      + [每個人都應知道的計算欄位](workfront/apr2022/calculated-fields.md)
+      + [克服使用者採用率的考量事項](workfront/apr2022/user-adoption.md)
+      + [Adobe Workfront Proof的未來](workfront/apr2022/workfront-proof.md)
+      + [成長軌跡體驗製作者焦點](workfront/apr2022/grow-track-spotlight.md)
+      + [瞭解追蹤體驗製作者焦點](workfront/apr2022/learn-track-spotlight.md)
+      + [掌握專案日期和時間表](workfront/apr2022/projects-dates-timelines.md)
+      + [瞭解Workfront中的物件](workfront/apr2022/understanding-objects.md)
++ 數位訪客 {#digital-bites}
+   + [以同級最佳營運模式釋放營運效率](digital-bites/operational-model.md)
+   + [價值對應和價值實現的藍圖](digital-bites/roadmap.md)
+   + [如何在客戶歷程中解鎖商業價值](digital-bites/business-value.md)

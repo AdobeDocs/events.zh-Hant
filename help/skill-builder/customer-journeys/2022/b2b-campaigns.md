@@ -1,22 +1,23 @@
 ---
-title: 最佳拍檔 - Adobe Marketo Engage 和 Real-Time CDP
-description: 瞭解如何使用Marketo Engage和RT-CDP（B2B版）協調B2B活動
+title: 攜手共進 — Adobe [!DNL Marketo Engage] 和Real-Time CDP
+description: 瞭解如何使用協調B2B行銷活動 [!DNL Marketo Engage] 和RT-CDP （B2B版本）
 solution: Marketo, Real-time Customer Data Platform
 role: Admin, Data Architect, Data Engineer, User
 level: Beginner, Intermediate, Experienced
 kt: 10570
 thumbnail: 343824.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: c3b4af01-047f-4634-a1bc-f7b0ec87936e
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 24%
+source-wordcount: '58'
+ht-degree: 0%
 
 ---
 
-# 最佳拍檔 - Adobe Marketo Engage 和 Real-Time CDP
+# 攜手共進 — Adobe [!DNL Marketo Engage] 和Real-Time CDP
 
-在本會話中，您將學習如何使用Marketo Engage和RT-CDP（B2B版本）協調B2B活動，以及解鎖哪些最常用案例和優勢。
+在這場會議中，您將瞭解如何使用協調B2B行銷活動 [!DNL Marketo Engage] 和RT-CDP （B2B版本），以及解鎖的主要使用案例和優勢有哪些。
 
-*米哈伊普里薩卡留* 解決方案顧問， CJM /Adobe
+*米哈伊·普里薩卡留* CJM/Adobe解決方案顧問
 
 >[!VIDEO](https://video.tv.adobe.com/v/343824/?quality=12&learn=on)

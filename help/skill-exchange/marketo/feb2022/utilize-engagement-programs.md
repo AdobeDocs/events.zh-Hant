@@ -1,26 +1,27 @@
 ---
-title: 培育101 — 利用參與計畫與客戶接洽
-description: 瞭解Marketo Engage內項目計畫的基本知識，包括示例使用案例和技巧。
+title: Nurture 101 — 利用參與計畫吸引客戶
+description: 瞭解中參與計畫的基本知識 [!DNL Marketo Engage] 包括範例使用案例和提示與秘訣。
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9768
 thumbnail: 340595.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: f0c137c3-57db-4a84-8ce8-4944221e1782
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '88'
 ht-degree: 2%
 
 ---
 
-# 培育101 — 利用參與計畫與客戶接洽
+# Nurture 101 — 利用參與計畫吸引客戶
 
-瞭解Marketo Engage內項目計畫的基本知識，包括示例使用案例和技巧。
+瞭解中參與計畫的基本知識 [!DNL Marketo Engage] 包括範例使用案例和提示與秘訣。
 
 **重點提要**
 
-* 更好地瞭解Marketo項目計畫及其獨特功能
-* 瞭解計畫設定和最佳做法以及它們如何應用於實際使用案例
-* 增強能力，為您的企業制定參與計畫戰略
+* 進一步瞭解Marketo參與計畫及其獨特功能
+* 瞭解計畫設定和最佳實務，以及它們如何套用至實際使用案例
+* 獲授權為您的企業開發參與計劃策略
 
 >[!VIDEO](https://video.tv.adobe.com/v/340595/?quality=12&learn=on)

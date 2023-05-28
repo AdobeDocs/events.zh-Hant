@@ -1,6 +1,6 @@
 ---
-title: Adobe客戶端資料層 — 事件驅動資料處理
-description: 您是否想知道Adobe客戶端資料層背後的秘密和詳細資訊？ 它是如何設計的，體系結構是怎樣的，您如何能夠最大限度地利用它？ 加入此會話並瞭解有關它的所有資訊。 作為額外的補充，一個商業示例將展示核心元件如何水合物化ACDL以及隨後的Launch擴展如何與其他應用程式(如Adobe Analytics或Adobe Target)交互。
+title: Adobe使用者端資料層 — 事件導向資料處理
+description: 您曾經想知道Adobe使用者端資料層背後的秘密和詳細資訊嗎？ 其設計、架構外觀，以及您如何將其發揮到極致？ 加入此會議並全面瞭解它。 另外，商務範例將說明核心元件如何將ACDL及後來的Launch擴充功能與其他應用程式(例如Adobe)互動 [!DNL Analytics] 或Adobe Target。
 solution: Data Collection,Experience Manager
 feature: Tags
 topic: Development
@@ -9,16 +9,17 @@ level: Experienced
 version: Cloud Service
 kt: 9134
 type: Event
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 948f7869-71f9-41e8-9686-ef55fd476951
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '188'
 ht-degree: 14%
 
 ---
 
-# Adobe客戶端資料層 — 事件驅動資料處理
+# Adobe使用者端資料層 — 事件導向資料處理
 
-您是否想知道Adobe客戶端資料層背後的秘密和詳細資訊？ 它是如何設計的，體系結構是怎樣的，您如何能夠最大限度地利用它？ 加入此會話並瞭解有關它的所有資訊。 作為額外的補充，一個商業示例將展示核心元件如何水合物化ACDL以及隨後的Launch擴展如何與其他應用程式(如Adobe Analytics或Adobe Target)交互。
+您曾經想知道Adobe使用者端資料層背後的秘密和詳細資訊嗎？ 其設計、架構外觀，以及您如何將其發揮到極致？ 加入此會議並全面瞭解它。 另外，商務範例將說明核心元件如何將ACDL及後來的Launch擴充功能與其他應用程式(例如Adobe)互動 [!DNL Analytics] 或Adobe Target。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337585/?quality=12&learn=on&hidetitle=true)
 

@@ -1,22 +1,23 @@
 ---
-title: Marketo Engage 和 Adobe Experience Cloud 的 B2B 體驗
-description: 通過將Marketo Engage與Adobe應用程式相連來為B2B體驗提供動力，以簡化流程、簡化受眾管理並最大限度地實現個性化。
+title: 使用的B2B體驗 [!DNL Marketo Engage] 和Adobe Experience Cloud
+description: 透過連線來增強B2B體驗 [!DNL Marketo Engage] Adobe應用程式以簡化流程、簡化受眾管理並最大化個人化程度。
 solution: Marketo, Experience Cloud
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 kt: 10569
 thumbnail: 343826.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 562f17b9-b36b-42e9-8914-e43ad49f3446
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 22%
+source-wordcount: '80'
+ht-degree: 0%
 
 ---
 
-# Marketo Engage 和 Adobe Experience Cloud 的 B2B 體驗
+# 使用的B2B體驗 [!DNL Marketo Engage] 和Adobe Experience Cloud
 
-通過將Marketo Engage與Adobe應用程式相連來為B2B體驗提供動力，以簡化流程、簡化受眾管理並最大限度地實現個性化。 本次會議將介紹Marketo Engage與Adobe Experience Cloud應用程式之間的整合，以及將解決哪些棘手問題。
+透過連線來增強B2B體驗 [!DNL Marketo Engage] Adobe應用程式以簡化流程、簡化受眾管理並最大化個人化程度。 此工作階段將逐步說明以下兩者之間的整合： [!DNL Marketo Engage] 和Adobe Experience Cloud應用程式，以及可以解決哪些痛點。
 
-*米哈伊普里薩卡留* 解決方案顧問， CJM /Adobe
+*米哈伊·普里薩卡留* CJM/Adobe解決方案顧問
 
 >[!VIDEO](https://video.tv.adobe.com/v/343826/?quality=12&learn=on)

@@ -1,10 +1,10 @@
 ---
 user-guide-title: 技能培養
 user-guide-description: 此為將顯示在登入頁面上的使用手冊說明。
-source-git-commit: 37202c8171ae1638888b80c55b39c42ce580355f
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 45%
+ht-degree: 33%
 
 ---
 
@@ -40,10 +40,12 @@ ht-degree: 45%
    + [總覽](customer-journeys/overview.md)
    + 2022 {#2022}
       + [Adobe Campaign Standard 的重要提示和祕訣](customer-journeys/2022/tips-and-tricks.md)
-      + [在 Adobe Campaign Classic 中開發和自訂資料模型](customer-journeys/2022/data-models.md)
+      + [開發及自訂Adobe的資料模型 [!DNL Campaign Classic]](customer-journeys/2022/data-models.md)
       + [跨B2B和B2C的Customer Journey趨勢和創新](customer-journeys/2022/keynote.md)
-      + [最佳拍檔 - Adobe Marketo Engage 和 Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
-      + [Marketo Engage 和 Adobe Experience Cloud 的 B2B 體驗](customer-journeys/2022/b2b-experiences.md)
+      + [攜手共進 — Adobe [!DNL Marketo Engage] 和Real-Time CDP](customer-journeys/2022/b2b-campaigns.md)
+      + [使用的B2B體驗 [!DNL Marketo Engage] 和Adobe Experience Cloud](customer-journeys/2022/b2b-experiences.md)
+&lt;!---    +> 
+[Adobe Campaign Classic V7 與 V8](customer-journeys/2022/classic-v7-vs-v8.md) --->
 + 資料和深入分析 {#data-and-insights}
    + [總覽](data-and-insights/overview.md)
    + 2022 {#2022}

@@ -1,28 +1,29 @@
 ---
-title: Adobe Experience Manager FormsCloud Service — 安全的多渠道數字註冊
-description: 瞭解如何利用Adobe Experience Manager Formsas a Cloud Service構建現代安全、現代的數字註冊體驗。 此會話將重點介紹有關保護工作流中處理的資料、將提交的資料外部化到Azure儲存以及使用Adobe Analytics和AdaptiveForms收集有關雲服務的見解的最佳做法。
+title: Adobe Experience Manager FormsCloud Service — 安全的多頻道數位註冊
+description: 瞭解如何使用Adobe Experience Manager Formsas a Cloud Service建立現代安全、現代的數位註冊體驗。 此會議將重點說明保護工作流程中處理之資料、將提交的資料外部化至Azure儲存空間的最佳實務，並使用Adobe收集深入分析 [!DNL Analytics] 雲端服務上的最適化Forms。
 solution: Experience Manager,Experience Manager Forms
 role: User
 level: Beginner
 version: Cloud Service
 kt: 9194
 type: Event
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 5ac915d0-9e53-4bc8-9d4d-9d8dafe0c06e
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '181'
 ht-degree: 15%
 
 ---
 
-# Adobe Experience Manager FormsCloud Service — 安全的多渠道數字註冊
+# Adobe Experience Manager FormsCloud Service — 安全的多頻道數位註冊
 
-瞭解如何利用Adobe Experience Manager Formsas a Cloud Service構建現代安全、現代的數字註冊體驗。
+瞭解如何使用Adobe Experience Manager Formsas a Cloud Service建立現代安全、現代的數位註冊體驗。
 
-此會話將重點介紹有關保護工作流中處理的資料、將提交的資料外部化到Azure儲存以及使用Adobe Analytics和AdaptiveForms收集有關雲服務的見解的最佳做法。
+此會議將重點說明保護工作流程中處理之資料、將提交的資料外部化至Azure儲存空間的最佳實務，並使用Adobe收集深入分析 [!DNL Analytics] 雲端服務上的最適化Forms。
 
-我們還將在路線圖中預覽一些整合，如MicrosoftPowerAutomate和團隊與Adobe Experience Manager Forms的整合。
+我們也將在藍圖上包括一些整合的預覽，例如Microsoft PowerAutomate和Teams與Adobe Experience Manager Forms的整合。
 
-在中繼續對話 **[Experience League社區](https://adobe.ly/3CQjKgg)**。
+繼續對話於 **[Experience League社群](https://adobe.ly/3CQjKgg)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337887/?quality=12&learn=on&hidetitle=true)
 

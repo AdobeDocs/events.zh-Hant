@@ -1,20 +1,21 @@
 ---
-title: Get inFORMation — 您的Forms的終極技巧和技巧
-description: Forms是組織「需求生成」過程中的關鍵部分，但通常有一些問題需要回答，以確保優化後的需求。
+title: 開始使用 — Forms的最佳秘訣與技巧
+description: Forms是組織需求產生歷程的關鍵部分，但經常會有問題需要回答，以確保這些問題已最佳化。
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9709
 thumbnail: 340312.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 41d558d2-e8ee-49aa-9605-84f82a8bdee6
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-# Get inFORMation — 您的Forms的終極技巧和技巧
+# 開始使用 — Forms的最佳秘訣與技巧
 
-Forms是組織「需求生成」過程中的關鍵部分，但通常有一些問題需要回答，以確保優化後的需求。 在本次會議中，Marketo Engage冠軍Amanda和Julz將引導您瞭解最佳做法和提示，以應用於表單，以提高所收集資料的準確性並提高轉換率。
+Forms是組織需求產生歷程的關鍵部分，但經常會有問題需要回答，以確保這些問題已最佳化。 在此工作階段中， [!DNL Marketo Engage] Champions、Amanda和Julz會逐步引導您瞭解套用至表單的最佳實務和秘訣，以提高所收集資料的準確性並提高轉換率。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340312/?quality=12&learn=on)
