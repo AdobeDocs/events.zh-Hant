@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Manager與SRE工會成員的幕後
-description: 我們的現場可靠性工程師協會的成員Joerg Hoh, Peter Acsai和Tom Blackford組成的一個小組在幕後為as a Cloud Service"保持列車準時"而工作AEM。 我們將瞭解高效SRE所需的技能和最小精度，他們關於使系統強健且具有彈性的觀點，以及他們用於防止停機的度量和警報類型。
+title: 擁有SRE協會成員的Adobe Experience Manager幕後
+description: 網站可靠性工程師協會成員何耀祥、Peter Acsai和Tom Blackford在幕後組成一個小組，為AEMas a Cloud Service「保持列車準時」而工作。 我們將瞭解成為有效率的SRE所需的技巧和心智、他們對讓系統變得強大和彈性的看法，以及他們用來防止中斷的量度和警報型別。
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -9,23 +9,24 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9118
 type: Event
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 0755b764-5871-4e4f-8afd-1831ba2a8bbe
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 7%
 
 ---
 
-# Adobe Experience Manager與SRE工會成員的幕後
+# 擁有SRE協會成員的Adobe Experience Manager幕後
 
-我們的現場可靠性工程師協會的成員Joerg Hoh, Peter Acsai和Tom Blackford組成的一個小組在幕後為as a Cloud Service&quot;保持列車準時&quot;而工作AEM。 我們將瞭解高效SRE所需的技能和最小精度，他們關於使系統強健且具有彈性的觀點，以及他們用於防止停機的度量和警報類型。
+網站可靠性工程師協會成員何耀祥、Peter Acsai和Tom Blackford在幕後組成一個小組，為AEMas a Cloud Service「保持列車準時」而工作。 我們將瞭解成為有效率的SRE所需的技巧和心智、他們對讓系統變得強大和彈性的看法，以及他們用來防止中斷的量度和警報型別。
 
-在中繼續對話 **[Experience League社區](https://adobe.ly/2WoCVOU)**。
+繼續對話於 **[Experience League社群](https://adobe.ly/2WoCVOU)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337527/?quality=12&learn=on&hidetitle=true)
 
 ## 其他資源
 
 - [Adobe Experience Manager 文件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Adobe Experience ManagerCloud Service概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Adobe Experience ManagerCloud Service概觀](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager 教學課程](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

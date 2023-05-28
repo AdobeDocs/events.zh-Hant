@@ -1,6 +1,6 @@
 ---
 title: 檔案夾結構與搜尋
-description: 設定和使用DAM的基本知識
+description: 設定及使用DAM的基本知識
 solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
@@ -12,32 +12,33 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 7338
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: f39da510-d4d6-447e-97cc-b3f9036e14ab
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 8%
 
 ---
 
-# 資料夾結構和搜索 — Adobe Experience Manager資產系列
+# 檔案夾結構與搜尋 — Adobe Experience Manager資產系列
 
-使用此五部分網路研討會系列構建您的知識庫，並最大限度地提高您對Adobe Experience Manager資產的投資。 如果您是Adobe Experience Manager資產的新從業人員，或已使用Adobe Experience Manager資產有一段時間，並且希望瞭解您的現有技能，這是深入瞭解解決方案的五個最重要領域的理想方法。 Adobe專家將回顧基本知識，並提供高級見解，為您提供可立即付諸實踐的可操作的後續步驟。
+使用這個由五部分組成的網路研討會系列，建立您的知識庫，並最大化您在Adobe Experience Manager資產中的投資。 如果您是初次使用Adobe Experience Manager Assets或已經使用Adobe Experience Manager Assets一段時間且希望進一步掌握現有技能的從業者，這是深入探究解決方案最重要的五個領域的理想方式。 Adobe專家將檢閱基本知識，並提供進階深入分析，帶給您可立即實施的可操作後續步驟。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332135/?quality=12&learn=on&hidetitle=true)
 
-設定和使用DAM的基本資訊。
+設定及使用DAM的基本知識。
 
 ## 資源
 
 * [AEM Assets使用手冊](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html)
-* [設定AEM Assets資料夾結構](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
-* [設定AEM Assets資料夾權限](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html)
+* [設定您的AEM Assets資料夾結構](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
+* [設定AEM Assets檔案夾許可權](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html)
 * [使用集合來組織和共用資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
-* [通過機器學習查找視覺相似的資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [使用動態搜索小面獲取精確準確的搜索結果](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [高級全文搜索語法](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
+* [透過機器學習尋找視覺上類似的資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
+* [使用動態搜尋Facet取得精確且精確的搜尋結果](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
+* [進階全文檢索搜尋語法](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
 
-## 系列錄制
+## 系列錄製
 
 * [資產連結](asset-link.md)
 * [Brand Portal](brand-portal.md)

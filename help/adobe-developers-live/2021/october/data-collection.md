@@ -1,6 +1,6 @@
 ---
-title: 數字型驗的資料收集 — 客戶端效能和伺服器端整合的強大功能
-description: Web和Mobile上的數字型驗正在快速變化，您的工具也在快速變化。 請看Edge Technology中的Adobe正在做什麼，以提高效能，並允許開發人員和模式將代碼部署到世界上最大的資料收集基礎架構之一。
+title: 數位體驗的資料收集 — 使用者端效能和伺服器端整合的強大功能
+description: 網頁和行動裝置上的數位體驗以及您的工具都在迅速改變。 快來瞭解Adobe在Edge Technology中採取哪些措施來改善效能，並讓開發人員和模式將程式碼部署到世界上最大的資料收集基礎架構之一。
 solution: Data Collection
 feature: Web SDK, Debugger, Tags, Event Forwarding
 topic: Development
@@ -8,16 +8,17 @@ role: Developer, Architect
 level: Experienced
 kt: 9140
 type: Event
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: e3bea0bb-d31a-4089-a0be-af3816d43e7e
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 19%
 
 ---
 
-# 數字型驗的資料收集 — 客戶端效能和伺服器端整合的強大功能
+# 數位體驗的資料收集 — 使用者端效能和伺服器端整合的強大功能
 
-Web和Mobile上的數字型驗正在快速變化，您的工具也在快速變化。 請看Edge Technology中的Adobe正在做什麼，以提高效能，並允許開發人員和模式將代碼部署到世界上最大的資料收集基礎架構之一。
+網頁和行動裝置上的數位體驗以及您的工具都在迅速改變。 快來瞭解Adobe在Edge Technology中採取哪些措施來改善效能，並讓開發人員和模式將程式碼部署到世界上最大的資料收集基礎架構之一。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337584/?quality=12&learn=on&hidetitle=true)
 

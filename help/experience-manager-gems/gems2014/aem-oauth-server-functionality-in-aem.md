@@ -1,29 +1,30 @@
 ---
-title: OAuth伺服器功AEM能 — 支援聯合併釋放您的REST API!
-description: 介紹OAuth 2框架和Granite OAuth伺服器功能。 Adobe Experience Manager(AEM)在OSGi環境中運行，並基於REST原則。
+title: AEM中的OAuth伺服器功能 — 包含同盟並釋放您的REST API！
+description: 取得OAuth 2架構和Granite OAuth伺服器功能的簡介。 Adobe Experience Manager (AEM)實作後在OSGi環境中執行，且以REST原則為基礎。
 uuid: 5fa01808-033f-456d-a024-c28f60e1e4b7
 discoiquuid: b53df422-3625-40f4-b7fe-9945f2ec71f6
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 8ab5d16c-22fc-4210-87b3-16dacb9f5254
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 1%
 
 ---
 
-# OAuth伺服器功AEM能 — 支援聯合併釋放您的REST API!{#oauth-server-functionality-in-aem-embrace-federation-and-unleash-your-rest-apis}
+# AEM中的OAuth伺服器功能 — 包含同盟並釋放您的REST API！{#oauth-server-functionality-in-aem-embrace-federation-and-unleash-your-rest-apis}
 
-Adobe Experience Manager(AEM)在OSGi環境中運行，並基於REST原則。 REST沒有預定義的安全方法（例如SOAP Web Services），因此開發人員定義自己的安全方法。 解決REST安全問題的一種方法是利用OAuth 2。 Web授權(OAuth)協定允許用戶授予第三方網站或應用程式對用戶受保護資源的訪問權，而不必洩露其長期憑據甚至其身份。 OAuth 2廣泛用於主要網際網路玩家(如Google、Facebook、Twitter)，以保護其（也是REST）API。 本文將介紹OAuth 2框架和新的Granite OAuth伺服器功能。
+Adobe Experience Manager (AEM)實作後在OSGi環境中執行，且以REST原則為基礎。 REST沒有預先定義的安全性方法（例如使用SOAP Web服務時），所以開發人員自行定義。 解決REST安全性問題的一個方法是利用OAuth 2。 Web Authorization (OAuth)通訊協定可讓使用者授與協力廠商網站或應用程式存取使用者的受保護資源，而不需要洩露使用者的長期認證，甚至不會洩露其身分。 OAuth 2廣泛使用於大型網際網路播放器(例如Google、Facebook、Twitter)，以便保護其（也就是REST） API的安全。 此演講將介紹OAuth 2架構和新的Granite OAuth伺服器功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19466/?quality=9)
 
-*2014年7月23日交付*
+*傳送日期： 2014年7月23日*
 
-**提交者：**
+**展示者：**
 
-Antonio Sanso，軟體工程師，Adobe
+Antonio Sanso，Adobe軟體工程師
 
-**演示者幻燈片**
+**簡報者投影片**
 
 [取得檔案](assets/oauth-server-functionality-in-aem-7-23-14.pdf)
 <!--

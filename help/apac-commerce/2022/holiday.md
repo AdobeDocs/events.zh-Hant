@@ -1,29 +1,30 @@
 ---
-title: 假日準備2022
-description: 準備是成功的關鍵，在本網路研討會中，我們將引導您瞭解利用Adobe Commerce在這一重要交易期間實現銷售和業績最大化的最佳做法。
+title: 2022年假期整備
+description: 準備是成功的關鍵，在這場網路研討會中，我們將引導您瞭解運用Adobe Commerce的最佳實務，以在這個重要的交易期間最大化銷售和績效。
 solution: Commerce
 topic: Commerce
 role: Leader, Architect, Developer, Data Architect, Admin, User
 level: Beginner
 last-substantial-update: 2022-10-31T00:00:00Z
 kt: 11355
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 05c25d52-38f2-4c5e-b8a8-82c49f2a320c
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 
 ---
 
-# 假日準備2022
+# 2022年假期整備
 
-準備是成功的關鍵，在本網路研討會中，我們將引導您瞭解利用Adobe Commerce在這一重要交易期間（或您的業務全年可能經歷的任何其他銷售活動）實現最大銷售和業績的最佳做法。
+準備是成功的關鍵，在這場網路研討會中，我們將逐步引導您瞭解運用Adobe Commerce的最佳實務，以在這個重要的交易期間（或您的企業可能在全年經歷的任何其他銷售事件）最大化銷售和效能。
 
-您將聽到Jason Ford（商務解決方案咨詢APAC經理）和Sophia Gray（高級商務客戶經理）的來信，他們將介紹以下主題：
+您將聽取Commerce Solutions Consulting APAC經理Jason Ford和資深商務客戶經理Sophia Gray的意見，他們將討論以下主題：
 
-* 活動準備
-* 效能注意事項
-* 快速擴展您的基礎架構以獲得最佳效能
+* 行銷活動準備
+* 效能考量事項
+* 大幅提升您的基礎建設，以獲得最佳效能
 
-預計2022年旺季將強勁，電子商務將繼續是所有購物者的首選渠道。 使用本會話期間共用的技術，您和您的團隊可以在您的站點上成功有效地推廣您的商品和/或服務。
+預計2022年旺季業績強勁，電子商務繼續成為所有購物者的首選管道。 使用在此課程中分享的技術，您和您的團隊可以成功且有效地在您的網站上推廣您的商品和/或服務。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410542/?quality=12&learn=on)

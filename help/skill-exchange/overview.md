@@ -1,7 +1,8 @@
 ---
 title: Experience Makers技能交流
 description: Experience Makers技能交流是全球性的虛擬客戶學習活動系列，專注於深入瞭解Adobe Experience Cloud解決方案。
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+exl-id: 90283549-2f9d-4d05-9d76-9252bcff1c9a
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%

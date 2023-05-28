@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Platform整合概述
-description: 本會議將全面介紹Adobe Experience Platform在您的生態系統中整合的不同方式以及規劃整合工作時應考慮的事項。
+title: Adobe Experience Platform整合總覽
+description: 此會議將讓您全面瞭解Adobe Experience Platform可在您的生態系統中整合的不同方式，以及在規劃整合工作時需考慮的事項。
 solution: Experience Platform
 feature: Integrations
 topic: Development
@@ -8,16 +8,17 @@ role: Developer, Architect
 level: Experienced
 kt: 9222
 type: Event
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 7ac76182-8e14-46de-afed-2cdc15819dec
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 27%
 
 ---
 
-# Adobe Experience Platform整合概述
+# Adobe Experience Platform整合總覽
 
-本會議將全面介紹Adobe Experience Platform在您的生態系統中整合的不同方式以及規劃整合工作時應考慮的事項。
+此會議將讓您全面瞭解Adobe Experience Platform可在您的生態系統中整合的不同方式，以及在規劃整合工作時需考慮的事項。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/337715/?quality=12&learn=on&hidetitle=true)

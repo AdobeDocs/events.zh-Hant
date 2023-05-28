@@ -5,7 +5,8 @@ version: Classic v7
 solution: Campaign
 kt: 10508
 thumbnail: 343525.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 5e2c8056-38f2-4469-a613-c4e1221082a9
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 51%
@@ -14,6 +15,6 @@ ht-degree: 51%
 
 # Adobe Campaign 與行銷生態系統的整合
 
-Adobe Campaign 等跨管道行銷解決方案不應與其他技術或團隊區隔開來。不幸的是，資料和內容通常被困在不同的系統中，這妨礙了對客戶的完全瞭解，並干擾了跨渠道戰略。 參加本次會議，瞭解Adobe Campaign如何與市場營銷生態系統中常見的其他Adobe解決方案和第三方技術整合。
+Adobe Campaign 等跨管道行銷解決方案不應與其他技術或團隊區隔開來。不幸的是，資料和內容經常卡在完全不同的系統中，阻礙對客戶的全面瞭解，並破壞跨管道策略。 參加此會議，瞭解Adobe Campaign如何與其他Adobe解決方案和行銷生態系統中常見的第三方技術整合。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343525/?quality=12&learn=on)

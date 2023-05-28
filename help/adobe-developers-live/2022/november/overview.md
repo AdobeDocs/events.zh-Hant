@@ -2,7 +2,8 @@
 title: Adobe Developers Live 2022年11月
 description: Adobe Experience Manager Sites的影片和教學課程系列，作為Adobe Developers Live活動的一部分提供。
 sub-product: sites, content-services
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+exl-id: 726dae1b-dc6c-4187-90ec-389520d32da2
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 2%

@@ -1,33 +1,34 @@
 ---
-title: 客戶資料管理聲明
-description: 作為客戶資料管理技術和營銷業務領導和專家的目標。  本頁是您的一站式商店，讓您從同行那裡聽到，獲得靈感，並瞭解市場科技的發展。
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+title: 客戶資料管理意見
+description: 您身為客戶資料管理技術和行銷實務領導和專家的目的地。  此頁面是您聆聽同行的意見、獲取靈感並瞭解Martech發展的一站式中心。
+exl-id: 44e1b706-d216-4ffe-8cbf-b352fc34de54
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 18%
 
 ---
 
-# 客戶資料管理 — 語音 {#overview}
+# 客戶資料管理 — 對話 {#overview}
 
-<img alt="客戶資料管理聲明" src="./assets/cdp-voices-banner.png" />
+<img alt="客戶資料管理意見" src="./assets/cdp-voices-banner.png" />
 
-歡迎以客戶資料管理技術和市場營銷業務領導和專家的身份向您的目標發出聲音。 本頁是您的一站式商店，讓您從同行那裡聽到，獲得靈感，並瞭解市場科技的發展。 無需註冊，只需按一下並觀看。
+歡迎使用客戶資料管理，以客戶資料管理技術和行銷實務領導與專家的身分，對您的目的地提出意見。 此頁面是您聆聽同行的意見、獲取靈感並瞭解Martech發展的一站式中心。 無需註冊，只需按一下即可觀看。
 
 >[!TIP]
 >
->**所有錄制的會話都列在左側的導航中**。
+>**左側導覽中會列出所有錄製的工作階段**.
 
-## 客戶資料管理構建塊
+## 客戶資料管理基礎要素
 
 <table>
   <tr>
    <td>
       <a href="./cdm/first-mile.md">
-      <img alt="簡化資料管理的第一英里" src="./assets/first-mile.png"/>
+      <img alt="簡化資料管理的第一步" src="./assets/first-mile.png"/>
       </a>
       <div>
-         <a href="./cdm/first-mile.md"><strong>簡化資料管理的第一英里</strong></a>
+         <a href="./cdm/first-mile.md"><strong>簡化資料管理的第一步</strong></a>
          <br/>
       </div>
    </td>
@@ -42,10 +43,10 @@ ht-degree: 18%
     </td>
     <td>
       <a href="./cdm/people-and-process.md">
-      <img alt="人員和流程" src="./assets/people-and-process.png"/>
+      <img alt="人員與程式" src="./assets/people-and-process.png"/>
       </a>
       <div>
-         <a href="./cdm/people-and-process.md"><strong>CDP最佳做法 — 人員和流程</strong></a>
+         <a href="./cdm/people-and-process.md"><strong>CDP最佳實務 — 人員和流程</strong></a>
          <br/>
       </div>
     </td>
@@ -53,29 +54,29 @@ ht-degree: 18%
    <tr> 
    <td>
       <a href="./cdm/evolving-your-audience-center-of-excellence.md">
-      <img alt="發展您的卓越受眾中心" src="./assets/evolving-your-audience-center-of-excellence.png"/>
+      <img alt="打造卓越受眾中心" src="./assets/evolving-your-audience-center-of-excellence.png"/>
       </a>
       <div>
-         <a href="./cdm/evolving-your-audience-center-of-excellence.md"><strong>發展您的卓越受眾中心</strong></a>
+         <a href="./cdm/evolving-your-audience-center-of-excellence.md"><strong>打造卓越受眾中心</strong></a>
          <br/>
       </div>
     </td>
    <td>
       <a href="./cdm/building-better-experiences-with-customer-profiles.md">
-      <img alt="利用客戶配置檔案構建更好的體驗" src="./assets/building-better-experiences-with-customer-profiles.png"/>
+      <img alt="使用客戶設定檔建立更好的體驗" src="./assets/building-better-experiences-with-customer-profiles.png"/>
       </a>
       <div>
-         <a href="./cdm/building-better-experiences-with-customer-profiles.md"><strong>利用客戶配置檔案構建更好的體驗</strong></a>
+         <a href="./cdm/building-better-experiences-with-customer-profiles.md"><strong>使用客戶設定檔建立更好的體驗</strong></a>
       </div>
       <p>
         <br/>
     </td>
    <td>
       <a href="./cdm/how-marketing-teams-are-improving-data-management-strategies.md">
-      <img alt="市場營銷團隊如何改進資料管理策略" src="./assets/how-marketing-teams-are-improving-data-management-strategies.png"/>
+      <img alt="行銷團隊如何改善資料管理策略" src="./assets/how-marketing-teams-are-improving-data-management-strategies.png"/>
       </a>
       <div>
-         <a href="./cdm/how-marketing-teams-are-improving-data-management-strategies.md"><strong>市場營銷團隊如何改進資料管理策略</strong></a>
+         <a href="./cdm/how-marketing-teams-are-improving-data-management-strategies.md"><strong>行銷團隊如何改善資料管理策略</strong></a>
       </div>
       <p>
       </p>
@@ -83,16 +84,16 @@ ht-degree: 18%
   </tr>
 </table>
 
-## 受眾和個人資料資料治理與隱私
+## 對象和設定檔資料控管與隱私
 
 <table>
   <tr>
    <td>
       <a href="./governance/healthcare-shield.md">
-      <img alt="Adobe Real-time Customer Data Platform和醫療盾" src="./assets/healthcare-shield.png"/>
+      <img alt="Adobe Real-time Customer Data Platform和Healthcare Shield" src="./assets/healthcare-shield.png"/>
       </a>
       <div>
-         <a href="./governance/healthcare-shield.md"><strong>Adobe Real-time Customer Data Platform和醫療盾</strong></a>
+         <a href="./governance/healthcare-shield.md"><strong>Adobe Real-time Customer Data Platform和Healthcare Shield</strong></a>
          <br/>
       </div>
       <p>
@@ -111,10 +112,10 @@ ht-degree: 18%
     </td>
     <td>
       <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html">
-      <img alt="提升營銷人員作為資料管理員的角色" src="./assets/elevating-the-marketers-role-as-a-data-steward.png"/>
+      <img alt="提升行銷人員作為資料管理員的角色" src="./assets/elevating-the-marketers-role-as-a-data-steward.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>提升營銷人員作為資料管理員的角色</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>提升行銷人員作為資料管理員的角色</strong></a>
          <br/>
       </div>
       <p>
@@ -124,16 +125,16 @@ ht-degree: 18%
   </tr>
 </table>
 
-## 行業討論
+## 產業討論
 
 <table>
   <tr>
      <td>
       <a href="./industry/build-superb-experiences-with-your-first-party-data.md">
-      <img alt="利用第一方資料構建一流體驗" src="./assets/build-superb-experiences-with-your-first-party-data.png"/>
+      <img alt="使用您的第一方資料建立卓越的體驗" src="./assets/build-superb-experiences-with-your-first-party-data.png"/>
       </a>
       <div>
-         <a href="./industry/build-superb-experiences-with-your-first-party-data.md"><strong>利用第一方資料構建一流體驗</strong></a>
+         <a href="./industry/build-superb-experiences-with-your-first-party-data.md"><strong>使用您的第一方資料建立卓越的體驗</strong></a>
       </div>
       <p>
       </p>

@@ -1,20 +1,21 @@
 ---
-title: Adobe Analytics — 將一切放在一起
-description: 總結一下Adobe Analytics如何跟蹤網站資料、如何保存、共用和協作。 在此會話中保留一些提示，以提高您的工作效率。
+title: Adobe Analytics — 整合
+description: 透過瞭解Adobe Analytics如何追蹤網站資料、如何儲存、共用及共同作業，完成所有工作。 在此課程中保留提高生產力的秘訣。
 solution: Analytics
 role: User
 level: Beginner
 kt: 10319
 thumbnail: 342529.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 9e4311a2-09d4-4786-ad35-f4980babd5dc
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-# Adobe Analytics:將所有內容放在一起
+# Adobe Analytics：全包羅萬象
 
-總結一下Adobe Analytics如何跟蹤網站資料、如何保存、共用和協作。 在本課程中留下一些提示，以提高您的工作效率並繼續學習。
+透過瞭解Adobe Analytics如何追蹤網站資料、如何儲存、共用及共同作業，完成所有工作。 在離開本課程時，提供一些秘訣，以提高您的生產力並繼續您的學習之旅。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342529/?quality=12&learn=on)

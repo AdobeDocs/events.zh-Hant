@@ -1,6 +1,6 @@
 ---
-title: 分析學習體驗創造者聚焦
-description: 加入我們，關注Mandy George & Kaya Walton，兩位專家客戶和Adobe Analytics用戶。 每個人都會分享他們最好的Adobe Analytics小竅門。 在他們的會議之後，有機會現場提問。 你不想錯過這個。
+title: Analytics學習Experience Makers焦點
+description: 加入我們，我們將重點關注Mandy George & Kaya Walton，兩位專家客戶和Adobe Analytics使用者。 每個人都將分享他們最精通的Adobe Analytics秘訣或技巧。 他們的工作階段之後會有一個機會即時提問。 您不想錯過這個機會。
 solution: Analytics
 role: User
 level: Beginner
@@ -8,15 +8,16 @@ doc-type: Event
 last-substantial-update: 2022-11-11T00:00:00Z
 kt: 11438
 thumbnail: 3411008.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 7ddaabd5-2b0a-457a-8a01-30d41769886b
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
-# 分析學習體驗創造者聚焦
+# Analytics學習Experience Makers焦點
 
-加入我們，關注Mandy George &amp; Kaya Walton，兩位專家客戶和Adobe Analytics用戶。 每個人都會分享他們最好的Adobe Analytics小竅門。 在他們的會議之後，有機會現場提問。 你不想錯過這個。
+加入我們，我們將重點關注Mandy George &amp; Kaya Walton，兩位專家客戶和Adobe Analytics使用者。 每個人都將分享他們最精通的Adobe Analytics秘訣或技巧。 他們的工作階段之後會有一個機會即時提問。 您不想錯過這個機會。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411008/?quality=12&learn=on)

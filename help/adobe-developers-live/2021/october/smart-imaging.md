@@ -1,6 +1,6 @@
 ---
-title: 通過URL轉換、調整和優化影像
-description: 影像可佔您數字型驗總頻寬的60%以上，而對於介質豐富、影像繁重的體驗，這可高達85%。 為了為用戶提供最佳體驗，優化正在提供的映像非常重要。 瞭解Adobe Experience ManagerDynamic Media如何通過其業界領先的智慧成像功能和其他許多動態成像功能集，提高用戶體驗和轉換率。 本次會議將幫助技術人員瞭解有關使用Dynamic MediaURL和修飾符的最佳實踐，這算是一站式商店，而不需要他們通過試驗和錯誤來實現影像優化。
+title: 透過URL轉換、調整及最佳化影像
+description: 影像可能佔您數位體驗總頻寬的60%以上，而若是媒體豐富的影像密集型體驗，此比例可能高達85%。 若要為您的使用者帶來最佳體驗，請務必最佳化所提供的影像。 瞭解Adobe Experience Manager Dynamic Media如何透過其領先業界的智慧型影像功能和其他大量動態影像功能集，提供更佳的使用者體驗並改善轉換率。 此會議將協助技術人員瞭解使用Dynamic Media URL和修飾元的最佳實務，這類似一站式服務，技術人員不必透過反複試驗就達到影像最佳化。
 solution: Experience Manager,Experience Manager Assets
 feature: Smart Crop, Smart Services
 role: User
@@ -8,23 +8,24 @@ level: Beginner
 version: Cloud Service
 kt: 9176
 type: Event
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 02a73889-5123-4af1-8314-7eb204df8203
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 5%
 
 ---
 
-# 通過URL轉換、調整和優化影像
+# 透過URL轉換、調整及最佳化影像
 
-影像可佔您數字型驗總頻寬的60%以上，而對於介質豐富、影像繁重的體驗，這可高達85%。 為了為用戶提供最佳體驗，優化正在提供的映像非常重要。 瞭解Adobe Experience ManagerDynamic Media如何通過其業界領先的智慧成像功能和其他許多動態成像功能集，提高用戶體驗和轉換率。 本次會議將幫助技術人員瞭解有關使用Dynamic MediaURL和修飾符的最佳實踐，這算是一站式商店，而不需要他們通過試驗和錯誤來實現影像優化。
+影像可能佔您數位體驗總頻寬的60%以上，而若是媒體豐富的影像密集型體驗，此比例可能高達85%。 若要為您的使用者帶來最佳體驗，請務必最佳化所提供的影像。 瞭解Adobe Experience Manager Dynamic Media如何透過其領先業界的智慧型影像功能和其他大量動態影像功能集，提供更佳的使用者體驗並改善轉換率。 此會議將協助技術人員瞭解使用Dynamic Media URL和修飾元的最佳實務，這類似一站式服務，技術人員不必透過反複試驗就達到影像最佳化。
 
-在中繼續對話 **[Experience League社區](https://adobe.ly/3F58miP)**。
+繼續對話於 **[Experience League社群](https://adobe.ly/3F58miP)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337847/?quality=12&learn=on&hidetitle=true)
 
 ## 其他資源
 
 - [Adobe Experience Manager 文件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Adobe Experience ManagerCloud Service概述](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Adobe Experience ManagerCloud Service概觀](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager 教學課程](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

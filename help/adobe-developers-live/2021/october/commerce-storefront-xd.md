@@ -1,22 +1,23 @@
 ---
-title: 協同PWA店面設XD計
-description: 瞭解PWA Studio套件XD如何幫助促進從設計到工程的更好協作，並讓您可以一窺店面裝修的未來。
+title: 使用XD進行合作PWA店面設計
+description: 瞭解PWA StudioXD Kit如何協助促進從設計到工程的各種更佳的協同合作，並快速瞭解店面主題設計的未來。
 solution: Commerce
 feature: Developer Tools
 role: Developer, Architect
 level: Experienced
 kt: 9200
 type: Event
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 53b8bb9e-a4dc-4b96-b0f3-bfd1caacd426
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 28%
 
 ---
 
-# 協同PWA店面設XD計
+# 使用XD進行合作PWA店面設計
 
-瞭解PWA Studio套件XD如何幫助促進從設計到工程的更好協作，並讓您可以一窺店面裝修的未來。
+瞭解PWA StudioXD Kit如何協助促進從設計到工程的各種更佳的協同合作，並快速瞭解店面主題設計的未來。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337725/?quality=12&learn=on&hidetitle=true)
 

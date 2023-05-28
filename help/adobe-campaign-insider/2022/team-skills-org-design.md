@@ -1,21 +1,22 @@
 ---
-title: 支援跨渠道營銷所需的團隊、技能和組織設計，與Adobe Campaign
-description: 在當今的跨渠道和數字世界中，消費者有權隨時隨地參與其中。
+title: 透過Adobe Campaign支援跨管道行銷所需的團隊、技能和組織設計
+description: 在現今的跨頻道與數位世界中，消費者能夠隨時隨地以自己想要的方式參與。
 version: v8, Classic v7, Standard
 solution: Campaign
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate, Experienced
 kt: 10509
 thumbnail: 343871.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 20c66199-0470-48ce-b100-ca1df4949080
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-# 支援跨渠道營銷所需的團隊、技能和組織設計，與Adobe Campaign
+# 透過Adobe Campaign支援跨管道行銷所需的團隊、技能和組織設計
 
-在當今的跨渠道和數字世界中，消費者有權隨時隨地參與其中。 營銷人員必須做好準備，否則他們可能會遭遇客戶流失，甚至更糟。 答案不僅在於一個支援跨渠道協調消息的營銷平台，還在於有一個支援跨所有渠道規劃、執行和衡量營銷活動的營銷組織。
+在現今的跨頻道與數位世界中，消費者能夠隨時隨地以自己想要的方式參與。 而且行銷人員必須做好準備，否則他們會有不良客戶體驗或更糟的流失風險。 答案不僅在於行銷平台可支援跨管道協調訊息，還在於行銷組織可支援所有管道的行銷活動的規劃、執行和測量。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343871/?quality=12&learn=on)

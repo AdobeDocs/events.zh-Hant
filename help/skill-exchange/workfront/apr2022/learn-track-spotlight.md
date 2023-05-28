@@ -1,28 +1,29 @@
 ---
-title: 學習跟蹤體驗創造者聚焦
-description: 你是否曾想在幕後一瞥，看看世界上一些最大品牌是如何管理它們工作的？
+title: 瞭解追蹤體驗製作者焦點
+description: 您是否曾想透過窗簾窺視一些全球大品牌是如何管理他們的工作？
 solution: Workfront
 role: User
 level: Beginner
 kt: 10312
 thumbnail: 342521.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 97b22616-eb33-4276-a5da-51bb689371c9
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
-# 學習途徑 — 體驗創造者聚光燈
+# 學習追蹤 — Experience Makers Spotlight
 
-你是否曾想在幕後一瞥，看看世界上一些最大品牌是如何管理它們工作的？
+您是否曾想透過窗簾窺視一些全球大品牌是如何管理他們的工作？
 
-參加「經驗創造者聚光燈」會議，聽取三家非常不同的組織介紹他們如何使用Workfront。 他們會談論自己的旅程，作為一個額外的收穫，我們的每位演講者將分享他們最好的「我希望我知道的」建議。
+參加我們的Experience Makers Spotlight座談會，聆聽三個非常不同的組織如何使用Workfront的相關資訊。 他們將會談論他們的歷程，而我們的每一位主持人都會分享他們對於「我希望我所知道的」最佳建議，這也是他們的額外收穫。
 
-你會聽到：
+您會聽到：
 
-* Esri如何利用報表來改進用戶體驗和衡量市場營銷KPI
-* Capital One中一個雜亂無章的團隊所學到的教訓是，他們將Workfront的試點計畫轉變為整個組織的大規模推廣
-* 除了營銷之外，還有三種方法！  — 內陸帝國健康計畫使用Workfront
+* Esri如何運用報告改善使用者體驗及評估行銷KPI
+* 從Capital One內某個死氣沈沈的團隊吸取的經驗教訓，該團隊已將Workfront的試點專案轉變為在整個組織中大規模推出
+* 行銷以外的三種方式！ - Inland Empire Health Plan使用Workfront
 
 >[!VIDEO](https://video.tv.adobe.com/v/342521/?quality=12&learn=on)

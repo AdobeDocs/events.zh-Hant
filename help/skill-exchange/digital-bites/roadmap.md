@@ -1,20 +1,21 @@
 ---
-title: 價值映射與價值實現路線圖
-description: 瞭解組織如何根據業務價值開發、評估和排定技術使用案例的優先順序，設定和報告關鍵績效指標，確保您的組織能夠帶來可量化的結果和出色的客戶體驗。
+title: 價值對應和價值實現的藍圖
+description: 瞭解組織如何針對其業務價值開發、評估技術使用案例並設定其優先順序、設定及報告KPI，確保您的組織推動可量化的成果和卓越的客戶體驗。
 role: Leader, User
 level: Intermediate
 kt: 11123
 thumbnail: 3409242.jpeg
 hidefromtoc: true
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: c4d253ba-cb15-4c8b-8b98-404481d49947
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
-# 價值映射與價值實現路線圖
+# 價值對應和價值實現的藍圖
 
-獲得正確的技術才是開始：企業如何確保自己的投資實現全部價值？ 在本次會議中，我們將介紹組織如何根據其業務價值開發、評估和排定技術使用案例的優先順序。 然後，我們將介紹您如何設定和報告可提供此類價值準確描述的KPI — 確保您的組織能夠提供可量化的結果和出色的客戶體驗。
+取得正確的技術只是開始：組織如何確保實現投資的全部價值？ 在這場會議中，我們將說明組織如何針對其業務價值開發、評估技術使用案例，並排定其優先順序。 接著，我們將說明如何設定及報告KPI，以準確瞭解這類價值，確保您的組織推動可量化的成果和絕佳的客戶體驗。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409242/?quality=12&learn=on)

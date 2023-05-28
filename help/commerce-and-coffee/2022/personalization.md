@@ -1,6 +1,6 @@
 ---
-title: 商務與咖啡 — 個性化
-description: 本次會議將深入探討如何個性化您的Commerce站點並保持全年的競爭力。 我們回顧了為什麼、什麼以及如何個性化和討論直接與個性化相關的轉換對效能的影響。 然後，Corey將通過演示「類別權限」、「客戶段」、「動態塊/小部件」、「產品Recommendations」等。 演示和演示還附上Corey的現場問答。
+title: 商務與咖啡 — 個人化
+description: 本課程深入探討個人化您的Commerce網站的策略與戰術，全年保持競爭力。 我們審視個人化的原因、內容及方式，並討論與個人化直接相關的轉換影響。 Cory接著會進行類別許可權、客戶區段、動態區塊/Widget、產品Recommendations等的示範。 簡報和示範會隨附Corey的即時問答。
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -9,15 +9,16 @@ doc-type: Event
 last-substantial-update: 2023-01-06T00:00:00Z
 kt: 11651
 thumbnail: 3412700.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 58ac489a-d5e3-4c90-9acd-b7d17c56aaeb
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-# 商務與咖啡 — 個性化
+# 商務與咖啡 — 個人化
 
-本次會議將深入探討如何個性化您的Commerce站點並保持全年的競爭力。 我們回顧了為什麼、什麼以及如何個性化和討論直接與個性化相關的轉換對效能的影響。 然後，Corey將通過演示「類別權限」、「客戶段」、「動態塊/小部件」、「產品Recommendations」等。 演示和演示還附上Corey的現場問答。
+本課程深入探討個人化您的Commerce網站的策略與戰術，全年保持競爭力。 我們審視個人化的原因、內容及方式，並討論與個人化直接相關的轉換影響。 Cory接著會進行類別許可權、客戶區段、動態區塊/Widget、產品Recommendations等的示範。 簡報和示範會隨附Corey的即時問答。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412700/?quality=12&learn=on)

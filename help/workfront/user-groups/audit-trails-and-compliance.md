@@ -1,19 +1,20 @@
 ---
-title: 審核跟蹤和法規遵從性（2020年7月1日）
-description: 傾聽法規遵從性專家就您如何能夠簡化和增強您組織中的法規遵從性和法規流程分享他們的想法。
+title: 稽核軌跡與合規性（2020年7月1日）
+description: 聆聽法規遵循專家分享他們對於如何簡化和增強組織內法規遵循和監管程式的想法。
 role: Admin, User
 level: Intermediate
 kt: 9990
 thumbnail: 341223.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: d1574096-e6b0-4d05-8877-fbc093710a61
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# 審核跟蹤和法規遵從性（2020年7月1日）
+# 稽核軌跡與合規性（2020年7月1日）
 
-傾聽法規遵從性專家就您如何能夠簡化和增強您組織中的法規遵從性和法規流程分享他們的想法。
+聆聽法規遵循專家分享他們對於如何簡化和增強組織內法規遵循和監管程式的想法。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341223/?quality=12&learn=on)

@@ -1,30 +1,31 @@
 ---
-title: Toughday2 — 全新且改進的壓力測試和基準測試工具
-description: 「艱難的一天」是一種測試工具，它模擬了最壞情況下的每日負載，同時進行所有操作。 多年來，我們收集了用戶提供的反饋，並決定重新編寫以滿足需求。
+title: Toughday2 — 全新改良的壓力測試和基準測試工具
+description: 「艱難日」是一種測試工具，可在所有作業同時進行的情況下，模擬最糟糕情況下的每日負載。 我們收集了使用者多年來的意見反應，並決定改寫以符合需求。
 uuid: 6bf40482-6152-421b-bdfe-9a50176b98b7
 discoiquuid: d60dbb18-7938-4446-9928-7f5f5d1f83a1
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 17c03036-bd8c-4cc7-bb66-8600d17cb98c
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 1%
 
 ---
 
-# Toughday2 — 全新且改進的壓力測試和基準測試工具{#toughday-a-new-and-improved-stress-testing-and-benchmarking-tool}
+# Toughday2 — 全新改良的壓力測試和基準測試工具{#toughday-a-new-and-improved-stress-testing-and-benchmarking-tool}
 
-「艱難的一天」是一種測試工具，它模擬了最壞情況下的每日負載，同時進行所有操作。 多年來，我們收集了用戶提供的反饋，並決定重新編寫以滿足需求。 出於您自己的目的，Toughday2將在會議後公開提供。 請加入我們，在現場演示中查看結果並討論更改。
+「艱難日」是一種測試工具，可在所有作業同時進行的情況下，模擬最糟糕情況下的每日負載。 我們收集了使用者多年來的意見反應，並決定改寫以符合需求。 出於您自己的目的，Toughday2將在工作階段結束後公開發佈。 請加入我們，在即時示範中檢視結果，並討論變更。
 
 >[!VIDEO](https://video.tv.adobe.com/v/18935/?quality=9)
 
-*2017年6月21日交付*
+*傳送日期： 2017年6月21日*
 
-**提交者：**
+**展示者：**
 
-* 卡塔林·盧塔，QE開發商，Adobe
-* 安德烈·斯特凡·圖伊庫，QE開發商，Adobe
+* Catalin Luta，QE開發人員，Adobe
+* Andrei Stefan Tuicu，QE開發人員，Adobe
 
-**演示者幻燈片**
+**簡報者投影片**
 
 [取得檔案](assets/aem-gems-toughday2.pdf)
 <!--

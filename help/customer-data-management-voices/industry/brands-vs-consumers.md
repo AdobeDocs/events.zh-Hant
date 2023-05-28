@@ -1,6 +1,6 @@
 ---
 title: 兩種見解的故事 - 品牌與消費者
-description: Adobe將廣告商和出版商對於一個沒有苦味的未來的理解和準備程度、對其使用案例的影響以及他們對更廣泛生態系統的感知都打亂了。
+description: Adobe可解開廣告商和發佈商對於無敵未來的瞭解和準備程度、對其使用案例的影響，以及他們對更廣闊生態系統的看法。
 solution: Real-time Customer Data Platform
 feature: Identities
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -9,19 +9,20 @@ doc-type: Event
 thumbnail: 332060.jpg
 kt: 7335
 type: Event
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: e97f13cf-091c-4726-b1b1-e0f683fea93a
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 16%
 
 ---
 
-# 《品牌與消費者》
+# 兩種見解的故事 — 品牌與消費者
 
-現今的行銷人員被埋沒在身分識別專門的雜亂資訊之中。而且，根據Adobe和科學界最近的研究，只有37%的營銷專業人士表示，他們為一個沒有餅乾的未來做好了充分準備。 [!DNL Advanis]。 在本網路研討會Adobe中，將廣告商和發行商對無餅乾未來的理解和準備程度、對其使用案例的影響以及他們對更廣泛生態系統的感知進行展開整理。
+現今的行銷人員被埋沒在身分識別專門的雜亂資訊之中。根據Adobe和百貨公司最近的一項調查，只有37%的行銷專業人士表示他們為未來不用餅乾做好了充分準備。 [!DNL Advanis]. 在這個網路研討會Adobe中，會說明廣告商和發佈商對於無Cookie未來的瞭解和整備程度、對其使用案例的影響，以及他們對更廣泛生態系統的看法。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332060/?quality=12&learn=on)
 
-要補充此視頻，您還可以 [下載白皮書](./../assets/whitepaper-a-tale-of-two-perceptions.pdf)
+若要補充本影片，您也可以 [下載白皮書](./../assets/whitepaper-a-tale-of-two-perceptions.pdf)
 
-*一年後：更新了有關*<a href="https://business.adobe.com/blog/perspectives/a-tale-of-two-perceptions-readiness-for-a-cookieless-future"> 商業.adobe.com </a>*。*
+*一年後：更新對下列專案的深入分析*<a href="https://business.adobe.com/blog/perspectives/a-tale-of-two-perceptions-readiness-for-a-cookieless-future"> business.adobe.com </a>*.*

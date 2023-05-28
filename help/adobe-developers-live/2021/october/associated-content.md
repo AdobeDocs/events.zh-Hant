@@ -1,6 +1,6 @@
 ---
-title: 利用關聯內容豐富商務體驗
-description: CIF附加產品最近推出的產品體驗管理擴展了資產、內容片段和體驗片段的創作能力，以將Adobe Experience Manager內容與產品資料相關聯。 利用相關內容的威力，您可以豐富使用CIF核心元件構建的完全動態的產品目錄，以顯示來自Adobe Commerce和Adobe Experience Manager的資料。 在本課程中，您將學習如何通過不同級別的營銷驅動體驗來豐富店面項目。 我們還向您介紹高級使用案例，在這些案例中，我們將展示定制元件如何利用相關內容。
+title: 透過關聯內容豐富Commerce體驗
+description: CIF附加元件最近推出產品體驗管理，擴充了資產、內容片段和體驗片段的製作功能，以便將Adobe Experience Manager內容與產品資料建立關聯。 運用關聯內容的強大功能，讓您可以使用CIF核心元件建置的完整動態產品目錄更為豐富，以顯示來自Adobe Commerce和Adobe Experience Manager的資料。 在這場會議中，您將學習如何使用不同層級的行銷導向體驗，讓您的店面專案更為豐富。 我們也會向您介紹進階使用案例，說明自訂元件可如何運用關聯內容。
 solution: Commerce,Experience Manager
 feature: Developer Tools
 role: Developer, Architect
@@ -8,16 +8,17 @@ level: Experienced
 version: Cloud Service
 kt: 9181
 type: Event
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: ca53c085-2f41-4400-8d88-4d9ed2beef0d
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 12%
 
 ---
 
-# 利用關聯內容豐富商務體驗
+# 透過關聯內容豐富Commerce體驗
 
-CIF附加產品最近推出的產品體驗管理擴展了資產、內容片段和體驗片段的創作能力，以將Adobe Experience Manager內容與產品資料相關聯。 利用相關內容的威力，您可以豐富使用CIF核心元件構建的完全動態的產品目錄，以顯示來自Adobe Commerce和Adobe Experience Manager的資料。 在本課程中，您將學習如何通過不同級別的營銷驅動體驗來豐富店面項目。 我們還向您介紹高級使用案例，在這些案例中，我們將展示定制元件如何利用相關內容。
+CIF附加元件最近推出產品體驗管理，擴充了資產、內容片段和體驗片段的製作功能，以便將Adobe Experience Manager內容與產品資料建立關聯。 運用關聯內容的強大功能，讓您可以使用CIF核心元件建置的完整動態產品目錄更為豐富，以顯示來自Adobe Commerce和Adobe Experience Manager的資料。 在這場會議中，您將學習如何使用不同層級的行銷導向體驗，讓您的店面專案更為豐富。 我們也會向您介紹進階使用案例，說明自訂元件可如何運用關聯內容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337772/?quality=12&learn=on&hidetitle=true)
 

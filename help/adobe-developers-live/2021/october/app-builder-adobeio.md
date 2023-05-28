@@ -1,24 +1,25 @@
 ---
-title: 第三方開發商市場AdobeExchange概述
-description: 瞭解如何在開發人員控制台上建立服務到服務整合，在Admin Console上管理它，並在AdobeExchange上發佈公共應用程式清單。 在建立到AdobeAPI的連接後，我們將完成以下步驟：註冊為AdobeExchange合作夥伴、建立公共清單、提交審批並發佈。
+title: 協力廠商開發人員市場Adobe交換的概觀
+description: 瞭解如何在開發人員控制檯上建立服務對服務整合、在Admin Console上管理它，以及在Adobe交換上發佈公開應用程式清單。 建立與AdobeAPI的連線後，我們將逐步完成註冊為AdobeExchange合作夥伴、建立公開清單、提交以供核准及發佈的步驟。
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Experienced
 kt: 9220
 type: Event
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: e5d8a8fc-20aa-416d-986a-765a756077b6
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 16%
 
 ---
 
-# 第三方開發商市場AdobeExchange概述
+# 協力廠商開發人員市場Adobe交換的概觀
 
-瞭解如何在開發人員控制台上建立服務到服務整合，在Admin Console上管理它，並在AdobeExchange上發佈公共應用程式清單。 在建立到AdobeAPI的連接後，我們將完成以下步驟：註冊為AdobeExchange合作夥伴、建立公共清單、提交審批並發佈。
+瞭解如何在開發人員控制檯上建立服務對服務整合、在Admin Console上管理它，以及在Adobe交換上發佈公開應用程式清單。 建立與AdobeAPI的連線後，我們將逐步完成註冊為AdobeExchange合作夥伴、建立公開清單、提交以供核准及發佈的步驟。
 
-在中繼續對話 **[Experience League社區](https://adobe.ly/3ooiltm)**。
+繼續對話於 **[Experience League社群](https://adobe.ly/3ooiltm)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337841/?quality=12&learn=on&hidetitle=true)
 

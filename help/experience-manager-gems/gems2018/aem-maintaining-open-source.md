@@ -1,29 +1,30 @@
 ---
-title: 在保持理智的同時維護開放源
-description: 維護開源項目可能很困難。 成功的開源項目可能會佔用大量時間，而且你往往會感到愧疚，因為你覺得自己沒有花足夠的時間來研究它。 瞭解一些可以幫助您保持項目高度而無愧疚感的東西。
+title: 維護開放原始碼，同時保持您的理智
+description: 維護開放原始碼專案可能很困難。 成功的開放原始碼專案可能會佔用您許多時間，而且您最後常常會因為覺得沒有花足夠的時間處理它而感到內疚。 瞭解一些有助於您掌控專案而不產生負罪感的事情。
 uuid: 94e91950-d915-4659-985a-f496e47e8963
 discoiquuid: f52fef4b-b8ba-45f6-897c-814a7367994e
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: ff855f03-eb10-4e44-b604-2dd056d7ab0f
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 1%
 
 ---
 
-# 在保持清醒的同時維護開放源{#maintaining-open-source-while-maintaining-your-sanity}
+# 維護開放原始碼，同時維持您的理智狀態{#maintaining-open-source-while-maintaining-your-sanity}
 
-維護開源項目可能很困難。 成功的開源項目可能會佔用大量時間，而且你往往會感到愧疚，因為你覺得自己沒有花足夠的時間來研究它。 你不是孤身一人！ 我作為開源貢獻者已有很長的時間，並且是Apache Cordova的核心維護者已有8年多。 我學到了很多東西，這些東西可以幫助你保持項目的領先地位，而不會產生負罪感。
+維護開放原始碼專案可能很困難。 成功的開放原始碼專案可能會佔用您許多時間，而且您最後常常會因為覺得沒有花足夠的時間處理它而感到內疚。 您並不孤單！ 我很久以來就一直是開放原始碼貢獻者，並且是Apache Cordova超過8年的核心維護者。 我已瞭解一些有助於您掌控專案而不會有負罪感的事。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23713/?quality=9)
 
-*已交付09/12/2018*
+*2018年9月12日提供*
 
-**提交者：**
+**展示者：**
 
-Simon MacDonald，開發商倡導人，Adobe
+Adobe開發人員宣傳專員Simon Mac Donald
 
-日期：09/12/2018
+日期： 2018年9月12日
 
 [取得檔案](assets/maintaining-open-source-while-maintaining-your-sanity-gems-091218.pdf)
 

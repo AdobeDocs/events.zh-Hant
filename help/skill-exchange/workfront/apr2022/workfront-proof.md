@@ -1,25 +1,26 @@
 ---
-title: Adobe Workfront證明的未來
-description: 您是否使用Workfront校樣來審核和批准您組織的工作流？ 好奇如何從工具中獲得最大價值以及我們對未來的計畫。
+title: Adobe Workfront Proof的未來
+description: 您是否使用Workfront Proof進行組織的檢閱和核准工作流程？ 好奇如何充分利用該工具，以及我們為未來制定的計畫。
 solution: Workfront
 role: User
 level: Intermediate, Experienced
 kt: 10315
 thumbnail: 342525.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 0dd2956c-2938-437b-877b-c53c297e93dd
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
-# Adobe Workfront證明的未來
+# Adobe Workfront Proof的未來
 
-您是否使用Workfront校樣來審核和批准您組織的工作流？ 好奇如何從工具中獲得最大價值，以及我們對未來的計畫？ Adobe WorkfrontProof產品經理卡羅琳·奧斯曼將分享：
+您是否使用Workfront Proof進行組織的檢閱和核准工作流程？ 好奇如何充分利用此工具，以及我們針對未來有何計畫？ Proof的Adobe Workfront產品經理Caroline Ossmann將分享：
 
-* 最新創新要點
-* 我們如何看待客戶利用Proof的示例
-* 關於如何改進一般審批流程的想法
-* 下一年（及以後）的路線圖中
+* 最新創新的亮點
+* 我們如何看到客戶運用Proof的範例
+* 有關如何改善您的一般檢閱和核准程式的想法
+* 下一年（及以後）藍圖的內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/342525/?quality=12&learn=on)

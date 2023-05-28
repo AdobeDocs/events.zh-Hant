@@ -1,29 +1,30 @@
 ---
-title: 建立具有6.AEM1的聯機社區
-description: 瞭解如何利用強AEM大的創作介面構建充滿活力的客戶社區，並瞭解在產品發佈後讓您的風扇群長期投入使用的工具。
+title: 使用AEM 6.1建立線上社群
+description: 瞭解如何善用AEM強大的撰寫介面來建立生氣勃勃的客戶社群，並瞭解相關工具，以便在產品上市後維持粉絲群的互動。
 uuid: 5b685948-697f-4095-85ad-f62db189bb30
 discoiquuid: 62b6b8d4-b763-4801-9918-447a2c5deb01
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: a36621d4-2c80-4a45-aa71-cd31fffb56fc
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 1%
 
 ---
 
-# 建立具有6.AEM1的聯機社區{#creating-online-communities-with-aem}
+# 使用AEM 6.1建立線上社群{#creating-online-communities-with-aem}
 
-想像一下，在您的CQ工程師很少或沒有幫助的情況下，能夠在數小時內而不是數週內站立社區站點。 AEM Communities6.1將致力於通過嚮導驅動的模板方法提供這一能力，以涵蓋各種初始使用案例。 AEM Communities6.1還將提供通過WCM進一步定制這些新社區網AEM站的能力 [!DNL Sites] 功能。 與我們一起學習如何利用強AEM大的創作介面來構建充滿活力的客戶社區，並學習各種工具，使您的風扇群在產品推出後能夠長期投入使用。
+想像一下，只要幾個小時，就能在社群網站上站立，不必等上幾週，CQ工程師幾乎或完全沒有協助。 AEM Communities 6.1將專注於透過精靈導向的樣板化方法來提供此功能，以涵蓋各種初始使用案例。 AEM Communities 6.1還能透過AEM WCM進一步自訂這些新社群網站 [!DNL Sites] 功能。 加入我們，瞭解如何運用AEM強大的撰寫介面來建立生氣勃勃的客戶社群，並瞭解相關工具，讓您的粉絲群在產品上市後仍可長期使用。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19381/?quality=9)
 
-*2015年7月22日交付*
+*傳送日期： 2015年7月22日*
 
-**提交者：**
+**展示者：**
 
-* Bertrand de Coatpont ,Adobe
+* Bertrand de Coatpont，集團產品經理，Adobe
 
-**演示者幻燈片**
+**簡報者投影片**
 
 [取得檔案](assets/aem-6-1-communities-gems.pdf)
 <!--

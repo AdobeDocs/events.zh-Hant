@@ -1,17 +1,18 @@
 ---
-title: Marketo和莫恰斯
-description: Marketo點播活動是一個視頻庫，專家和同行分享了他們關於如何最好地利用AdobeMarketo的想法和想法。
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+title: Marketo和Mochas
+description: Marketo隨選活動是影片庫，專家和同業可在此分享他們關於如何最佳使用AdobeMarketo的想法和想法。
+exl-id: 85f6f463-6c7c-40b5-8354-6b934758870a
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
-# Marketo和莫恰斯
+# Marketo和Mochas
 
-歡迎收看Marketo和莫恰斯的錄音。 將這些資源與AdobeMarketo [文檔](https://experienceleague.adobe.com/docs/marketo-engage.html) 和 [教程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)您將更瞭解如何使用AdobeMarketo支援您的業務。
+歡迎使用Marketo和Mochas錄製。 將這些資源與AdobeMarketo搭配使用 [檔案](https://experienceleague.adobe.com/docs/marketo-engage.html) 和 [教學課程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)，您將更瞭解如何使用AdobeMarketo支援您的業務。
 
 >[!TIP]
 >
->**所有錄制的會話都列在左側的導航中**。
+>**左側導覽中會列出所有錄製的工作階段**.

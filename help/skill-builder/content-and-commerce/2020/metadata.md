@@ -1,6 +1,6 @@
 ---
 title: 中繼資料
-description: 設定清晰的策略以優化可發現性
+description: 設定明確策略以最佳化可發現性
 solution: Experience Manager, Experience Manager Assets
 product: experience manager
 sub-product: assets
@@ -12,31 +12,32 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 7339
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: c2c500bf-b060-4507-af61-4c5dd1c5a8ec
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 15%
 
 ---
 
-# 元資料 — Adobe Experience Manager資產系列
+# 中繼資料 — Adobe Experience Manager資產系列
 
-使用此五部分網路研討會系列構建您的知識庫，並最大限度地提高您對Adobe Experience Manager資產的投資。 如果您是Adobe Experience Manager資產的新從業人員，或已使用Adobe Experience Manager資產有一段時間，並且希望瞭解您的現有技能，這是深入瞭解解決方案的五個最重要領域的理想方法。 Adobe專家將回顧基本知識，並提供高級見解，為您提供可立即付諸實踐的可操作的後續步驟。
+使用這個由五部分組成的網路研討會系列，建立您的知識庫，並最大化您在Adobe Experience Manager資產中的投資。 如果您是初次使用Adobe Experience Manager Assets或已經使用Adobe Experience Manager Assets一段時間且希望進一步掌握現有技能的從業者，這是深入探究解決方案最重要的五個領域的理想方式。 Adobe專家將檢閱基本知識，並提供進階深入分析，帶給您可立即實施的可操作後續步驟。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332134/?quality=12&learn=on&hidetitle=true)
 
-設定明確的策略以優化可發現性。
+設定明確策略以最佳化可發現性。
 
 ## 資源
 
-*[使用元資料架構管理資產元資料](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html)
-*[擴展元資料架構](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html)
-*[使用級聯元資料優化元資料創作](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html?lang=zh-Hant)
-*[使用元資料配置檔案自動將元資料應用於資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html)
-*[元資料AEM架構](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=en#administer)
-*[管理資產元資料](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=en#RegisteringacustomnamespacewithinAEM)
+*[使用中繼資料結構描述來管理資產中繼資料](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html)
+*[擴充中繼資料結構](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html)
+*[使用階層式中繼資料最佳化中繼資料編寫](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html?lang=zh-Hant)
+*[使用中繼資料設定檔自動將中繼資料套用至資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html)
+*[AEM中繼資料結構](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=en#administer)
+*[管理資產中繼資料](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=en#RegisteringacustomnamespacewithinAEM)
 
-## 系列錄制
+## 系列錄製
 
 * [資產連結](asset-link.md)
 * [Brand Portal](brand-portal.md)

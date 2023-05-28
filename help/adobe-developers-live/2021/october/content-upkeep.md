@@ -1,24 +1,25 @@
 ---
-title: 內容保持
-description: 演示Adobe Experience Manager現代化工具套件中提供的功能。 瞭解開發團隊如何使用它來整合、轉換或升級內容，以減輕元件庫發展過程中對作者的負擔。
+title: 內容維護
+description: 示範Adobe Experience Manager現代化工具套裝中的可用功能。 瞭解開發團隊如何使用它來合併、轉換或升級內容，以隨著元件庫的發展而減輕作者的負擔。
 solution: Experience Manager
 role: User
 level: Beginner
 version: Cloud Service
 kt: 9135
 type: Event
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: edc8be9b-bf88-48e1-834c-885724bf5e91
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 23%
 
 ---
 
-# 內容保持
+# 內容維護
 
-演示Adobe Experience Manager現代化工具套件中提供的功能。 瞭解開發團隊如何使用它來整合、轉換或升級內容，以減輕元件庫發展過程中對作者的負擔。
+示範Adobe Experience Manager現代化工具套裝中的可用功能。 瞭解開發團隊如何使用它來合併、轉換或升級內容，以隨著元件庫的發展而減輕作者的負擔。
 
-在中繼續對話 **[Experience League社區](https://adobe.ly/3zJuUBH)**。
+繼續對話於 **[Experience League社群](https://adobe.ly/3zJuUBH)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337577/?quality=12&learn=on&hidetitle=true)
 

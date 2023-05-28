@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce路線圖亮點
-description: 與Adobe Commerce公司高級產品營銷經理Ed Kennedy一起，瞭解有關Adobe Commerce頂級產品投資的最新動態
+title: Adobe Commerce藍圖重點說明
+description: 與Adobe Commerce資深產品行銷經理Ed Kennedy一起聆聽Adobe Commerce產品投資重點的最新消息
 solution: Commerce, Magento Business Intelligence
 role: Admin, Architect, Developer, Leader, User
 level: Beginner
@@ -8,15 +8,16 @@ last-substantial-update: 2022-11-04T00:00:00Z
 kt: 11424
 thumbnail: 3410838.jpeg
 hidefromtoc: true
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 184a8793-7aab-46cd-807a-a633fe5d8e40
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce路線圖亮點
+# Adobe Commerce藍圖重點說明
 
-與Adobe Commerce公司高級產品營銷經理Ed Kennedy一起，瞭解有關Adobe Commerce頂級產品投資的最新更新，這些投資包括Adobe Experience PlatformAdobe Commerce連接器、智慧類別、API Mesh、應用構建器、藍綠部署和自動縮放。
+與Adobe Commerce資深產品行銷經理Ed Kennedy一起聆聽有關Adobe Commerce熱門產品投資的最新更新，包括Adobe Commerce的Adobe Experience Platform Connector、Intelligent Categories、API Mesh、App Builder、藍綠色部署和自動縮放。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410838/?quality=12&learn=on)

@@ -1,22 +1,23 @@
 ---
-title: 智慧競選的力量
-description: 在此會話中，您將瞭解有關智慧市場活動的所有資訊，包括 — 智慧清單 — 觸發器和篩選器、流、計畫和結果。
+title: 智慧行銷活動的力量
+description: 在這場會議中，您將瞭解所有智慧行銷活動，包括 — 智慧清單 — 觸發器和篩選器、流量、排程和結果。
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9711
 thumbnail: 340310.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 6902443a-81b6-42d0-8fc1-0b7bf9ca52b9
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# 智慧競選的力量
+# 智慧行銷活動的力量
 
-在本課程中，您將瞭解有關智慧市場活動的所有資訊，包括：智慧清單 — 觸發器和篩選器、流、計畫和結果。
+在這場會議中，您將瞭解所有智慧行銷活動，包括：智慧清單 — 觸發器和篩選器、流量、排程和結果。
 
-在結束本次會議時，您將瞭解哪些活動是明智的，如何使用這些活動以及成功的技巧和技巧！
+在本次研討會中，您將會瞭解什麼是智慧型行銷活動、如何使用這些行銷活動，以及成功的秘訣與技巧！
 
 >[!VIDEO](https://video.tv.adobe.com/v/340310/?quality=12&learn=on)

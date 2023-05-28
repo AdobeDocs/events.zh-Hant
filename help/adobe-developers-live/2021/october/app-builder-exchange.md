@@ -1,6 +1,6 @@
 ---
-title: 應用生成器Exchange
-description: 在瀏覽擴展Adobe Experience Manager的App Builder應用程式體系結構時，瞭解有關App Builder的更多資訊。
+title: App Builder Exchange
+description: 逐步瞭解擴充Adobe Experience Manager的App Builder應用程式的應用程式架構，進一步瞭解App Builder。
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -9,18 +9,19 @@ level: Experienced
 version: Cloud Service
 kt: 9214
 type: Event
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: fbe96c16-a9eb-48ad-9954-1e608866f5fd
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 31%
 
 ---
 
-# 應用生成器Exchange
+# App Builder Exchange
 
-在瀏覽擴展Adobe Experience Manager的App Builder應用程式體系結構時，瞭解有關App Builder的更多資訊。
+逐步瞭解擴充Adobe Experience Manager的App Builder應用程式的應用程式架構，進一步瞭解App Builder。
 
-在中繼續對話 **[Experience League社區](https://adobe.ly/3uragoI)**。
+繼續對話於 **[Experience League社群](https://adobe.ly/3uragoI)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337709/?quality=12&learn=on&hidetitle=true)
 

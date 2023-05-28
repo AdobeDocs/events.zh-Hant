@@ -1,39 +1,40 @@
 ---
-title: 主要Brand Portal版本和資產份額新參考實施
-description: 媒體門戶對於企業內部和外部共用資產至關重要。 在本次會議中，我們將向您介紹Adobe資產中的新資產共用公域。
+title: 資產共用的主要Brand Portal版本和新參考實作
+description: 媒體入口網站對於組織內部以及許多情況下外部共用資產都至關重要。 在這場會議中，我們將向您介紹Adobe Assets的新資產共用共用共用。
 uuid: 0a5a3c7c-60b2-400f-b555-ca51f01e8184
 discoiquuid: 524f8a2e-dcd4-44b5-ae2f-524dff8f03ab
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 2664bee0-85d4-4f85-bdd2-841d2d5f1e35
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 3%
 
 ---
 
-# 主要Brand Portal版本和資產份額新參考實施{#major-brand-portal-release-and-new-reference-implementation-for-asset-share}
+# 資產共用的主要Brand Portal版本和新參考實作{#major-brand-portal-release-and-new-reference-implementation-for-asset-share}
 
-媒體門戶對於企業內部和外部共用資產至關重要。 在本次會議中，我們將向您介紹Adobe資產中的新資產共用公域。
+媒體入口網站對於組織內部以及許多情況下外部共用資產都至關重要。 在這場會議中，我們將向您介紹Adobe Assets的新資產共用共用。
 
 您將能學習到：
 
-* 根據使用情形提供哪些媒體門戶選項
-* 如何實施這些選項
-* 確保易用性的最佳實踐
+* 根據使用案例，有哪些媒體入口網站選項可供使用
+* 如何實作這些選項
+* 確保易用性的最佳實務
 
 >[!VIDEO](https://video.tv.adobe.com/v/20730/?quality=9)
 
-*2017年11月8日交付*
+*2017年11月8日送達*
 
-**提交者：**
+**展示者：**
 
-Mike Carley ，產品營銷經理 —  [!DNL AEM Assets],Adobe
+產品行銷經理Mike Carley - [!DNL AEM Assets]，Adobe
 
-Krishna Selvaraj，技術營銷工程師 — AEM,Adobe
+Krishna Selvaraj，AEM、Adobe技術行銷工程師
 
-Daniel Gordon，技術營銷工程師 — AEM,Adobe
+AdobeAEM技術行銷工程師Daniel Gordon
 
-**演示者幻燈片**
+**簡報者投影片**
 
 [取得檔案](assets/gems+bp-asset+share+nov+8+17+.pdf)
 <!--

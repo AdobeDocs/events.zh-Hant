@@ -10,7 +10,8 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM講座
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+exl-id: 595f6977-935a-4859-9cfd-161d45847f85
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 2%
@@ -72,5 +73,3 @@ ht-degree: 2%
 * 連線：與同行和Adobe人員建立網路，以獲得從實作到擴大產品使用的指引和最佳實務
 * 快速解答：廣泛的真實使用案例解答，可支援成功主動使用Adobe解決方案
 * 創意與意見反應：聽取客戶產品創意並向產品團隊提供寶貴的VoC意見反應
-
-

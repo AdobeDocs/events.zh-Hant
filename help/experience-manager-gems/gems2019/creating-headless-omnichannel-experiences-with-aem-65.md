@@ -1,32 +1,33 @@
 ---
-title: 用6.5創造無頭人AEM體驗
-description: 您需要創造出下一級的流暢體驗，以便在不斷發展的數字環境中跟上快節奏的客戶。 瞭解Adobe Experience Manager6.5的最新創新如何使其成為可能。 深入探討關鍵創新，如單頁應用程式(SPA)編輯器、內容和體驗片段、上下文內容編輯等。 利用上述創新加速和自動化跨渠道設計和交付經驗的最佳做法。 Adobe Experience Manager內容服務框架簡介。 演示客戶跨移動、單頁應用程式和電子郵件的旅程。 設計成熟和新興渠道時的架構考慮。
+title: 使用AEM 6.5建立Headless全通路體驗
+description: 您需要打造更高級別的流動體驗，以跟上數位格局中快節奏客戶的腳步。 瞭解Adobe Experience Manager 6.5中的最新創新如何使其成為可能。 深入瞭解關鍵創新內容，例如單頁應用程式(SPA)編輯器、內容與體驗片段、內容編輯等。 運用上述創新的最佳實務，加速並自動化跨管道體驗的設計和傳遞。 Adobe Experience Manager中的Content Services架構簡介。 跨行動裝置、單頁應用程式和電子郵件的客戶歷程示範。 針對成熟和新興管道進行設計時的架構考量。
 uuid: 126e5518-b8c0-41e7-9b99-78d9d80b18b0
 discoiquuid: 77929dd9-2a0b-45e2-bffb-7a6e6ac1d9bd
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 2b326d24-e734-4f19-b4dd-9e538f80497a
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
-# 用6.5創造無頭人AEM體驗{#creating-headless-omnichannel-experiences-with-aem}
+# 使用AEM 6.5建立Headless全通路體驗{#creating-headless-omnichannel-experiences-with-aem}
 
-您需要創造出下一級的流暢體驗，以便在不斷發展的數字環境中跟上快節奏的客戶。 瞭解Adobe Experience Manager6.5的最新創新如何使其成為可能。 深入探討關鍵創新，如單頁應用程式(SPA)編輯器、內容和體驗片段、上下文內容編輯等。 利用上述創新加速和自動化跨渠道設計和交付經驗的最佳做法。 Adobe Experience Manager內容服務框架簡介。 演示客戶跨移動、單頁應用程式和電子郵件的旅程。 設計成熟和新興渠道時的架構考慮。
+您需要打造更高級別的流動體驗，以跟上數位格局中快節奏客戶的腳步。 瞭解Adobe Experience Manager 6.5中的最新創新如何使其成為可能。 深入瞭解關鍵創新內容，例如單頁應用程式(SPA)編輯器、內容與體驗片段、內容編輯等。 運用上述創新的最佳實務，加速並自動化跨管道體驗的設計和傳遞。 Adobe Experience Manager中的Content Services架構簡介。 跨行動裝置、單頁應用程式和電子郵件的客戶歷程示範。 針對成熟和新興管道進行設計時的架構考量。
 
 >[!NOTE]
 >
->本網路研討會是在Experience Insider內提供的，並保存在此供參考。
+>此網路研討會是在Experience Insider內提供，並在這裡保留以供參考。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27088/?quality=9)
 
-*已交付04/16/19*
+*2019年4月16日傳遞*
 
-**提交者：**
+**展示者：**
 
-* Amol Anand，首席顧問，技術架構師，Adobe
+* Amol Anand，Adobe技術架構師首席顧問
 
-**演示者幻燈片**
+**簡報者投影片**
 
 [取得檔案](assets/headless-omnichannelwebinar04162019.pdf)

@@ -1,7 +1,8 @@
 ---
 title: MBI事件
 description: 探索MBI錄製的網路研討會，其中涵蓋了使用MBI發揮最大潛力的廣泛主題和最佳實務。
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+exl-id: ebc973b9-a7e0-42a7-968b-17d077b67af4
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 30%
@@ -56,7 +57,7 @@ MBI網路研討會系列是MBI客戶的定期活動。 這些網路研討會涵�
       </a>
     </div>
     <p>
-    <em>使用「Data Warehouse管理員」，您可以管理表格和欄同步設定、深入研究表格的綱要，以及建立要在報表中使用的計算欄。</em>
+    <em>使用「Data Warehouse管理員」，您可以管理表格和欄同步設定、深入研究表格的綱要，以及建立要在報告中使用的計算欄。</em>
     <p>
   </td>
 </tr>
