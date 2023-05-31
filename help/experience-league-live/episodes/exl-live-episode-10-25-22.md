@@ -3,13 +3,15 @@ title: 透過決策管理在適當的時間提供適當的優惠
 description: 可以整合Adobe Target和Adobe Real-time Customer Data Platform，以提供更個人化的客戶體驗。 在這個直播串流活動中，瞭解整合這兩個平台如何協助企業即時收集資料，然後建立和測試鎖定目標的體驗。 在即時示範中瞭解這項強大功能的端對端流程。
 solution: Journey Optimizer
 kt: 11028
+feature: Offers
+role: User
 thumbnail: https://video.tv.adobe.com/v/3410560?format=jpeg
 event-cta-text: Set Reminder
 event-cta-url: https://www.youtube.com/watch?v=f1T9XU9TCJU
 event-start-time: 2022-10-25 09:00-7
 event-guests: Sandra Hausmann,Ben Tepfer,Brandon Poyfair,Jason Hickey
 exl-id: 468f1e46-7b69-41c3-8c49-948aaf2e92a3
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+source-git-commit: 26cd8c02afc6f8cf506d82b363ccfd0482c3bafd
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
