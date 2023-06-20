@@ -2,9 +2,9 @@
 title: APAC商務網路研討會系列
 description: APAC商務網路研討會系列是每月為Adobe Commerce客戶提供的一系列研討會，涵蓋從最佳實務到產品藍圖和行業趨勢的廣泛主題。
 exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 147a7e327b387d0b02e4110e1405c1f8b6f3c883
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -44,16 +44,16 @@ APAC商務網路研討會系列是每月為Adobe Commerce客戶提供的一系�
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
-      <img alt="New Relic Masterclass" src="https://video.tv.adobe.com/v/345148?format=jpeg" />
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
+      <img alt="適用於可擴充和敏捷電子商務的可撰寫商務策略" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
-        <strong>New Relic Masterclass</strong>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
+        <strong>適用於可擴充和敏捷電子商務的可撰寫商務策略</strong>
       </a>
     </div>
     <p>
-    <em>參加此網路研討會，瞭解如何使用New Relic掌控您的基礎結構。 存取並瞭解您的基礎架構資料，絕對有信心地展開您的下一個行銷活動。</em>
+    <em>加入我們，參加一個有深入見解的網路研討會，深入瞭解可撰寫架構的世界，以及它如何為電子商務的格局帶來革命性的變化。</em>
     <p>
   </td>  
 </tr>
