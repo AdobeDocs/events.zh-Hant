@@ -11,7 +11,7 @@ level: Intermediate
 type: Event
 user-guide-description: AEM GEM講座
 exl-id: 595f6977-935a-4859-9cfd-161d45847f85
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 4f5886c31f9ccad98106469899388feba1ebee22
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 2%
@@ -45,7 +45,7 @@ ht-degree: 2%
 
 -->
 我們最新的AEM GEM網路研討會於 **透過快速開發環境加速Adobe Experience ManagerCloud Service開發** 執行日期 *2023年2月22日*.
-此 **錄製** 可在此處找到： [AEM快速開發環境網路研討會](gems2023/Rapid-Development-Environments.md)
+此 **錄製** 可在此處找到： [AEM快速開發環境網路研討會](gems2023/rapid-development-environments.md)
 
 >[!NOTE]
 >
