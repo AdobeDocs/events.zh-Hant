@@ -2,10 +2,10 @@
 user-guide-title: Adobe Experience League活動錄製
 user-guide-breadcrumb: Event Recordings
 user-guide-description: 強制使用Adobe企業產品的活動錄製集合
-source-git-commit: 03d83282eee7d5d3b7a2c5bdf2c6c82ac268b9a9
+source-git-commit: 0122cd988472a6c1b87318b925f87b56e908c6e9
 workflow-type: tm+mt
-source-wordcount: '560'
-ht-degree: 12%
+source-wordcount: '580'
+ht-degree: 13%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 12%
    + [Adobe Campaign測試人員系列](https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html)
    + [Adobe內容管理論壇](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
    + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
+   + [AEM Champion營業時間](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
    + [APAC商務活動](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
    + [商務與咖啡](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
    + [客戶資料管理意見](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
@@ -55,6 +56,7 @@ ht-degree: 12%
    + Adobe Experience Manager {#aem}
       + [Adobe內容管理論壇](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
+      + [AEM Champion營業時間](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
       + [Experience League即時](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [EXPERIENCE MANAGERGEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
       + [Experience Manager版本總覽](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html)

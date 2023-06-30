@@ -3,9 +3,9 @@ title: Adobe Experience League事件
 description: 著重於使用Adobe企業產品的活動錄製集合
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: 0ced31f2961ad441d9b54c4f526c535bdec31e7e
+source-git-commit: 0122cd988472a6c1b87318b925f87b56e908c6e9
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '792'
 ht-degree: 10%
 
 ---
@@ -59,6 +59,21 @@ ht-degree: 10%
          Adobe Developers Live彙集多元背景的Adobe開發人員和有經驗的建置者，其目的只有一個，就是創造令人驚豔的端對端體驗。
       </p>
     </td>
+    <td>
+      <a href="/help/aem-champion-office-hours/overview.md">
+      <img style="width:100%" alt="AEM Champion營業時間" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png"/>
+      </a>
+      <div>
+         <a href="/help/aem-champion-office-hours/overview.md"><strong>AEM Champion營業時間</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Manager</em>
+      </div>
+      <p>
+        <br/>
+         如果您有興趣增進對Adobe Experience Manager的知識和使用、與Experience Manager思想領袖互動以及獲得獨家獎勵，那麼現在就加入AEM Champion辦公時間使用者群組！
+      </p>
+    </td> 
+    </tr>
+    <tr>
    <td>
       <a href="/help/apac-commerce/overview.md">
       <img style="width:100%" alt="APAC Adobe Commerce網路研討會" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png"/>
@@ -72,8 +87,6 @@ ht-degree: 10%
          APAC商務網路研討會系列是每月為Adobe Commerce客戶提供的一系列研討會，涵蓋從最佳實務到產品藍圖和行業趨勢的廣泛主題。
       </p>
     </td>
-    </tr>
-    <tr>
    <td>
       <a href="/help/commerce-and-coffee/overview.md">
       <img style="width:100%" alt="商務與咖啡" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png"/>
@@ -113,6 +126,8 @@ ht-degree: 10%
          Deep Dive隨選活動錄製可幫助您更好地瞭解如何使用AdobeMarketo來支援您的業務。
       </p>
     </td>
+    </tr>
+    <tr>
    <td>
       <a href="/help/experience-league-live/overview.md">
       <img style="width:100%" alt="Experience League LIVE" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png"/>
@@ -125,7 +140,6 @@ ht-degree: 10%
         <br/>Experience League LIVE 是 Experience League 團隊製作的直播串流節目。您可以藉此機會與 Adobe 產品專家交流，並學到您可以透過 Adobe Experience Cloud 應用程式應用可落實的秘訣、技巧和策略。
       </p>
     </td>
-  <tr>  
    <td>
       <a href="/help/experience-manager-gems/overview.md">
       <img style="width:100%" alt="EXPERIENCE MANAGERGEMS" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png"/>
@@ -164,6 +178,8 @@ ht-degree: 10%
          向Adobe專家和同行學習如何充分利用您的Adobe解決方案。 透過從業者選擇的主題，這些互動式會議分享了「可能藝術」的使用案例、最佳實踐和提示與技巧。
       </p>
     </td>
+    </tr>
+    <tr>
    <td>
       <a href="/help/marketo-and-mochas/overview.md">
       <img style="width:100%" alt="Marketo和Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png"/>
@@ -177,8 +193,6 @@ ht-degree: 10%
          Marketo和Mochas可協助您更加瞭解如何使用AdobeMarketo支援您的業務。
       </p>
     </td>
-  </tr>
-  <tr>  
     <td>
       <a href="/help/mbi-webinars/overview.md">
       <img style="width:100%" alt="MBI網路研討會" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
@@ -218,6 +232,8 @@ ht-degree: 10%
          Experience Makers技能交流是全球性的虛擬客戶學習活動系列，專注於深入瞭解Adobe Experience Cloud解決方案。 此計畫透過分享最佳實務和秘訣提供向Adobe產品專家和專家同行學習的機會。
       </p>
     </td>
+    </tr>
+    <tr>
     <td>
       <a href="/help/workfront/overview.md">
       <img style="width:100%" alt="Workfront" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png"/>
