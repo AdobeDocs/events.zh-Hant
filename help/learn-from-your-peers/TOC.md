@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: 「錄製集合來源： [!DNL Experience Makers Learn from your peers]"
-source-git-commit: d2aab682b1ae08111655081bd39b29b8370ad816
+source-git-commit: b32c10575f90d02829889d9eae876b2c922915bb
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 23%
+source-wordcount: '80'
+ht-degree: 22%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 23%
 
 + [體驗製作者](overview.md)
 + Analytics {#analytics}
-   + 2023 {#2023}
+   + 2023 年{#2023}
       +  年 2 月{#feb2023}
          + [建立資料導向文化](analytics/feb2023/data-driven-culture.md)
          + [建立資料導向型文化後續問答](analytics/feb2023/data-driven-culture-q-and-a.md)
-   + 2022 {#2022}
+   + 2022 年{#2022}
       +  年 11 月{#nov2022}
          + [秘訣與技巧](analytics/nov2022/tips-and-tricks.md)
          + [Champion提示與秘訣後續追蹤問答](analytics/nov2022/tips-and-tricks-q-and-a.md)
@@ -32,6 +32,8 @@ ht-degree: 23%
    +  年 5 月{#may2023}
       + [掌握內容與體驗片段](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
+   +  年 6 月{#june2023}
+      + [追蹤、分析和最佳化您的行銷活動](marketo/june2023/marketing-campaigns.md)
    +  年 5 月{#may2023}
       + [使用大規模程式碼破解個人化 [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
    +  年 3 月{#mar2023}
