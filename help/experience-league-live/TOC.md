@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 06de70ea4e8f35ed3ed5930261e49626a4a029bf
+source-git-commit: f03cd70edc922b35903a4aa7882dbae9278d00e9
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '264'
 ht-degree: 8%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 8%
 
 + [總覽](overview.md)
 + 集數 {#episodes}
+   + [Ep. 26：可操作的對象，在單一位置&#x200B;從任何來源透過標準控制項](episodes/exl-live-episode-7-20-23.md)
    + [Ep. 25：透過網路頻道和內容實驗探索Adobe Journey Optimizer的未來](episodes/exl-live-episode-6-14-23.md)
    + [Ep. 24：透過Adobe Journey Optimizer充分發揮行動應用程式的潛力](episodes/exl-live-episode-5-24-23.md)
    + [Ep. 23：只要按幾下滑鼠，資料收集和事件轉送功能即可正常運作！](episodes/exl-live-episode-4-25-23.md)

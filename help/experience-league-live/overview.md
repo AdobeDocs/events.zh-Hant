@@ -6,10 +6,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: ebf56636b1eff403aebdda4e3417fdf12a0955eb
+source-git-commit: 32f483cf4faf83dfcf671ea5b9836a9b0f960105
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 46%
+source-wordcount: '169'
+ht-degree: 47%
 
 ---
 
@@ -23,8 +23,16 @@ Experience League LIVE 是 Experience League 團隊製作的直播串流節目�
 
 <table>
 <tr>
-  <td>
-    請稍後回來檢視有關我們即將播出的節目的更多詳細資料，網址為 <b>2023年7月20日</b>. 我們將討論新的 <b>Real-Time CDP中的對象入口網站和構成功能</b>.
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-7-20-23.md">
+      <img alt="Experience League直播 — 2023年7月20日" src="assets/July20_2023_exl_live_banner_web_1920_WebBanner.png">
+    </a>
+    <div>
+      <a href="/help/experience-league-live/episodes/exl-live-episode-7-20-23.md">
+        <strong>透過標準控制項在單一位置從任何來源取得可操作對象</strong>
+      </a>
+      <br/><em>與Aaron Shields、Kim Whatcott和Andres Monroy</em>
+      <br/><em>2023年7月20日</em>
+    </div>
   </td>
 </tr>
 </table>
