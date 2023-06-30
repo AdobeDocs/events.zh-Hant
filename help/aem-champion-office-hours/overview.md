@@ -1,63 +1,66 @@
 ---
-title: APAC商務網路研討會系列
-description: APAC商務網路研討會系列是每月為Adobe Commerce客戶提供的一系列研討會，涵蓋從最佳實務到產品藍圖和行業趨勢的廣泛主題。
-exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
-source-git-commit: 0122cd988472a6c1b87318b925f87b56e908c6e9
+title: AEM Champion營業時間
+description: 此Adobe Experience Manager使用者群組(AEMUG)由2022-2023 AEM Champion Class推動。 Champions將使用此AEMUG作為他們每月辦公時間的平台
+source-git-commit: 231676141badaab1abfff99fad3c2f820e3047cb
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
-# APAC商務網路研討會系列
+# AEM Champion營業時間
 
-APAC商務網路研討會系列是每月為Adobe Commerce客戶提供的一系列研討會，涵蓋從最佳實務到產品藍圖和行業趨勢的廣泛主題。 聽取企業內各種產品專家的意見，並加入現場，以取得提出問題並直接與團隊互動的機會。 此系列可幫助您在Adobe Commerce平台上取得成功並最大化您的投資。
+此Adobe Experience Manager使用者群組(AEMUG)由2022-2023 AEM Champion Class推動。 Champions將使用此AEMUG作為其每月辦公時間的平台，所有體驗層級的AEM從業人員和開發人員都可以參加，並且由專家Experience Manager客戶、合作夥伴和顧問回答他們最棘手的問題。
 
-## 新增功能
+如果您有興趣增進對Adobe Experience Manager的知識和使用、與Experience Manager思想領袖互動以及獲得獨家獎勵，那麼現在就加入AEM Champion辦公時間使用者群組！
+
+<!--
+## What's New
 
 <table>
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
-      <img alt="Adobe Commerce網站範圍分析工具" src="https://video.tv.adobe.com/v/3419132?format=jpeg" />
+      <img alt="Adobe Commerce Site Wide Analysis Tool" src="https://video.tv.adobe.com/v/3419132?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
-        <strong>使用Adobe的PaaS Cloud Commerce簡化您的業務</strong>
+        <strong>Streamline Your Business with Adobe's PaaS Cloud Commerce</strong>
       </a>
     </div>
     <p>
-    <em>加入我們的網路研討會，探索Adobe的Commerce CloudPaaS解決方案的好處，無論您是自行託管，還是想瞭解PaaS，或是尋求最佳化設定的現有客戶。</em>
+    <em>Join our webinar to discover the benefits of Adobe's Commerce Cloud PaaS solution, whether you're self-hosting and curious about PaaS or an existing customer seeking to optimize your setup.</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/ai-personalisation.html">
-      <img alt="升級至Adobe Commerce 2.4.4的好處" src="https://video.tv.adobe.com/v/3419107?format=jpeg" />
+      <img alt="Benefits of upgrading to Adobe Commerce 2.4.4" src="https://video.tv.adobe.com/v/3419107?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/ai-personalisation.html">
-        <strong>AI支援的個人化</strong>
+        <strong>AI Powered Personalisation</strong>
       </a>
     </div>
     <p>
-    <em>利用AI的強大功能，透過Adobe在AI上的投資及其與Commerce的整合，提供卓越的客戶體驗。</em>
+    <em>Harness the power of AI for an exceptional customer experience with Adobe's investment in AI and its integration into Commerce.</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-      <img alt="適用於可擴充和敏捷電子商務的可撰寫商務策略" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
+      <img alt="Composable commerce strategies for scalable and agile e-commerce" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-        <strong>適用於可擴充和敏捷電子商務的可撰寫商務策略</strong>
+        <strong>Composable commerce strategies for scalable and agile e-commerce</strong>
       </a>
     </div>
     <p>
-    <em>加入我們，參加一個有深入見解的網路研討會，深入瞭解可撰寫架構的世界，以及它如何為電子商務的格局帶來革命性的變化。</em>
+    <em>Join us for an insightful webinar that will delve into the world of composable architecture and how it is revolutionising the e-commerce landscape.</em>
     <p>
   </td>  
 </tr>
 </table>
+-->
 
 >[!TIP]
 >
