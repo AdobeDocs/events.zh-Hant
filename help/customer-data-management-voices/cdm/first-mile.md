@@ -1,14 +1,14 @@
 ---
 title: 簡化資料管理的第一步
 description: 隨著資料量不斷增加，公司很難有效擷取數位互動資料，並將資料傳送至適當的行銷…… （說明應該介於60到160個字元之間）
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Data Governance
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10632
 thumbnail: 344311.jpeg
 exl-id: 57d7697c-455e-428e-95ed-7a29852a702a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 1%

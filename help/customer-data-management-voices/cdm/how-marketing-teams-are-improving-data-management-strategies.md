@@ -2,13 +2,13 @@
 title: 行銷團隊如何改善資料管理策略
 description: 無限量的使用者資訊可能有所助益，但大多數公司難以有效率地大規模和即時擷取資料，為業務決策提供資訊。
 feature: Identities
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 9726
 thumbnail: 340371.jpg
 exl-id: 2d0e0dfb-c97e-4832-9671-da0b956d5ce6
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%

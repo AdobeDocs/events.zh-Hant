@@ -1,7 +1,7 @@
 ---
 title: Adobe Real-time Customer Data Platform和Healthcare Shield
 description: 實踐體驗承諾，存取較少的資料。無論您是廣告商、發佈者或機構，此網路研討會都能協助解鎖
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Identities
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
@@ -9,7 +9,7 @@ doc-type: Event
 kt: 10471
 thumbnail: 343342.jpeg
 exl-id: 1a91d2e8-508a-4e48-8cb5-fab7f1560b69
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 7%
