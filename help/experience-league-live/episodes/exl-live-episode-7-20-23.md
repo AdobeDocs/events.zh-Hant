@@ -8,10 +8,10 @@ event-cta-url-live: https://www.youtube.com/watch?v=QaJy9Tp-vTE
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230720.html
 event-start-time: 2023-7-20 09:00-7
 event-guests: Aaron Shields,Kim Whatcott,Andres Monroy
-source-git-commit: 772ab08255584e8b6bde625f0891a76681a84e6a
+source-git-commit: 8d5f937630f7a521c5cbe1d32d723a24cf8b2b21
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 2%
+source-wordcount: '145'
+ht-degree: 0%
 
 ---
 
@@ -19,6 +19,6 @@ ht-degree: 2%
 
 新的受眾入口網站和構成功能將Real-Time CDP中的細分和受眾管理提升到全新的境界。 預先建立的受眾、集中式受眾管理和新構成畫布的擷取，為您提供可在行銷管道間建立、組織和分配關鍵受眾的位置。
 
-[![ExL LIVE 2023年9月22日](../assets/July20_2023_exl_live_banner_web_1920_WebBanner.png)](https://engage.adobe.com/ExpLeagueLive-230720.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3421425/?quality=12&learn=on)
 
-按一下上方影像以註冊事件。 在那裡見！
+對此節目有任何疑問嗎？ 繼續在Adobe Experience League上討論此主題 [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-actionable/m-p/607073#M366).
