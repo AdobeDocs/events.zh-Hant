@@ -2,11 +2,12 @@
 title: Experience League LIVE 活動
 description: 先前 Experience League LIVE 活動的連結集合
 solution: Experience Platform,Real-time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
+feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 8d5f937630f7a521c5cbe1d32d723a24cf8b2b21
+source-git-commit: 4017a3a3d649af24fd668a24ceece6ed32598c35
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 50%
