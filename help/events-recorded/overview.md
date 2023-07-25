@@ -3,9 +3,9 @@ title: Adobe Experience League事件
 description: 著重於使用Adobe企業產品的活動錄製集合
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: 6ec7be7a69a315606e4c9aa11d700cca0f78b33f
+source-git-commit: 297506bdd6d1bb73335f8e4054f4aeb3b4c5d2d8
 workflow-type: tm+mt
-source-wordcount: '836'
+source-wordcount: '860'
 ht-degree: 9%
 
 ---
@@ -47,6 +47,19 @@ ht-degree: 9%
       </p>
     </td>
    <td>
+      <a href="/help/adobe-commerce-product-updates/overview.md">
+      <img style="width:100%" alt="Adobe Commerce產品更新" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png"/>
+      </a>
+      <div>
+         <a href="/help/adobe-commerce-product-updates/overview.md"><strong>Adobe Commerce產品更新</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
+      </div>
+      <p>
+        <br/>
+         Adobe Commerce的最新產品創新，由Adobe Commerce產品團隊介紹。
+      </p>
+    </td>
+   <td>
       <a href="/help/adobe-developers-live/overview.md">
       <img style="width:100%" alt="Adobe Developers Live" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png"/>
       </a>
@@ -59,6 +72,8 @@ ht-degree: 9%
          Adobe Developers Live彙集多元背景的Adobe開發人員和有經驗的建置者，其目的只有一個，就是創造令人驚豔的端對端體驗。
       </p>
     </td>
+    </tr>
+    <tr>    
     <td>
       <a href="/help/aem-champion-office-hours/overview.md">
       <img style="width:100%" alt="AEM Champion營業時間" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-champions.png"/>
@@ -72,8 +87,6 @@ ht-degree: 9%
          如果您有興趣增進對Adobe Experience Manager的知識和使用、與Experience Manager思想領袖互動以及獲得獨家獎勵，那麼現在就加入AEM Champion辦公時間使用者群組！
       </p>
     </td> 
-    </tr>
-    <tr>
    <td>
       <a href="/help/apac-commerce/overview.md">
       <img style="width:100%" alt="APAC Adobe Commerce網路研討會" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png"/>
@@ -99,7 +112,7 @@ ht-degree: 9%
         <br/>
          由Adobe客戶成功引導的網路研討會，旨在協助您最佳化對AdobeExperience Cloud的投資。 獲得有價值的深入分析，以最大化價值並提高Adobe解決方案的採用率。
       </p>
-    </td> 
+    </td>
    <td>
       <a href="/help/commerce-and-coffee/overview.md">
       <img style="width:100%" alt="商務與咖啡" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png"/>
@@ -113,6 +126,8 @@ ht-degree: 9%
          Commerce &amp; Coffee系列適用於所有技能等級的現有Adobe Commerce客戶，並提供Sr. Commerce Strategy Consultant， Corey Gelato的功能。 此系列專注於商務策略和戰術，由反映事件主題的統計資料所支援。
       </p>
     </td>
+    </tr>
+    <tr> 
    <td>
       <a href="/help/customer-data-management-voices/overview.md">
       <img style="width:100%" alt="客戶資料管理意見" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png"/>
@@ -126,8 +141,7 @@ ht-degree: 9%
          您身為客戶資料管理技術和行銷實務領導和專家的目的地。 一站式商店，聽取同行的意見、獲得靈感並瞭解Martech的發展。
       </p>
     </td>
-   <tr> 
-   <td>
+    <td>
       <a href="/help/deep-dives/overview.md">
       <img style="width:100%" alt="深入探討" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png"/>
       </a>
@@ -165,6 +179,8 @@ ht-degree: 9%
          由Adobe專家提供的技術Adobe Experience Manager深入探討。 此系列補充了產品檔案和所有其他有關Adobe Experience Manager的技術管道，讓開發人員可以聯絡並深入瞭解特定主題。
       </p>
     </td>
+    </tr>
+    <tr> 
     <td>
       <a href="/help/experience-manager-release-overview/overview.md">
       <img style="width:100%" alt="Experience Manager版本總覽" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png"/>
@@ -177,8 +193,6 @@ ht-degree: 9%
         <br/>取得 Adobe Experience Manager as a Cloud Service 最新功能快速總覽。這些是 AEM 產品團隊提供的簡短影片；每段影片大約 10 分鐘，主要是分享最新版本的摘要。
       </p>
     </td>
-    </tr>
-    <tr>
     <td>
       <a href="/help/learn-from-your-peers/overview.md">
       <img style="width:100%" alt="向同儕學習" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png"/>
@@ -218,6 +232,8 @@ ht-degree: 9%
          MBI網路研討會系列是MBI客戶的定期活動。 這些網路研討會涵蓋了使用MBI的廣泛主題和最佳實務，以發揮其最大潛力。
       </p>
     </td>
+    </tr>
+    <tr> 
     <td>
       <a href="/help/skill-builder/overview.md">
       <img style="width:100%" alt="技能培養" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png"/>
@@ -231,8 +247,6 @@ ht-degree: 9%
          Skill Builder是網路研討會系列，旨在建立您的知識庫，並將您對Adobe Experience Cloud的投資發揮到極致。
       </p>
     </td>
-    </tr>
-    <tr>
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketo和Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
