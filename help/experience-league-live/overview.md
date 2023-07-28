@@ -1,16 +1,16 @@
 ---
 title: Experience League LIVE 活動
 description: 先前 Experience League LIVE 活動的連結集合
-solution: Experience Platform,Real-time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
+solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 4017a3a3d649af24fd668a24ceece6ed32598c35
+source-git-commit: 1f9b259f31faf9c58a8ea161d17dcffdba47a53d
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 50%
+source-wordcount: '167'
+ht-degree: 48%
 
 ---
 
@@ -24,8 +24,16 @@ Experience League LIVE 是 Experience League 團隊製作的直播串流節目�
 
 <table>
 <tr>
-  <td style="vertical-align: top;">
-    請儘快返回本頁，以取得我們即將播出的2023年8月節目的詳細資訊！
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-8-23-23.md">
+      <img alt="Experience LeagueLIVE 4月21日" src="assets/Aug23_exl_live_banner_web_1920_WebBanner.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-8-23-23.md">
+        <strong>Adobe Journey Optimizer中的API觸發式傳訊</strong>
+      </a>
+      <br/><em>與Sandra Hausmann、Siddharth Jain、Nikhil Sharma和Chetan Prasad合作</em>
+      <br/><em>2023年8月23日</em>
+    </div>
   </td>
 </tr>
 </table>
@@ -51,13 +59,13 @@ Experience League LIVE 是 Experience League 團隊製作的直播串流節目�
 
 <tr>
   <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-21-22.md">
-      <img alt="Experience League即時4月21日" src="assets/youtube-thumbnails/april-21-yt.jpg">
+      <img alt="Experience LeagueLIVE 4月21日" src="assets/youtube-thumbnails/april-21-yt.jpg">
     </a>
     <div>
       <a href="/help/experience-league-live/episodes/exl-live-episode-04-21-22.md">
-        <strong>從Headful到Headless的AEM</strong>
+        <strong>從AEM頭到無頭</strong>
       </a>
-      <br/><em>與Danny Gordon、Amol Anand、Sachin Mali和Sean Steimer</em>
+      <br/><em>與Danny Gordon、Amol Anand、Sachin Mali和Sean Steimer合作</em>
       <br/><em>2022年4月21日</em>
     </div>
   </td>
@@ -68,7 +76,7 @@ Experience League LIVE 是 Experience League 團隊製作的直播串流節目�
     </a>
     <div>
       <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics — 內幕消息</strong></a>
-      <br/><em>與特雷弗·保爾森、羅希特·高斯恩、亞歷克斯·斯特勞恩一起</em>
+      <br/><em>與特雷弗·鮑爾森、羅希特·高斯恩、亞歷克斯·斯特勞恩</em>
       <br/><em>2021年1月25日</em>
     </div>
   </td>
@@ -79,7 +87,7 @@ Experience League LIVE 是 Experience League 團隊製作的直播串流節目�
     </a>
     <div>
       <a href="episodes/exl-live-episode-05-26-22.md">
-        <strong>詢問專家：Web SDK基本知識</strong>
+        <strong>詢問專家：Web SDK基礎知識</strong>
       </a>
       <br/><em>與Rudi Shumpert、Jeff Chasin和Eric Matisoff合作</em>
       <br/><em>2022年5月26日</em>
