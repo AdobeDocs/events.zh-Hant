@@ -5,11 +5,11 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
-last-substantial-update: 2023-08-14T00:00:00Z
+last-substantial-update: 2023-08-15T00:00:00Z
 exl-id: 7ed7887f-acc5-43dd-b0dc-e64341f969ca
-source-git-commit: e087e65f2ddea9bf9ca11a5ae7b3dae516402d8c
+source-git-commit: 063fb4f12e8f5b61f21c96cf86b00966d14b3da9
 workflow-type: tm+mt
-source-wordcount: '3918'
+source-wordcount: '3958'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,12 @@ ht-degree: 1%
 ## 簡報中使用的自訂欄位
 
 複製並貼上以下計算以節省時間。
+
+>[!NOTE]
+>
+>自2019年提供簡報以來，自訂欄位計算的語法已變更，但簡報中提供的概念和其他指示仍然準確。
+
+以下包含的計算已更新，以反映最新的語法規則。
 
 **首次認可日期**
 
