@@ -3,7 +3,7 @@ title: Adobe Experience League事件
 description: 活動錄影的集合，重點說明如何使用Adobe的企業產品
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: e6b314b48137e9d3ee7d389977843f10cb6927f3
+source-git-commit: 0babdbc3b4429b9a691e6436f0973adadc68d5b1
 workflow-type: tm+mt
 source-wordcount: '895'
 ht-degree: 9%
@@ -219,8 +219,6 @@ ht-degree: 9%
          Marketo和Mochas可協助您更進一步瞭解如何使用AdobeMarketo支援您的業務。
       </p>
     </td>
-    </tr>
-    <tr>
     <td>
       <a href="/help/office-hours/overview.md">
       <img style="width:100%" alt="諮詢時間" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png"/>
@@ -234,6 +232,8 @@ ht-degree: 9%
          「諮詢時間」是主動式案例轉換方法，提供客戶解決方案專屬的網路研討會。 
       </p>
     </td>
+    </tr>
+    <tr>    
     <td>
       <a href="/help/mbi-webinars/overview.md">
       <img style="width:100%" alt="MBI網路研討會" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
@@ -259,9 +259,7 @@ ht-degree: 9%
         <br/>
          Skill Builder是網路研討會系列，旨在建立您的知識庫，並將Adobe Experience Cloud投資效益最大化。
       </p>
-    </td>
-    </tr>
-    <tr>     
+    </td>   
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketo和Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
@@ -274,7 +272,7 @@ ht-degree: 9%
         <br/>
          Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重點放在深入瞭解Adobe Experience Cloud解決方案。 此計畫提供機會，透過分享最佳實務和提示與秘訣，向Adobe產品專家和專家同行學習。
       </p>
-    </td>
+    </td> 
     <td>
       <a href="/help/workfront/overview.md">
       <img style="width:100%" alt="Workfront" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png"/>
