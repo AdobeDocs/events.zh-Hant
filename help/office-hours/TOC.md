@@ -2,7 +2,7 @@
 user-guide-title: Adobe營業時間
 user-guide-breadcrumb: Adobe Office Hours
 user-guide-description: 「諮詢時間」是主動式案例轉換方法，提供客戶解決方案專屬的網路研討會。
-source-git-commit: e6b314b48137e9d3ee7d389977843f10cb6927f3
+source-git-commit: 8fe8b0beb0215dfa4361767216b780b2d8a7b389
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 20%
@@ -21,7 +21,7 @@ ht-degree: 20%
    + Adobe Experience Platform{#adobe-experience-platform-office-hours}
    + [Admin Console許可權](2023/aep-admin-console-permissions.md)
    + Adobe Experience Manager{#adobe-experience-manager-office-hours}
-   + [AEM CS部署失敗分析](2023/aem-deployment-failures-analysis)
+   + [AEM CS部署失敗分析](2023/aem-deployment-failures-analysis.md)
    + Adobe Commerce{#adobe-commerce-office-hours}
    + [全網站分析工具](2023/site-wide-analysis-tool.md)
    + AdobeMarketo{#adobe-marketo-office-hours}
