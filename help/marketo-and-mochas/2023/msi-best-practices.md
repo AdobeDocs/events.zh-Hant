@@ -9,7 +9,7 @@ doc-type: Event
 last-substantial-update: 2023-08-25T00:00:00Z
 jira: KT-13806
 thumbnail: KT-13806.jpeg
-source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
+source-git-commit: debf0572678929709fdddb8ce098a34673fe3e7a
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
@@ -23,3 +23,4 @@ ht-degree: 0%
 
 Cynthia和James深入探討MSI的功能，包括有趣的時刻和最佳選擇。 他們說明它如何與Salesforce、授權管理整合，以及將您所有銷售和行銷團隊的營運效率最佳化的策略。 我們以現場問答來結束向與會者問答。
 
+>[!VIDEO](https://video.tv.adobe.com/v/3422797?learn=on)
