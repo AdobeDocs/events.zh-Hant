@@ -2,10 +2,10 @@
 user-guide-title: Adobe Experience League活動錄製
 user-guide-breadcrumb: Event Recordings
 user-guide-description: 強制使用Adobe企業產品的事件錄製集合
-source-git-commit: cd312615b7569fd5eabdee3b08e63ccb23b6ec28
+source-git-commit: 7378dc0e3e7caf4942e90e95668806bca03c1067
 workflow-type: tm+mt
-source-wordcount: '588'
-ht-degree: 16%
+source-wordcount: '697'
+ht-degree: 14%
 
 ---
 
@@ -16,19 +16,21 @@ ht-degree: 16%
 + 依系列 {#series}
    + [Adobe Campaign測試人員系列](https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html)
    + [Adobe內容管理論壇](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
+   + [Adobe Commerce產品更新](https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html)
    + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
    + [AEM Champion營業時間](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
    + [APAC商務活動](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
+   + [Adobe客戶成功網路研討會](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html)
    + [商務與咖啡](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
    + [客戶資料管理對話](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
    + [深入探討](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
-   + [Experience League即時](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
+   + [Experience League LIVE](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
    + [EXPERIENCE MANAGERGEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
    + [Experience Manager版本總覽](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html)
    + [向同儕學習](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
    + [Marketo和Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
+   + [諮詢時間](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
    + [MBI網路研討會](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
-   + [營業時間](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
    + [技能培養](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + [技能交流](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
@@ -38,21 +40,27 @@ ht-degree: 16%
    + Adobe Audience Manager {#aam}
       + [Experience League即時](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
    + Adobe Analytics {#aa}
+      + [Adobe客戶成功網路研討會](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html)
       + [Experience League即時](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [向同儕學習](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
+      + [諮詢時間](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
       + [技能培養](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
       + [技能交流](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + Adobe Campaign {#ac}
       + [Adobe Campaign測試人員系列](https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html)
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
+      + [諮詢時間](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
       + [技能培養](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + Adobe Commerce {#acommerce}
+      + [Adobe Commerce產品更新](https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html)
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [APAC商務活動](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
       + [商務與咖啡](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
       + [MBI網路研討會](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
+      + [諮詢時間](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
       + [技能培養](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + Adobe Customer Journey Analytics {#cja}
+      + [Adobe客戶成功網路研討會](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html)
       + [技能培養](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + Adobe Experience Manager {#aem}
       + [Adobe內容管理論壇](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
@@ -62,16 +70,19 @@ ht-degree: 16%
       + [EXPERIENCE MANAGERGEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
       + [Experience Manager版本總覽](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html)
       + [向同儕學習](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
+      + [諮詢時間](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
       + [技能培養](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
       + [技能交流](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + Adobe Experience Platform {#aep}
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [客戶資料管理對話](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html)
       + [Experience League即時](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
+      + [諮詢時間](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
    + AdobeMarketo {#am}
       + [深入探討](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
       + [向同儕學習](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
       + [Marketo和Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
+      + [諮詢時間](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
       + [技能培養](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
       + [技能交流](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + Adobe Journey Optimizer {#ajo}
@@ -82,8 +93,10 @@ ht-degree: 16%
       + [技能培養](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + Adobe Target {#at}
       + [Experience League即時](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
+      + [諮詢時間](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
       + [技能培養](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + Adobe Workfront {#aw}
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
+      + [諮詢時間](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
       + [技能交流](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
       + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
