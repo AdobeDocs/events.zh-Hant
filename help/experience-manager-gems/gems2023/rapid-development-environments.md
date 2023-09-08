@@ -1,6 +1,6 @@
 ---
-title: 透過快速開發環境加速AEMas a Cloud Service開發
-description: 為了部署變更，目前的雲端開發環境需要使用採用廣泛計畫碼安全性和品質規則的程式，稱為CI/CD管道。 對於需要快速反複變更的情況，Adobe已推出快速開發環境（簡稱RDE）。RDE可讓開發人員快速部署和檢閱變更，將測試經證實可在本機開發環境中運作的功能所需的時間減至最少。
+title: 使用快速開發環境加速AEMas a Cloud Service開發
+description: 為了部署變更，目前的雲端開發環境需要使用採用廣泛計畫碼安全性和品質規則（稱為CI/CD管道）的程式。 對於需要快速反複變更的情況，Adobe已推出快速開發環境（簡稱RDE）。RDE可讓開發人員快速部署及檢閱變更，將測試被證明可在本機開發環境中運作的功能所需的時間減至最少。
 feature-set: Experience Manager
 solution: Experience Manager
 version: Cloud Service
@@ -14,20 +14,20 @@ kt: 11797
 thumbnail: kt-11797.jpeg
 event-start-time: 2023-2-22 08:30-8
 exl-id: 6749cb7d-9130-4855-8a6a-8818810339ae
-source-git-commit: 3f5c48bace5f449a8ce7f6ab40caaedef93063ce
+source-git-commit: c475497b293909a5ea8365463a0d075bc34d4e01
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 1%
+source-wordcount: '238'
+ht-degree: 0%
 
 ---
 
-# 透過快速開發環境加速AEMas a Cloud Service開發
+# 使用快速開發環境加速AEMas a Cloud Service開發
 
-此網路研討會已於2023年2月22日舉行。 請檢視下面的錄製。
+此網路研討會已在2023年2月22日舉行。 請檢視下面的錄製。
 
 ## 工作階段說明
 
-為了部署變更，目前的雲端開發環境需要使用採用廣泛計畫碼安全性和品質規則的程式，稱為CI/CD管道。 對於需要快速和反複變更的情況，Adobe已引入快速開發環境（簡稱RDE）。
+為了部署變更，目前的雲端開發環境需要使用採用廣泛計畫碼安全性和品質規則（稱為CI/CD管道）的程式。 對於需要快速反複變更的情況，Adobe已推出快速開發環境（簡稱RDE）。
 
 RDE可讓開發人員快速部署和檢閱變更，將測試經證實可在本機開發環境中運作的功能所需的時間減至最少。
 
@@ -37,13 +37,12 @@ RDE可讓開發人員快速部署和檢閱變更，將測試經證實可在本�
 * Karl Pauls，資深電腦科學家
 * 資深軟體工程師David Bosschaert
 
-## 網路研討會影片 — 2023年2月22日
+## 網路研討會影片 — 02/22/2023
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415876)
 
 >[!NOTE]
 >
->* 若為Experience League上特定工作階段的社群互動，請造訪此 [內容執行緒](http://bit.ly/3x1Cl8x)
->* 若為Experience League上特定工作階段的社群互動，請造訪此 [內容執行緒](https://bit.ly/3x1Cl8x)
+>* 如需Experience League上特定工作階段的社群互動，請造訪此 [內容執行緒](http://bit.ly/3x1Cl8x)
 >
->* 若要收到有關我們即將舉辦的網路研討會的通知，請註冊於 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
+>* 若要收到我們即將舉辦的網路研討會的通知，請註冊於 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
