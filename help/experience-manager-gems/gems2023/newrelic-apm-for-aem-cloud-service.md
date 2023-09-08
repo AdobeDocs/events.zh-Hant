@@ -1,6 +1,7 @@
 ---
 title: aem雲端服務的newrelic apm
 description: 加入我們並參與我們的研討會，我們將引導您認識並解決影響一般使用者客戶的挑戰，透過提高AEMas a Cloud Service專案的效率，確保卓越的體驗 |測量外部服務對您AEMas a Cloud Service系統的影響 |充分運用自訂與量身打造的檢視方式。 探索存取New Relic的程式，AEMas a Cloud Service預設包含此功能。 請隨時回答您的查詢和問題。
+solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
 topic: Performance
@@ -10,7 +11,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: 881f82df9eaa7438c0ffa8ee0bd5cf1c5505019a
+source-git-commit: ce580d05a3de350517960eba121dd5b739028643
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
@@ -29,6 +30,7 @@ ht-degree: 0%
 ## 工作階段說明
 
 加入我們的課程，我們將引導您認識並解決影響一般使用者客戶的挑戰，透過以下方式確保卓越的體驗：
+
 * 改善AEMas a Cloud Service專案的效率
 * 衡量外部服務對您AEMas a Cloud Service系統的影響
 * 充分利用自訂和量身打造的檢視探索存取New Relic的程式，AEMas a Cloud Service預設包含此功能。 請隨時回答您的查詢和問題。
