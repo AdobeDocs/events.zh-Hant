@@ -1,8 +1,8 @@
 ---
 user-guide-title: Adobe Experience League活動錄製
 user-guide-breadcrumb: Event Recordings
-user-guide-description: 強制使用Adobe企業產品的事件錄製集合
-source-git-commit: 7378dc0e3e7caf4942e90e95668806bca03c1067
+user-guide-description: 強制使用Adobe企業產品上的事件錄製集合
+source-git-commit: 2f61c1360c57a6c93a36cfb944351c67b98a54ed
 workflow-type: tm+mt
 source-wordcount: '697'
 ht-degree: 14%
