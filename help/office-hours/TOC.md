@@ -2,10 +2,10 @@
 user-guide-title: Adobe營業時間
 user-guide-breadcrumb: Adobe Office Hours
 user-guide-description: 「諮詢時間」是主動式案例轉換方法，提供客戶解決方案專屬的網路研討會。
-source-git-commit: cb7148bcc186fc747d97476d12648e40cc7e147a
+source-git-commit: dcddd5ed81868ffcd0bf2a41fd898800129a4bc0
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 14%
+source-wordcount: '89'
+ht-degree: 15%
 
 ---
 
@@ -16,6 +16,8 @@ ht-degree: 14%
 + 2023 年{#2023}
    + Adobe Campaign {#adobe-campaign-office-hours}
       + [SMS頻道概觀和疑難排解提示](2023/ac-sms-channel-overview.md)
+   + Adobe Analytics {#adobe-analytics}
+      + [Launch最佳作法](2023/launch-best-practices.md)
    + Adobe Experience Platform {#adobe-experience-platform-office-hours}
       + [Admin Console許可權](2023/aep-admin-console-permissions.md)
    + Adobe Experience Manager {#adobe-experience-manager-office-hours}
