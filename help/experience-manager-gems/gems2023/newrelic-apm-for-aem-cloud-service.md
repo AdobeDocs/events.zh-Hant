@@ -11,7 +11,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: 3f90292238ae559361bf6ca3736e30742044a5b0
+source-git-commit: 2bbbbeee2332f7353a6fe527fdc83718030ce23a
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 最佳化效能並加速問題的解決。
 
-此網路研討會將於9月20日下午5點CEST \| 8點PDT \| 8點30分IST進行
+此網路研討會將於9月20日 — 下午5點(CEST — 上午8點(PDT) — 晚上8:30 (IST)舉行
 
 ## 註冊
 
