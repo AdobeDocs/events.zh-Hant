@@ -11,7 +11,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: 192b072538492f4b4161f0915441e851e933c1d2
+source-git-commit: 51133c6630872a8da35522544e7184884905d2a0
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -19,7 +19,9 @@ ht-degree: 0%
 ---
 
 
-# 釋放適用於AEMas a Cloud Service的New Relic APM的潛力。 最佳化效能並加速問題的解決。
+# 發揮AEMas a Cloud Service的New Relic APM潛力
+
+最佳化效能並加速問題的解決。
 
 此網路研討會將於9月20日至晚上5點(CEST)舉行 |上午8點(PDT) |印度標準時間8:30
 
@@ -48,4 +50,3 @@ ht-degree: 0%
 >* 針對Experience League上的工作階段特定社群互動，很快將會發佈連結。
 >
 >* 若要收到我們即將舉辦的網路研討會的通知，請註冊於 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
-
