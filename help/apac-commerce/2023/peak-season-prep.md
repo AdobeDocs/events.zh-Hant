@@ -1,7 +1,6 @@
 ---
 title: 旺季準備
 description: 下一期APAC商務網路研討會系列將著重於讓您的企業為旺季做好準備。 準備是成功的關鍵，在此網路研討會中，我們將逐步引導您瞭解運用Adobe Commerce的最佳實務，以最大化此重要交易期間（或您的企業全年可能經歷的任何其他銷售活動）的銷售和效能。
-solution: null
 feature: Best Practices
 topic: Performance
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
@@ -10,7 +9,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13894
 thumbnail: 3423983.jpeg
-source-git-commit: ad3f0af02e67a35c55c48b55a339237b14a77646
+source-git-commit: c626e5fb36e97ecfd0a6d2987e8e8db66e30fa7d
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
