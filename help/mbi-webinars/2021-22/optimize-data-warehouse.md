@@ -1,34 +1,38 @@
 ---
-title: 最佳化 MBI Data Warehouse
-description: 觀看此網路研討會，進一步瞭解Data Warehouse管理員。
-landing-page-description: 觀看此網路研討會影片，前往
-short-description: 觀看此網路研討會影片，前往
+title: 最佳化您的Commerce IntelligenceData Warehouse
+description: 觀看此網路研討會，瞭解更多有關Data Warehouse管理員的資訊。
+landing-page-description: 觀看此錄製的網路研討會至
+short-description: 觀看此錄製的網路研討會至
 kt: 10403
 solution: Commerce, Magento Business Intelligence
 role: Leader, User, Data Architect
 level: Intermediate, Experienced
 thumbnail: 342562.jpeg
 exl-id: 34e017c3-721d-459a-8f38-76cc165e2d02
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 7%
+source-wordcount: '136'
+ht-degree: 1%
 
 ---
 
-# 最佳化 MBI Data Warehouse
-
-使用「Data Warehouse管理員」，您可以管理表格和欄同步設定、深入研究表格的綱要，以及建立要在報告中使用的計算欄。
+# 最佳化您的Commerce IntelligenceData Warehouse
 
 >[!NOTE]
 >
->存取Data Warehouse管理員需要管理員許可權。
+>Adobe Commerce Intelligence先前稱為 [!DNL Magento Business Intelligence (MBI)]. 過去活動的錄影反映了先前的名稱。
 
-在這場網路研討會中：
+使用「Data Warehouse管理員」，您可以管理表格和欄同步設定、深入研究表格的綱要，並建立計算欄以用於報表。
+
+>[!NOTE]
+>
+>存取Data Warehouse管理員，需要管理員許可權。
+
+在此網路研討會中：
 
 - Data Warehouse簡介
 - 更新週期和最佳化
-- 復寫和重新檢查
+- 復寫並重新檢查
 - Data Warehouse檢視
 - 問題與解答
 
@@ -38,9 +42,5 @@ ht-degree: 7%
 
 ## 有用的資源
 
->[!TIP]
->
->若您為MBI的新手， [快速入門影片系列](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) 提供透過資料彙總、分析和視覺化產生更佳業務深入分析和結果的完整概覽。
-
-[最佳化資料庫以進行分析](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
+[將資料庫最佳化以供分析](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
 [分段和篩選的建議資料Dimension](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

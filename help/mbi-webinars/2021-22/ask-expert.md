@@ -1,26 +1,30 @@
 ---
-title: MBI - 詢問專家
-description: 觀看這些錄製的網路研討會，與MBI產品團隊一起深入探討，包括通過智慧型資料實現業務轉型。
-landing-page-description: 觀看這些錄製的網路研討會，與MBI產品團隊一起深入探討，包括通過智慧型資料實現業務轉型。
-short-description: 觀看這些錄製的網路研討會，與MBI產品團隊一起深入探討，包括通過智慧型資料實現業務轉型。
+title: Commerce Intelligence — 詢問專家
+description: 觀看這些錄製的網路研討會，與Commerce Intelligence產品團隊一起深入探討，包括通過智慧型資料實現業務轉型。
+landing-page-description: 觀看這些錄製的網路研討會，與Commerce Intelligence產品團隊一起深入探討，包括通過智慧型資料實現業務轉型。
+short-description: 觀看這些錄製的網路研討會，與Commerce Intelligence產品團隊一起深入探討，包括通過智慧型資料實現業務轉型。
 kt: 10404
 solution: Commerce,Magento Business Intelligence
 role: Leader,User,Data Architect
 level: Beginner,Intermediate
 thumbnail: 342409.jpeg
 exl-id: a4590f96-8f23-4f14-9f69-dd15253184ed
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 4%
+source-wordcount: '186'
+ht-degree: 2%
 
 ---
 
 # MBI - 詢問專家
 
+>[!NOTE]
+>
+>Adobe Commerce Intelligence先前稱為 [!DNL Magento Business Intelligence (MBI)]. 過去活動的錄影反映了先前的名稱。
+
 工作階段1：
 
-- 客戶對MBI的看法
+- 客戶對Commerce Intelligence的看法
 - 透過智慧型資料進行業務轉型
 
 工作階段2：
@@ -30,9 +34,9 @@ ht-degree: 4%
 - SQL型報表示範
 - 問題與解答
 
-## 網路研討會錄製內容
+## 錄製的網路研討會內容
 
-_詢問專家_ 由兩個工作階段組成：
+_詢問專家_ 包含兩個工作階段：
 
 ### 工作階段1
 
@@ -46,7 +50,7 @@ _詢問專家_ 由兩個工作階段組成：
 
 >[!TIP]
 >
->若您為MBI的新手， [快速入門影片系列](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) 提供透過資料彙總、分析和視覺化產生更佳業務深入分析和結果的完整概覽。
+>如果您是初次使用Commerce Intelligence，您可以 [快速入門影片系列](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) 提供透過資料彙總、分析和視覺化產生更佳業務深入分析和結果的完整概覽。
 
-- [MBI簡介](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-- [MBI支援](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+- [Commerce Intelligence簡介](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+- [Commerce Intelligence支援](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

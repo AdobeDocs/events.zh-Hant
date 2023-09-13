@@ -1,26 +1,26 @@
 ---
-user-guide-title: MBI事件
-breadcrumb-title: MBI事件
-user-guide-description: MBI Events是一個影片庫，專家和同業可在此分享他們對Adobe Commerce的想法和想法。
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+user-guide-title: Commerce Intelligence事件
+breadcrumb-title: Commerce Intelligence事件
+user-guide-description: Commerce Intelligence Events是一個影片庫，專家和同行可在此分享他們對Adobe Commerce Intelligence的想法和想法。
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 37%
+source-wordcount: '65'
+ht-degree: 4%
 
 ---
 
 
-# MBI事件  {#mbi-webinars-recordings}
+# Commerce Intelligence事件  {#commerce-intelligence-webinar-recordings}
 
-+ [總覽](overview.md)
-+ 2023 {#2023}
-   + [在MBI中管理資料集](2023/manage-data-sets.md)
++ [概觀](overview.md)
++ 2023 年{#2023}
+   + [在Commerce Intelligence中管理資料集](2023/manage-data-sets.md)
 + 2021 年 {#2021}
-   + [MBI 快速入門](2021-22/getting-started.md)
-   + [最佳化 MBI Data Warehouse](2021-22/optimize-data-warehouse.md)
-   + [MBI儀表板深入探討](2021-22/dashboards-deep-dive.md)
-   + [MBI 假日整備](2021-22/holiday-readiness.md)
-   + [MBI - 詢問專家](2021-22/ask-expert.md)
+   + [Commerce Intelligence快速入門](2021-22/getting-started.md)
+   + [最佳化您的Commerce IntelligenceData Warehouse](2021-22/optimize-data-warehouse.md)
+   + [Commerce Intelligence儀表板深入探討](2021-22/dashboards-deep-dive.md)
+   + [Commerce Intelligence假日整備](2021-22/holiday-readiness.md)
+   + [Commerce Intelligence — 詢問專家](2021-22/ask-expert.md)
 
 <!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)
