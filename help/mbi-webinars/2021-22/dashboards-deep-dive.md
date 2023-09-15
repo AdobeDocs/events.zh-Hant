@@ -4,12 +4,12 @@ description: 觀看此網路研討會，以逐步引導您瞭解設定中每個C
 landing-page-description: 觀看此錄製的網路研討會，以引導您瞭解設定中的四個控制面板，每個商務智慧帳戶都有。
 short-description: 觀看此錄製的網路研討會，以引導您瞭解設定中的四個控制面板，每個商務智慧帳戶都有。
 kt: 10496
-solution: Commerce, Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 343498.jpeg
 exl-id: 07faedac-54cd-45fc-a7f0-05379bc8ab28
-source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
+source-git-commit: c0382de473c121272f48d89170c887ae65bd60cf
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%

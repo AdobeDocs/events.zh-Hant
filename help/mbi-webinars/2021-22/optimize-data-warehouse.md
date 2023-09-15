@@ -4,12 +4,12 @@ description: 觀看此網路研討會，瞭解更多有關Data Warehouse管理�
 landing-page-description: 觀看此錄製的網路研討會至
 short-description: 觀看此錄製的網路研討會至
 kt: 10403
-solution: Commerce, Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Intermediate, Experienced
 thumbnail: 342562.jpeg
 exl-id: 34e017c3-721d-459a-8f38-76cc165e2d02
-source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
+source-git-commit: c0382de473c121272f48d89170c887ae65bd60cf
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 1%

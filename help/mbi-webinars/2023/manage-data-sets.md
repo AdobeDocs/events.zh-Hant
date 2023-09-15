@@ -4,12 +4,12 @@ description: 觀看此網路研討會，瞭解Commerce IntelligenceData Warehous
 landing-page-description: 觀看此網路研討會，瞭解Commerce IntelligenceData Warehouse管理員的一些強大功能。
 short-description: 觀看此網路研討會，瞭解Commerce IntelligenceData Warehouse管理員的一些強大功能。
 kt: 10410
-solution: Commerce, Magento Business Intelligence
+solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 344680.jpeg
 exl-id: fa45b78f-9dc6-4466-a7d1-0deeb08c4d2c
-source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
+source-git-commit: c0382de473c121272f48d89170c887ae65bd60cf
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 20%
