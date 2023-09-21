@@ -11,9 +11,9 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: ac72726b967b526018640f76de930a4abb1e6b59
+source-git-commit: 845008d5f0024ed3a6af4cfad0ebdd53ff713a93
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,7 @@ ht-degree: 0%
 
 最佳化效能並加速問題的解決。
 
-此網路研討會將於9月20日 — 下午5點(CEST — 上午8點(PDT) — 晚上8:30 (IST)舉行
-
-## 註冊
-
-[請透過AEM使用者群組註冊以加入此工作階段](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-harness-the-power-of-new-relic-apm-for-aem-as-a-cloud-service-boost-performance-amp-rapid-issue-fix/)
+此網路研討會已進行於 **9月20日**， 2023。 請檢視下面的錄製。
 
 ## 工作階段說明
 
@@ -47,8 +43,12 @@ ht-degree: 0%
 * Luciana Surdoiu，Adobe雲端自動化主管
 * Adobe高級AEM網站可靠性工程師Michael Campbell
 
+## 網路研討會影片 — 2023/9/20
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424439/)
+
 >[!NOTE]
 >
->* 針對Experience League上的工作階段特定社群互動，很快將會發佈連結。
+>* 如需Experience League上特定工作階段的社群互動，請造訪我們的 [內容執行緒](https://adobe.ly/3sV67N5).
 >
 >* 若要收到我們即將舉辦的網路研討會的通知，請註冊於 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).

@@ -1,6 +1,6 @@
 ---
 title: AEM GEM講座
-description: 這是AEM GEM的登陸頁面，包括網路研討會系列資訊和報名資訊、先前和即將舉辦的網路研討會
+description: 這是AEM GEM的登陸頁面，包括網路研討會系列和報名資訊、先前和即將舉辦的網路研討會
 role: Leader
 cloud: Experience Cloud
 product: adobe experience manager
@@ -11,9 +11,9 @@ level: Intermediate
 type: Event
 user-guide-description: AEM GEM講座
 exl-id: 595f6977-935a-4859-9cfd-161d45847f85
-source-git-commit: 4f5886c31f9ccad98106469899388feba1ebee22
+source-git-commit: 845008d5f0024ed3a6af4cfad0ebdd53ff713a93
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '286'
 ht-degree: 2%
 
 ---
@@ -44,27 +44,27 @@ ht-degree: 2%
 </table>
 
 -->
-我們最新的AEM GEM網路研討會於 **透過快速開發環境加速Adobe Experience ManagerCloud Service開發** 執行日期 *2023年2月22日*.
-此 **錄製** 可在此處找到： [AEM快速開發環境網路研討會](gems2023/rapid-development-environments.md)
+我們最新的AEM GEM網路研討會於 **釋放適用於AEMas a Cloud Service的New Relic APM的潛力。 最佳化效能並加速問題的解決。** 已執行於 *2023年9月20日*.
+此 **錄製** 您可在此處找到： [AEM中的New Relic](/help/experience-manager-gems/gems2023/newrelic-apm-for-aem-cloud-service.md)
 
 >[!NOTE]
 >
-> 報名參加即將舉辦的AEM GEM網路研討會，以接收相關通知 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
+> 報名參加即將舉辦的AEM GEM網路研討會，以取得相關通知，網址： [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
 
-## 2022年重新啟動AEM GEM
+## 2022年AEM GEM重新啟動
 
-歡迎使用 **AEM GEM**  — 我們由Adobe專家提供的關於Adobe Experience Manager的一系列技術深入探討。 此系列補充了產品檔案和所有其他有關Adobe Experience Manager的技術管道，讓開發人員可以聯絡並深入瞭解特定主題。
+歡迎使用 **AEM GEMs**  — 我們由Adobe專家提供的關於Adobe Experience Manager的一系列技術深入探討。 此系列補充了產品檔案和所有其他有關Adobe Experience Manager的技術管道，讓開發人員可以接觸並深入瞭解特定主題。
 
-網路研討會將定期進行，包括以下內容：
+這些網路研討會將定期進行，包括以下內容：
 
 * 持續時間上限為60分鐘
 * 問答環節和聊天專家可在整個網路研討會中找到
-* 每個網路研討會之後可用的錄製
+* 每個網路研討會後皆可錄製
 * 網路研討會是免費的
 
 我們所有的AEM GEM網路研討會都是免費的，而且是以虛擬方式進行。
 
-註冊位置 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/) 以取得有關我們即將舉辦的網路研討會的通知。
+註冊於 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/) 以取得有關我們即將舉辦的網路研討會的通知。
 
 ## Experience League社群
 
@@ -72,4 +72,4 @@ ht-degree: 2%
 
 * 連線：與同行和Adobe人員建立網路，以獲得從實作到擴大產品使用的指引和最佳實務
 * 快速解答：廣泛的真實使用案例解答，可支援成功主動使用Adobe解決方案
-* 創意與意見反應：聽取客戶產品創意並向產品團隊提供寶貴的VoC意見反應
+* 創意與意見反應：擷取客戶產品創意，並向產品團隊提供寶貴的VoC意見反應
