@@ -11,9 +11,9 @@ level: Intermediate
 type: Event
 user-guide-description: AEM GEM講座
 exl-id: 595f6977-935a-4859-9cfd-161d45847f85
-source-git-commit: 845008d5f0024ed3a6af4cfad0ebdd53ff713a93
+source-git-commit: 9156b59b2cf55116f1599400a04244f3423b4492
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '293'
 ht-degree: 2%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 2%
 
 -->
 我們最新的AEM GEM網路研討會於 **釋放適用於AEMas a Cloud Service的New Relic APM的潛力。 最佳化效能並加速問題的解決。** 已執行於 *2023年9月20日*.
-此 **錄製** 您可在此處找到： [AEM中的New Relic](/help/experience-manager-gems/gems2023/newrelic-apm-for-aem-cloud-service.md)
+此 **錄製** 您可在此處找到： [適用於Adobe Experience Manager as a Cloud Service的New Relic APM](/help/experience-manager-gems/gems2023/newrelic-apm-for-aem-cloud-service.md)
 
 >[!NOTE]
 >
