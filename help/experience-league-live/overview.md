@@ -7,10 +7,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 6682d7be406a8922067c520b7c21cd2da001fd80
+source-git-commit: aa5d4f36b22a0a069accc635f3d82d5ed6f871cc
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 47%
+source-wordcount: '165'
+ht-degree: 49%
 
 ---
 
@@ -24,8 +24,16 @@ Experience League LIVE 是 Experience League 團隊製作的直播串流節目�
 
 <table>
 <tr>
-  <td>
-    請在不久的將來造訪本頁面，瞭解即將播出的集數，包括2023年9月有關Real-time Customer Data Platform中相似受眾的集數！
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-26-23.md">
+      <img alt="Experience LeagueLIVE 4月21日" src="assets/Oct26_exl_live_WebBanner.png">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-10-26-23.md">
+        <strong>Workfront版本深入探討 — 新Workfront首頁</strong>
+      </a>
+      <br/><em>與Betsey West、Ben Robbins和Jamie Smith</em>
+      <br/><em>2023年10月26日</em>
+    </div>
   </td>
 </tr>
 </table>
