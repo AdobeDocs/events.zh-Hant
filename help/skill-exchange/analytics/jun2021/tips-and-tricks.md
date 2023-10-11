@@ -1,21 +1,21 @@
 ---
-title: Adobe Analytics提示與秘訣
-description: 加入Adobe Analytics主要產品經理Jen Lasser，分享改善分析工作流程的相關秘訣，並著重介紹最新的創新技術
+title: Adobe Analytics秘訣與技巧
+description: 加入Adobe Analytics首席產品經理Jen Lasser，她將分享改善您的分析工作流程並突顯最新創新的秘訣
 solution: Analytics
 role: User
 level: Intermediate, Experienced
 kt: 10321
 thumbnail: 342531.jpeg
-exl-id: ebb0303f-9b6b-42a3-8255-791583525af7
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 226de6d3-471d-4294-80a3-73f9e4354d5e
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-# Adobe Analytics提示與秘訣
+# Adobe Analytics秘訣與技巧
 
-加入Adobe Analytics主要產品經理Jen Lasser的行列，她將分享改善您分析工作流程的秘訣，並重點說明產品中的最新創新。
+加入Adobe Analytics首席產品經理Jen Lasser，她將分享改善您分析工作流程的秘訣，並重點說明產品中的最新創新。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342531/?quality=12&learn=on)

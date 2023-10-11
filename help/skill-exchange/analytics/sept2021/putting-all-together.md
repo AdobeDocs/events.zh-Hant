@@ -9,8 +9,8 @@ role: User
 level: Beginner
 kt: 10457
 thumbnail: 343320.jpeg
-exl-id: 51096153-3f19-4036-b18c-a49a31b751be
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: e6e2ebce-0fab-4c06-98a8-ec90753e551a
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # 整合所有內容
 
-我們將透過瞭解Adobe Analytics如何追蹤網站資料、如何儲存、共用及共同作業來結束工作。 在離開本課程時，提供一些秘訣，以提高您的生產力並繼續您的學習之旅。
+我們將透過瞭解Adobe Analytics如何追蹤網站資料、如何儲存、共用及共同作業來結束所有工作。 在離開本課程時，提供提高生產力及繼續學習之旅的秘訣。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343320/?quality=12&learn=on)

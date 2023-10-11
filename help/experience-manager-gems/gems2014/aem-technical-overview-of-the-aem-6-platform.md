@@ -4,8 +4,8 @@ description: 在此課程中，產品經理Peter Klassen會檢視JCR存放庫重
 uuid: 53be1e40-6fe9-44b5-a015-ba7ad7801d7c
 discoiquuid: f4f6e2b0-7910-4d1d-a024-583ef17ffcda
 targetaudience: target-audience advanced
-exl-id: 674467f9-d05d-49ab-b457-975f413342fe
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 505430d5-0d85-423d-83f5-59eb4deff427
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 5%
@@ -14,11 +14,11 @@ ht-degree: 5%
 
 # AEM 6平台的技術概觀{#technical-overview-of-the-aem-platform}
 
-在此課程中，Peter Klassen — 產品經理將瞭解以下內容：重新載入JCR存放庫 — 一次性改善效能和新的可擴充性選項、AEM 6中的mongoDB — 存放二進位檔 — 新的DataStore選項總覽、簡化平台作業。 本課程的目標受眾為合作夥伴和客戶；專案經理、架構師和管理員。
+在此課程中，Peter Klassen — 產品經理將瞭解以下內容：重新載入JCR存放庫 — 一見鍾情地改善效能並新增擴充能力選項、AEM 6中的mongoDB （存放二進位檔案） — 新的DataStore選項總覽、簡化平台作業。 本課程的目標受眾為合作夥伴和客戶；專案經理、架構師和管理員。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19517/?quality=9)
 
-*傳送日期： 2014年6月11日*
+*2014年6月11日傳遞*
 
 **展示者：**
 

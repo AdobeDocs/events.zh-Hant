@@ -1,6 +1,6 @@
 ---
 title: 雲端中Experience Manager Forms的數位註冊體驗
-description: 此會議著重於Forms從內部部署前往雲端的歷程。 其中也將涵蓋透過示範啟用數位註冊使用案例。
+description: 此會議著重於Forms從內部部署前往雲端的歷程。 其中也包括透過示範啟用數位註冊使用案例。
 solution: Experience Manager,Experience Manager Forms
 product: experience manager
 sub-product: forms
@@ -11,8 +11,8 @@ version: Cloud Service
 kt: 7403
 type: Event
 thumbnail: 332305.jpg
-exl-id: 2acdcc8d-dafa-4b49-bfa5-502e7058f29b
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 1b9725ec-7d85-444f-a207-72ed13a5cb33
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # 雲端中Experience Manager Forms的數位註冊體驗
 
-此會議著重於Forms從內部部署前往雲端的歷程。 其中也將涵蓋透過示範啟用數位註冊使用案例。
+此會議著重於Forms從內部部署前往雲端的歷程。 其中也包括透過示範啟用數位註冊使用案例。
 
 繼續對話於 **[Experience League社群](https://adobe.ly/36Yd3v6)**.
 

@@ -1,20 +1,20 @@
 ---
-title: 關於跨裝置分析和Customer Journey Analytics的所有須知事項
+title: 關於跨裝置分析和Customer Journey Analytics需要知道的所有資訊
 description: 進一步瞭解如何使用Adobe Analytics和Customer Journey Analytics來分析跨瀏覽器/裝置/應用程式和多個管道的使用者行為。
 solution: Customer Journey Analytics, Analytics
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
 kt: 10565
 thumbnail: 343820.jpeg
-exl-id: ddb44c5f-563b-4f42-bcdc-7eccefbe5239
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 07a57ae6-77b9-4776-ad19-9308ba324158
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
-# 關於跨裝置分析和Customer Journey Analytics的所有須知事項
+# 關於跨裝置分析和Customer Journey Analytics需要知道的所有資訊
 
 進一步瞭解如何使用Adobe Analytics和Customer Journey Analytics來分析跨瀏覽器/裝置/應用程式和多個管道的使用者行為。
 

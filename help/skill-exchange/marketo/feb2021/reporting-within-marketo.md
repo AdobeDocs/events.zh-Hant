@@ -1,13 +1,13 @@
 ---
 title: 報告範圍 [!DNL Marketo Engage]
-description: 瞭解內的高階報告功能 [!DNL Marketo Engage]，並深入瞭解報表和智慧清單。
+description: 瞭解內的高階報告功能 [!DNL Marketo Engage]，並深入瞭解報表和智慧列示。
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9710
 thumbnail: 340309.jpeg
-exl-id: 49e6d249-c5fc-4674-b5b6-6aa4ad6f816b
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: 87f18c5d-5bf3-4789-912c-a4072b26e940
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 2%
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 # 報告範圍 [!DNL Marketo Engage]
 
-此會議將檢閱所有可用的報告工具： [!DNL Marketo Engage] 包括：
+此會議將檢閱以下所有可用的報告工具： [!DNL Marketo Engage] 包括：
 
 * 報告
 * 智慧清單
@@ -29,6 +29,6 @@ ht-degree: 2%
 * 何時使用標準報表與智慧列示
 * 訂閱
 
-在結束本課程後，您將瞭解內的高階報告功能。 [!DNL Marketo Engage]，並深入瞭解報表和智慧清單。
+在結束本課程時，您將會瞭解內的高階報告功能 [!DNL Marketo Engage]，並深入瞭解報表和智慧列示。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340309/?quality=12&learn=on)

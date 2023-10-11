@@ -5,8 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9918
-exl-id: ea4716c9-2c61-4c44-9d2a-cbd4f07699d5
-source-git-commit: 5952a51bcc4ec25d14cf5527ec1af218ebc0ae11
+exl-id: f859c4eb-8b3c-4d91-9765-9957dc4678f5
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '1662'
 ht-degree: 2%
@@ -125,7 +125,7 @@ Workfront不支援 [!DNL CSS] 在文字模式中。
 
 **問題**
 
-欄位和物件名稱是否必須為正確的大小寫(例如： 角色vs角色)？
+欄位和物件名稱是否必須為正確的大小寫(例如， 角色vs角色)？
 
 **回答**
 

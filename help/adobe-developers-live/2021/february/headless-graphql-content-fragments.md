@@ -1,6 +1,6 @@
 ---
-title: Headless — 具有內容片段的GraphQL
-description: 瞭解新的Headless功能和最新的內容片段增強功能。 本課程將著重於Adobe Experience ManagerCloud Service的GraphQL API。 此工作階段為Adobe Developers Live內容事件的一部分。
+title: Headless — 使用內容片段的GraphQL
+description: 瞭解新的Headless功能以及最新的內容片段增強功能。 本課程將著重於適用於Adobe Experience ManagerCloud Service的GraphQL API。 此工作階段屬於Adobe Developers Live內容事件的一部分。
 solution: Experience Manager
 product: experience manager
 feature: Content Fragments, APIs, GraphQL API
@@ -11,8 +11,8 @@ version: Cloud Service
 kt: 7171
 type: Event
 thumbnail: 331280.jpg
-exl-id: a545a81e-efa5-485f-a653-6cee86e29065
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 4e43d3d4-db29-45a2-9979-59f562e427e0
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Headless：使用內容片段的GraphQL
 
-瞭解新的Headless功能和最新的內容片段增強功能。 本課程將著重於Adobe Experience ManagerCloud Service的GraphQL API。
+瞭解新的Headless功能以及最新的內容片段增強功能。 本課程將著重於適用於Adobe Experience ManagerCloud Service的GraphQL API。
 
 繼續對話於 **[Experience League社群](https://adobe.ly/36Yd3v6)**.
 

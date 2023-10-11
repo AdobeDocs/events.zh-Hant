@@ -1,6 +1,6 @@
 ---
-title: 透過GraphQL的Commerce Integration Framework擴充性
-description: 瞭解如何使用GraphQL擴充Commerce核心元件。 此工作階段為Adobe Developers Live內容事件的一部分。
+title: 透過GraphQL的Commerce integration framework擴充性
+description: 瞭解如何使用GraphQL擴充Commerce核心元件。 此工作階段屬於Adobe Developers Live內容事件的一部分。
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -12,15 +12,15 @@ version: Cloud Service
 kt: 7187
 type: Event
 thumbnail: 331850.jpg
-exl-id: c41fd457-a8aa-4ab5-a7e4-67562aa77d63
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 15776683-621e-4be4-b4ef-b9c58a4eedf4
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# 透過GraphQL的Commerce Integration Framework擴充性
+# 透過GraphQL的Commerce integration framework擴充性
 
 瞭解如何使用GraphQL擴充Commerce核心元件。
 

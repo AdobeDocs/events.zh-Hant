@@ -1,23 +1,23 @@
 ---
-title: 2021年須知的Adobe Analytics API
-description: Adobe Analytics是市面上功能最廣的分析工具之一。 它以使用者易記的介面而聞名，但在企業級整合方面也有許多可提供的功能。 本課程旨在讓您概略瞭解可用的API，並展示一些具體使用案例，以實現最大的投資回報。 目標受眾為開發人員、分析師和產品負責人，他們可能直接處理整合工作，或想知道可用工具的可能用途。
+title: 2021年需知的Adobe Analytics API
+description: Adobe Analytics是市面上最多樣化的分析工具之一。 除了方便使用的介面外，也提供許多企業級整合服務。 此課程旨在提供可用API的概觀，並顯示一些具體使用案例，以實現最大的投資報酬。 目標受眾為開發人員、分析師和產品負責人，他們可能直接處理整合工作，或想知道可用工具的可能用途。
 solution: Analytics
 feature: Developer Tools
 role: Developer, Architect
 level: Experienced
 kt: 9212
 type: Event
-exl-id: b6482778-0d28-4d18-9055-1bb09b063138
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 61bec279-c99c-41c3-9ffc-ee6f90509ae4
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '218'
-ht-degree: 12%
+ht-degree: 14%
 
 ---
 
-# 2021年須知的Adobe Analytics API
+# 2021年需知的Adobe Analytics API
 
-Adobe Analytics是市面上功能最廣的分析工具之一。 它以使用者易記的介面而聞名，但在企業級整合方面也有許多可提供的功能。 本課程旨在讓您概略瞭解可用的API，並展示一些具體使用案例，以實現最大的投資回報。 目標受眾為開發人員、分析師和產品負責人，他們可能直接處理整合工作，或想知道可用工具的可能用途。
+Adobe Analytics是市面上最多樣化的分析工具之一。 除了方便使用的介面外，也提供許多企業級整合服務。 此課程旨在提供可用API的概觀，並顯示一些具體使用案例，以實現最大的投資報酬。 目標受眾為開發人員、分析師和產品負責人，他們可能直接處理整合工作，或想知道可用工具的可能用途。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337576/?quality=12&learn=on&hidetitle=true)
 

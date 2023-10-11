@@ -1,24 +1,24 @@
 ---
-title: AEM Web效能
-description: 快速提供複雜的Web體驗是極具挑戰性的。 在本次演講中，Joel將說明一些較常見的陷阱。 內容包括理論、範例、最佳作法及工具示範。
+title: AEM網站效能
+description: 快速提供複雜的Web體驗是一項挑戰。 在本次演講中，Joel將說明一些更常見的陷阱。 內容包括理論、範例、最佳作法及工具示範。
 uuid: f6338645-e05f-4b57-b576-65645d9220ed
 discoiquuid: cad28317-da2a-4aa0-a7f1-549f19ca4de1
 targetaudience: target-audience advanced
-exl-id: 8a66cda4-c856-415f-a1fd-cafc6909b7ee
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: dfb6708b-0b2e-4ee1-8983-014d1f3bc708
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 10%
 
 ---
 
-# AEM Web效能{#aem-web-performance}
+# AEM網站效能{#aem-web-performance}
 
-快速提供複雜的Web體驗是極具挑戰性的。 在本次演講中，Joel將說明一些較常見的陷阱。 其中將包括理論、範例、最佳作法，以及圍繞以下區域進行工具示範 — 網路和延遲：最佳化HTTP/1.1和HTTP/2 — 緩慢AEM伺服器請求：識別問題 — JavaScript：減少額外負荷
+快速提供複雜的Web體驗是一項挑戰。 在本次演講中，Joel將說明一些更常見的陷阱。 其中將包括理論、範例、最佳作法，以及圍繞下列領域的工具示範 — 網路和延遲：最佳化HTTP/1.1和HTTP/2 — 緩慢AEM伺服器請求：識別問題 — JavaScript：減少額外負荷
 
 >[!VIDEO](https://video.tv.adobe.com/v/19296/?quality=9)
 
-*傳送日期： 2016年6月1日*
+*2016年6月1日傳遞*
 
 **展示者：**
 
@@ -32,7 +32,7 @@ ht-degree: 10%
 
 >[!WARNING]
 >
->AEM 6.4版及舊版已終止服務，Adobe不再販售。  Adobe建議升級至最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  檔案的封存版本可從此處存取 [頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM 6.4版和更舊版本已終止服務，Adobe不再銷售。  Adobe建議升級至最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  檔案的封存版本可從此處存取 [頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
 
 Apache:\
 [https://httpd.apache.org/docs/trunk/mod/mod_http2.html](https://httpd.apache.org/docs/trunk/mod/mod_http2.html)

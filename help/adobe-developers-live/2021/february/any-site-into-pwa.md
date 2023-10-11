@@ -1,6 +1,6 @@
 ---
 title: PWA — 將任何網站轉換為漸進式網頁應用程式
-description: 無論您的網站是網頁應用程式還是傳統網站，只要按一下即可使其安裝在行動裝置上並可供離線使用。 此工作階段為Adobe Developers Live內容事件的一部分。
+description: 無論您的網站是網頁應用程式還是傳統網站，只要按一下，都可在行動裝置上安裝並可供離線使用。 此工作階段屬於Adobe Developers Live內容事件的一部分。
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -12,8 +12,8 @@ version: Cloud Service
 kt: 7176
 type: Event
 thumbnail: 331742.jpg
-exl-id: 4f912544-210d-45f3-b1c5-1d5b857793b5
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: e819c76d-84f4-4cd6-baed-a336a40267aa
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # PWA — 將任何網站轉換為漸進式網頁應用程式
 
-無論您的網站是網頁應用程式還是傳統網站，只要按一下即可使其安裝在行動裝置上並可供離線使用。
+無論您的網站是網頁應用程式還是傳統網站，只要按一下，都可在行動裝置上安裝並可供離線使用。
 
 繼續對話於 **[Experience League社群](https://adobe.ly/36Yd3v6)**.
 

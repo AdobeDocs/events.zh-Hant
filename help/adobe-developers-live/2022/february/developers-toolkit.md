@@ -1,12 +1,12 @@
 ---
 title: Commerce Developer's Toolkit簡介
-description: 涵蓋下列主題：本機開發設定、偵錯和設定檔工具、在生產環境中善用New Relic以及測試。
+description: 涵蓋本機開發設定、偵錯和設定檔工具、在生產環境中善用New Relic以及測試等主題。
 role: Developer
 level: Beginner
 kt: 9786
 thumbnail: 340621.jpeg
-exl-id: 042d34a9-38c2-490d-bed6-bbc7c037981a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: e3ce0a7b-bb36-4643-bd33-3a7052cdd6cf
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # Commerce Developer&#39;s Toolkit簡介
 
-在透過靈活且複雜的架構(例如Adobe Commerce和Magento開放原始碼)提供成功成果方面，開發團隊必須使用正確的工具來開展工作。 在此演講中，我們將介紹一些工具，這些工具對我作為Magento開發人員的職業生涯很有幫助。 我們將介紹本機開發設定、偵錯和設定檔工具、在生產環境中善用New Relic、測試等主題。 我們將透過一些範例，瞭解這些工具如何讓開發人員在本已複雜的環境中更輕鬆生活！
+在像Adobe Commerce和Magento開放原始碼這類靈活且因此複雜的架構上實現成功結果時，開發團隊必須使用正確的工具來開展工作。 在此演講中，我們將介紹一些在我作為Magento開發人員的職業生涯中很有用的工具。 我們將涵蓋本機開發設定、偵錯和設定檔工具、在生產環境中善用New Relic、測試等主題。 我們將檢視一些範例，說明這些工具如何在本已複雜的環境中，讓開發人員的生活更輕鬆！
 
 >[!VIDEO](https://video.tv.adobe.com/v/340621/?quality=12&learn=on)

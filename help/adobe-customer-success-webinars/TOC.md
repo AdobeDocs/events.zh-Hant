@@ -5,7 +5,7 @@ user-guide-description: Adobe客戶成功引導的網路研討會，旨在讓您
 source-git-commit: de72ca31699f62b6f3034ccb2fe161f78b1f39e8
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
@@ -21,5 +21,5 @@ ht-degree: 1%
    + [行銷活動協調的基本策略](2023/foundational-strategy-campaign.md)
    + [排定智慧與測量的優先順序](2023/intelligence-and-measurement.md)
    + [Real-time CDP遷移整備](2023/rtcdp-migration-readiness.md)
-   + [設定有效的Audience Activation策略](2023/audience-activation.md)
+   + [設定有效的 Audience Activation 策略](2023/audience-activation.md)
    + [轉換為Real-time CDP](2023/aam-to-rtcdp.md)

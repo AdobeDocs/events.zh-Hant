@@ -1,20 +1,20 @@
 ---
 title: SharePoint Connector — 設定和設定
-description: 取得如何使用CQ/AEM (5.6.0)設定共用聯結器的逐步指引，以及幾個範例的示範。 Adobe的SharePoint Connector透過標準JCR介面公開內容，讓應用程式能以標準化方式存取專屬存放庫中的內容，進而簡化內容的存取。
+description: 取得如何使用CQ/AEM (5.6.0)設定共用聯結器的逐步指引，以及幾個範例的示範。 Adobe的SharePoint Connector透過標準JCR介面公開內容，讓應用程式以標準化方式存取專屬存放庫中的內容，進而簡化內容的存取。
 uuid: 48c54652-4816-4e31-933d-5d710db40ba3
 discoiquuid: 731a0196-b5da-459c-96a6-7da08cd3756d
 targetaudience: target-audience advanced
-exl-id: 6be84631-1f4b-4240-985e-028e60b0cd4f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: bf44898e-f455-456a-b168-912feb275aae
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 1%
 
 ---
 
-# SharePoint Connector — 設定和設定{#sharepoint-connector-setup-and-configuration}
+# SharePoint Connector — 設定與設定{#sharepoint-connector-setup-and-configuration}
 
-Adobe的SharePoint Connector透過標準JCR介面公開內容，讓應用程式能以標準化方式存取專屬存放庫中的內容，進而簡化內容的存取。 在此會議中，我們將提供如何使用CQ/AEM (5.6.0)設定共用聯結器的逐步指引，並示範幾個範例：
+Adobe的SharePoint Connector透過標準JCR介面公開內容，讓應用程式以標準化方式存取專屬存放庫中的內容，進而簡化內容的存取。 在此會議中，我們將提供如何使用CQ/AEM (5.6.0)設定共用聯結器的逐步指引，並示範以下的幾個範例：
 
 * 從SharePoint讀取內容和中繼資料
 * 將檔案和資料夾寫入SharePoint檔案庫

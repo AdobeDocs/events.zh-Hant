@@ -1,7 +1,8 @@
 ---
 title: AEM Champion營業時間
-description: 此Adobe Experience Manager使用者群組(AEMUG)由2022-2023 AEM Champion Class推動。 Champions將使用此AEMUG作為他們每月辦公時間的平台
-source-git-commit: 231676141badaab1abfff99fad3c2f820e3047cb
+description: 此Adobe Experience Manager使用者群組(AEMUG)由2022-2023 AEM Champion類別協助。 Champions將使用此AEMUG作為他們每月辦公時間的平台
+exl-id: 59afdad3-fffc-4ec4-9bdf-cdae32422737
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -10,9 +11,9 @@ ht-degree: 0%
 
 # AEM Champion營業時間
 
-此Adobe Experience Manager使用者群組(AEMUG)由2022-2023 AEM Champion Class推動。 Champions將使用此AEMUG作為其每月辦公時間的平台，所有體驗層級的AEM從業人員和開發人員都可以參加，並且由專家Experience Manager客戶、合作夥伴和顧問回答他們最棘手的問題。
+此Adobe Experience Manager使用者群組(AEMUG)由2022-2023 AEM Champion類別協助。 Champions將此AEMUG用作他們每月辦公時間的平台，所有體驗層級的AEM從業人員和開發人員都可以參加，並且由專家Experience Manager客戶、合作夥伴和顧問回答他們最棘手的問題。
 
-如果您有興趣增進對Adobe Experience Manager的知識和使用、與Experience Manager思想領袖互動以及獲得獨家獎勵，那麼現在就加入AEM Champion辦公時間使用者群組！
+如果您有興趣提升您對Adobe Experience Manager的知識和使用、與Experience Manager思想領袖互動以及獲得獨家獎勵，那麼今天就加入AEM Champion辦公時間使用者群組！
 
 <!--
 ## What's New
@@ -64,4 +65,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->**左側導覽中會列出所有錄製的工作階段**.
+>**所有錄製的作業階段都會列在左側的導覽中**.

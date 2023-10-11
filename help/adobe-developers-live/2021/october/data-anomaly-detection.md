@@ -1,23 +1,23 @@
 ---
 title: DataFacts - AEP第一個以App Builder為基礎的資料異常偵測工具
-description: Softcrylic利用Adobe的App Builder開發應用程式，以協助識別Adobe Experience Platform (AEP)中的資料不一致之處
+description: Softcrylic利用Adobe的App Builder開發應用程式，以協助識別Adobe Experience Platform (AEP)中的資料不一致
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Experienced
 kt: 9213
 type: Event
-exl-id: 9a281b3f-a7ff-4a9d-92f7-00778ae10b38
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: d2bd72bc-05fe-47e6-8439-b00f6fb740db
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 29%
+ht-degree: 34%
 
 ---
 
 # DataFacts - AEP第一個以App Builder為基礎的資料異常偵測工具
 
-Softcrylic利用Adobe的App Builder開發應用程式，以協助識別Adobe Experience Platform (AEP)中的資料不一致之處
+Softcrylic利用Adobe的App Builder開發應用程式，以協助識別Adobe Experience Platform (AEP)中的資料不一致
 
 >[!VIDEO](https://video.tv.adobe.com/v/337710/?quality=12&learn=on&hidetitle=true)
 

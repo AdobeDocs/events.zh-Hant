@@ -2,11 +2,11 @@
 title: Adobe Developers Live 2021年10月
 description: Adobe Experience Manager Sites的影片和教學課程系列，作為Adobe Developers Live活動的一部分提供。
 sub-product: sites, content-services
-exl-id: 0ad75a56-d7d1-401c-9a3f-c45fc2c78036
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: e6ebda58-dd9f-4d27-9f94-0233fc98d3c0
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '458'
-ht-degree: 17%
+ht-degree: 19%
 
 ---
 
@@ -14,15 +14,15 @@ ht-degree: 17%
 
 <img alt="Adobe Developers Live" src="/help/adobe-developers-live/assets/adl.png" />
 
-2021年10月4日至5日，Adobe Developers Live彙集多元背景的Adobe開發人員和有經驗的建置者，其目的只有一個，就是創造令人驚豔的端對端體驗。 此為期兩天的會議提供重要的開發人員更新、技術研討會，以及社群交流機會。
+在2021年10月4日至5日，Adobe Developers Live彙集多元背景的Adobe開發人員和有經驗的建置者，其目的只有一個，就是創造令人驚豔的端對端體驗。 此為期兩天的會議提供重要的開發人員最新消息、技術研討會，以及社群交流機會。
 
-跨Adobe Experience Cloud、Document Cloud和Creative Cloud的Adobe產品團隊展示了跨行業推動設計、內容創作工作流程、檔案服務和客戶體驗管理的最新技術進步和開發人員工具。
+橫跨Adobe Experience Cloud、Document Cloud和Creative Cloud的Adobe產品團隊展示了跨產業推動設計、內容創作工作流程、檔案服務和客戶體驗管理的最新技術進步和開發人員工具。
 
-與其他開發人員聯絡，並在Experience League社群中加入工作階段對話。
+與其他開發人員連絡並加入Experience League社群中的工作階段交談。
 * [Adobe Developer App Builder完整工作階段清單](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
 * [AEM完整工作階段清單](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041#M120517)
 
-## 亮點
+## 反白顯示
 
 <table>
   <tr>
@@ -32,11 +32,11 @@ ht-degree: 17%
       </a>
       <div>
          <a href="headless.md"><strong>Headless網站</strong></a>         
-         <br/><em>與AEM Sites首席產品經理Mathias Siegel一起</em>
+         <br/><em>AEM Sites首席產品經理Mathias Siegel</em>
       </div>
       <p>
         <br/>
-         有了AEM 6.5和Adobe Experience Manager as a Cloud Service可用的內容片段GraphQL，讓我們來探索如何使用Adobe Experience Manager做為Headless CMS。
+         AEM 6.5和Adobe Experience Manager as a Cloud Service提供適用於內容片段的GraphQL ，讓我們探討如何將Adobe Experience Manager用作Headless CMS。
       </p>
      </td>   
      <td>
@@ -45,11 +45,11 @@ ht-degree: 17%
       </a>
       <div>
          <a href="aep-integration.md"><strong>Adobe Experience Platform整合概述</strong></a>
-         <br/><em>與首席企業解決方案架構師Eric Knee合作</em>
+         <br/><em>與主要企業解決方案設計師Eric Knee合作</em>
       </div>
       <p>
         <br/>
-         此會議將讓您全面瞭解Adobe Experience Platform可在您的生態系統中整合的不同方式，以及在規劃整合工作時需考慮的事項。
+         此會議將為您提供Adobe Experience Platform可在您的生態系統中整合的各種方式的整體檢視，以及在規劃整合工作時需考慮的事項。
       </p>
    </td>
    </td>
@@ -59,11 +59,11 @@ ht-degree: 17%
       </a>
       <div>
          <a href="pdf-services-api.md"><strong>使用Adobe Sign API在您的應用程式中產生檔案並擷取電子簽章</strong></a>
-         <br/><em>與首席開發商Evangelist Ben Vanderberg一起</em>
+         <br/><em>與首席開發商Evangelist Ben Vanderberg</em>
       </div>
       <p>
         <br/>
-         Adobe Document Generation API是功能強大的檔案建立服務，由與您資料合併的Microsoft Word範本驅動。 與Adobe Sign API結合後，開發人員可以輕鬆地產生動態檔案，並準備好透過簽署工作流程進行處理。
+         Adobe Document Generation API是功能強大的檔案建立服務，由Microsoft Word範本驅動並與您的資料合併。 與Adobe Sign API結合時，開發人員可以輕鬆地產生動態檔案，並準備好透過簽署工作流程進行處理。
       </p>
    </td> 
   </tr>
@@ -97,4 +97,4 @@ ht-degree: 17%
 
 * [App Builder概述](https://adobe.ly/aem-appbuilder)
 * [App Builder開發人員指南](https://adobe.ly/appbuilder)
-* [App Builder試用計畫註冊](https://adobe.ly/appbuilder-trial)
+* [App Builder試用方案註冊](https://adobe.ly/appbuilder-trial)

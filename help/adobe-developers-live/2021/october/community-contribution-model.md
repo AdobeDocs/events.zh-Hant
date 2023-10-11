@@ -1,23 +1,23 @@
 ---
 title: Adobe Commerce與社群貢獻模型
-description: 在這場會議中，您將瞭解我們社群貢獻模式的重要變更。 此程式的這些變更，可讓合作夥伴和客戶透過簡化的程式和標準化的傳送管道，以更快的速度從社群存取重要修正。
+description: 在這場會議中，您將瞭解我們社群貢獻模式的重要變更。 這些流程變更可讓合作夥伴和客戶透過簡化的流程及標準化的傳送管道，以更快的速度從社群存取關鍵修正。
 solution: Commerce
 feature: Developer Tools
 role: Developer, Architect
 level: Experienced
 kt: 9197
 type: Event
-exl-id: e94da13c-ac0c-40eb-a1e2-96f318074785
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 6b07f3b8-2885-4bac-8cfd-24250a35f597
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 21%
+ht-degree: 24%
 
 ---
 
 # Adobe Commerce與社群貢獻模型
 
-在這場會議中，您將瞭解我們社群貢獻模式的重要變更。 此程式的這些變更，可讓合作夥伴和客戶透過簡化的程式和標準化的傳送管道，以更快的速度從社群存取重要修正。
+在這場會議中，您將瞭解我們社群貢獻模式的重要變更。 這些流程變更可讓合作夥伴和客戶透過簡化的流程及標準化的傳送管道，以更快的速度從社群存取關鍵修正。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337766/?quality=12&learn=on&hidetitle=true)
 

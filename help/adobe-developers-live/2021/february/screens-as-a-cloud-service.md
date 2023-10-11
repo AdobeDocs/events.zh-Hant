@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager Screensas a Cloud Service
-description: 加入Developer Experience for Experience Cloud的Director Jonathan Roeder，瞭解Adobe Experience Cloud的最新開發人員更新。 此工作階段為Adobe Developers Live內容事件的一部分。
+description: 加入Developer Experience for Experience Cloud的Director Jonathan Roeder，瞭解整個Adobe Experience Cloud的最新開發人員更新。 此工作階段屬於Adobe Developers Live內容事件的一部分。
 solution: Experience Manager,Experience Manager Screens
 product: experience manager
 sub-product: screens
@@ -12,8 +12,8 @@ version: Cloud Service
 kt: 7164
 type: Event
 thumbnail: 331767.jpg
-exl-id: 11c79583-4260-4b83-95c3-615ac7b49f3f
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 3ddae9b1-f480-4d84-952a-ca31bb9616f7
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Adobe Experience Manager Screensas a Cloud Service
 
-重新想像Adobe Experience Manager Screensas a Cloud Service：從與CMS緊密結合到成為完全受管且可擴充的雲端服務的歷程。
+重新想像Adobe Experience Manager Screensas a Cloud Service：從與CMS緊密結合到成為完全受管理且可擴充的雲端服務的歷程。
 
 繼續對話於 **[Experience League社群](https://adobe.ly/36Yd3v6)**.
 

@@ -1,6 +1,6 @@
 ---
-title: 因此您想要擴充Adobe Experience Cloud
-description: 您想要使用適用於多個解決方案的現代化架構來擴充Adobe解決方案嗎？ 我們認為您應該嘗試使用Adobe Developer App Builder。 此工作階段為Adobe Developers Live內容事件的一部分。
+title: 所以您要擴充Adobe Experience Cloud
+description: 您想要使用適用於多個解決方案的現代化架構來擴充Adobe解決方案嗎？ 我們認為您應該嘗試使用Adobe Developer App Builder。 此工作階段屬於Adobe Developers Live內容事件的一部分。
 solution: Experience Cloud
 topic: Development
 role: Developer
@@ -8,8 +8,8 @@ level: Experienced
 kt: 7189
 type: Event
 thumbnail: 331852.jpg
-exl-id: fe442380-d52d-4718-84ff-fec4011ae8f2
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: d81729f3-be66-4f68-8f23-b9ca55c1154c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%

@@ -1,8 +1,8 @@
 ---
 title: 技能培養概觀
 description: 使用整個組織的線上和離線資料分析，在任何管道上推動即時個人化。
-exl-id: dbb8c5dc-596d-4f89-8a81-3ea201dd4b6b
-source-git-commit: d2a3a5edcdf1aa38a0d0daf469a6e83d4e0b996b
+exl-id: 8fd59178-ed35-4781-9bca-6438ba80d44d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 6%
@@ -32,15 +32,15 @@ ht-degree: 6%
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/innovations.html">
-      <img alt="2022年創新與趨勢" src="https://video.tv.adobe.com/v/343818?format=jpeg" />
+      <img alt="2022年創新和趨勢" src="https://video.tv.adobe.com/v/343818?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/innovations.html">
-        <strong>2022年創新與趨勢</strong>
+        <strong>2022年創新和趨勢</strong>
       </a>
     </div>
     <p>
-    <em>在這場主題演講中，您將瞭解D&amp;I的主要趨勢。加入我們，探索如何充分發揮Experience Cloud投資的最大效益，進而對您的資料進行相關的運用，並深入瞭解新的創新技術。</em>
+    <em>在本主旨會議中，您將瞭解D&amp;I的主要趨勢。加入我們，探索如何充分發揮Experience Cloud投資的最大效益，並窺探新的創新內容，以妥善運用您的資料。</em>
     <p>
   </td>  
   <td>
@@ -53,7 +53,7 @@ ht-degree: 6%
       </a>
     </div>
     <p>
-    <em>在這場會議中，您將瞭解如何在行動裝置上使用Analytics儀表板的最佳實務，以及如何透過Target個人化應用程式。</em>
+    <em>在這場會議中，您將瞭解如何在行動裝置上使用Analytics儀表板，以及如何透過Target個人化應用程式的最佳實務。</em>
     <p>
   </td>
 </tr>
@@ -61,4 +61,4 @@ ht-degree: 6%
 
 >[!TIP]
 >
->**左側導覽中會列出所有錄製的工作階段**.
+>**所有錄製的作業階段都會列在左側的導覽中**.

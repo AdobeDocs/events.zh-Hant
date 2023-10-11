@@ -1,25 +1,25 @@
 ---
 title: 適用於初學者的PWA Studio最佳實務
-description: 本課程是新手易記的簡介，說明PWA Studio的功能。 瞭解不同的PWA Studio庫，以及如何在店面專案中有效使用它們。 加入我們的範例和示範，瞭解入門和使用PWA Studio有多麼輕鬆。
+description: 本課程是簡單入門的PWA Studio功能簡介。 瞭解不同的PWA Studio庫，以及如何在店面專案中有效使用它們。 加入我們的範例和示範，瞭解開始使用PWA Studio有多麼容易。
 solution: Commerce
 feature: Developer Tools
 role: Developer, Architect
 level: Experienced
 kt: 9199
 type: Event
-exl-id: f7f84b7d-3834-4ed2-bcdf-b2576827ffca
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 516ea10a-8783-4ddf-bed1-2415b38177cb
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 19%
+ht-degree: 21%
 
 ---
 
 # 適用於初學者的PWA Studio最佳實務
 
-本課程是新手易記的簡介，說明PWA Studio的功能。
+本課程是簡單入門的PWA Studio功能簡介。
 瞭解不同的PWA Studio庫，以及如何在店面專案中有效使用它們。
-加入我們的範例和示範，瞭解入門和使用PWA Studio有多麼輕鬆。
+加入我們的範例和示範，瞭解開始使用PWA Studio有多麼容易。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337764/?quality=12&learn=on&hidetitle=true)
 

@@ -1,6 +1,6 @@
 ---
 title: 提示與秘訣
-description: 改善分析工作流程的秘訣，並強調Adobe Analytics中最新的創新
+description: 提供秘訣，以改進您的分析工作流程，並強調Adobe Analytics中最近的創新內容
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Analysis Workspace
@@ -8,8 +8,8 @@ role: User
 level: Intermediate, Experienced
 kt: 10478
 thumbnail: 343345.jpeg
-exl-id: fc7d146a-2b17-406e-b88e-0229c7e09b56
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 6ecd5833-4ae1-40c9-8cb5-2cc64d7f34eb
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%

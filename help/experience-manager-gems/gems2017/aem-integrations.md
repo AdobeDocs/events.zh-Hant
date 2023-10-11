@@ -1,28 +1,28 @@
 ---
-title: AEM整合 — 穩固的基礎任重而道遠
-description: 雖然AEM的工作相當獨立，但我們與AEM合作的AT/AAM/AA顧問需要與AEM同行共同作業。 此會議簡要概述使用DTM的AT/AAM/AA整合、我們所尋找的事物以及這一切重要的原因。
+title: AEM整合 — 穩固的基礎可發揮長足作用
+description: 雖然AEM的工作相當獨立，但與AEM合作的AT/AAM/AA顧問必須與AEM同行共同作業。 此會議簡要概述使用DTM的AT/AAM/AA整合、我們所尋找的專案，以及一切重要的原因。
 uuid: 6967a5c8-5eca-488c-9548-facef7bb55c0
 discoiquuid: 40741bd1-4995-4627-9c7c-2d5f2cd68760
 targetaudience: target-audience advanced
-exl-id: 15b63fdf-ba96-44a7-9e7e-9a41b4ee053d
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 52581331-7021-4c1d-9340-161bd56cfad8
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 1%
 
 ---
 
-# AEM整合 — 穩固的基礎任重而道遠{#aem-integrations-a-solid-foundation-goes-a-long-way}
+# AEM整合 — 穩固的基礎可發揮長足作用{#aem-integrations-a-solid-foundation-goes-a-long-way}
 
-雖然AEM的工作相當獨立，但我們與AEM合作的AT/AAM/AA顧問需要與AEM同行共同作業。 此會議簡要概述使用DTM的AT/AAM/AA整合、我們所尋找的事物以及這一切重要的原因。 如果您想瞭解人們實際使用AT/AAM/AA甚至AEM的原因，這就是您的工作階段。   AT = Adobe Target AAM = Adobe Audience Manager AA = Adobe Analytics DTM = Dynamic Tag Management
+雖然AEM的工作相當獨立，但與AEM合作的AT/AAM/AA顧問必須與AEM同行共同作業。 此會議簡要概述使用DTM的AT/AAM/AA整合、我們所尋找的專案，以及一切重要的原因。 如果您想瞭解人們實際使用AT/AAM/AA或AEM的原因，這就是您的工作階段。   AT = Adobe Target AAM = Adobe Audience Manager AA = Adobe Analytics DTM =動態Tag Management
 
 >[!VIDEO](https://video.tv.adobe.com/v/19833/?quality=9)
 
-*2017年9月27日交付*
+*2017年9月27日傳遞*
 
 **展示者：**
 
-經理Jan Exner Adobe管理顧問
+經理Jan Exner 管理顧問，Adobe
 
 **簡報者投影片**
 

@@ -1,6 +1,6 @@
 ---
 title: 透過URL轉換、調整及最佳化影像
-description: 影像可能佔您數位體驗總頻寬的60%以上，而若是媒體豐富的影像密集型體驗，此比例可能高達85%。 若要為您的使用者帶來最佳體驗，請務必最佳化所提供的影像。 瞭解Adobe Experience Manager Dynamic Media如何透過其領先業界的智慧型影像功能和其他大量動態影像功能集，提供更佳的使用者體驗並改善轉換率。 此會議將協助技術人員瞭解使用Dynamic Media URL和修飾元的最佳實務，這類似一站式服務，技術人員不必透過反複試驗就達到影像最佳化。
+description: 影像可能會佔用您數位體驗中總頻寬的60%以上，而若是媒體豐富的影像密集型體驗，則高達85%。 若要為您的使用者帶來最佳體驗，請務必最佳化所提供的影像。 瞭解Adobe Experience Manager Dynamic Media如何透過其領先業界的智慧型影像功能和其他大量動態影像功能集，提供更佳的使用者體驗並改善轉換率。 此會議將協助技術人員瞭解使用Dynamic Media URL和修飾元的最佳實務，這類似一站式服務，技術人員不必透過反複嘗試就達到影像最佳化。
 solution: Experience Manager,Experience Manager Assets
 feature: Smart Crop, Smart Services
 role: User
@@ -8,8 +8,8 @@ level: Beginner
 version: Cloud Service
 kt: 9176
 type: Event
-exl-id: 02a73889-5123-4af1-8314-7eb204df8203
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: b3218ecd-4682-4bd1-8444-594ae925e4d8
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 5%
@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # 透過URL轉換、調整及最佳化影像
 
-影像可能佔您數位體驗總頻寬的60%以上，而若是媒體豐富的影像密集型體驗，此比例可能高達85%。 若要為您的使用者帶來最佳體驗，請務必最佳化所提供的影像。 瞭解Adobe Experience Manager Dynamic Media如何透過其領先業界的智慧型影像功能和其他大量動態影像功能集，提供更佳的使用者體驗並改善轉換率。 此會議將協助技術人員瞭解使用Dynamic Media URL和修飾元的最佳實務，這類似一站式服務，技術人員不必透過反複試驗就達到影像最佳化。
+影像可能會佔用您數位體驗中總頻寬的60%以上，而若是媒體豐富的影像密集型體驗，則高達85%。 若要為您的使用者帶來最佳體驗，請務必最佳化所提供的影像。 瞭解Adobe Experience Manager Dynamic Media如何透過其領先業界的智慧型影像功能和其他大量動態影像功能集，提供更佳的使用者體驗並改善轉換率。 此會議將協助技術人員瞭解使用Dynamic Media URL和修飾元的最佳實務，這類似一站式服務，技術人員不必透過反複嘗試就達到影像最佳化。
 
 繼續對話於 **[Experience League社群](https://adobe.ly/3F58miP)**.
 

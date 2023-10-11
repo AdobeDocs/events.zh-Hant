@@ -1,11 +1,11 @@
 ---
 title: 適用於AEM的IBM WebSphere Commerce整合
-description: 透過深入探索程式碼，取得不同整合功能的逐步解說。 瞭解如何自訂、擴充和測試您的整合。
+description: 透過深入瞭解程式碼，取得不同整合功能的逐步解說。 瞭解如何自訂、擴充及測試您的整合。
 uuid: 0c7aa66b-3909-4eeb-85d6-87e7faa4db39
 discoiquuid: f9e11075-59f1-46cb-82c7-ba85864f5e33
 targetaudience: target-audience advanced
-exl-id: f9fd62b7-89e4-46d3-a3e2-40f5d856580f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: e95f9c55-f36f-47c3-b86a-9bb045e7822c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 1%
@@ -14,11 +14,11 @@ ht-degree: 1%
 
 # 適用於AEM的IBM WebSphere Commerce整合{#ibm-websphere-commerce-integration-for-aem}
 
-Commerce Integration Framework (CIF)是AEM的附加元件，可提供記錄的整合模式、參考程式碼和元件，加速任何電子商務整合專案。 IBM WebSphere整合套件是適用於IBM WebSphere電子商務平台的專用CIF參考實作。 在此課程中，Martin Buergi和Markus Haack會引導您瞭解不同的整合功能，並深入探索程式碼。 您將瞭解如何自訂、擴充和測試您的整合。
+Commerce integration framework(CIF)是AEM的附加元件，可提供記錄的整合模式、參考程式碼和元件，加速任何電子商務整合專案。 IBM WebSphere整合套件是適用於IBM WebSphere電子商務平台的專用CIF參考實作。 在此課程中，Martin Buergi和Markus Haack會引導您瞭解不同的整合功能，並深入探索程式碼。 您將瞭解如何自訂、擴充和測試您的整合。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19375/?quality=9)
 
-*2015年9月9日交付*
+*2015年9月9日傳遞*
 
 **展示者：**
 

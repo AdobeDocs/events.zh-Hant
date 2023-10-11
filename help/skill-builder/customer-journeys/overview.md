@@ -1,8 +1,8 @@
 ---
-title: 技能建立 — 客戶歷程
-description: 網路研討會影片系列，透過從所有來源提取資料，協助您開發即時客戶設定檔，以建立個人化的跨管道歷程。
-exl-id: 0ea7bc07-8b82-4aba-abaa-78ac7f4c8ce2
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+title: 技能培養 — 客戶歷程
+description: 網路研討會影片系列，透過從所有來源提取資料來建立個人化的跨管道歷程，協助您開發即時客戶設定檔。
+exl-id: a77be055-e53b-4062-9e02-ee589c0b0f4d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 9%
@@ -11,7 +11,7 @@ ht-degree: 9%
 
 # 客戶歷程
 
-從所有來源提取資料，建立個人化的跨管道歷程，以開發即時客戶設定檔。
+透過從所有來源提取資料來開發即時客戶設定檔，以建立個人化的跨管道歷程。
 
 ## 新增功能
 
@@ -19,11 +19,11 @@ ht-degree: 9%
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-      <img alt="攜手共進 — Adobe [!DNL Marketo Engage] 和Real-Time CDP" src="assets/343824.jpeg" />
+      <img alt="更棒的合作 — Adobe [!DNL Marketo Engage] 和Real-Time CDP" src="assets/343824.jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
-        <strong>攜手共進 — Adobe [!DNL Marketo Engage] 和Real-Time CDP</strong>
+        <strong>更棒的合作 — Adobe [!DNL Marketo Engage] 和Real-Time CDP</strong>
       </a>
     </div>
     <p>
@@ -32,15 +32,15 @@ ht-degree: 9%
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-      <img alt="開發及自訂Adobe的資料模型 [!DNL Campaign Classic]" src="assets/343829.jpeg" />
+      <img alt="在Adobe中開發和自訂資料模型 [!DNL Campaign Classic]" src="assets/343829.jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-        <strong>開發及自訂Adobe的資料模型 [!DNL Campaign Classic]</strong>
+        <strong>在Adobe中開發和自訂資料模型 [!DNL Campaign Classic]</strong>
       </a>
     </div>
     <p>
-    <em>與我們的Campaign培訓師一起參加此會議，瞭解如何在中開發資料模型中的資料結構描述 [!DNL Campaign Classic].</em>
+    <em>與我們的Campaign培訓師一起參加此會議，瞭解如何在中開發資料模型內的資料結構描述 [!DNL Campaign Classic].</em>
     <p>
   </td>  
   <td>
@@ -61,4 +61,4 @@ ht-degree: 9%
 
 >[!TIP]
 >
->**左側導覽中會列出所有錄製的工作階段**.
+>**所有錄製的作業階段都會列在左側的導覽中**.

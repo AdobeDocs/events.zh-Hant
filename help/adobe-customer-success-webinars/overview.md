@@ -1,7 +1,8 @@
 ---
 title: Adobe客戶成功網路研討會
-description: 由Adobe客戶成功引導的網路研討會，旨在協助您最佳化對AdobeExperience Cloud的投資。 獲得有價值的深入分析，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: 6ec7be7a69a315606e4c9aa11d700cca0f78b33f
+description: Adobe客戶成功引導的網路研討會，旨在讓您最佳化對AdobeExperience Cloud的投資。 獲得寶貴的見解，以最大化價值並提高Adobe解決方案的採用率。
+exl-id: a66dabe6-c545-4226-bf0b-811d5d3e5cf1
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
@@ -10,7 +11,7 @@ ht-degree: 0%
 
 # Adobe客戶成功網路研討會 {#adobe-customer-success-webinars}
 
-由Adobe客戶成功引導的網路研討會，旨在協助您最佳化對AdobeExperience Cloud的投資。 獲得有價值的深入分析，以最大化價值並提高Adobe解決方案的採用率。
+Adobe客戶成功引導的網路研討會，旨在讓您最佳化對AdobeExperience Cloud的投資。 獲得寶貴的見解，以最大化價值並提高Adobe解決方案的採用率。
 
 <!-- 
 ## Featured Sessions

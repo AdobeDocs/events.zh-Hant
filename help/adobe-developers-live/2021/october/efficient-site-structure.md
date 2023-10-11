@@ -1,6 +1,6 @@
 ---
 title: 有效率的網站結構 — 改善效能
-description: 針對開發人員在處理語言復本、即時復本，以及大量移動或復本作業時，提供部分最佳實務的詳細概觀。
+description: 針對開發人員在處理語言復本、即時復本及大量移動或復本作業時，提供部分最佳實務的詳細概觀。
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -9,17 +9,17 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9182
 type: Event
-exl-id: d1f1e099-2260-40f9-8d3d-dc171939e238
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 89fe9e3d-6202-4112-a9ef-9ccc1cc2a475
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 28%
+ht-degree: 32%
 
 ---
 
 # 有效率的網站結構 — 改善效能
 
-針對開發人員在處理語言復本、即時復本，以及大量移動或復本作業時，提供部分最佳實務的詳細概觀。
+針對開發人員在處理語言復本、即時復本及大量移動或復本作業時，提供部分最佳實務的詳細概觀。
 
 繼續對話於 **[Experience League社群](https://adobe.ly/39DoIQT)**.
 

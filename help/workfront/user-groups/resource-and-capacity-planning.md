@@ -1,19 +1,19 @@
 ---
-title: 資源與產能規劃，Leap 2020 （2020年7月2日）
+title: 資源與容量規劃，Leap 2020 （2020年7月2日）
 description: 觀看Schneider Electric的Kimberly Rea和Meghan Scotto，瞭解他們如何使用Workfront進行資源管理和容量規劃。
 role: Admin, User
 level: Intermediate, Experienced
 kt: 10007
 thumbnail: 341214.jpeg
-exl-id: 08ea7c36-dffe-47e9-914d-540cb99d725a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 6203ced1-f477-4900-b786-ee299ad8feea
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# 資源與產能規劃，Leap 2020 （2020年7月2日）
+# 資源與容量規劃，Leap 2020 （2020年7月2日）
 
 觀看Schneider Electric的Kimberly Rea和Meghan Scotto，瞭解他們如何使用Workfront進行資源管理和容量規劃。
 

@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager更新
-description: 與Experience Manager產品經理Gabriel Walt一起概略瞭解推動Adobe Experience Manager藍圖的主要主題以及這些會議的關係。 此工作階段為Adobe Developers Live內容事件的一部分。
+description: 與Experience Manager產品經理Gabriel Walt一起概略瞭解推動Adobe Experience Manager藍圖的大主題以及這些會議的關係。 此工作階段屬於Adobe Developers Live內容事件的一部分。
 solution: Experience Manager
 product: experience manager
 feature: Developer Tools
@@ -11,8 +11,8 @@ version: Cloud Service
 kt: 7165
 type: Event
 thumbnail: 331279.jpg
-exl-id: e1c21502-0fa5-4514-b6a5-dcc04842b114
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 667512a8-5fdf-4f1a-8082-7d765100b6b3
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Adobe Experience Manager更新
 
-與Experience Manager產品經理Gabriel Walt一起概略瞭解推動Adobe Experience Manager藍圖的主要主題以及這些會議的關係。
+與Experience Manager產品經理Gabriel Walt一起概略瞭解推動Adobe Experience Manager藍圖的大主題以及這些會議的關係。
 
 繼續對話於 **[Experience League社群](https://adobe.ly/36Yd3v6)**.
 

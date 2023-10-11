@@ -1,6 +1,6 @@
 ---
 title: 使用App Builder延伸Experience ManagerHeadless
-description: 瞭解Experience ManagerHeadless和Adobe應用程式產生器。 將AEM與協力廠商系統整合，從事件導向的整合、可擴充的不需伺服器的處理，到單頁應用程式(SPA)。
+description: 瞭解Experience ManagerHeadless和Adobe應用程式生成器。 將AEM與協力廠商系統整合，從事件導向整合、可擴充的伺服器無處理能力到單頁應用程式(SPA)。
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Developer Tools, APIs, Integrations
 topic: Headless, Development
@@ -8,8 +8,8 @@ role: Leader, Architect, Developer, Admin
 level: Intermediate, Experienced
 kt: 10790
 thumbnail: 345380.png
-exl-id: 84c85f98-98e5-44fe-96b4-5a6e4546cece
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: 00c4e64c-09b4-424c-b3da-fad7421b93b1
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 延伸 [!DNL Experience Manager] Headless與Adobe [!DNL App Builder]
 
-肖恩·施泰默與徐樂文談論 [!DNL Experience Manager] 無周邊裝置和 [!DNL App Builder]. 從事件導向的整合、可擴充的伺服器無處理能力，到單頁應用程式(SPA)， [!DNL App Builder] 提供強大的功能以整合Adobe [!DNL Experience Manager] 以Headless方式使用協力廠商系統。 瞭解一些實際使用案例和常見模式，其中 [!DNL App Builder] 已用於擴充Adobe [!DNL Experience Manager].
+肖恩·施泰默與徐樂文談論 [!DNL Experience Manager] Headless和 [!DNL App Builder]. 從事件導向整合、可擴充的無伺服器處理，到單頁應用程式(SPA)， [!DNL App Builder] 提供整合Adobe的強大功能 [!DNL Experience Manager] 以Headless方式與協力廠商系統互動。 瞭解一些真實的使用案例和常見模式，其中 [!DNL App Builder] 已用於擴充Adobe [!DNL Experience Manager].
 
 >[!VIDEO](https://video.tv.adobe.com/v/345380/?quality=12&learn=on)

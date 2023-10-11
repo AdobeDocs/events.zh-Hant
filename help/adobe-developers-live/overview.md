@@ -1,9 +1,9 @@
 ---
 title: Adobe Developers Live
-description: 來自Adobe Developers Live的工作階段錄製集合
+description: 來自Adobe Developers Live的工作階段錄影集合
 solution: Experience Cloud, Experience Manager
-exl-id: 912ad972-27ef-4b59-a742-26b49f935c8d
-source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
+exl-id: bb103c45-18c7-4ace-8ebe-bb99f8eb6a88
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 29%
@@ -16,13 +16,13 @@ ht-degree: 29%
 
 Adobe Developers Live 匯集多元背景的 Adobe 開發人員和有經驗的建置者，其目的只有一個，就是創造令人驚艷的端對端體驗。此為期兩天的會議將提供重要的開發人員更新、技術會議和社群交流機會。
 
-跨Adobe Experience Cloud、Document Cloud和Creative CloudAdobe產品團隊，將展示最新的技術進展和開發人員工具，藉以促進各產業的設計、內容創作工作流程、檔案服務和客戶體驗管理。
+橫跨Adobe Experience Cloud、Document Cloud和Creative Cloud的Adobe產品團隊將展示最新的技術進展和開發人員工具，藉以促進各產業的設計、內容創作工作流程、檔案服務和客戶體驗管理。
 
 報名參加未來的活動 **[此處](https://developerevents.adobe.com/)**.
 
 >[!TIP]
 >
->**左側導覽中會列出所有錄製的工作階段**.
+>**所有錄製的作業階段都會列在左側的導覽中**.
 
 <!--
 

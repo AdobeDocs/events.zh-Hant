@@ -1,11 +1,11 @@
 ---
 title: AEM 5.6升級機制
-description: 瞭解CQ/AEM中的升級機制，該機制允許升級CQ本身以及自訂應用計畫和內容，只需將CQ/AEM jar檔案替換為新的檔案即可。 我們將介紹一般升級案例、說明升級擴充功能點、說明我們如何測試升級機制，並評論與升級相關的一些技術挑戰。
+description: 瞭解CQ/AEM中的升級機制，該機制允許升級CQ本身以及自訂應用計畫和內容，只需將CQ/AEM jar檔案更換為新的檔案。 我們將介紹一般升級案例、說明升級擴充功能點、說明我們如何測試升級機制，並註解有關升級的部分技術挑戰。
 uuid: 76e69880-3d93-49bd-98fa-0e2f34afe5f2
 discoiquuid: 97d8dc55-0f38-4505-88af-27e08b173407
 targetaudience: target-audience advanced
-exl-id: 59101371-c17d-45cc-a184-6ce7ebb01fe2
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: a440b824-bf46-4fb7-8683-1a38e4e32f14
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # AEM 5.6升級機制 {#aem-upgrade-mechanisms}
 
-本會議說明CQ/AEM中的升級機制，該機制允許升級CQ本身以及自訂應用程式和內容，只需以新檔案取代CQ/AEM jar檔案即可。 我們將介紹一般升級案例、說明升級擴充功能點、說明我們如何測試升級機制，並評論與升級相關的一些技術挑戰。
+本會議說明CQ/AEM中的升級機制，該機制允許升級CQ本身以及自訂應用計畫和內容，只需將CQ/AEM jar檔案更換為新的檔案即可。 我們將介紹一般升級案例、說明升級擴充功能點、說明我們如何測試升級機制，並註解有關升級的部分技術挑戰。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19576/?quality=9)
 

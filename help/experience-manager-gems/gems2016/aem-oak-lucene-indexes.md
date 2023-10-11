@@ -4,8 +4,8 @@ description: 我們說明Oak Lucene索引的功能，以及如何使用它們讓
 uuid: 7664c6b2-3f09-4de4-9ade-b934465ac829
 discoiquuid: f69d9c38-a316-4409-94b3-5ff576034bf3
 targetaudience: target-audience advanced
-exl-id: 671b41ee-851b-460b-86d9-8b3a24587408
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: ed0e32b3-44bc-4e45-a80e-f9cfd0688e80
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 11%
@@ -37,7 +37,7 @@ ht-degree: 11%
 
 >[!WARNING]
 >
->AEM 6.4版及舊版已終止服務，Adobe不再販售。  Adobe建議升級至最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  檔案的封存版本可從此處存取 [頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM 6.4版和更舊版本已終止服務，Adobe不再銷售。  Adobe建議升級至最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  檔案的封存版本可從此處存取 [頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
 >
 >與此工作階段相關的資訊，請參閱 *Oak查詢和索引* 在AEM 6.1檔案中。
 

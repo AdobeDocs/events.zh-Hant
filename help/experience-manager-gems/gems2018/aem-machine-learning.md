@@ -1,23 +1,23 @@
 ---
 title: AEM中的機器學習 — 增強型智慧標籤、智慧佈局等
-description: 瞭解機器學習如何提高生產力並解鎖Experience Manager 6.4版中的新使用案例
+description: 瞭解機器學習如何在Experience Manager 6.4版中提高生產力及開啟新的使用案例
 uuid: 23acfe70-e441-414b-905d-376a4d98f0fa
 topic-tags: smart-tags
 discoiquuid: c0b3b1f6-5765-44f7-ba12-e17267e1c89e
 targetaudience: target-audience advanced
-exl-id: f4f8de53-a22c-42e8-80d5-fc308a6af5a8
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 4e6496fc-4389-4cfa-8921-a23736f23e13
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 4%
 
 ---
 
-# AEM中的機器學習：增強智慧標籤、智慧版面配置等{#machine-learning-in-aem-enhanced-smart-tags-smart-layout-and-more}
+# AEM中的機器學習：增強型智慧標籤、智慧版面配置等{#machine-learning-in-aem-enhanced-smart-tags-smart-layout-and-more}
 
 >[!VIDEO](https://video.tv.adobe.com/v/22255/?quality=9)
 
-*2018年4月18日提供*
+*2018年4月18日送達*
 
 **展示者：**
 
@@ -37,5 +37,4 @@ Jonas Dahl，Adobe產品經理
 
 >[!MORELIKETHIS]
 >
->* [AEM中的機器學習：增強智慧標籤、智慧版面配置等](aem-machine-learning.md)
-
+>* [AEM中的機器學習：增強型智慧標籤、智慧版面配置等](aem-machine-learning.md)

@@ -1,8 +1,8 @@
 ---
 title: Workfront On-Demand事件
-description: Workfront活動是影片庫，專家和同行可在此分享他們的想法和想法，瞭解如何使用Workfront加強組織所完成的工作。
-exl-id: 5b294be1-9ba6-4cd1-b74b-ea4e321dcaaf
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+description: Workfront活動是影片庫，專家和同業可在此分享他們的想法和想法，瞭解如何使用Workfront來增強為組織完成的工作。
+exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Workfront活動錄音庫，專家和同行可在此分享如何使用Workfront的想法。
 
-## 精選工作階段
+## 精選會議
 
 <table>
   <tr>
@@ -27,7 +27,7 @@ Workfront活動錄音庫，專家和同行可在此分享如何使用Workfront�
       </div>
       <p>
         <br/>
-         由系統管理員組成的小組討論有關系統設定、定期維護和清理的事宜。
+         由系統管理員組成的面板會討論有關系統設定、定期維護和清理的考量事項。
       </p>
     </td>
    <td>
@@ -53,7 +53,7 @@ Workfront活動錄音庫，專家和同行可在此分享如何使用Workfront�
       </div>
       <p>
         <br/>
-         敏捷專家會討論他們透過敏捷在企業中一般敏捷性所看到的最高點和趨勢，以及他們如何使用Workfront實現敏捷。
+         敏捷專家討論他們透過敏捷所看到的最高點和趨勢，業務的一般敏捷性，以及他們如何使用Workfront實現敏捷。
       </p>
     </td>
   </tr>

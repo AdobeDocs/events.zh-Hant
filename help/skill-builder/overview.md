@@ -1,8 +1,8 @@
 ---
 title: 技能培養概觀
-description: 網路研討會系列影片，協助您建立知識庫，並將Adobe Experience Cloud投資效益最大化。
-exl-id: a2c07218-6f1d-434a-8b69-f6686c9f3370
-source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
+description: 網路研討會影片系列，可協助您建立知識庫，並將Adobe Experience Cloud投資效益最大化。
+exl-id: 48b7a0ea-2fcf-4387-8f9e-0405d59acd7f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 3%
@@ -11,9 +11,9 @@ ht-degree: 3%
 
 # 技能培養
 
-Skill Builder是網路研討會系列，旨在建立您的知識庫，並將您對Adobe Experience Cloud的投資發揮到極致。
+Skill Builder是網路研討會系列，旨在建立您的知識庫，並將Adobe Experience Cloud投資效益最大化。
 
-## Adobe企業商務解決方案
+## Adobe企業業務解決方案
 
 <table>
 <tr>
@@ -23,7 +23,7 @@ Skill Builder是網路研討會系列，旨在建立您的知識庫，並將您�
       <strong>Content and Commerce</strong>
     </div>
     <p>
-    <em>建立並管理一系列有趣的網站、行動應用程式和表單。 此外，您還可以學習如何使用我們靈活的AI支援商務解決方案，在單一平台上建立多管道商務體驗。</em>
+    <em>建立並管理一系列吸引人的網站、行動應用程式和表單。 此外，您還可以學習如何使用我們靈活的AI支援商務解決方案，在單一平台上建立多管道商務體驗。</em>
     <p>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽工作階段</span>
@@ -35,7 +35,7 @@ Skill Builder是網路研討會系列，旨在建立您的知識庫，並將您�
       <strong>客戶歷程</strong>
     </div>
     <p>
-    <em>從所有來源提取資料，建立個人化的跨管道歷程，以開發即時客戶設定檔。</em>
+    <em>透過從所有來源提取資料來開發即時客戶設定檔，以建立個人化的跨管道歷程。</em>
     <p>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瀏覽工作階段</span>
@@ -58,4 +58,4 @@ Skill Builder是網路研討會系列，旨在建立您的知識庫，並將您�
 
 >[!TIP]
 >
->**左側導覽中會列出所有錄製的工作階段**.
+>**所有錄製的作業階段都會列在左側的導覽中**.

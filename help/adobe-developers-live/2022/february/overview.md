@@ -2,8 +2,8 @@
 title: Adobe Developers Live 2022年2月
 description: Adobe Experience Manager Sites的影片和教學課程系列，作為Adobe Developers Live活動的一部分提供。
 sub-product: sites, content-services
-exl-id: be14ecfb-9c54-48e6-b6e9-7431e9cc8551
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 60db2c54-2d2a-4ae7-bd66-b99869879be7
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 7%
@@ -14,7 +14,7 @@ ht-degree: 7%
 
 <img alt="Adobe Developers Live" src="./../../assets/adl.png" />
 
-Adobe Developers Live： Commerce 2022彙集多元背景的開發人員和有經驗的建置者，其目的只有一個，就是創造令人驚豔的端對端體驗。 此單日虛擬會議將提供重要的Commerce和開放原始碼開發人員更新、技術研討會、社群交流機會等。
+Adobe Developers Live： Commerce 2022彙集多元背景的開發人員和有經驗的建置者，其目的只有一個，就是創造令人驚豔的端對端體驗。 此單日虛擬會議將提供重要的Commerce和Open Source開發人員更新、技術研討會、社群交流機會等。
 
 <!-- 
 ## Highlights

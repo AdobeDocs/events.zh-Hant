@@ -1,6 +1,6 @@
 ---
 title: 商務與咖啡 — AI與自動化
-description: 本課程深入探討Adobe Commerce的AI功能。 我們將討論AI和自動化是什麼、客戶期望得到什麼，以及企業為什麼不能忽視它。 接著，Corey會在Adobe Commerce平台中詳盡展示產品Recommendations和Live Search。 簡報和示範會隨附Corey的即時問答。
+description: 本課程深入探討Adobe Commerce的AI功能。 我們將討論AI和自動化的概念、客戶所期待的，以及企業為什麼不能忽視它。 接著，Cory會在Adobe Commerce平台中執行產品Recommendations和Live Search的完整示範。 簡報和示範會隨附Corey的即時問答。
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -9,8 +9,8 @@ doc-type: Event
 last-substantial-update: 2023-01-06T00:00:00Z
 kt: 11653
 thumbnail: 3412709.jpeg
-exl-id: 6c6af162-7abd-4c51-b163-136fa7e86578
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 0e9b072c-8b2d-4b85-b18a-a962d9f4d676
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # 商務與咖啡 — AI與自動化
 
-本課程深入探討Adobe Commerce的AI功能。 我們將討論AI和自動化是什麼、客戶期望得到什麼，以及企業為什麼不能忽視它。 接著，Corey會在Adobe Commerce平台中詳盡展示產品Recommendations和Live Search。 簡報和示範會隨附Corey的即時問答。
+本課程深入探討Adobe Commerce的AI功能。 我們將討論AI和自動化的概念、客戶所期待的，以及企業為什麼不能忽視它。 接著，Cory會在Adobe Commerce平台中執行產品Recommendations和Live Search的完整示範。 簡報和示範會隨附Corey的即時問答。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412709/?quality=12&learn=on)

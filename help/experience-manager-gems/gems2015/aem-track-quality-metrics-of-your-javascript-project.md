@@ -4,8 +4,8 @@ description: 將Sonarqube分析整合至Javascript專案並進而存取的方法
 uuid: 72507d44-fc08-4be5-a91b-a6c05709fe35
 discoiquuid: 6511d4b9-302a-453a-a6b0-8eea40769b20
 targetaudience: target-audience advanced
-exl-id: 32050ae8-fbbe-4275-a4bd-3a87af6f5d7b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 0fa00df5-af2c-4e08-9160-dee6ecc33c2b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 7%
@@ -26,7 +26,7 @@ ht-degree: 7%
 
 **展示者：**
 
-* AdobeQE開發主管David Catalan
+* David Catalan，QE開發負責人，Adobe
 
 **簡報者投影片**
 

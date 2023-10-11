@@ -1,6 +1,6 @@
 ---
-title: 前線故事 — 如何避免Experience ManagerCS中的常見陷阱
-description: 從其他人最常犯的錯誤中學習，這樣您就可以避免這些錯誤！ 在這場會議中，我們將審視我們隨叫隨到和支援工程師所見的一些常見問題，並討論最佳實務，以確保您可以在自己的Adobe Experience Manager as a Cloud Service實作中避免這些問題。
+title: 來自前線的故事 — 如何避免Experience ManagerCS中的常見陷阱
+description: 從其他人最常見的錯誤中學習，這樣您就可以避免這些錯誤！ 在這場會議中，我們將瞭解我們的隨叫隨到和支援工程師所看到的一些常見問題，並討論最佳實務，以確保您在自己的Adobe Experience Manager as a Cloud Service實施中能夠避免這些問題。
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -9,17 +9,17 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9179
 type: Event
-exl-id: eba2ef69-59f1-4d1f-9405-78aee5764295
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: a96e31ec-8079-412f-818c-ebf82b512bbd
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 14%
+ht-degree: 16%
 
 ---
 
-# 前線故事 — 如何避免Experience ManagerCS中的常見陷阱
+# 來自前線的故事 — 如何避免Experience ManagerCS中的常見陷阱
 
-從其他人最常犯的錯誤中學習，這樣您就可以避免這些錯誤！ 在這場會議中，我們將審視我們隨叫隨到和支援工程師所見的一些常見問題，並討論最佳實務，以確保您可以在自己的Adobe Experience Manager as a Cloud Service實作中避免這些問題。
+從其他人最常見的錯誤中學習，這樣您就可以避免這些錯誤！ 在這場會議中，我們將瞭解我們的隨叫隨到和支援工程師所看到的一些常見問題，並討論最佳實務，以確保您在自己的Adobe Experience Manager as a Cloud Service實施中能夠避免這些問題。
 
 繼續對話於 **[Experience League社群](https://adobe.ly/3kLQK3j)**.
 

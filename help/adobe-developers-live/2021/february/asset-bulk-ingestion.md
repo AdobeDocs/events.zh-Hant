@@ -1,6 +1,6 @@
 ---
 title: 資產大量擷取
-description: 此會議將介紹Cloud Service中資產大量擷取的新功能及其擴充性與效能。 此工作階段為Adobe Developers Live內容事件的一部分。
+description: 此會議將介紹雲端服務中資產大量擷取的新功能及其擴充性和效能。 此工作階段屬於Adobe Developers Live內容事件的一部分。
 solution: Experience Manager,Experience Manager Assets
 product: experience manager
 sub-product: assets
@@ -12,8 +12,8 @@ version: Cloud Service
 kt: 7168
 type: Event
 thumbnail: 331769.jpg
-exl-id: ab5e14f0-e71d-407a-b0c3-cd51bd50a9ed
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: c08944f0-1ce0-43cd-9f37-ae10126b6915
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # 資產大量擷取
 
-此會議將介紹Cloud Service中資產大量擷取的新功能，及其擴充性和效能。
+此會議將介紹雲端服務中資產大量擷取的新功能及其擴充性和效能。
 
 繼續對話於 **[Experience League社群](https://adobe.ly/36Yd3v6)**.
 

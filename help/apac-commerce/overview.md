@@ -1,17 +1,17 @@
 ---
-title: APAC商務網路研討會系列
-description: APAC商務網路研討會系列是每月為Adobe Commerce客戶提供的一系列研討會，涵蓋從最佳實務到產品藍圖和行業趨勢的廣泛主題。
-exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
-source-git-commit: 147a7e327b387d0b02e4110e1405c1f8b6f3c883
+title: APAC Commerce網路研討會系列
+description: APAC商務網路研討會系列是每月為Adobe Commerce客戶舉辦的一系列研討會，涵蓋從最佳作法、產品藍圖和行業趨勢等廣泛主題。
+exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
-# APAC商務網路研討會系列
+# APAC Commerce網路研討會系列
 
-APAC商務網路研討會系列是每月為Adobe Commerce客戶提供的一系列研討會，涵蓋從最佳實務到產品藍圖和行業趨勢的廣泛主題。 聽取企業內各種產品專家的意見，並加入現場，以取得提出問題並直接與團隊互動的機會。 此系列可幫助您在Adobe Commerce平台上取得成功並最大化您的投資。
+APAC商務網路研討會系列是每月為Adobe Commerce客戶舉辦的一系列研討會，涵蓋從最佳作法、產品藍圖和行業趨勢等廣泛主題。 聽取企業內各種產品專家的意見，並參與現場活動，以取得提出問題並直接與團隊互動的機會。 此系列可幫助您在Adobe Commerce平台上取得成功，並最大化您的投資。
 
 ## 新增功能
 
@@ -27,7 +27,7 @@ APAC商務網路研討會系列是每月為Adobe Commerce客戶提供的一系�
       </a>
     </div>
     <p>
-    <em>加入我們的網路研討會，探索Adobe的Commerce CloudPaaS解決方案的好處，無論您是自行託管，還是想瞭解PaaS，或是尋求最佳化設定的現有客戶。</em>
+    <em>加入我們的網路研討會，探索AdobeCommerce CloudPaaS解決方案的好處，無論您是自行託管，還是想瞭解PaaS或是尋求最佳化設定的現有客戶。</em>
     <p>
   </td>
   <td>
@@ -53,7 +53,7 @@ APAC商務網路研討會系列是每月為Adobe Commerce客戶提供的一系�
       </a>
     </div>
     <p>
-    <em>加入我們，參加一個有深入見解的網路研討會，深入瞭解可撰寫架構的世界，以及它如何為電子商務的格局帶來革命性的變化。</em>
+    <em>加入我們，參加一個有洞察力的網路研討會，深入探討可撰寫架構的世界，以及它如何徹底改變電子商務的格局。</em>
     <p>
   </td>  
 </tr>
@@ -61,4 +61,4 @@ APAC商務網路研討會系列是每月為Adobe Commerce客戶提供的一系�
 
 >[!TIP]
 >
->**左側導覽中會列出所有錄製的工作階段**.
+>**所有錄製的作業階段都會列在左側的導覽中**.

@@ -1,6 +1,6 @@
 ---
 title: 在雲端中使用Adobe Experience Manager Forms進行開發
-description: 此課程可協助開發人員從Forms的本機設定和涵蓋範圍自訂，開始使用Adobe Experience Manager as a Cloud Service上的Adobe Experience Manager Forms。
+description: 此課程可協助開發人員從Forms的本機設定以及涵蓋自訂，開始使用Adobe Experience Manager as a Cloud Service上的Adobe Experience Manager Forms。
 solution: Experience Manager,Experience Manager Forms
 product: experience manager
 sub-product: forms
@@ -11,8 +11,8 @@ version: Cloud Service
 kt: 7402
 type: Event
 thumbnail: 332306.jpg
-exl-id: 0ff6f6cb-5dbf-4c81-b78c-b30558e29e10
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: d279353f-a92a-48e2-888e-c0d7be5adca3
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # 在雲端中使用Adobe Experience Manager Forms進行開發
 
-此課程可協助開發人員從Forms的本機設定和涵蓋範圍自訂，開始使用Adobe Experience Manager as a Cloud Service上的Adobe Experience Manager Forms。
+此課程可協助開發人員從Forms的本機設定以及涵蓋自訂，開始使用Adobe Experience Manager as a Cloud Service上的Adobe Experience Manager Forms。
 
 繼續對話於 **[Experience League社群](https://adobe.ly/36Yd3v6)**.
 

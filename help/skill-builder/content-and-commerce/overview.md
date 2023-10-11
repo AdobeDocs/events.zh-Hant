@@ -1,8 +1,8 @@
 ---
 title: 技能培養 — 內容與商務
-description: 網路研討會系列影片，協助您建立知識庫，並將Adobe內容與商務解決方案的投資發揮到極致
-exl-id: 9345d894-5059-485f-93ba-ea47d251e8c7
-source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
+description: 網路研討會影片系列，可協助您建立知識庫，並將Adobe內容與商務解決方案的投資發揮到極致
+exl-id: 1ed57ee1-89d4-4697-a999-72e0fe215f87
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 46%
@@ -11,7 +11,7 @@ ht-degree: 46%
 
 # Content and Commerce
 
-建立並管理一系列有趣的網站、行動應用程式和表單。 此外，您還可以學習如何使用我們靈活的AI支援商務解決方案，在單一平台上建立多管道商務體驗。
+建立並管理一系列吸引人的網站、行動應用程式和表單。 此外，您還可以學習如何使用我們靈活的AI支援商務解決方案，在單一平台上建立多管道商務體驗。
 
 ## 新增功能
 
@@ -61,4 +61,4 @@ ht-degree: 46%
 
 >[!TIP]
 >
->**左側導覽中會列出所有錄製的工作階段**.
+>**所有錄製的作業階段都會列在左側的導覽中**.

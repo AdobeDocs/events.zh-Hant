@@ -1,6 +1,6 @@
 ---
 title: 兩種見解的故事 - 品牌與消費者
-description: Adobe可解開廣告商和發佈商對於無敵未來的瞭解和準備程度、對其使用案例的影響，以及他們對更廣闊生態系統的看法。
+description: Adobe會解開廣告商和發佈商對無可比擬的未來的認識和整備程度、對其使用案例的影響，以及他們對更廣大的生態系統的看法。
 solution: Real-Time Customer Data Platform
 feature: Identities
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -9,8 +9,8 @@ doc-type: Event
 thumbnail: 332060.jpg
 kt: 7335
 type: Event
-exl-id: e97f13cf-091c-4726-b1b1-e0f683fea93a
-source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
+exl-id: 9736dd6f-ff33-41b5-80d6-1bb981bfc0b7
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 16%
@@ -19,7 +19,7 @@ ht-degree: 16%
 
 # 兩種見解的故事 — 品牌與消費者
 
-現今的行銷人員被埋沒在身分識別專門的雜亂資訊之中。根據Adobe和百貨公司最近的一項調查，只有37%的行銷專業人士表示他們為未來不用餅乾做好了充分準備。 [!DNL Advanis]. 在這個網路研討會Adobe中，會說明廣告商和發佈商對於無Cookie未來的瞭解和整備程度、對其使用案例的影響，以及他們對更廣泛生態系統的看法。
+現今的行銷人員被埋沒在身分識別專門的雜亂資訊之中。而Adobe和百貨公司最近的研究顯示，只有37%的行銷專業人士表示，他們為未來不用餅乾做好了充分準備。 [!DNL Advanis]. 在此網路研討會Adobe中，會解壓縮廣告商和發佈商對於無Cookie未來的瞭解和整備程度、對其使用案例的影響，以及他們對更廣闊生態系統的看法。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332060/?quality=12&learn=on)
 

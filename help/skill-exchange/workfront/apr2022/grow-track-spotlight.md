@@ -1,13 +1,13 @@
 ---
-title: 成長軌跡體驗製作者焦點
-description: 工作管理成熟度的歷程並非一蹴而就。 它需要策略規劃、深思熟慮的領導能力，以及準備好接受變革的文化。
+title: 增長追蹤體驗製作者焦點
+description: 通往工作管理成熟度的旅程不會在一夜之間完成。 它需要策略規劃、審慎的領導力，以及準備接受變化的文化。
 solution: Workfront
 role: User
 level: Intermediate, Experienced
 kt: 10314
 thumbnail: 342524.jpeg
-exl-id: 2f2b97ef-a664-486b-9617-ad5f5a029389
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 704dbe58-dc9a-4920-b211-9afb77798079
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -16,12 +16,12 @@ ht-degree: 0%
 
 # Grow Track - Experience Makers焦點
 
-工作管理成熟度的歷程並非一蹴而就。 它需要策略規劃、深思熟慮的領導能力，以及準備好接受變革的文化。 參加我們的Experience Makers Spotlight座談會，聆聽3個非常不同的組織講述其組織如何將工作提升到新的境界。
+通往工作管理成熟度的旅程不會在一夜之間完成。 它需要策略規劃、審慎的領導力，以及準備接受變化的文化。 參加我們的Experience Makers Spotlight座談會，聆聽三個非常不同的組織關於其組織如何將工作提升到全新境界。
 
-您會聽到：
+您將會聽到：
 
-* Workfront前瞻分析Lumen過去可提升整個組織創意作業的效率
+* Workfront Lumen用來提升整個組織創意作業的效率
 * T-Mobile如何建立真正的營運測量策略
-* Synchrony在其多年歷程中採取的步驟，以完全協調行銷活動的執行
+* 同步在其多年歷程中採取的步驟，以完全協調行銷活動的執行
 
 >[!VIDEO](https://video.tv.adobe.com/v/342524/?quality=12&learn=on)

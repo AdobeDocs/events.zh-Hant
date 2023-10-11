@@ -1,6 +1,6 @@
 ---
-title: Launch Server Side很棒，但假如可以……
-description: 2021年4月，Evolytics在Adobe Experience Platform （前身為Launch Server Side）中發佈了第一個第三方編寫的事件轉送功能擴充功能。 開發事件轉送擴充功能的程式非常類似於使用者端標籤屬性上的程式，但有一些重要差異需要記住。 在這場會議中，Evolytics工程師將引導您完成設計、開發、測試和發佈事件轉送擴充功能的流程。
+title: Launch Server Side固然不錯，但如果它可以……
+description: 2021年4月，Evolytics在Adobe Experience Platform （前身為Launch Server Side）中發佈了第一個第三方編寫的事件轉送功能擴充功能。 開發事件轉送擴充功能的程式與使用者端標籤屬性上的程式非常類似，但請謹記以下一些重要差異。 在這場會議中，Evolytics工程師會引導您完成設計、開發、測試和發佈事件轉送擴充功能的流程。
 solution: Data Collection
 feature: Event Forwarding
 topic: Development
@@ -8,17 +8,17 @@ role: Developer, Architect
 level: Experienced
 kt: 9148
 type: Event
-exl-id: fa5ef844-11ac-433f-acb5-7a8419e5bb5e
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 4d045381-3828-49c4-9982-32c97a566b78
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 14%
+ht-degree: 16%
 
 ---
 
-# Launch Server Side很棒，但假如可以……
+# Launch Server Side固然不錯，但如果它可以……
 
-2021年4月，Evolytics在Adobe Experience Platform （前身為Launch Server Side）中發佈了第一個第三方編寫的事件轉送功能擴充功能。 開發事件轉送擴充功能的程式非常類似於使用者端標籤屬性上的程式，但有一些重要差異需要記住。 在這場會議中，Evolytics工程師將引導您完成設計、開發、測試和發佈事件轉送擴充功能的流程。
+2021年4月，Evolytics在Adobe Experience Platform （前身為Launch Server Side）中發佈了第一個第三方編寫的事件轉送功能擴充功能。 開發事件轉送擴充功能的程式與使用者端標籤屬性上的程式非常類似，但請謹記以下一些重要差異。 在這場會議中，Evolytics工程師會引導您完成設計、開發、測試和發佈事件轉送擴充功能的流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337591/?quality=12&learn=on&hidetitle=true)
 

@@ -1,22 +1,23 @@
 ---
-title: Adobe Journey Optimizer中的API觸發式傳訊
-description: 瞭解如何使用REST API進行情境式、個人化和即時異動與行銷通訊。
+title: Adobe Journey Optimizer 中的 API 觸發式傳訊
+description: 了解如何使用 REST API 進行內容相關的個人化即時交易型與行銷通訊。
 kt: KT-13734
 thumbnail: https://video.tv.adobe.com/v/3422169?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=eC51g4bf81s
 event-cta-url-reg: null
 event-start-time: 2023-8-23 08:00-7
 event-guests: Siddharth Jain,Nikhil Sharma,Chetan Prasad
-source-git-commit: 3d4d837932a54e81ee7139d09a2e79f53472edb1
+exl-id: 4c3e2036-7afb-42f2-8071-17586b18aeec
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '186'
-ht-degree: 0%
+ht-degree: 24%
 
 ---
 
-# Adobe Journey Optimizer中的API觸發式傳訊
+# Adobe Journey Optimizer 中的 API 觸發式傳訊
 
-瞭解如何使用REST API進行情境式、個人化和即時異動與行銷通訊。
+了解如何使用 REST API 進行內容相關的個人化即時交易型與行銷通訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422169/?learn=on)
 

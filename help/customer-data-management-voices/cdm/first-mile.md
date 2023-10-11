@@ -1,14 +1,14 @@
 ---
 title: 簡化資料管理的第一步
-description: 隨著資料量不斷增加，公司很難有效擷取數位互動資料，並將資料傳送至適當的行銷…… （說明應該介於60到160個字元之間）
+description: 隨著資料量增加，公司很難有效擷取數位互動資料，並傳送給適當的行銷人員…… （說明應該介於60到160個字元之間）
 solution: Real-Time Customer Data Platform
 feature: Data Governance
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10632
 thumbnail: 344311.jpeg
-exl-id: 57d7697c-455e-428e-95ed-7a29852a702a
-source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
+exl-id: e35c6cc7-7831-4a62-9feb-9315a2bff18b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 1%
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 # 簡化資料管理的第一步
 
-資料量不斷增加，讓公司很難有效擷取數位互動資料，並將資料傳送至適當的行銷管道。 瀏覽器淘汰第三方Cookie增添了額外的複雜性，這要求公司尋找伺服器端解決方案，以繼續將資料傳送給合作夥伴。 在這場網路研討會中，Adobe的Gabriel Jaquier、Jeff Chasin和Jon Viray分享了如何運用Real-Time CDP Connections克服這些挑戰的策略。
+隨著資料量不斷增加，公司很難有效擷取數位互動資料，並將資料傳送至適當的行銷管道。 瀏覽器淘汰第三方Cookie增加了複雜性，這要求公司尋找伺服器端解決方案以繼續將資料傳送給合作夥伴。 在此網路研討會中，Adobe的Gabriel Jaquier、Jeff Chasin和Jon Viray分享了如何運用Real-Time CDP連線來克服這些挑戰的策略。
 
 >[!VIDEO](https://video.tv.adobe.com/v/344311/?quality=12&learn=on)
 

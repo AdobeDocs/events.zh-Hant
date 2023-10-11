@@ -1,5 +1,5 @@
 ---
-title: App Builder架構和技術深入探討
+title: App Builder架構與技術深入探討
 description: 逐步瞭解擴充Adobe Experience Manager的App Builder應用程式的應用程式架構，進一步瞭解App Builder。
 solution: Experience Manager
 feature: Developer Tools
@@ -9,15 +9,15 @@ level: Experienced
 version: Cloud Service
 kt: 9214
 type: Event
-exl-id: 45af041e-4024-4980-a60b-49725180fc82
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: c49d6c31-1b37-4c02-aa48-0dfd7362e628
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 28%
+ht-degree: 32%
 
 ---
 
-# App Builder架構和技術深入探討
+# App Builder架構與技術深入探討
 
 逐步瞭解擴充Adobe Experience Manager的App Builder應用程式的應用程式架構，進一步瞭解App Builder。
 

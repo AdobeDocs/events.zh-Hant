@@ -1,6 +1,6 @@
 ---
 title: 資料管理的未來和不斷變化的環境
-description: 瞭解Adobe和451 Research如何思考技術和資料的未來，以應對新的行銷環境，並開始讓您的企業為資料管理的未來做好準備。
+description: 瞭解Adobe和451 Research如何思考技術和資料的未來，以應對新的行銷環境，並開始讓您的企業做好準備，以迎接資料管理的未來。
 solution: Real-Time Customer Data Platform
 feature: Data Management
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -9,8 +9,8 @@ doc-type: Event
 thumbnail: 332077.jpg
 kt: 7333
 type: Event
-exl-id: b3821cbf-b11d-4524-bf05-4e2c77300e30
-source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
+exl-id: 9562892a-e6f4-45b5-a8e7-8aa162e8899d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 62%

@@ -1,23 +1,23 @@
 ---
-title: 協力廠商開發人員市場Adobe交換的概觀
-description: 瞭解如何在開發人員控制檯上建立服務對服務整合、在Admin Console上管理它，以及在Adobe交換上發佈公開應用程式清單。 建立與AdobeAPI的連線後，我們將逐步完成註冊為AdobeExchange合作夥伴、建立公開清單、提交以供核准及發佈的步驟。
+title: 協力廠商開發人員市場Adobe交換概觀
+description: 瞭解如何在開發人員控制檯上建立服務對服務整合、在Admin Console上管理它，以及在Adobe交換上發佈公開應用程式清單。 建立與AdobeAPI的連線後，我們將逐步進行註冊為AdobeExchange合作夥伴、建立公開清單、提交核准及發佈的步驟。
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Experienced
 kt: 9220
 type: Event
-exl-id: e5d8a8fc-20aa-416d-986a-765a756077b6
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: e9a57c6d-8b98-4d9b-8967-b9ebfadf5d37
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 16%
+ht-degree: 18%
 
 ---
 
-# 協力廠商開發人員市場Adobe交換的概觀
+# 協力廠商開發人員市場Adobe交換概觀
 
-瞭解如何在開發人員控制檯上建立服務對服務整合、在Admin Console上管理它，以及在Adobe交換上發佈公開應用程式清單。 建立與AdobeAPI的連線後，我們將逐步完成註冊為AdobeExchange合作夥伴、建立公開清單、提交以供核准及發佈的步驟。
+瞭解如何在開發人員控制檯上建立服務對服務整合、在Admin Console上管理它，以及在Adobe交換上發佈公開應用程式清單。 建立與AdobeAPI的連線後，我們將逐步進行註冊為AdobeExchange合作夥伴、建立公開清單、提交核准及發佈的步驟。
 
 繼續對話於 **[Experience League社群](https://adobe.ly/3ooiltm)**.
 

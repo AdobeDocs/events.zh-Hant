@@ -1,8 +1,8 @@
 ---
 title: Experience Makers技能交流
-description: Experience Makers技能交流是全球性的虛擬客戶學習活動系列，專注於深入瞭解Adobe Experience Cloud解決方案。
-exl-id: 90283549-2f9d-4d05-9d76-9252bcff1c9a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+description: Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重點放在深入瞭解Adobe Experience Cloud解決方案。
+exl-id: 6d0f26c7-d5d2-4993-b2a1-58d5880f8f96
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 <img alt="Experience Makers技能交流" src="./assets/skill-exchange.png" />
 
-Experience Makers技能交流是全球性的虛擬客戶學習活動系列，專注於深入瞭解Adobe Experience Cloud解決方案。 此計畫透過分享最佳實務和秘訣提供向Adobe產品專家和專家同行學習的機會。
+Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重點放在深入瞭解Adobe Experience Cloud解決方案。 此計畫提供機會，透過分享最佳實務和提示與秘訣，向Adobe產品專家和專家同行學習。
 
 >[!TIP]
 >
->**左側導覽中會列出所有錄製的工作階段**.
+>**所有錄製的作業階段都會列在左側的導覽中**.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -31,7 +31,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，專
 
 </div>
 
-## 精選工作階段
+## 精選會議
 
 <table>
   <tr>
@@ -58,20 +58,20 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，專
       </div>
       <p>
         <br/>
-         簡單採用的方法，讓您最重要的資產保持乾淨。
+         採用簡單的方法，保持您最重要的資產整潔。
       </p>
     </td>
    <td>
       <a href="workfront/apr2022/ten-tips.md">
-      <img alt="讓您的Workfront驚豔的10個秘訣" src="./assets/workfront-10-tips.png"/>
+      <img alt="令人驚歎的10個秘訣Workfront" src="./assets/workfront-10-tips.png"/>
       </a>
       <div>
-         <a href="workfront/apr2022/ten-tips.md"><strong>讓您的Workfront驚豔的10個秘訣</strong></a>
+         <a href="workfront/apr2022/ten-tips.md"><strong>令人驚歎的10個秘訣Workfront</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
-         這些秘訣是專為已執行一段時間並希望以更有效率的方式做事的管理員所提供。
+         這些秘訣是迎合已執行一段時間並希望以更有效率的方式辦事的管理員。
       </p>
     </td>
   </tr>

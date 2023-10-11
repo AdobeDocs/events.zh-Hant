@@ -1,22 +1,22 @@
 ---
-title: Headless用於商務和PWA Studio
-description: 進一步瞭解如何使用Adobe Commerce中的PWA studio快速且符合成本效益地建置部署和最佳化PWA
+title: 適用於商務和PWA Studio的Headless
+description: 進一步瞭解如何使用Adobe Commerce中的PWA studio快速且符合成本效益地建置部署及最佳化PWA
 solution: Commerce
 role: Admin, Architect, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 kt: 10562
 thumbnail: 343814.jpeg
-exl-id: 28f3208d-1e27-42cc-a4ba-e57e20dbee1c
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: dbbf34be-3009-4559-b347-ba8012323afa
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# Headless用於商務和PWA Studio
+# 適用於商務和PWA Studio的Headless
 
-Headless和漸進式網頁應用程式(PWA)正在重新定義消費者如何使用其行動裝置，提供快速、吸引人且類似應用程式的瀏覽體驗。 請參加此會議，進一步瞭解如何使用Adobe Commerce中的PWA studio快速且符合成本效益地建置部署和最佳化PWA。
+Headless和漸進式網頁應用程式(PWA)提供快速、吸引人且類似應用程式的瀏覽體驗，重新定義消費者如何使用行動裝置。 參加此會議，進一步瞭解如何使用Adobe Commerce中的PWA Studio快速且符合成本效益地建置部署和最佳化PWA。
 
 *Bethan Williams-James* Commerce解決方案顧問/Adobe
 

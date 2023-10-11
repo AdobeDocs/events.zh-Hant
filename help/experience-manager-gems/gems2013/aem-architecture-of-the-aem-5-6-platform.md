@@ -1,11 +1,11 @@
 ---
 title: AEM 5.6平台的架構
-description: 瞭解AEM應用程式平台架構的演化。 自第一版公報1以來，直至最近推出AEM 5.6，應用程式經過數次變更，成為現今通用且可擴充的應用程式平台。
+description: 瞭解AEM應用程式平台架構的演化。 自從第一次發佈Communicate 1以來，直到最近推出AEM 5.6為止，應用程式經歷了數次變更，成為現今通用且可擴充的應用程式平台。
 uuid: 6c7d287b-4dec-4ea8-9731-881c736429d9
 discoiquuid: 3049a99b-1ee0-492d-80c3-4d31d70fa452
 targetaudience: target-audience advanced
-exl-id: 45140275-a13e-445b-ae92-df37aa022d2d
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 75228968-d47a-4d4a-9f55-a8ba95b8d32c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 4%
@@ -14,7 +14,7 @@ ht-degree: 4%
 
 # AEM 5.6平台的架構{#architecture-of-the-aem-platform}
 
-瞭解AEM應用程式平台架構的演化。 自第一版公報1至最近推出AEM 5.6以來，應用程式經歷了數次重大變更，成為現在通用且可擴充的應用程式平台。
+瞭解AEM應用程式平台架構的演化。 自從第一次發佈Communicate 1到最近推出AEM 5.6以來，應用程式經歷了數次重大變更，成為現在通用且可擴充的應用程式平台。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19575/?quality=9)
 

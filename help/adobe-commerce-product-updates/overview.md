@@ -1,18 +1,18 @@
 ---
 title: Adobe Commerce產品更新
-description: Adobe Commerce的最新產品創新，由Adobe Commerce產品團隊介紹。
+description: Adobe Commerce的最新產品創新，由Adobe Commerce產品團隊提供。
 user-guide-breadcrumb: Adobe Commerce Release Updates
-source-git-commit: 1dc2c36424118ee87f3fd7339f2b582306b91392
+exl-id: 838b1ed9-eb45-4818-9a8e-807b557d0bce
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 16%
+ht-degree: 14%
 
 ---
 
-
 # Adobe Commerce產品更新
 
-加入Adobe Commerce產品更新網路研討會，瞭解我們如何以多項令人振奮的新功能來轉換平台！ 我們將展示最新的Commerce創新技術，以及它們如何協助您增加銷售、簡化開發並提升效能。
+加入Adobe Commerce產品更新網路研討會，瞭解我們如何運用多項令人興奮的新功能來轉換平台！ 我們將展示最新的Commerce創新技術，以及它們如何協助您提升銷售量、簡化開發工作並提升效能。
 
 ## 上次更新
 
@@ -20,7 +20,7 @@ ht-degree: 16%
   <tr>
     <td>
       <a href="2023/july2023.md">
-        <img alt="2023.6.0 版" src="https://video.tv.adobe.com/v/3422012?format=jpeg" />
+        <img alt="2023.6.0版本" src="https://video.tv.adobe.com/v/3422012?format=jpeg" />
       </a>
       <div>
         <a href="2023/july2023.md">

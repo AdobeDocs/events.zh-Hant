@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager的過去、現在和未來
-description: 在當今的數位世界中，開發人員必須學習、瞭解並掌握最新的程式設計語言和架構。 雖然這點很重要，但我們探索的方法超越了單純的內容管理。 我們將討論現今市場的趨勢、這對開發人員意味著什麼，以及Adobe Experience Manager如何改變開發人員的工作方式。 加入Adobe Experience Manager工程部副總裁Jean-Michel Pittet和AEM產品管理部的Director Cedric Huesler的行列，討論此問題及其他更多內容。
+description: 在今天的數位世界中，開發人員必須學習、瞭解並掌握最新的程式語言和架構。 雖然這點很重要，但我們探索的方法超越單純的內容管理。 我們將討論現今市場的趨勢、這對開發人員意味著什麼，以及Adobe Experience Manager如何改變開發人員的工作方式。 加入Adobe Experience Manager工程副總裁Jean-Michel Pittet和AEM產品管理的Director Cedric Huesler，討論此問題等。
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -9,8 +9,8 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9120
 type: Event
-exl-id: 8316f219-103a-4632-8d8e-fa23a94c5ebc
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: af8d404d-f47e-4704-b0e3-29beafdd7a2d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 6%
@@ -19,7 +19,7 @@ ht-degree: 6%
 
 # Adobe Experience Manager的過去、現在和未來
 
-在當今的數位世界中，開發人員必須學習、瞭解並掌握最新的程式設計語言和架構。 雖然這點很重要，但我們探索的方法超越了單純的內容管理。 我們將討論現今市場的趨勢、這對開發人員意味著什麼，以及Adobe Experience Manager如何改變開發人員的工作方式。 加入Adobe Experience Manager工程部副總裁Jean-Michel Pittet和AEM產品管理部的Director Cedric Huesler的行列，討論此問題及其他更多內容。
+在今天的數位世界中，開發人員必須學習、瞭解並掌握最新的程式語言和架構。 雖然這點很重要，但我們探索的方法超越單純的內容管理。 我們將討論現今市場的趨勢、這對開發人員意味著什麼，以及Adobe Experience Manager如何改變開發人員的工作方式。 加入Adobe Experience Manager工程副總裁Jean-Michel Pittet和AEM產品管理的Director Cedric Huesler，討論此問題等。
 
 繼續對話於 **[Experience League社群](https://adobe.ly/2WrPvNj)**.
 

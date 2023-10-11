@@ -8,17 +8,16 @@ role: Architect, Developer
 level: Intermediate, Experienced
 kt: 10791
 thumbnail: 345381.png
-exl-id: 87511f79-d1dd-417f-8be5-6c688ea25883
-source-git-commit: 461a06f25e46d1bdb250f71bbcebdd7fdadee847
+exl-id: 6a4d9c5e-7e09-46d5-af9f-306012701301
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 10%
 
 ---
 
-
 # 使用AEM Sites加快上市時間的開發人員最佳實務
 
-Pauline Hyunh和Gabriel Walt，內容涵蓋AEM Sites模組化方法、快速網站建立、最佳作法、開發人員最佳作法、低程式碼工具、範本等。
+Pauline Hyunh和Gabriel Walt，內容涵蓋AEM Sites模組化方法、快速網站建立、最佳實務、開發人員最佳實務、低程式碼工具、範本等。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345381/?quality=12&learn=on)

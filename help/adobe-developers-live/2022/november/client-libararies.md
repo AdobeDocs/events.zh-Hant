@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live - 11月22日 — 運作的Forms — 運用使用者端資料庫和Headless Forms
-description: 運作良好的Forms — 運用使用者端資料庫和Headless FormsAdobe Experience Manager Forms在Cloud Service上發佈了許多令人興奮的新功能。 對於表單開發人員而言，有時需要運用自訂指令碼和協力廠商JavaScript程式庫來增強Adobe Experience Manager Forms的使用者體驗。在此課程中，我們將展示如何使用使用者端程式庫，並讓表單作者擺脫對指令碼的掌控，輕鬆選取執行進階計算、日期操控和自訂強制回應視窗所需的功能。我們還將展示無頭式最適化Forms的最新創新，您可以一次撰寫表單，並在多個管道中使用，包括網頁、使用react的SPA應用程式和自訂react應用程式。我們的產品專家將示範如何在WhatsApp等互動管道中使用相同表單的資料擷取體驗 — 讓您能夠精確使用表單你希望他們這樣做。
+title: Adobe Developers Live - 11月22日 — 有效運作的Forms — 善用使用者端資料庫和Headless Forms
+description: 運作良好的Forms — 運用使用者端資料庫和Headless FormsAdobe Experience Manager Forms已在Cloud Service上發佈許多令人興奮的新功能。 對於表單開發人員而言，有時候需要運用自訂指令碼和協力廠商JavaScript程式庫來增強Adobe Experience Manager Forms使用者體驗。在此課程中，我們將說明如何使用使用者端程式庫，並讓表單作者取得指令碼，讓他們輕鬆選取執行進階計算、日期操控和自訂模型視窗所需的功能。我們還將展示Headless調適性Forms的最新創新，您一次可製作表單，並在多個管道中使用，包括網路、使用react的SPA應用程式和自訂react應用程式。我們的產品專家將示範如何在WhatsApp等互動管道中使用相同表單的資料擷取體驗 — 讓您能夠精確處理表單你想讓他們這麼想。
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -11,8 +11,8 @@ doc-type: Event
 last-substantial-update: 2022-11-15T00:00:00Z
 kt: 11481
 thumbnail: 3411301.jpeg
-exl-id: 906138a9-4072-4251-ae4f-549d9e302398
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: b221af94-831e-466f-9adf-f0be3b064485
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
@@ -21,12 +21,12 @@ ht-degree: 0%
 
 # 運作良好的Forms — 善用使用者端資料庫和Headless Forms
 
-Adobe Experience Manager Forms在Cloud Service上發佈了許多令人興奮的新功能。 對於表單開發人員而言，有時需要運用自訂指令碼和協力廠商JavaScript程式庫來增強Adobe Experience Manager Forms使用者體驗。
+Adobe Experience Manager Forms已在Cloud Service上發佈許多令人興奮的新功能。 對於表單開發人員而言，有時候需要運用自訂指令碼和協力廠商JavaScript程式庫來增強Adobe Experience Manager Forms的使用者體驗。
 
-在此課程中，我們將向您展示如何使用使用者端程式庫，並讓表單作者不用再使用指令碼，讓他們可以輕鬆選取執行進階計算、日期操控和自訂強制回應視窗所需的功能。
+在這場會議中，我們將向您展示如何使用使用者端程式庫，並讓表單作者無法取得指令碼，讓他們輕鬆選取執行進階計算、日期操控和自訂模型視窗所需的功能。
 
-我們也會展示Headless最適化Forms的最新創新，您只需撰寫表單一次，便可在多個管道中使用，包括Web、使用react的SPA應用程式以及自訂react應用程式。
+我們也會展示Headless最適化Forms的最新創新，您只需製作表單一次，便可在多個管道中使用，包括Web、使用react的SPA應用程式和自訂react應用程式。
 
-我們的產品專家將示範如何在WhatsApp等互動式管道中，針對資料擷取體驗使用相同的表單，讓您的表單能以您想要的方式運作。
+我們的產品專家將示範如何在WhatsApp等互動式頻道中，使用相同的表單擷取資料，讓您的表單能以您想要的方式運作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411301/?quality=12&learn=on)
