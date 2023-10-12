@@ -4,14 +4,14 @@ description: 聽取Workfront客戶介紹New Home如何為他們及其使用者�
 kt: KT-14069
 thumbnail: https://video.tv.adobe.com/v/3424606?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=dvCuSQfMTZg
-event-cta-url-reg: null
+event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231026.html
 event-start-time: 2023-10-26 09:00-7
 event-guests: Betsey West,Ben Robbins,Jamie Smith
 exl-id: f36c96ce-d889-4549-8595-a43d815dd9af
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: cdf440d1b1b0957986cfed4565e1af61dcd90693
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 0%
+source-wordcount: '209'
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 聽取Workfront客戶介紹New Home如何為他們及其使用者運作。 瞭解8月推出的新首頁功能以及我們新的管理員配置控制。 並瞭解2024年Home的未來發展。
 
-[![ExL LIVE 2023年9月22日](../assets/Oct26_exl_live_WebBanner.png)](https://www.youtube.com/watch?v=dvCuSQfMTZg)
+[![ExL LIVE 2023年9月22日](../assets/Oct26_exl_live_WebBanner.png)](https://engage.adobe.com/ExpLeagueLive-231026.html)
 
 Workfront首頁經過全面改版，現已成為生產力的動力來源。 透過其可自訂的Widget，您可以簡化工作流程，順暢地周遊於專案、任務、問題、請求和提及中，確保一切順利進行。 靈活地調整首頁以符合您的獨特需求，讓您能夠建立自己的集中式Workfront中樞。
 
@@ -27,4 +27,4 @@ Workfront首頁經過全面改版，現已成為生產力的動力來源。 透�
 
 此即時會議一如既往地可讓您在聊天中提問並取得專家的解答。
 
-**按一下上方影像以設定提醒！**
+**按一下上方影像，報名直播串流事件！**
