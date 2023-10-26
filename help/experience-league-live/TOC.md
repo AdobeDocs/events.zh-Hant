@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: aa5d4f36b22a0a069accc635f3d82d5ed6f871cc
+source-git-commit: 9dcc4e29440db713e82718beca9d5cf08f9c1c94
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '294'
 ht-degree: 7%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 7%
 
 + [概觀](overview.md)
 + 集數 {#episodes}
+   + [Ep. 29：在Real-Time CDP和AJO中充分運用行為事件資料](episodes/exl-live-episode-11-14-23.md)
    + [Ep. 28： Workfront發行深入探討 — 新Workfront首頁](episodes/exl-live-episode-10-26-23.md)
    + [Ep. 27：Adobe Journey Optimizer中的API觸發式傳訊](episodes/exl-live-episode-8-23-23.md)
    + [Ep. 26：可於單一位置&#x200B;從任何來源使用標準控制項操作對象](episodes/exl-live-episode-7-20-23.md)

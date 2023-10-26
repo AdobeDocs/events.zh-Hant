@@ -7,10 +7,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: 9dcc4e29440db713e82718beca9d5cf08f9c1c94
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 49%
+source-wordcount: '172'
+ht-degree: 47%
 
 ---
 
@@ -24,15 +24,15 @@ Experience League LIVE 是 Experience League 團隊製作的直播串流節目�
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-26-23.md">
-      <img alt="Experience LeagueLIVE 4月21日" src="assets/Oct26_exl_live_WebBanner.png">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-11-14-23.md">
+      <img alt="Experience LeagueLIVE 4月21日" src="assets/Nov14_2023_exl_live_WebBanner.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-10-26-23.md">
-        <strong>Workfront版本深入探討 — 新Workfront首頁</strong>
+      <a href="episodes/exl-live-episode-11-14-23.md">
+        <strong>在Real-Time CDP和Journey Optimizer中充分利用行為事件資料</strong>
       </a>
-      <br/><em>與Betsey West、Ben Robbins和Jamie Smith</em>
-      <br/><em>2023年10月26日</em>
+      <br/><em>與丹尼爾·賴特、羅里·米什拉和拉吉特·古普塔</em>
+      <br/><em>2023年11月14日</em>
     </div>
   </td>
 </tr>
