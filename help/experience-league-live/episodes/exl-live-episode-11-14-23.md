@@ -7,9 +7,9 @@ event-cta-url-live: https://www.youtube.com/watch?v=xQ-yydkLeHc
 event-cta-url-reg: null
 event-start-time: 2023-11-14 09:00-7
 event-guests: Daniel Wright,Lory Mishra,Rachit Gupta
-source-git-commit: 9dcc4e29440db713e82718beca9d5cf08f9c1c94
+source-git-commit: 8410a6480a055c0a3ab858a005eb98a7456bcad2
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 瞭解如何使用計算屬性建立事件資料的彙總，以改善您的細分、個人化和歷程！
 
->[!VIDEO](https://video.tv.adobe.com/v/3425196/?learn=on)
+[![ExL LIVE 2023年9月22日](assets/Nov14_2023_exl_live_WebBanner.jpg)](https://www.youtube.com/watch?v=xQ-yydkLeHc)
 
 行為資料是提供個人化客戶體驗的關鍵要素，但可能很難完全控制。 現今，您可能會依賴個別系統、技術人員和資料工程師來建立有意義的行為資料彙總，以提供絕佳體驗。
 
