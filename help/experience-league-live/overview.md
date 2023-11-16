@@ -7,9 +7,9 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
-source-git-commit: 9dcc4e29440db713e82718beca9d5cf08f9c1c94
+source-git-commit: 14a1df2b02b0eab4c86073c82627507106011a86
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '169'
 ht-degree: 47%
 
 ---
@@ -24,15 +24,15 @@ Experience League LIVE 是 Experience League 團隊製作的直播串流節目�
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-11-14-23.md">
-      <img alt="Experience LeagueLIVE 4月21日" src="assets/Nov14_2023_exl_live_WebBanner.jpg">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-12-14-23.md">
+      <img alt="Experience LeagueLIVE 4月21日" src="episodes/assets/Dec14_exl_live_banner_web_1920_WebBanner.png">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-11-14-23.md">
-        <strong>在Real-Time CDP和Journey Optimizer中充分利用行為事件資料</strong>
+      <a href="episodes/exl-live-episode-12-14-23.md">
+        <strong>使用Adobe Real-Time CDP中的5大新功能進入2024倒計時</strong>
       </a>
-      <br/><em>與丹尼爾·賴特、羅里·米什拉和拉吉特·古普塔</em>
-      <br/><em>2023年11月14日</em>
+      <br/><em>與道格·摩爾、妮娜·卡魯索和魯迪·舒伯特</em>
+      <br/><em>2023年12月14日</em>
     </div>
   </td>
 </tr>
