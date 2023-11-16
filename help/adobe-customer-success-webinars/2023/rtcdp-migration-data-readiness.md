@@ -1,6 +1,6 @@
 ---
 title: Real-time CDP資料整備
-description: 說明：從資料準備程度的角度瞭解組織準備背後的策略，以精簡即時CDP啟動。​URL重要討論點：瞭解Real-time CDP資料整備程度，並瞭解如何針對企業使用案例進行調整，以利進行Real-time CDP整備
+description: 從資料準備程度的角度瞭解組織準備背後的策略，以簡化即時CDP啟動。 瞭解即時CDP資料整備，並瞭解如何作為組織調整業務使用案例針對即時CDP整備的關鍵資源和操作
 solution: Real-Time Customer Data Platform
 role: Admin, Architect, Data Architect, Data Engineer, Developer
 level: Intermediate
@@ -8,9 +8,9 @@ doc-type: Event
 last-substantial-update: 2023-11-15T00:00:00Z
 jira: KT-14386
 thumbnail: 3425603.jpeg
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: ee784fa4421919f0af180a36eca30644d27de7a1
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---

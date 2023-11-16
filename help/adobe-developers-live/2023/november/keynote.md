@@ -2,18 +2,16 @@
 title: 開啟主題演講
 description: 在這場主題演講中(錄製於2023年11月6日的Adobe Developers Live Content and Commerce)，業界專家Nishant Kapoor和Cedric Huesler揭示Adobe Commerce和Experience Manager的最新進展。 探索這些強大平台的演化與未來，重點關注真實世界的應用程式、低程式碼開發工具，以及維護高效能網站的策略。 Ron Nagy會主持這項深入探討，深入瞭解各項工具，協助您打造引人入勝的個人化數位體驗。
 solution: Commerce, Experience Manager as a Cloud Service
-version: ???
-feature: ??? - select one or more from: https://adobe.ly/3JfnRW9
 topic: Development
 role: Developer
 level: Beginner
 doc-type: Event
-last-substantial-update: 2023-11-15
+last-substantial-update: 2023-11-15T00:00:00Z
 jira: KT-14419
 thumbnail: 3425637.jpeg
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: ee784fa4421919f0af180a36eca30644d27de7a1
 workflow-type: tm+mt
-source-wordcount: 163
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
