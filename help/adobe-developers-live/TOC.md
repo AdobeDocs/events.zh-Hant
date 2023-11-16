@@ -3,7 +3,7 @@ user-guide-title: Adobe Developers Live 活動
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Adobe Developers Live Content 活動錄影集合
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: 543ecb57f8864ef5fa052f61a01029496f45495e
 workflow-type: tm+mt
 source-wordcount: '700'
 ht-degree: 7%
@@ -17,20 +17,20 @@ ht-degree: 7%
 + 2023 年{#2023}
    +  年 11 月{#nov2023}
       + [開啟主題演講](2023/november/keynote.md)
-      + Edge Delivery Services
+      + Edge Delivery Services {#nov-edgedeliveryservices}
          + [建置網站](2023/november/edge-breakout-1.md)
          + [網站績效](2023/november/edge-breakout-2.md)
          + [客戶部署](2023/november/edge-breakout-3.md)
          + [檔案式製作](2023/november/deep-dive.md)
-      + Headless
+      + Headless {#nov-headless}
          + [Headless API](2023/november/headless-breakout-1.md)
          + [Universal Editor](2023/november/headless-breakout-2.md)
          + [外部資料來源](2023/november/headless-breakout-3.md)
-      + Commerce
-         + [目錄服務](2023/novemnber/commerce-breakout-1.md)
-         + [整合AmazonSales Channel](2023/novemnber/commerce-breakout-2.md)
-         + [事件導向擴充性](2023/novemnber/commerce-breakout-3.md)
-         + [API網格](2023/novemnber/commerce-breakout-4.md)
+      + Commerce {#nov-commerce}
+         + [目錄服務](2023/november/commerce-breakout-1.md)
+         + [整合AmazonSales Channel](2023/november/commerce-breakout-2.md)
+         + [事件導向擴充性](2023/november/commerce-breakout-3.md)
+         + [API網格](2023/november/commerce-breakout-4.md)
    +  年 5 月{#may2023}
       + [開啟主題演講](2023/may/keynote.md)
       + [API教學](2023/may/new-apis.md)
