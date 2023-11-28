@@ -3,20 +3,20 @@ title: 使用Marketo Engage和Dynamic Chat處理孤立的管道和資料
 description: 在您的行銷自動化策略中加入對話來提供跨管道客戶體驗的價值。  如何實作銷售會議預訂、網站內容參與和活動/網路研討會促銷活動等主要使用案例。  可落實的秘訣和技巧，讓您快速開始將Dynamic Chat整合到Marketo Engage程式中。
 solution: Marketo Engage
 feature-set: Marketo Engage
-feature: Dynamic Chat, Programs, Engagement Programs, Events, Event Programs
+feature: Dynamic Chat, Event, Programs
 role: Admin, User
 level: Beginner, Intermediate
 doc-type: Event
 last-substantial-update: 2023-11-03T00:00:00Z
 jira: KT-14289
 thumbnail: 3425471.jpeg
-source-git-commit: 86b05faa7b00386ddb76930d9b3432b52a49d4a2
+exl-id: b0496f78-40a4-4607-8c1c-5199e43fdb43
+source-git-commit: 5c3f13536900d137374b9edb79ec1e837d8057e5
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
-
 
 # 使用Marketo Engage和Dynamic Chat處理孤立的管道和資料
 
