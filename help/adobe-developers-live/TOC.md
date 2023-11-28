@@ -2,11 +2,10 @@
 user-guide-title: Adobe Developers Live 活動
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Adobe Developers Live Content 活動錄影集合
-feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: 543ecb57f8864ef5fa052f61a01029496f45495e
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
-source-wordcount: '700'
-ht-degree: 7%
+source-wordcount: '718'
+ht-degree: 6%
 
 ---
 
@@ -27,10 +26,13 @@ ht-degree: 7%
          + [Universal Editor](2023/november/headless-breakout-2.md)
          + [外部資料來源](2023/november/headless-breakout-3.md)
       + Commerce {#nov-commerce}
-         + [目錄服務](2023/november/commerce-breakout-1.md)
-         + [整合AmazonSales Channel](2023/november/commerce-breakout-2.md)
-         + [事件導向擴充性](2023/november/commerce-breakout-3.md)
+         + [AdobeApp Builder、AdobeIO、Webhook和管理UI SDK](2023/november/app-builder-web-hooks-admin-ui-sdk.md)
          + [API網格](2023/november/commerce-breakout-4.md)
+         + [目錄服務](2023/november/commerce-breakout-1.md)
+         + [事件導向擴充性](2023/november/commerce-breakout-3.md)
+         + [整合AmazonSales Channel](2023/november/commerce-breakout-2.md)
+         + [Adobe Commerce簡介](2023/november/intro-to-adobe-commerce.md)
+         + [搜尋和目錄服務](2023/november/commerce-search-and-catalog-service.md)
    +  年 5 月{#may2023}
       + [開啟主題演講](2023/may/keynote.md)
       + [API教學](2023/may/new-apis.md)
