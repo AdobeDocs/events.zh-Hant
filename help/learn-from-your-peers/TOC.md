@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: 「錄製集合來源： [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 86b05faa7b00386ddb76930d9b3432b52a49d4a2
+source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 19%
+source-wordcount: '125'
+ht-degree: 18%
 
 ---
 
@@ -33,6 +33,7 @@ ht-degree: 19%
 + Experience Manager {#experience-manager}
    +  年 9 月{#sept2023}
       + [深入探討AEM Sites的工具](experience-manager/sept2023/aem-sites-tools.md)
+      + [使用AEM核心元件的卓越開發人員](experience-manager/sept2023/core-components.md)
    +  年 7 月{#july2023}
       + [Cloud Service中的有效安全性策略](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    +  年 5 月{#may2023}

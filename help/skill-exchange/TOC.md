@@ -3,10 +3,10 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers與技能交流的錄製集合
 event-series: The Skill Exchange
-source-git-commit: f0a805efa9e6599df4aefa87f6de048bca9a5661
+source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 9%
+source-wordcount: '446'
+ht-degree: 8%
 
 ---
 
@@ -111,7 +111,15 @@ ht-degree: 9%
       + [適用於Forms的終極提示與秘訣](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + 2023 年 8 月 {#aug2023}
+      + [展示板簡介](workfront/aug2023/introduction-to-boards.md)
+      + [體驗製作者焦點](workfront/aug2023/spotlight.md)
+      + [成長與持續效率](workfront/aug2023/growth-continued-efficiencies.md)
+      + [讓整個企業的Workfront成熟起來](workfront/aug2023/workfront-across-enterprise.md)
+      + [與Creative Cloud的原生整合](workfront/aug2023/native-integtrations.md)
+      + [用途驅動自動化](workfront/aug2023/automations.md)
+      + [資源管理待執行工作](workfront/aug2023/resource-management-burnout.md)
       + [Resource Management Foundation](workfront/aug2023/resource-management.md)
+      + [資源管理入門套件](workfront/aug2023/resource-management-starter-kit.md)
    + 2022 年 4 月 {#apr2022}
       + [令人驚歎的10個秘訣Workfront](workfront/apr2022/ten-tips.md)
       + [每個人都應知道的計算欄位](workfront/apr2022/calculated-fields.md)

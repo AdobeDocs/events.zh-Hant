@@ -3,7 +3,7 @@ title: 透過Marketo Engage提升電子郵件傳遞能力
 description: 在此網路研討會中，您將瞭解影響電子郵件傳遞能力的因素。  使用電子郵件效能報表、人員效能報表和智慧列示來評估您目前的狀態。  降低電子郵件傳遞能力風險的步驟，包括驗證通訊協定、維護資料庫品質及使用精確定位。
 solution: Marketo Engage
 feature-set: Marketo Engage
-feature: Smart Lists, Email Editor, Email Programs, Email Setup, Database, Target Account Management, Deliverability, Performance Insights
+feature: Smart Lists, Deliverability, Reporting
 role: Admin
 level: Intermediate
 doc-type: Event
@@ -11,7 +11,7 @@ last-substantial-update: 2023-09-07T00:00:00Z
 jira: KT-13911
 thumbnail: 3423966.jpeg
 exl-id: c6b9cb51-fb81-41e7-b100-9cb2029c43dc
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
