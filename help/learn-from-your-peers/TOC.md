@@ -2,7 +2,7 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: 「錄製集合來源： [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 4bb7c7746e39cd29c1f02c2b9797eaa609ba53c1
+source-git-commit: e1b2587ab6b761998127b5486201bde9ee50fcd6
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 19%
@@ -32,7 +32,7 @@ ht-degree: 19%
          + [使用資料訴說有影響力的故事](analytics/mar2022/stories-with-data.md)
 + Experience Manager {#experience-manager}
    +  年 11 月{#nov2023}
-      + [使用AEM核心元件的卓越開發人員](experience-manager/sept2023/core-components.md)
+      + [使用AEM核心元件的卓越開發人員](experience-manager/nov2023/core-components.md)
    +  年 9 月{#sept2023}
       + [深入探討AEM Sites的工具](experience-manager/sept2023/aem-sites-tools.md)
    +  年 7 月{#july2023}
