@@ -3,10 +3,10 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers與技能交流的錄製集合
 event-series: The Skill Exchange
-source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
+source-git-commit: b5bbc2cade0b5bccb8dc1d06811fa526e612b4f2
 workflow-type: tm+mt
-source-wordcount: '446'
-ht-degree: 8%
+source-wordcount: '443'
+ht-degree: 9%
 
 ---
 
@@ -118,8 +118,7 @@ ht-degree: 8%
       + [與Creative Cloud的原生整合](workfront/aug2023/native-integtrations.md)
       + [用途驅動自動化](workfront/aug2023/automations.md)
       + [資源管理待執行工作](workfront/aug2023/resource-management-burnout.md)
-      + [Resource Management Foundation](workfront/aug2023/resource-management.md)
-      + [資源管理入門套件](workfront/aug2023/resource-management-starter-kit.md)
+         + [資源管理入門套件](workfront/aug2023/resource-management-starter-kit.md)
    + 2022 年 4 月 {#apr2022}
       + [令人驚歎的10個秘訣Workfront](workfront/apr2022/ten-tips.md)
       + [每個人都應知道的計算欄位](workfront/apr2022/calculated-fields.md)
