@@ -4,22 +4,26 @@ description: 瞭解新功能如何協助您更有效率地啟用對象，以實�
 kt: KT-14069
 thumbnail: https://video.tv.adobe.com/v/3425754?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=s4WhnJifWLk
-event-cta-url-reg: null
+event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231214.html
 event-start-time: 2023-12-14 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
-source-git-commit: 14a1df2b02b0eab4c86073c82627507106011a86
+exl-id: c2c2c560-adc1-45f4-b235-0307923cc9a8
+source-git-commit: 0352149767e9366a1a125d3afbc632aa320b6f37
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
 
 # 使用Adobe Real-Time CDP中的5大新功能進入2024倒計時
 
-瞭解新功能如何協助您更有效率地啟用對象，以實現具影響力的個人化。
+瞭解2023年發佈的新功能如何協助您更有效率地啟用對象，以實現具影響力的個人化。
 
-[![ExL LIVE 2023年12月14日](assets/Dec14_exl_live_banner_web_1920_WebBanner.png)](https://www.youtube.com/watch?v=s4WhnJifWLk)
+[![ExL LIVE 2023年12月14日](assets/Dec14_exl_live_banner_web_1920_WebBanner.png)](https://engage.adobe.com/ExpLeagueLive-231214.html)
 
+**按一下上方影像以註冊該節目！**.
+
+**詳細資料：**
 您目前是Real-Time CDP的從業人員，並且正在尋找產品新增功能、其重要原因以及Adobe如何協助您改善客戶資料管理策略的深入分析嗎？ 別再猶豫，您已到達正確位置！ 在本系列中，我們將深入瞭解最近在Real-Time CDP中推出的功能，讓您能立即運用新功能，並對您的組織產生影響。
 
 在這場會議中，我們將討論並顯示最近幾個月推出的五項新功能：
@@ -39,4 +43,4 @@ ht-degree: 0%
 
 此即時會議一如既往地可讓您在聊天中提問並取得專家的解答。
 
-**按一下上方影像，設定此節目的提醒！**.
+
