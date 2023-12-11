@@ -2,10 +2,10 @@
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
 user-guide-description: Adobe客戶成功引導的網路研討會，旨在讓您最佳化對AdobeExperience Cloud的投資。 獲得寶貴的見解，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 7%
+source-wordcount: '106'
+ht-degree: 0%
 
 ---
 
@@ -19,10 +19,11 @@ ht-degree: 7%
    + [內容與體驗 — 個人化](2023/content-experiences-personalization.md)
    + [Customer Journey Analytics遷移整備](2023/cja-migration-readiness.md)
    + [Customer Journey Analytics整合要點](2023/cja-integration-essentials.md)
+   + [開發即時資料收集與啟用策略](2023/data-collection-activation-strategy.md)
    + [有效測量策略](2023/measurement-strategy.md)
    + [行銷活動協調的基本策略](2023/foundational-strategy-campaign.md)
    + [排定智慧與測量的優先順序](2023/intelligence-and-measurement.md)
    + [Real-time CDP資料整備](2023/rtcdp-migration-data-readiness.md)
    + [Real-time CDP遷移整備](2023/rtcdp-migration-readiness.md)
-   + [設定有效的 Audience Activation 策略](2023/audience-activation.md)
+   + [設定有效的Audience Activation策略](2023/audience-activation.md)
    + [轉換為Real-time CDP](2023/aam-to-rtcdp.md)
