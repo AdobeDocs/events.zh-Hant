@@ -3,7 +3,7 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers與技能交流的錄製集合
 event-series: The Skill Exchange
-source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
+source-git-commit: 76b246f4b6b43632cf07b17ee1ec9b2d581e1e08
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 9%
@@ -18,7 +18,7 @@ ht-degree: 9%
    + 2023年8月 {#aug2023}
       + [關於區段](analytics/aug2023/spotlight-segments.md)
       + [分析資料](analytics/aug2023/analyze-the-data.md)
-      + [教導臨時工作區使用者](analytics/aug2023/spotlight.md)
+      + [教導臨時工作區使用者](analytics/aug2023/spotlight-workspace-user.md)
       + [修正導覽](analytics/aug2023/fix-navigation.md)
       + [四個未使用的功能](analytics/aug2023/data-analysis.md)
       + [快速入門](analytics/aug2023/getting-started.md)

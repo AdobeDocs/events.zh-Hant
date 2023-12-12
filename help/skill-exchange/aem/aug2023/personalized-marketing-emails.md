@@ -1,8 +1,8 @@
 ---
 title: 使用AEM建立高度個人化的行銷電子郵件
 description: 電子郵件通訊是您聯絡現有和潛在新客戶的最重要方式之一。 能夠有效地建立高度個人化的電子郵件，可大幅提升客戶參與度。 當有人考慮AEM (Adobe Experience Manager)時，他們通常會考慮網站和網頁內容。 但是您知道嗎？AEM也可以用來建立電子郵件
-feaeture-set: Experience Manager Sites
-feature: Core components, Developing
+feature-set: Experience Manager Sites
+feature: Core Components, Developing
 topic: Personalization
 role: Developer
 level: Intermediate, Experienced
@@ -11,7 +11,7 @@ duration: 2198
 last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14650
 thumbnail: 3425982.jpeg
-source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
+source-git-commit: 76b246f4b6b43632cf07b17ee1ec9b2d581e1e08
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
