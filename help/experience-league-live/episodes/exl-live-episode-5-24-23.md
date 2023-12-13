@@ -1,6 +1,6 @@
 ---
-title: 透過 Adobe Journey Optimizer 充分利用行動應用程式
-description: 瞭解應用程式內傳訊作為即時參與管道的好處，以及如何在 Adobe Journey Optimizer 中設定和撰寫個人化的行動應用程式體驗。
+title: 透過Adobe Journey Optimizer發揮行動應用程式的潛力
+description: 瞭解應用程式內傳訊作為即時參與管道的好處，以及如何在Adobe Journey Optimizer中設定和製作個人化行動應用程式體驗。
 solution: Journey Optimizer
 feature: In App
 role: User
@@ -8,19 +8,19 @@ kt: 13220
 thumbnail: https://video.tv.adobe.com/v/3419194?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=ABhwYw44r2g
 event-cta-url-reg: null
-event-start-time: 2023-5-24 08:30-8
+event-start-time: 2023-05-24 08:30-8
 event-guests: Sandra Hausmann,Chetan Prasad,Peter Fransen
 exl-id: 247176af-df0f-4fdd-8fc5-6491603d42f5
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: af23ea73c76387f9e7be277227fd786d7ce9b02c
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 74%
+source-wordcount: '86'
+ht-degree: 0%
 
 ---
 
-# 透過 Adobe Journey Optimizer 充分利用行動應用程式
+# 透過Adobe Journey Optimizer發揮行動應用程式的潛力
 
-瞭解應用程式內傳訊作為即時參與管道的好處，以及如何在 Adobe Journey Optimizer 中設定和撰寫個人化的行動應用程式體驗。
+瞭解應用程式內傳訊作為即時參與管道的好處，以及如何在Adobe Journey Optimizer中設定和製作個人化行動應用程式體驗。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419194/?quality=12&learn=on)
 
