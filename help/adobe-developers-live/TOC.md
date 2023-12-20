@@ -2,10 +2,10 @@
 user-guide-title: Adobe Developers Live 活動
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Adobe Developers Live Content 活動錄影集合
-source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
+source-git-commit: c50f4241e22bc858473156a3e7cd32052177a5e1
 workflow-type: tm+mt
-source-wordcount: '718'
-ht-degree: 6%
+source-wordcount: '777'
+ht-degree: 5%
 
 ---
 
@@ -14,26 +14,37 @@ ht-degree: 6%
 
 + [概觀](overview.md)
 + 2023 年{#2023}
-   +  年 11 月{#nov2023}
+   + 十一月 {#nov2023}
       + [開啟主題演講](2023/november/keynote.md)
+      + [開幕主題演講(APAC)](2023/november/keynote-apac.md)
+      + [使用App Builder自動化內容工作流程](2023/november/content-workflows.md)
+      + [回到前面的元件開發與部署](2023/november/component-development.md)
+      + [全通道內容傳送](2023/november/omnichannel.md)
       + Edge Delivery Services {#nov-edgedeliveryservices}
          + [建置網站](2023/november/edge-breakout-1.md)
          + [網站績效](2023/november/edge-breakout-2.md)
          + [客戶部署](2023/november/edge-breakout-3.md)
          + [檔案式製作](2023/november/deep-dive.md)
+         + [Edge Delivery Services技術概覽](2023/november/edge-delivery-services-tech-overview.md)
       + Headless {#nov-headless}
          + [Headless API](2023/november/headless-breakout-1.md)
+         + [通用編輯器簡介](2023/november/intro-universal-editor.md)
+         + [Headless Forms簡介](2023/november/headless-forms.md)
          + [Universal Editor](2023/november/headless-breakout-2.md)
          + [外部資料來源](2023/november/headless-breakout-3.md)
-      + Commerce {#nov-commerce}
+      + 商務 {#nov-commerce}
          + [AdobeApp Builder、AdobeIO、Webhook和管理UI SDK](2023/november/app-builder-web-hooks-admin-ui-sdk.md)
          + [API網格](2023/november/commerce-breakout-4.md)
          + [目錄服務](2023/november/commerce-breakout-1.md)
+         + [透過平台提供Commerce效能](2023/november/commerce-performance.md)
          + [事件導向擴充性](2023/november/commerce-breakout-3.md)
+         + [商業的未來](2023/november/future-of-commerce.md)
          + [整合AmazonSales Channel](2023/november/commerce-breakout-2.md)
          + [Adobe Commerce簡介](2023/november/intro-to-adobe-commerce.md)
          + [搜尋和目錄服務](2023/november/commerce-search-and-catalog-service.md)
-   +  年 5 月{#may2023}
+         + [最佳化Commerce網站效能的策略](2023/november/commerce-site-performance.md)
+         + [在Adobe Commerce Cloud上追蹤變更](2023/november/commerce-cloud-track-changes.md)
+   + 五月 {#may2023}
       + [開啟主題演講](2023/may/keynote.md)
       + [API教學](2023/may/new-apis.md)
       + [深入瞭解適用於電子郵件和Forms的AEM核心元件](2023/may/core-components.md)
@@ -101,7 +112,7 @@ ht-degree: 6%
       + [快速前端開發](2021/february/rapid-frontend-devlopment.md)
       + [SPA Editor 2.0](2021/february/spa-editor-2-0.md)
       + [將任何網站轉換為漸進式網頁應用程式](2021/february/any-site-into-pwa.md)
-   +  年 10 月{#oct2021}
+   + 十月 {#oct2021}
       + [概觀](2021/october/overview.md)
       + [開啟主題演講](2021/october/keynote.md)
       + [加速轉換至Experience ManagerCS](2021/october/accelerate-transistion.md)
