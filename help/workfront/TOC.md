@@ -2,9 +2,9 @@
 user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
-source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
+source-git-commit: 0dc027b6c267c52b961b641d838571fc2d0a9fd6
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -46,3 +46,5 @@ ht-degree: 0%
    + [善用Workfront Proof](user-groups/leveraging-workfront-proof.md)
 + 請求佇列和輸入 {#request-queues-and-intake}
    + [請求佇列和輸入Forms](user-groups/request-queues-and-intake-forms.md)
++ 2024版本
+   + [24.1版](webinars/24-1-release-webinar.md)
