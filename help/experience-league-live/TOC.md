@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: ba2c392cef2c5bd49eeaeb9241396c9b13389fdb
+source-git-commit: 830d7210220293c9c9b6e7923213e9e7f5936d2c
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '366'
 ht-degree: 6%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 6%
 
 + [概觀](overview.md)
 + 集數 {#episodes}
+   + [Ep. 32：使用案例教戰手冊、自助範本，按幾下即可部署使用案例](episodes/exl-live-episode-02-08-24.md)
    + [Ep. 31：將您的Adobe Analytics資料和分析帶入Customer Journey Analytics](episodes/exl-live-episode-01-17-24.md)
    + [Ep. 30：使用Adobe Real-Time CDP的5大新功能進入2024倒計時](episodes/exl-live-episode-12-14-23.md)
    + [Ep. 29：在Real-Time CDP和AJO中充分運用行為事件資料](episodes/exl-live-episode-11-14-23.md)
