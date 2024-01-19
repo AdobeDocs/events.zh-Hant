@@ -7,10 +7,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
-source-git-commit: ba2c392cef2c5bd49eeaeb9241396c9b13389fdb
+source-git-commit: e4d280f98bf46b0f2c663e85bedd1fed4f85cafe
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 44%
+source-wordcount: '159'
+ht-degree: 47%
 
 ---
 
@@ -24,16 +24,8 @@ Experience League LIVE 是 Experience League 團隊製作的直播串流節目�
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-17-24.md">
-      <img alt="Experience LeagueLIVE 4月21日" src="episodes/assets/Jan17_2024_WebBanner.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-01-17-24.md">
-        <strong>將您的Adobe Analytics資料和分析帶入Customer Journey Analytics</strong>
-      </a>
-      <br/><em>與Doug Moore、Eric Matisoff和Bryan Skelton合作</em>
-      <br/><em>2024年1月17日上午10:00 （太平洋標準時間）</em>
-    </div>
+  <td style="vertical-align: top;">
+    請儘快返回本頁，以取得將於2024年2月8日上線的節目資訊！
   </td>
 </tr>
 </table>
