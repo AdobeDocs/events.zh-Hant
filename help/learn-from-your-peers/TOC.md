@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: 「錄製集合來源： [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 787fd78cb2ceb61f296bfe63c5b4e6cf71712abf
+source-git-commit: 06f787d8dd891e1afe3b8eda58c4790542a3a082
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 6%
+source-wordcount: '135'
+ht-degree: 5%
 
 ---
 
@@ -42,6 +42,8 @@ ht-degree: 6%
    + 五月 {#may2023}
       + [掌握內容與體驗片段](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
+   + 一月 {#jan2024}
+      + [透過Marketo Engage掌握個人分數](marketo/jan2024/person-scoring-mastery.md)
    + 十一月 {#nov2023}
       + [Marketo Engage和Dynamic Chat](marketo/nov2023/dynamic-chat.md)
    + 九月 {#sept2023}
