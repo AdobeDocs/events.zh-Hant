@@ -9,9 +9,9 @@ duration: 2373
 last-substantial-update: 2024-01-22T00:00:00Z
 jira: KT-14816
 thumbnail: 3426914.jpeg
-source-git-commit: 06f787d8dd891e1afe3b8eda58c4790542a3a082
+source-git-commit: febc091c03cf8f11590de7dec9545e67b68e5eff
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,9 @@ ht-degree: 0%
 
 ## 網路研討會中分享的資源
 
-* 行銷國家社群網路研討會對話串 —  [討論](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864)
-&lt;— [工作表] 透過當地影響力練習來評分個人/潛在客戶： [要新增的連結] —>
-* 潛在客戶評分規則的大型清單 —  [工作表](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf)
-* Marketo Engage程式匯入程式庫 —  [檔案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html)
-* 帶領評分在程式之前、期間和之後瞭解的所有相關資訊 —  [隨選網路研討會](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html)
-* 冠軍接球 —  [部落格](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849)
+* 行銷國家社群網路研討會對話串 —  [討論](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
+* 透過當地影響力練習來評分個人/潛在客戶： [工作表](../../assets/marketo/[Worksheet]%20Build%20Scoring%20Model%20and%20Local%20Flexibility%20Scoring.docx){target="_blank"}
+* 潛在客戶評分規則的大型清單 —  [工作表](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
+* Marketo Engage程式匯入程式庫 —  [檔案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
+* 帶領評分在程式之前、期間和之後瞭解的所有相關資訊 —  [隨選網路研討會](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
+* 冠軍接球 —  [部落格](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}
