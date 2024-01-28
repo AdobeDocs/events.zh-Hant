@@ -2,7 +2,8 @@
 title: 『[!DNL Experience Makers - Learn from your peers]『
 description: 向Adobe專家和同行學習如何從您的Adobe解決方案中獲得最大效益。 [!DNL Experience Makers - Learn from your peers] 是全球性的虛擬客戶學習活動系列，聚焦在深入瞭解 [!DNL Adobe Experience Cloud] 解決方案。
 exl-id: 006da2ec-77f0-43fb-a653-1b5f4942d692
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 20
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%

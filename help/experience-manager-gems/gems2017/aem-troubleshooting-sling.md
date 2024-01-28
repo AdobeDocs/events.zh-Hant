@@ -1,15 +1,15 @@
 ---
 title: Sling Content Distribution疑難排解
 description: Sling Content Distribution (SCD)可用於AEM進行正向、反向內容發佈和同步。 在此會議中，我們將提供有關如何疑難排解及處理SCD常見問題的詳細資訊。
-uuid: 823b2bda-411b-49af-9a75-ab5eb9562d57
 topic-tags: troubleshoot
 discoiquuid: 58c61b72-166b-4c7e-ab63-3edd68e3e925
 targetaudience: target-audience advanced
 exl-id: 2d87ab40-9848-4bf9-ab9a-8d4d9ef6542c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3093
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 10%
+source-wordcount: '164'
+ht-degree: 3%
 
 ---
 

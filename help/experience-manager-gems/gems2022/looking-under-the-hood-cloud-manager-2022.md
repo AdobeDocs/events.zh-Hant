@@ -10,14 +10,15 @@ role: Developer
 level: Beginner
 kt: 10470
 exl-id: 70564929-78c2-4a3d-bcf7-8708fd458812
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3289
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 5%
+source-wordcount: '178'
+ht-degree: 0%
 
 ---
 
-# 深入了解 - Cloud Manager 2022
+# 深入瞭解 — Cloud Manager 2022
 
 *此網路研討會已於UTC6月15日下午3點舉行。 請檢視下面的錄製。*
 

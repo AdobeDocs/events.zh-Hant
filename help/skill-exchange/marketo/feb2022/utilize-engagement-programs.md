@@ -7,10 +7,11 @@ level: Beginner
 kt: 9768
 thumbnail: 340595.jpeg
 exl-id: e809d8b2-37b0-4daf-8cb7-becefa24100b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2603
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 2%
+source-wordcount: '90'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +19,7 @@ ht-degree: 2%
 
 瞭解中參與計畫的基本知識 [!DNL Marketo Engage] 包括範例使用案例和提示與秘訣。
 
-**重點提要**
+**重要技巧**
 
 * 進一步瞭解Marketo參與計畫及其獨特功能
 * 瞭解計畫設定和最佳實務，以及它們如何套用於現實世界的使用案例

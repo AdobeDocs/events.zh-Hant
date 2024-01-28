@@ -1,14 +1,14 @@
 ---
 title: 使用Adobe Experience Manager的範本編輯器管理您的內容
 description: Adobe Experience Manager 6.2匯入了新的範本編輯器，提供強大的全新方法來建置、建構及設定數位屬性。 從超級作者的角度探索功能，瞭解它如何允許撰寫不同的頁面範本，並準確控制允許作者在對應頁面上做什麼。 最後，深入瞭解其內部機制，以瞭解其運作方式。
-uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
 exl-id: 0f447b26-e145-48ea-8b75-a9c03b047da9
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2962
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 4%
+source-wordcount: '263'
+ht-degree: 1%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: 即時且輕量型 — 使用Adobe I/O事件建立AEM的事件導向整合
 description: 厭倦了為AEM建置聯結器？ 瞭解如何透過Adobe I/O事件公開來自AEM的任何內部OSGi事件，以輕鬆建立多個系統上的事件導向工作流程。 I/O事件可讓您即時回應管理事件和客戶行為。
-uuid: 78a98ffd-cdca-462a-8915-fd936a270232
 discoiquuid: 4c239cfb-5c0f-45d7-a856-acdfd015df5d
 targetaudience: target-audience advanced
 exl-id: 18613ec9-a2d9-4c9d-958d-a324d9e4a1a7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2315
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 1%

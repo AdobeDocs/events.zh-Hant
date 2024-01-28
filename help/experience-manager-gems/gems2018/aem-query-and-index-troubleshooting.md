@@ -1,31 +1,31 @@
 ---
-title: 查AEM詢和索引故障排除
-description: 這是去年會話索引和JCR查詢AEM的繼續。 它涵蓋相同的主題，但包含全新內容，與較舊的演示文稿幾乎沒有重疊。 還包括6.4AEM的新功能。
+title: AEM查詢和索引疑難排解
+description: 這是去年作業階段AEM索引和JCR查詢的延續。 它涵蓋相同的主題，但具有全新的內容，並且與舊簡報幾乎沒有重疊。 此外也包含AEM 6.4的新功能。
 page-status-flag: never-activated
-uuid: 6ba07490-1b55-4209-bb89-bad35d73297e
 deleted: 2018-08-14T03 02 22.818-0400
 deletedby: gbrodnik
 discoiquuid: 0904a311-26a9-4748-ad45-aa53c2673c4c
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+duration: 2935
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '62'
 ht-degree: 3%
 
 ---
 
 
-# 查AEM詢和索引故障排除{#aem-query-and-index-troubleshooting}
+# AEM查詢和索引疑難排解{#aem-query-and-index-troubleshooting}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23270/?quality=9)
 
-*已交付08/08/2018*
+*2018年8月8日傳遞*
 
-**提交者：**
+**展示者：**
 
-Thomas Mueller，高級軟體工程師，Adobe
+Adobe資深軟體工程師Thomas Mueller
 
-日期：08/08/2018
+日期： 2018年8月8日
 
 [取得檔案](assets/20180808-gems-adobe+cloud+platform-experience+system+of+record-1.pdf)
 

@@ -1,11 +1,11 @@
 ---
 title: 善用適用於AEM Screens的author-publish
 description: 取得AEM Screens的完整生產設定，並瞭解將內容發佈到Screens/數位看板播放器的所有必要步驟。
-uuid: 45a68d1d-824e-4922-b440-dd53131d2bdc
 discoiquuid: ea92d8e0-1dc3-4933-9fd2-f8d240ec65ba
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: 27bf6d01-d720-41a1-87b2-7d1d6d29a10c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3012
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 2%

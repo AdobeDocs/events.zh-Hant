@@ -1,11 +1,11 @@
 ---
 title: 進入tar pit - TarMK深入探討
 description: 曾經想過TarMK的tar檔案中有什麼內容？ 什麼是區段和什麼是記錄？ 區段存放區垃圾收集如何運作及為什麼（或為什麼沒有）？ 本課程會回答這些問題及其他許多問題。
-uuid: 67aed294-c1f2-422e-a568-7a2e19eb60d1
 discoiquuid: 3c650f0e-e16b-4a18-9462-90cdde8a2f10
 targetaudience: target-audience advanced
 exl-id: bcf64ff5-f8c1-4355-803e-df22cc784cc2
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4071
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 2%

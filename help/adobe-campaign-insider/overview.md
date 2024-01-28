@@ -2,10 +2,11 @@
 title: Adobe [!DNL Campaign] 測試人員系列
 description: Adobe的秘訣與秘訣與靈感 [!DNL Campaign] 客戶可協助發展跨頻道行銷策略、提升團隊行銷從業人員的技能，並幫助組織推出更進階的跨頻道行銷策略。
 exl-id: 414b8d81-ff05-47ed-b572-fb655d3dd231
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 36
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
@@ -35,7 +36,7 @@ Adobe的秘訣與秘訣與靈感 [!DNL Campaign] 客戶可協助發展跨頻道�
       <img alt="Adobe [!DNL Campaign] 與行銷生態系統的整合" src="assets/integrations.png"/>
       </a>
       <div>
-         <a href="./2022/integrations.md"><strong>[!DNL Campaign]Adobe 與行銷生態系統的整合</strong></a>
+         <a href="./2022/integrations.md"><strong>Adobe [!DNL Campaign] 與行銷生態系統的整合</strong></a>
          <br/>
       </div>
    </td>

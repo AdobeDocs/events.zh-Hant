@@ -1,14 +1,14 @@
 ---
 title: AEM 5.6.1中的工作處理與解除安裝簡介。
 description: 取得進階作業處理功能的技術簡介。 工作處理是復寫和工作流程處理等功能的底層基礎架構。 瞭解探索模組以及改善的作業處理API和新功能。
-uuid: 181e3781-8eca-4a5d-879e-15ae4e1f6649
 discoiquuid: ee4cd526-7363-4b8e-ad26-c2c937b70327
 targetaudience: target-audience advanced
 exl-id: bd10465b-6f45-4117-b8a0-1310422f5825
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3750
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 4%
+source-wordcount: '198'
+ht-degree: 2%
 
 ---
 

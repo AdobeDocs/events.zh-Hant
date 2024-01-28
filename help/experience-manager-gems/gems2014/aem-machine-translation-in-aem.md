@@ -1,13 +1,13 @@
 ---
 title: AEM中的機器翻譯
 description: 瞭解AEM和Microsoft Translator如何提供機器翻譯，讓您能夠延伸內容觸及的範圍、增加內容上市時間、最佳化成本，並透過搜尋引擎最佳化提高使用者的可發現性，進而更好地使用資源並提高ROI。
-uuid: c25c9806-560c-46ef-b9c0-ffe0af296ed9
 discoiquuid: c976c008-4f51-4146-8c34-265e9707be6a
 targetaudience: target-audience advanced
 exl-id: e4f4d4ec-f702-4958-913e-fb3d34421855
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3062
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '211'
 ht-degree: 2%
 
 ---

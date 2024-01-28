@@ -2,9 +2,10 @@
 title: Marketo和Mochas
 description: Marketo隨選活動是一個影片庫，專家和同行可以在其中分享他們關於如何最佳使用AdobeMarketo的想法和想法。
 exl-id: eab06791-de71-4c26-bbb6-cbdeb9f6f8ec
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 15
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---

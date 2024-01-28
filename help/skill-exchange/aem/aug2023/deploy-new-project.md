@@ -10,13 +10,14 @@ doc-type: Event
 last-substantial-update: 2023-10-27T00:00:00Z
 jira: KT-14148
 thumbnail: 3424017.jpeg
-source-git-commit: f0a805efa9e6599df4aefa87f6de048bca9a5661
+exl-id: ee5dd2bf-034e-4b22-8123-aca06a55cfe2
+duration: 2243
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
-
 
 # 技能交流2023年8月活動 — AEM開發人員追蹤 — AEM開發人員入門套件
 

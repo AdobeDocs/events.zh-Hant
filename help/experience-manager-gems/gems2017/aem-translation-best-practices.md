@@ -1,14 +1,14 @@
 ---
 title: AEM 6.3為世界做好準備 — 翻譯整合和最佳實踐
 description: 在這場會議中，我們將介紹AEM 6.3管理多語言網站的功能與最佳實務。 您將瞭解如何在AEM中建構全球網站、如何使用語言副本、即時副本和MSM，以及如何整合翻譯服務提供者以成功完成翻譯專案。
-uuid: 19ef8f6e-90ab-4724-9cc3-febe30543f00
 discoiquuid: 6a78c294-abc1-4ebb-bd9d-f9abe214ad98
 targetaudience: target-audience advanced
 exl-id: af514fa9-91c7-4bbc-9e67-4803148e7997
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3560
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 6%
+source-wordcount: '208'
+ht-degree: 1%
 
 ---
 

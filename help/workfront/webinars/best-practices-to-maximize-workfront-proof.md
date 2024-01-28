@@ -1,15 +1,15 @@
 ---
 title: 詢問專家 — 充份運用Workfront校訂的最佳實務
 description: 瞭解如何進行設定、啟用好報告並避免Proof中的常見陷阱。 此網路研討會錄製於2020年2月26日。
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9916
 exl-id: 7d3e437d-4a6e-44b8-9eff-eabb8284c391
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 5182
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '5566'
-ht-degree: 2%
+source-wordcount: '5572'
+ht-degree: 1%
 
 ---
 

@@ -13,16 +13,17 @@ version: Cloud Service
 type: Event
 kt: 7341
 exl-id: 01149450-8d92-4ea8-a048-86559dd323b7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3081
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 6%
+source-wordcount: '164'
+ht-degree: 4%
 
 ---
 
 # Dynamic Media- Adobe Experience Manager資產系列
 
-此網路研討會系列由五部分組成，可協助您建立知識庫，並將Adobe Experience Manager資產投資效益最大化。 如果您是初次使用Adobe Experience Manager資產的從業人員，或已經使用Adobe Experience Manager資產一段時間了，並且希望進一步提升現有的技能，這是深入探究解決方案最重要的五個領域的理想方式。 Adobe專家將檢閱基本知識，並提供進階見解，為您提供可立即實施的可操作後續步驟。
+此網路研討會系列由五部分組成，可協助您建立知識庫，並將Adobe Experience Manager Assets投資效益最大化。 如果您是初次使用Adobe Experience Manager Assets或已經使用Adobe Experience Manager Assets一段時間且希望進一步提升現有技能的從業人員，這是深入探究解決方案5個最重要領域的理想方式。 Adobe專家將檢閱基本知識，並提供進階見解，為您提供可立即實施的可操作後續步驟。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332132/?quality=12&learn=on&hidetitle=true)
 
@@ -37,7 +38,7 @@ ht-degree: 6%
 
 ## 系列錄製
 
-* [資產連結](asset-link.md)
+* [Asset Link](asset-link.md)
 * [Brand Portal](brand-portal.md)
-* [檔案夾結構與搜尋](folder-structure-search.md)
+* [資料夾結構與搜尋](folder-structure-search.md)
 * [中繼資料](metadata.md)

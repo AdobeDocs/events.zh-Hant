@@ -10,10 +10,11 @@ version: Cloud Service
 kt: 9141
 type: Event
 exl-id: f1aec13d-db37-4d71-9650-9bb01a745b91
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1375
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 35%
+source-wordcount: '75'
+ht-degree: 17%
 
 ---
 
@@ -25,6 +26,6 @@ ht-degree: 35%
 
 ## 其他資源
 
-- [Adobe Experience Platform 文件](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform檔案](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Adobe Experience Platform 概述](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=zh-Hant)
 - [Adobe Experience Platform 教學課程](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=zh-Hant)

@@ -10,10 +10,11 @@ version: Cloud Service
 kt: 9214
 type: Event
 exl-id: 2f0533ca-a96f-4fa1-90fd-37ba37180a2f
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1898
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 26%
+source-wordcount: '105'
+ht-degree: 12%
 
 ---
 
@@ -27,6 +28,6 @@ Adobe Developer主控台是AdobeAPI、事件、執行階段和應用程式產生
 
 ## 其他資源
 
-- [Adobe Experience Platform 文件](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform檔案](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Adobe Experience Platform 概述](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=zh-Hant)
 - [Adobe Experience Platform 教學課程](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=zh-Hant)

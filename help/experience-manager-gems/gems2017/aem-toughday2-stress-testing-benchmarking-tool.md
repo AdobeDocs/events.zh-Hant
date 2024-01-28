@@ -1,11 +1,11 @@
 ---
 title: Toughday2 — 全新改良的壓力測試和基準測試工具
 description: 「艱難日」是一種測試工具，可在所有作業同時進行的情況下，模擬最壞情況下的每日負載。 我們收集了使用者多年來的意見反應，並決定改寫以滿足需求。
-uuid: 6bf40482-6152-421b-bdfe-9a50176b98b7
 discoiquuid: d60dbb18-7938-4446-9928-7f5f5d1f83a1
 targetaudience: target-audience advanced
 exl-id: 5e6541c4-83e3-4505-b827-407f112f2437
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3141
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 1%

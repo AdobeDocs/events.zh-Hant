@@ -1,13 +1,13 @@
 ---
 title: cq/AEM 5.6疑難排解
 description: 瞭解如何疑難排解CQ/AEM (5.6)型應用程式的准則，以及一些最佳實務和範例，說明好的方法如何有助於縮短解決方案路徑。
-uuid: 5c036b16-f1ea-4ef4-b0bd-07489f972770
 discoiquuid: 207a6ae5-b8d3-40cd-82fc-ee9fcbea17aa
 targetaudience: target-audience advanced
 exl-id: 2d7c89ac-bd0a-4549-ac0f-dbf3237c5951
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3580
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '95'
 ht-degree: 3%
 
 ---

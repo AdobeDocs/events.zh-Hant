@@ -10,13 +10,14 @@ doc-type: Event
 last-substantial-update: 2023-10-27T00:00:00Z
 jira: KT-14149
 thumbnail: 3424018.jpeg
-source-git-commit: f0a805efa9e6599df4aefa87f6de048bca9a5661
+exl-id: f34a0cea-c94e-4874-b743-bf8f85ac538a
+duration: 2515
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
-
 
 # 技能交流活動2023年8月 — AEM開發人員追蹤 — 移轉至AEM Cloud Service的策略與戰術秘訣
 

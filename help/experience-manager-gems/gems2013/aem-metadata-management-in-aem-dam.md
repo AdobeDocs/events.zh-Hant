@@ -1,13 +1,13 @@
 ---
 title: AEM DAM中的中繼資料管理
 description: 瞭解AEM DAM如何管理資產的中繼資料。 瞭解XMP標準及DAM如何加以使用、如何在搜尋中使用中繼資料，以及如何擴充內建中繼資料結構。 此外，也會展示最新DAM Feature Pack中引進的新中繼資料結構編輯器。
-uuid: 09bce4bb-8880-41ae-b95c-1f36407191ff
 discoiquuid: 0e2538bc-7a1a-41ce-8fed-64805ca1bb89
 targetaudience: target-audience advanced
 exl-id: 11302a97-d19e-4572-99f3-6315d0bd936e
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2907
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '135'
 ht-degree: 2%
 
 ---

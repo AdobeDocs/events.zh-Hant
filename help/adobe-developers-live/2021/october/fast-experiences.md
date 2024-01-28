@@ -10,10 +10,11 @@ version: Cloud Service
 kt: 9178
 type: Event
 exl-id: 47e84e07-441f-4947-a9d9-80d055f32b2e
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1780
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 7%
+source-wordcount: '183'
+ht-degree: 3%
 
 ---
 
@@ -27,6 +28,6 @@ Adobe Experience Manager as a Cloud Service的設計宗旨是有效率且有效�
 
 ## 其他資源
 
-- [Adobe Experience Manager 文件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Adobe Experience Manager檔案](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 - [Adobe Experience ManagerCloud Service概觀](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
 - [Adobe Experience Manager 教學課程](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

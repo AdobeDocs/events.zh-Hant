@@ -1,13 +1,13 @@
 ---
 title: 有效率地建置可重複使用的元件
 description: 瞭解為什麼讓HTML網頁開發人員完全整合到AEM專案對於您團隊的效率至關重要，以及如何做到這一點。 也瞭解新的基礎元件（使用伺服器端JavaScript和HTL建置），以及如何重複使用和擴充這些元件。
-uuid: 445d4ead-8055-4624-a618-edd67ee3ec2d
 discoiquuid: 8c411732-3462-4ea1-9bca-e3e1cd6ac3f0
 targetaudience: target-audience advanced
 exl-id: 6cffa7ca-4b83-4564-8674-51ec7d2d734c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 5792
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '192'
 ht-degree: 2%
 
 ---

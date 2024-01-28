@@ -3,10 +3,11 @@ title: Adobe Experience League事件
 description: 活動錄影的集合，重點說明如何使用Adobe的企業產品
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 334
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '915'
-ht-degree: 9%
+source-wordcount: '912'
+ht-degree: 5%
 
 ---
 
@@ -163,7 +164,8 @@ ht-degree: 9%
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics、Adobe Audience Manager、Adobe Experience Manager、Adobe Experience Platform、Real-Time CDP、Adobe Journey Optimizer、Adobe Target </em>
       </div>
       <p>
-        <br/>Experience League LIVE 是 Experience League 團隊製作的直播串流節目。您可以藉此機會與 Adobe 產品專家交流，並學到您可以透過 Adobe Experience Cloud 應用程式應用可落實的秘訣、技巧和策略。
+        <br/>
+         「即時Experience League」是Experience League團隊製作的直播串流節目。 您可以藉此機會與 Adobe 產品專家交流，並學到您可以透過 Adobe Experience Cloud 應用程式應用可落實的秘訣、技巧和策略。
       </p>
     </td>
    <td>
@@ -190,7 +192,8 @@ ht-degree: 9%
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Manager</em>
       </div>
       <p>
-        <br/>取得 Adobe Experience Manager as a Cloud Service 最新功能快速總覽。這些是 AEM 產品團隊提供的簡短影片；每段影片大約 10 分鐘，主要是分享最新版本的摘要。
+        <br/>
+         取得Adobe Experience Manager as a Cloud Service最新功能快速總覽。 這些是 AEM 產品團隊提供的簡短影片；每段影片大約 10 分鐘，主要是分享最新版本的摘要。
       </p>
     </td>
     <td>

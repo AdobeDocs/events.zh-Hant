@@ -1,14 +1,14 @@
 ---
 title: AEM 6 Oak - MongoMK和查詢
 description: 瞭解Oak的查詢引擎，以及與Jackrabbit 2.x的比較。此工作階段提供如何分析查詢效能和管理自訂索引的指示。 在第二部分中，我們談到MongoMK，其重點為AEM中新叢集實作提供的一致性保證。
-uuid: 110e7e51-6e0c-4eae-9bc3-063e16b0ec92
 discoiquuid: 51d59018-e137-4370-8530-9c38dca34343
 targetaudience: target-audience advanced
 exl-id: dea6d73e-0659-4b9a-b338-ee5eac0bc342
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3968
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 5%
+source-wordcount: '143'
+ht-degree: 2%
 
 ---
 

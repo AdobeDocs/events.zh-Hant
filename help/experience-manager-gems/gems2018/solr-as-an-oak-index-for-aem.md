@@ -1,14 +1,14 @@
 ---
 title: Solr作為AEM的Oak索引
 description: Oak Lucene索引預設會提供AEM全文搜尋功能。 不過，AEM也可以透過Oak Solr索引將索引解除安裝並搜尋至Solr伺服器/叢集。 在這場Gem研討會中，我們深入探討一些實用的現實生活情境，在這些情境中，使用Solr作為AEM的Oak索引在效能和索引/搜尋功能方面是可行的做法。
-uuid: 97e4ee67-f218-4ff9-9d9a-452963ba6deb
 topic-tags: analytics
 discoiquuid: 84a24cd3-1420-48e0-ae7a-dfa4a68ce657
 targetaudience: target-audience advanced
 exl-id: 638aab84-a8eb-411d-89de-856558492831
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3474
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '156'
 ht-degree: 1%
 
 ---

@@ -1,11 +1,11 @@
 ---
 title: 追蹤Javascript專案的品品質度
 description: 將Sonarqube分析整合至Javascript專案並進而存取的方法·基本靜態程式碼分析·單元測試涵蓋範圍·整合測試涵蓋範圍(AEM)
-uuid: 72507d44-fc08-4be5-a91b-a6c05709fe35
 discoiquuid: 6511d4b9-302a-453a-a6b0-8eea40769b20
 targetaudience: target-audience advanced
 exl-id: 0fa00df5-af2c-4e08-9160-dee6ecc33c2b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4834
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 7%

@@ -2,7 +2,8 @@
 title: Workfront On-Demand事件
 description: Workfront活動是影片庫，專家和同業可在此分享他們的想法和想法，瞭解如何使用Workfront來增強為組織完成的工作。
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 39
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%

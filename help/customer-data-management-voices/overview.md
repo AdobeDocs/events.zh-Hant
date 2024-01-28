@@ -2,10 +2,11 @@
 title: 客戶資料管理對話
 description: 身為客戶資料管理技術和行銷實務主管和專家的您。  本頁是您聆聽同行的意見、獲取靈感並瞭解Martech發展的一站式中心。
 exl-id: 09f13bff-9f62-4146-a400-cc1d6f952eee
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 117
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '328'
-ht-degree: 19%
+source-wordcount: '306'
+ht-degree: 4%
 
 ---
 
@@ -141,10 +142,10 @@ ht-degree: 19%
     </td>
      <td>
       <a href="./industry/data-collaboration-in-the-first-party-data-context.md">
-      <img alt="在第一方資料內容中的資料共同作業" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
+      <img alt="第一方資料內容中的資料共同作業" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
       </a>
       <div>
-         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>在第一方資料內容中的資料共同作業</strong></a>
+         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>第一方資料內容中的資料共同作業</strong></a>
       </div>
       <p>
       </p>
@@ -161,10 +162,10 @@ ht-degree: 19%
     </td>
    <td>
       <a href="./industry/brands-vs-consumers.md">
-      <img alt="兩種見解的故事 - 品牌與消費者" src="./assets/brands-vs-consumers.png"/>
+      <img alt="兩種見解的故事 — 品牌與消費者" src="./assets/brands-vs-consumers.png"/>
       </a>
       <div>
-         <a href="./industry/brands-vs-consumers.md"><strong>兩種見解的故事 - 品牌與消費者</strong></a>
+         <a href="./industry/brands-vs-consumers.md"><strong>兩種見解的故事 — 品牌與消費者</strong></a>
          <br/>
       </div>
     </td>

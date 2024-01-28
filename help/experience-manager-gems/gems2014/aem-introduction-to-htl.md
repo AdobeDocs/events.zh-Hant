@@ -1,13 +1,13 @@
 ---
 title: HTL簡介
 description: 瞭解HTL，這是一個新的範本引擎和語言實作。 HTL努力取代JSP成為Apache Sling和CQ/AEM元件的指令碼語言，並努力明確區分表示和邏輯問題。
-uuid: 980bc4ee-8b7f-4bce-9933-8b8af4cce3d2
 discoiquuid: e53db2da-f9a4-45b8-9203-1e4084937bba
 targetaudience: target-audience advanced
 exl-id: 504fa5bb-43e7-4b8c-9291-928fb4f37d0f
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4010
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '167'
 ht-degree: 2%
 
 ---

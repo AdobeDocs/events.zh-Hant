@@ -7,10 +7,11 @@ level: Beginner
 kt: 9766
 thumbnail: 340597.jpeg
 exl-id: f96fb348-ff59-4dac-ad7d-048a2ba96afc
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2343
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +19,7 @@ ht-degree: 2%
 
 在本課程中，瞭解如何運用動態內容，將更具針對性的相關內容傳送至您的資料庫。
 
-**重點提要**
+**重要技巧**
 
 * 簡化您的 [!DNL Marketo Engage] 利用動態內容建置程式並節省時間
 * 瞭解如何劃分資料庫以支援動態內容

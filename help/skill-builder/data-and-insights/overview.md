@@ -2,10 +2,11 @@
 title: 技能培養概觀
 description: 使用整個組織的線上和離線資料分析，在任何管道上推動即時個人化。
 exl-id: 8fd59178-ed35-4781-9bca-6438ba80d44d
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 54
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 6%
+source-wordcount: '179'
+ht-degree: 1%
 
 ---
 
@@ -19,11 +20,11 @@ ht-degree: 6%
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html">
-      <img alt="使用 Adobe Target 實現個人化和自動化" src="https://video.tv.adobe.com/v/343821?format=jpeg" />
+      <img alt="使用Adobe Target實現個人化和自動化" src="https://video.tv.adobe.com/v/343821?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html">
-        <strong>使用 Adobe Target 實現個人化和自動化</strong>
+        <strong>使用Adobe Target實現個人化和自動化</strong>
       </a>
     </div>
     <p>

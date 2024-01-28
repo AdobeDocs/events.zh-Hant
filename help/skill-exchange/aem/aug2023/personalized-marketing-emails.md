@@ -7,17 +7,17 @@ topic: Personalization
 role: Developer
 level: Intermediate, Experienced
 doc-type: Event
-duration: 2198
+duration: 2244
 last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14650
 thumbnail: 3425982.jpeg
-source-git-commit: 76b246f4b6b43632cf07b17ee1ec9b2d581e1e08
+exl-id: 38ddf2a1-3631-4844-a9a4-e2c8d1b57dd3
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
-
 
 # 技能交流活動2023年8月 — Experience Maker Spotlight — 使用AEM建立高度個人化的行銷電子郵件
 

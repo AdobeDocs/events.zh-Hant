@@ -8,10 +8,11 @@ level: Experienced
 kt: 9200
 type: Event
 exl-id: 82229f38-cd4d-4595-b348-168f9c6109c7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1718
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 14%
+source-wordcount: '207'
+ht-degree: 6%
 
 ---
 
@@ -23,6 +24,6 @@ Adobe Commerce Cloud可作為7-Eleven Australia跨多個管道的電子商務平
 
 ## 其他資源
 
-- [Adobe Experience Platform 文件](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform檔案](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Adobe Experience Platform 概述](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=zh-Hant)
 - [Adobe Experience Platform 教學課程](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=zh-Hant)

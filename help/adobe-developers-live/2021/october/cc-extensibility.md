@@ -9,10 +9,11 @@ level: Experienced
 kt: 9138
 type: Event
 exl-id: cf345cb3-1273-4e11-b942-24e2715deb20
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2061
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 25%
+source-wordcount: '109'
+ht-degree: 11%
 
 ---
 
@@ -24,6 +25,6 @@ ht-degree: 25%
 
 ## 其他資源
 
-- [Adobe Experience Platform 文件](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform檔案](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Adobe Experience Platform 概述](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=zh-Hant)
 - [Adobe Experience Platform 教學課程](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=zh-Hant)

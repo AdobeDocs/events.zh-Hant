@@ -1,13 +1,13 @@
 ---
 title: Adobe Experience Platform -Experience Cloud的核心
 description: 一切由Adobe Experience Platform開始。 瞭解平台在體驗業務中如何發揮作用，幫助您識別、理解和吸引客戶，並提供一致、持續和引人入勝的體驗，讓客戶在所有環節都感到愉快。
-uuid: 502196b9-9cfb-4652-83a4-9156434370a1
 discoiquuid: 6e050ad4-1b0c-46d0-b588-6402102f0263
 targetaudience: target-audience advanced
 exl-id: fcea7000-dbd2-47d3-af68-0a210901efa4
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2975
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---

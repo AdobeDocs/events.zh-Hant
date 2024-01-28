@@ -1,18 +1,18 @@
 ---
-title: AEM Screens 簡介
+title: AEM Screens簡介
 description: AEM Screens是整合至Adobe Experience Manager的全新數位看板解決方案。 在這場AEM Gems研討會中，我們將介紹AEM Screens的主要功能，以及如何透過投影片放映和互動式體驗來設定簡單的專案。 然後，我們將概述如何開發AEM Screens最佳化元件，以及如何設定離線使用的管道。 最後，我們將探索AEM Screens REST API，並說明如何整合自訂Cordova外掛程式。
-uuid: a6c42610-4a3d-4575-ac27-fc154d58c13d
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
 exl-id: 212a9f72-e5ed-4010-992b-b3a7a9c0d7b7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3127
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 8%
+source-wordcount: '256'
+ht-degree: 2%
 
 ---
 
-# AEM Screens 簡介{#introduction-to-aem-screens}
+# AEM Screens簡介{#introduction-to-aem-screens}
 
 AEM Screens是整合至Adobe Experience Manager的全新數位看板解決方案。 在這場AEM Gems研討會中，我們將介紹AEM Screens的主要功能，以及如何透過投影片放映和互動式體驗來設定簡單的專案。 然後，我們將概述如何開發AEM Screens最佳化元件，以及如何設定離線使用的管道。 最後，我們將探索AEM Screens REST API，並說明如何整合自訂Cordova外掛程式。
 

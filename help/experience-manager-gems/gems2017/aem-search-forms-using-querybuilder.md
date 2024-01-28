@@ -1,14 +1,14 @@
 ---
 title: 使用AEM查詢建立器輕鬆搜尋表單
 description: 此課程說明相較於JCR棧疊上的其他查詢語言，查詢產生器背後的原理。 它顯示您如何使用它來輕鬆建立可編寫的搜尋表單、如何建立有效的搜尋、如何偵錯查詢以及如何擴充它。
-uuid: 867545ac-e175-4bd8-9d17-b5423f29031f
 discoiquuid: c7e8b80f-1eb3-4fa7-9d36-c76b493bd351
 targetaudience: target-audience advanced
 exl-id: 38cea360-b900-44e3-b565-b7c493fa6822
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3652
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 6%
+source-wordcount: '218'
+ht-degree: 2%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 6%
 
 * [AEM Querybuilder](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave)，由Alexander Klimetschek提供
 
-AEM 文件
+AEM檔案
 
 >[!WARNING]
 >

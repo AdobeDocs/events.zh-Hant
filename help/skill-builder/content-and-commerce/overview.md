@@ -2,10 +2,11 @@
 title: 技能培養 — 內容與商務
 description: 網路研討會影片系列，可協助您建立知識庫，並將Adobe內容與商務解決方案的投資發揮到極致
 exl-id: 1ed57ee1-89d4-4697-a999-72e0fe215f87
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 58
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 46%
+source-wordcount: '198'
+ht-degree: 2%
 
 ---
 
@@ -19,28 +20,28 @@ ht-degree: 46%
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
-      <img alt="使用 Adobe Experience Manager 提供無頭式體驗" src="https://video.tv.adobe.com/v/343816?format=jpeg" />
+      <img alt="使用Adobe Experience Manager提供無頭式體驗" src="https://video.tv.adobe.com/v/343816?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
-        <strong>使用 Adobe Experience Manager 提供無頭式體驗</strong>
+        <strong>使用Adobe Experience Manager提供無頭式體驗</strong>
       </a>
     </div>
     <p>
-    <em>了解使用最新 Experience Manager 內容片段增強功能的無頭式體驗管理，以及用於無頭式內容提供的新 GraphQL API。</em>
+    <em>瞭解使用最新Experience Manager內容片段增強功能的無頭式體驗管理，以及用於無頭式內容提供的新GraphQL API。</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
-      <img alt="在 Adobe Experience Manager Assets 中讓中繼資料可供您的企業使用" src="https://video.tv.adobe.com/v/343815?format=jpeg" />
+      <img alt="在Adobe Experience Manager Assets中讓中繼資料可供您的企業使用" src="https://video.tv.adobe.com/v/343815?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
-        <strong>在 Adobe Experience Manager Assets 中讓中繼資料可供您的企業使用</strong>
+        <strong>在Adobe Experience Manager Assets中讓中繼資料可供您的企業使用</strong>
       </a>
     </div>
     <p>
-    <em>瞭解如何透過減少標記資產的工作量以及使您的資產更易於搜尋，以充分利用 AEM Assets 的中繼資料。</em>
+    <em>瞭解如何透過減少標籤資產的工作量以及使您的資產更易於搜尋，以充分利用AEM Assets的中繼資料。</em>
     <p>
   </td>  
   <td>

@@ -13,14 +13,15 @@ version: Cloud Service
 type: Event
 kt: 8937
 exl-id: f92344ca-9c74-4205-968c-b12a58bae241
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3712
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
-# Adobe Experience Manager Sites 基本知識
+# Adobe Experience Manager Sites基本需知
 
 在這個5部分的網路研討會系列中，瞭解如何在Adobe Experience Manager中建立豐富且吸引人的客戶體驗。 我們將從內容製作的組成要素開始，同時向您介紹基本概念和操作。 這將包括網站管理功能以及在AEM內處理數位資產的基本知識。 在系列的後半部分，探索可協助您重複使用內容並跨管道提供內容，以節省時間並提高效率的功能。
 

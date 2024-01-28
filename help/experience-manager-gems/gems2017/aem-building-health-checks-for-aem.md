@@ -1,14 +1,14 @@
 ---
 title: 建立AEM的健康狀態檢查
 description: 判斷AEM執行個體是否正常運作並非簡單的工作。 此工作階段將深入分析操作控制面板的「健全狀態報表」區段。
-uuid: 33d6c0e2-9bf8-443d-babe-2ceda52a1837
 discoiquuid: 8b674cc3-c88a-48a4-b113-abf3efd5069f
 targetaudience: target-audience advanced
 exl-id: 7ca119fa-1dae-4b4c-a772-71af29f5813f
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2968
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 7%
+source-wordcount: '173'
+ht-degree: 2%
 
 ---
 

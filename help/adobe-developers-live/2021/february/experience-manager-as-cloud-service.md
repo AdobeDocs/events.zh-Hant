@@ -12,14 +12,15 @@ kt: 7163
 type: Event
 thumbnail: 331278.jpg
 exl-id: f5ae88b3-d42c-4b40-9d70-e2dbb254e070
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 15
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 13%
+source-wordcount: '98'
+ht-degree: 14%
 
 ---
 
-# Adobe Experience Manager as a Cloud Service
+# Adobe Experience Manager as a Cloud Service 
 
 透過雲端，分享Adobe Experience Manager策略和創新的深入解析，同時說明導致我們今日定位的重大變更。
 

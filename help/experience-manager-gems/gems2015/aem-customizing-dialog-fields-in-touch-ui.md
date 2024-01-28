@@ -1,13 +1,13 @@
 ---
 title: 在觸控式UI中自訂對話方塊欄位
 description: 瞭解如何在AEM 6.1中為Touch UI對話方塊實作自訂欄位（或Widget）。探索先前使用ExtJS (Classic UI)完成的事情現在如何使用Granite UI和Coral UI完成。
-uuid: 3fe33258-ae88-42e6-917e-35a6525e5cd5
 discoiquuid: 45acb883-7202-494b-bbbb-78189c222093
 targetaudience: target-audience advanced
 exl-id: de13e990-fd41-4d7f-b70a-49b210c38263
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3267
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '123'
 ht-degree: 1%
 
 ---

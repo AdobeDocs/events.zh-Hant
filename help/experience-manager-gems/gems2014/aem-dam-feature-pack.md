@@ -1,13 +1,13 @@
 ---
 title: 如何充份運用您的DAM Feature Pack
 description: 瞭解適用於AEM 5.6.1的DAM FP2。此Feature Pack著重於利用創意專案功能，以獨特的方式管理資產來源。 課程涵蓋創意專案工作流程的逐步運作，包括建立、編輯和上傳快照清單，以及對照快照清單上傳資產。 它也包括檢閱和核准上傳的資產。您還能學習任務表面設定、自訂專案工作流程範本和產品階層建立的能力。
-uuid: 027cce69-9bd8-46f7-b581-85169c261baa
 discoiquuid: b5983511-3a13-4b31-aa22-738b85709b79
 targetaudience: target-audience advanced
 exl-id: 13067227-3006-407d-9450-c976cd6c8805
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2919
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---

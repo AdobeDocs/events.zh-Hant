@@ -1,12 +1,12 @@
 ---
 title: 詢問專家 — 文字模式報告簡介
 description: 文字模式可以擴展您的報告功能以建立更複雜的檢視、篩選器、分組和提示。 此網路研討會錄製於2020年7月15日。
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9919
 exl-id: 9199bf64-c019-4ffd-9e12-50d4f6ced4a1
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3671
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

@@ -8,10 +8,11 @@ level: Experienced
 kt: 9212
 type: Event
 exl-id: 61bec279-c99c-41c3-9ffc-ee6f90509ae4
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1957
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 14%
+source-wordcount: '205'
+ht-degree: 6%
 
 ---
 
@@ -23,6 +24,6 @@ Adobe Analytics是市面上最多樣化的分析工具之一。 除了方便使�
 
 ## 其他資源
 
-- [Adobe Experience Platform 文件](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform檔案](https://experienceleague.adobe.com/docs/experience-platform.html)
 - [Adobe Experience Platform 概述](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=zh-Hant)
 - [Adobe Experience Platform 教學課程](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=zh-Hant)

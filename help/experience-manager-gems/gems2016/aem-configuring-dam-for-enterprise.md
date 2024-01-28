@@ -1,15 +1,15 @@
 ---
 title: 為企業設定DAM
 description: 此課程旨在協助使用者運用AEM Assets提高成功率。 Arnold Espos將著重於實際DAM企業客戶的使用案例、他們的挑戰，以及為了支援他們透過DAM提高成功率而建立的解決方案。   與會者能更加瞭解如何在他們的環境中使用DAM。 透過瞭解真實客戶的個案研究，與現有DAM客戶合作的與會者將能瞭解透過此服務所提供的新解決方案，有助於其現有工作流程及技術瞭解。
-uuid: de15b14d-4316-4c7e-b9b4-55287b47171e
 dms: dam
 discoiquuid: 7a41c23a-1b45-43f4-8b41-13d206ce6e87
 targetaudience: target-audience advanced
 exl-id: 6c87ff99-3c15-4e15-a0b5-d9f72ff641c5
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3576
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 4%
+source-wordcount: '288'
+ht-degree: 1%
 
 ---
 

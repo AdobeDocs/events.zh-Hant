@@ -1,15 +1,15 @@
 ---
 title: 詢問專家 — 跟進Workfront校訂最佳實務
 description: 瞭解為何應使用自動化工作流程範本、如何建立範本，以及如何調整校訂設定以確保隱私權。 此網路研討會錄製於2020年3月4日。
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9917
 exl-id: 2b2f6522-2fd9-4d5e-9bc3-903c1d5e4e3b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4083
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '1638'
-ht-degree: 2%
+source-wordcount: '1649'
+ht-degree: 1%
 
 ---
 

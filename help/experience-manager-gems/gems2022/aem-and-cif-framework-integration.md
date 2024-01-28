@@ -1,5 +1,5 @@
 ---
-title: 整合 AEM 和 CIF 框架，建置豐富的沉浸式電子商務體驗
+title: 整合AEM和CIF框架，建置豐富的沈浸式電子商務體驗
 description: 了解 Adobe 的 CIF 框架如何用於建置一致、內容豐富、沈浸式商務體驗。
 solution: Experience Manager
 feature-set: Experience Manager
@@ -10,14 +10,15 @@ role: User
 level: Intermediate
 kt: 10220
 exl-id: 3f893f4f-8d4e-4877-9520-8d2012eb724a
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3561
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 23%
+source-wordcount: '213'
+ht-degree: 9%
 
 ---
 
-# 整合 AEM 和 CIF 框架，建置豐富的沉浸式電子商務體驗
+# 整合AEM和CIF框架，建置豐富的沈浸式電子商務體驗
 
 此AEM GEM網路研討會包含簡報和示範，協助您瞭解如何使用Adobe的CIF架構來建置一致、內容豐富、沈浸式的商務體驗。 使用Commerce integration framework(CIF)將Experience Manager與Adobe Commerce緊密整合。 CIF可讓AEM使用Adobe Commerce的GraphQL API直接存取商業執行個體並與之通訊（檢視下方的高階議程）。
 

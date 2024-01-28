@@ -1,13 +1,13 @@
 ---
 title: AEM整合 — 穩固的基礎可發揮長足作用
 description: 雖然AEM的工作相當獨立，但與AEM合作的AT/AAM/AA顧問必須與AEM同行共同作業。 此會議簡要概述使用DTM的AT/AAM/AA整合、我們所尋找的專案，以及一切重要的原因。
-uuid: 6967a5c8-5eca-488c-9548-facef7bb55c0
 discoiquuid: 40741bd1-4995-4627-9c7c-2d5f2cd68760
 targetaudience: target-audience advanced
 exl-id: 52581331-7021-4c1d-9340-161bd56cfad8
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3581
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---

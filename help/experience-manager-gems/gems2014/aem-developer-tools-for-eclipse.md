@@ -1,14 +1,14 @@
 ---
 title: Eclipse 適用的 AEM 開發人員工具
 description: Eclipse適用的AEM開發人員工具是一組Eclipse外掛程式，旨在讓AEM應用程式開發更容易、更直接，並與最佳實務相符。 以兩個新的專案外觀為基礎（一個用於OSGi套件組合，一個用於JCR內容），可讓Eclipse和AEM執行個體之間無縫且反複的同步。 它隨附內容瀏覽器，可顯示和編輯FileVault格式的內容。 最後但並非最不重要的一點是，它包含一個範例、多模組、Maven式的專案，可用於啟動載入專案設定。
-uuid: cb4bb28a-8370-4425-b082-3516b35f3125
 discoiquuid: dfefaa5f-0800-4d6c-99c0-430b2d960079
 targetaudience: target-audience advanced
 exl-id: 5209870a-c0fb-4241-ab21-ddf6adf233f8
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3325
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 7%
+source-wordcount: '227'
+ht-degree: 5%
 
 ---
 
