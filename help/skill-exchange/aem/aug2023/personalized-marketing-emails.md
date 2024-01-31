@@ -12,14 +12,14 @@ last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14650
 thumbnail: 3425982.jpeg
 exl-id: 38ddf2a1-3631-4844-a9a4-e2c8d1b57dd3
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: f23fdf7fc8b04af88ace43e56b7d6ff65cc02cf2
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
-# 技能交流活動2023年8月 — Experience Maker Spotlight — 使用AEM建立高度個人化的行銷電子郵件
+# 技能交流活動2023年8月 — Experience Maker焦點 — 使用AEM建立高度個人化的行銷電子郵件
 
 電子郵件通訊是您聯絡現有和潛在新客戶的最重要方式之一。 能夠有效地建立高度個人化的電子郵件，可大幅提升客戶參與度。 當有人考慮AEM (Adobe Experience Manager)時，他們通常會考慮網站和網頁內容。 但是您知道也可以使用AEM建立電子郵件嗎？
 
