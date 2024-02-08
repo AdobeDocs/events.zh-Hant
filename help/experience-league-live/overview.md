@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 1e8c3a3c4cd7668a78d47a2f018a3dc27900630d
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 42%
+source-wordcount: '167'
+ht-degree: 44%
 
 ---
 
@@ -25,15 +25,15 @@ Experience League LIVE 是 Experience League 團隊製作的直播串流節目�
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-08-24.md">
-      <img alt="Experience LeagueLIVE 2008年2月" src="episodes/assets/WebBanner-Feb08-2024.jpg">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-29-24.md">
+      <img alt="Experience LeagueLIVE 2月29日" src="assets/Feb29_2024_WebBanner.png">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-02-08-24.md">
-        <strong>使用案例教戰手冊、自助範本，按幾下Real-Time CDP和Journey Optimizer即可部署使用案例</strong>
+      <a href="episodes/exl-live-episode-02-29-24.md">
+        <strong>全新Adobe Campaign v8 UI，助您一臂之力</strong>
       </a>
-      <br/><em>與丹尼爾·賴特、若瑟·莫內特 — 希利和羅希特·巴蘇里</em>
-      <br/><em>2024年2月08日</em>
+      <br/><em>與Sandra Hausmann、Eric Perrin、Gaël Mouëllo、Bruce Swann</em>
+      <br/><em>2024年2月29日</em>
     </div>
   </td>
 </tr>

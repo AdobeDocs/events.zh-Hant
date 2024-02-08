@@ -7,9 +7,9 @@ event-cta-url-live: https://www.youtube.com/watch?v=EZGQ--J2M9I
 event-start-time: 2024-02-08 09:00-7
 event-guests: Daniel Wright,Josée Monette-Healey,Rohit Basuri
 duration: 25
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 1e8c3a3c4cd7668a78d47a2f018a3dc27900630d
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,6 @@ ht-degree: 0%
 
 介紹使用案例教戰手冊 — Real-Time CDP和Journey Optimizer中產業特定使用案例教戰手冊的可操作目錄。 在此網路研討會中，您將瞭解使用案例教戰手冊，以及如何將您的行銷目標轉換為實施物件。 我們將向您展示如何讓您的組織快速開始建置和部署常見的使用案例，以加速業務影響及共同作業。
 
-[![ExL LIVE 2024年2月08日](assets/WebBanner-Feb08-2024.jpg)](https://www.youtube.com/watch?v=EZGQ--J2M9I)
+>[!VIDEO](https://video.tv.adobe.com/v/3426930/?quality=12&learn=on)
 
-**按一下上方影像以設定YouTube即時提醒**.
-
+**有任何問題嗎？** 繼續在Adobe Experience League上討論此主題 [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488).
