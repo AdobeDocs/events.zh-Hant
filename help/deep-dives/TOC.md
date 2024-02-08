@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: ec7e7cd800b0e3c78c259de4211190a090009c4d
+source-git-commit: a842ec8d316968db5331e97ec8c66f8c048a9cfd
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 9%
+source-wordcount: '38'
+ht-degree: 7%
 
 ---
 
@@ -27,3 +27,4 @@ ht-degree: 9%
    + [繼承執行個體](inheriting-an-instance.md)
    + [潛在客戶生命週期](lead-lifecycles.md)
    + [透過小型團隊最大化您的執行個體](small-team-instance.md)
+   + [在活動記錄檔中記錄複雜程式](activity-log.md)
