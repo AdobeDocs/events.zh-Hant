@@ -1,20 +1,20 @@
 ---
-title: 全新Adobe Campaign v8 UI，助您一臂之力
-description: 在2月29日加入我們，瞭解如何使用新的Adobe Campaign v8 UI （包括Beta版的Generative AI功能）計畫、推出和衡量跨管道策略。
+title: 全新Adobe Campaign Web使用者介面，助您一臂之力
+description: 在2月29日加入我們，瞭解如何使用新的Adobe Campaign網路使用者介面（包括Beta版的Generative AI功能）計畫、推出和衡量跨管道策略。
 kt: KT-14433
 thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: a671a2ecef92dbccc5318f5563d0da4943a3510c
+source-git-commit: d63e2bf6b09c8db5c0833ac449f10d47103cc6a7
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
-# 全新Adobe Campaign v8 UI，助您一臂之力
+# 全新Adobe Campaign Web使用者介面，助您一臂之力
 
 Adobe Campaign v8將具有全新的外觀。 重新想像的使用者體驗簡化了行銷活動設計流程，並且與其他Adobe Experience Cloud解決方案一致。
 
