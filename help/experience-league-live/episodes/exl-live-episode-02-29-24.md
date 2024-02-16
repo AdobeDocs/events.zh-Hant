@@ -7,9 +7,9 @@ event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: d63e2bf6b09c8db5c0833ac449f10d47103cc6a7
+source-git-commit: 46cb6d3ed306f7f03116124912bcbdb0a5f24529
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ Adobe Campaign v8將具有全新的外觀。 重新想像的使用者體驗簡�
 
 參加此Experience League即時會議，Adobe Campaign產品專家將展示如何在新的使用者體驗中規劃、啟動和衡量跨管道行銷活動。
 
-[![ExL LIVE 2024年2月29日](../assets/Feb29_2024_WebBanner.png)](https://www.youtube.com/watch?v=ESgehCRcSgQ)
+[![ExL LIVE 2024年2月29日](../assets/exl-live-episode-02-29-24-web-banner.png)](https://engage.adobe.com/ExpLeagueLive-240229.html)
 
-**按一下上方影像以設定YouTube即時提醒。**
+**按一下上方影像以註冊事件。**
