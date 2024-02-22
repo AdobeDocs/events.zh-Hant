@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 92d4404a950f68a4cdc675b52c8623cfdd54c9e6
+source-git-commit: 01689cc3c8f1d21e1ea223b8ee0fa3f22019fbcf
 workflow-type: tm+mt
-source-wordcount: '37'
-ht-degree: 8%
+source-wordcount: '43'
+ht-degree: 9%
 
 ---
 
@@ -20,7 +20,9 @@ ht-degree: 8%
 # Marketo和Mochas {#marketo-and-mochas-recordings}
 
 + [概觀](overview.md)
-+ 2023 年{#2023}
++ 2024 {#2024}
+   + [歸因控制面板記錄](2024/attribution-dashboard-recording.md)
++ 2023 {#2023}
    + [歸因](2023/attribution.md)
    + [可遞送性 — 第1部分](2023/deliverability-part-one.md)
    + [可遞送性 — 第2部分](2023/deliverability-part-two.md)
