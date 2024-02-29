@@ -3,9 +3,9 @@ title: Commerce Intelligence網路研討會
 description: 探索Commerce Intelligence錄製的網路研討會，其中涵蓋最充分地使用Commerce Intelligence的各種主題和最佳實務。
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
 duration: 77
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 17a9052c99275eff0599c64be3d6872e60c52fe1
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '251'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ Commerce Intelligence網路研討會系列是供Commerce Intelligence客戶使�
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
-      <img alt="Commerce Intelligence快速入門" src="./assets/getting-started.png" />
+      <img alt="Commerce Intelligence快速入門" src="https://video.tv.adobe.com/v/3425736?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
@@ -40,21 +40,21 @@ Commerce Intelligence網路研討會系列是供Commerce Intelligence客戶使�
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
-      <img alt="在MBI中管理資料集" src="./assets/managing-data-sets-mbi.png" />
+    <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+      <img alt="在Adobe Commerce Intelligence中管理資料集" src="https://video.tv.adobe.com/v/3427547?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/manage-data-sets.html">
-        <strong>在MBI中管理資料集</strong>
+      <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+        <strong>在Adobe Commerce Intelligence中管理資料集</strong>
       </a>
     </div>
     <p>
-    <em>直接從Adobe Commerce產品團隊瞭解MBIData Warehouse管理員的一些強大功能。 超越基本報告建置，瞭解如何利用資料事半功倍。</em>
+    <em>直接從產品團隊探索Commerce IntelligenceData Warehouse管理員的強大功能。</em>
     <p>
   </td>
    <td>
     <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
-      <img alt="最佳化您的MBIData Warehouse" src="./assets/optimize-data-warehouse.png" />
+      <img alt="最佳化您的MBIData Warehouse" src="https://video.tv.adobe.com/v/342562?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
