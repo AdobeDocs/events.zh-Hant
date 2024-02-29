@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: 「錄製集合來源： [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 06f787d8dd891e1afe3b8eda58c4790542a3a082
+source-git-commit: 8f572e77a739bdf15824c890acda22fe4029661f
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 5%
+source-wordcount: '144'
+ht-degree: 6%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 5%
 
 + [體驗製作者](overview.md)
 + Analytics {#analytics}
-   + 2023 年{#2023}
+   + 2023 {#2023}
       + 十一月 {#nov2023}
          + [具影響力的資料視覺效果](analytics/nov2023/impactful-data-visualizations.md)
       + 八月 {#aug2023}
@@ -32,6 +32,9 @@ ht-degree: 5%
          + [可能的說明檔案任務](analytics/june2022/mission-possible.md)
       + 三月 {#mar2022}
          + [使用資料訴說有影響力的故事](analytics/mar2022/stories-with-data.md)
++ 商務 {#commerce}
+   + 2 {#feb2024}
+      + [Agile SDLC中的通訊、需求和測試](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
    + 十一月 {#nov2023}
       + [使用AEM核心元件的卓越開發人員](experience-manager/nov2023/core-components.md)
