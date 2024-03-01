@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: bc8a97db6ab36aed939dcf51962f172958ac1d07
+source-git-commit: e0c633c24b493c757eb7c47d472e9e07df789fc3
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '169'
 ht-degree: 44%
 
 ---
@@ -25,17 +25,11 @@ Experience League LIVE 是 Experience League 團隊製作的直播串流節目�
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-29-24.md">
-      <img alt="Experience LeagueLIVE 2月29日" src="assets/exl-live-episode-02-29-24-web-banner.png">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-02-29-24.md">
-        <strong>全新Adobe Campaign Web使用者介面，助您一臂之力</strong>
-      </a>
-      <br/><em>與Sandra Hausmann、Eric Perrin、Gaël Mouëllo、Bruce Swann</em>
-      <br/><em>2024年2月29日</em>
-    </div>
-  </td>
+  <td>
+    請稍後回來看看我們即將推出的2024年4月節目。<br/>
+    同時，我們將在 <a href="https://summit.adobe.com/na/">Adobe Summit</a> 2024年3月25至28日！
+
+</td>
 </tr>
 </table>
 
