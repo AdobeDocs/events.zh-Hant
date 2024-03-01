@@ -7,10 +7,10 @@ event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: e0c633c24b493c757eb7c47d472e9e07df789fc3
+source-git-commit: be09d9c0bda9c1fdf2f37092ee4ac6ec284b39ce
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 2%
 
 ---
 
@@ -22,6 +22,13 @@ Adobe Campaign v8將具有全新的外觀。 重新想像的使用者體驗簡�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427258/?quality=12&learn=on)
 
-如需Adobe Campaign網頁使用者介面目前所提供內容的詳細檔案，請造訪 [Campaign網頁使用者介面 — 主要功能](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=zh-Hant){target="_blank"}.
-
 **有任何問題嗎？** 繼續在Adobe Experience League上討論此主題 [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}.
+
+## 其他資源
+
+* **[Campaign網頁使用者介面 — 主要功能](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=zh-Hant){target="_blank"}**
+*有關目前Adobe Campaign網頁使用者介面中可用內容的詳細檔案，請造訪 [Campaign網頁使用者介面 — 主要功能](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=zh-Hant){target="_blank"}.
+
+* **[Adobe Campaign網頁使用者介面 — Tutorials](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
+*關於Adobe Campaign網頁使用者介面特色與功能的作法影片和教學課程。
+
