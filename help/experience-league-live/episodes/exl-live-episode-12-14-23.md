@@ -9,10 +9,10 @@ event-start-time: 2023-12-14 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
 exl-id: c2c2c560-adc1-45f4-b235-0307923cc9a8
 duration: 3701
-source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
+source-git-commit: 604f85ddc402ed248678782412efe4f2e5988ab4
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 0%
+source-wordcount: '236'
+ht-degree: 1%
 
 ---
 
@@ -22,10 +22,17 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425754/?quality=12&learn=on)
 
-**觀看上方的重播。 您也可以在 [Experience League社群討論](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14)**.
+>[!BEGINSHADEBOX 「有疑問嗎？」]
 
-**詳細資料：**
+繼續在Adobe Experience League上討論此主題 [社群貼文](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14){target="_blank"}.
+
+>[!ENDSHADEBOX]
+
+## 摘要
+
 您目前是Real-Time CDP的從業人員，並且正在尋找產品新增功能、其重要原因以及Adobe如何協助您改善客戶資料管理策略的深入分析嗎？ 別再猶豫，您已到達正確位置！ 在本系列中，我們將深入瞭解最近在Real-Time CDP中推出的功能，讓您能立即運用新功能，並對您的組織產生影響。
+
+# 關鍵重點
 
 在這場會議中，我們將討論並顯示最近幾個月推出的五項新功能：
 
