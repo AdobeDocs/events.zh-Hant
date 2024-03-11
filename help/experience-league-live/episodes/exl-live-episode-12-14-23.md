@@ -9,7 +9,7 @@ event-start-time: 2023-12-14 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
 exl-id: c2c2c560-adc1-45f4-b235-0307923cc9a8
 duration: 3701
-source-git-commit: 604f85ddc402ed248678782412efe4f2e5988ab4
+source-git-commit: b2114296a518f633d4b409838ae640ddb4817d79
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 1%
@@ -32,7 +32,7 @@ ht-degree: 1%
 
 您目前是Real-Time CDP的從業人員，並且正在尋找產品新增功能、其重要原因以及Adobe如何協助您改善客戶資料管理策略的深入分析嗎？ 別再猶豫，您已到達正確位置！ 在本系列中，我們將深入瞭解最近在Real-Time CDP中推出的功能，讓您能立即運用新功能，並對您的組織產生影響。
 
-# 關鍵重點
+## 關鍵重點
 
 在這場會議中，我們將討論並顯示最近幾個月推出的五項新功能：
 
