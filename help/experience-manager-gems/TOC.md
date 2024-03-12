@@ -2,10 +2,10 @@
 user-guide-title: Adobe Experience Manager GEMS活動
 user-guide-description: 瞭解AEM Gems，這是Adobe Experience Manager專家提供的一系列技術深入探討。
 breadcrumb-title: AEM GEMs活動
-source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
+source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
 workflow-type: tm+mt
-source-wordcount: '648'
-ht-degree: 6%
+source-wordcount: '696'
+ht-degree: 2%
 
 ---
 
@@ -13,15 +13,18 @@ ht-degree: 6%
 # Experience ManagerGEMS活動 {#experience-manager-gems-recordings}
 
 + [概觀](overview.md)
-+ 2023 年{#gems2023}
++ 2024 {#gems2024}
+   + [AEM製作和Edge Delivery Services快速入門](/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+   + [在Adobe Commerce的Edge Delivery Services上建置店面](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
++ 2023 {#gems2023}
    + [適用於AEM的New Relic APMas a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
    + [AEM認證 — 技術](gems2023/aem-certification-technical.md)
    + [使用快速開發環境加速Experience Manageras a Cloud Service開發](/help/experience-manager-gems/gems2023/rapid-development-environments.md)
    + [適用於內部部署和AMS環境的AEM Best Practices Analyzer](gems2023/aem-best-practices-analyzer.md)
 + 2022 年{#gems2022}
    + [客戶使用案例與使用中AEM Headless的實作](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
-   + [深入了解 - Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
-   + [整合 AEM 和 CIF 框架，建置豐富的沉浸式電子商務體驗](gems2022/aem-and-cif-framework-integration.md)
+   + [深入瞭解 — Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
+   + [整合AEM和CIF框架，建置豐富的沈浸式電子商務體驗](gems2022/aem-and-cif-framework-integration.md)
    + [使用AEM Headless和App Builder更快建立網站](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
    + [Adobe Experience Manager as a Cloud Service： 2021年回顧和2022年展望](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020 年 {#gems2020}
@@ -45,7 +48,7 @@ ht-degree: 6%
    + [AEM中的機器學習：增強的智慧標籤、智慧版面配置等](gems2018/aem-machine-learning.md)
    + [維護開放原始碼，同時維持您的健全狀態](gems2018/aem-maintaining-open-source.md)
    + [AEM查詢和索引疑難排解（續）](gems2018/aem-query-and-index-troubleshooting2.md)
-   + [AEM SPA Editor](gems2018/aem-spa-editor.md)
+   + [AEM SPA編輯器](gems2018/aem-spa-editor.md)
    + [Solr作為AEM的Oak索引](gems2018/solr-as-an-oak-index-for-aem.md)
    + [SPA Editor SDK深入探討 — 第1部分 — react](gems2018/spa-editor-sdk-deep-dive-react.md)
    + [SPA Editor SDK深入探討 — 第2部分 — angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
@@ -68,7 +71,7 @@ ht-degree: 6%
    + [Sling內容發佈疑難排解](gems2017/aem-troubleshooting-sling.md)
 + 2016 年 {#gems2016}
    + [為企業設定DAM](gems2016/aem-configuring-dam-for-enterprise.md)
-   + [AEM Screens 簡介](gems2016/aem-introduction-to-aem-screens.md)
+   + [AEM Screens簡介](gems2016/aem-introduction-to-aem-screens.md)
    + [使用Adobe Experience Manager的範本編輯器管理您的內容](gems2016/aem-managing-content-with-template-editor.md)
    + [Oak Lucene索引](gems2016/aem-oak-lucene-indexes.md)
    + [在MongoDB上執行AEM](gems2016/aem-running-aem-on-mongodb.md)
