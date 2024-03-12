@@ -1,7 +1,7 @@
 ---
 title: AEM製作和Edge Delivery Services快速入門
 description: 此AEM GEM網路研討會包含簡報和示範，向您展示AEM製作如何與Edge Delivery Services搭配運作。 我們將逐步引導您建立新Edge Delivery Services專案，專案已啟用以AEM Cloud Service作為內容來源的AEM編寫，我們將向您展示如何受益於Edge Delivery Services隨附的精簡和敏捷開發體驗，但保留從業者的WYSIWYG編寫體驗。
-version: Experience Manager:Cloud Service
+version: Cloud Service
 feature: Edge Delivery Services
 topic: Development
 role: Developer
@@ -11,7 +11,7 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
-source-git-commit: 661e34e66c089caab712585fba6e3066426e55f1
+source-git-commit: 32ae273fcd9f4271e1a61684d925a8fcb74252b8
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
