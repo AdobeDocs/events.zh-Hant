@@ -2,7 +2,7 @@
 user-guide-title: Adobe Experience Manager GEMS活動
 user-guide-description: 瞭解AEM Gems，這是Adobe Experience Manager專家提供的一系列技術深入探討。
 breadcrumb-title: AEM GEMs活動
-source-git-commit: baac75a81046d05642dbcb1c5aa4711de7a0dd51
+source-git-commit: 1bef27ae79d023817407b9ac838fae2505116c4c
 workflow-type: tm+mt
 source-wordcount: '696'
 ht-degree: 2%
@@ -14,8 +14,8 @@ ht-degree: 2%
 
 + [概觀](overview.md)
 + 2024 {#gems2024}
-   + [AEM製作和Edge Delivery Services快速入門](/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
-   + [在Adobe Commerce的Edge Delivery Services上建置店面](/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
+   + [AEM製作和Edge Delivery Services快速入門](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+   + [在Adobe Commerce的Edge Delivery Services上建置店面](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023 {#gems2023}
    + [適用於AEM的New Relic APMas a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
    + [AEM認證 — 技術](gems2023/aem-certification-technical.md)
