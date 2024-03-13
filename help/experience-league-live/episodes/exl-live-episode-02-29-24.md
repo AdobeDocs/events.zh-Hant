@@ -1,5 +1,5 @@
 ---
-title: 透過新的Adobe Campaign網頁使用者介面改善社群媒體行銷效率
+title: 全新Adobe Campaign Web使用者介面，助您一臂之力
 description: 瞭解如何使用新的Adobe Campaign Web使用者介面，更有效率地規劃、啟動和衡量跨頻道行銷策略，包括電子郵件行銷和社群媒體行銷。
 jira: KT-14433
 thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
@@ -8,9 +8,9 @@ event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
 exl-id: 636d8bf5-80d9-406b-ab1e-3d5c4b1c8b8f
-source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
+source-git-commit: 8872c95059c96fc4b565563add254f3b359ea216
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '422'
 ht-degree: 1%
 
 ---
