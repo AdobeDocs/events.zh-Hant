@@ -12,16 +12,16 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
-source-git-commit: 0534647ce6335dd9988451de2629bee65b4603e5
+source-git-commit: c3256d974364fa0b1615b470aa703d6b9a8e1956
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
 # 網路研討會日期： 2024年3月13日
 
-時間：下午5點CET /上午8點PST /晚上9:30 IST請透過以下活動頁面連結報名。
+此網路研討會已完成 — 請觀看下方的錄影。
 
 ## AEM製作和Edge Delivery Services快速入門
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
 * Dirk Rudolph，經理，軟體開發，Adobe
 
-## 網路研討會註冊
+## 網路研討會影片
+
+>[!VIDEO](https://video.tv.adobe.com/v/3427919/)
 
 >[!NOTE]
->
->* 請透過以下方式註冊/回覆參加此網路研討會： [事件頁面](https://adobe.ly/4bz9T0H).
 > 
 >* 如需Experience League上特定工作階段的社群互動，請造訪我們的 [內容執行緒](https://adobe.ly/3uIj6D7).
 >
