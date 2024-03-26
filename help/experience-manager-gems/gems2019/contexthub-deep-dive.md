@@ -5,10 +5,10 @@ discoiquuid: 77331d10-2e87-4cc8-8557-23e983d98a72
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: c56b8724-a97e-4671-a1ad-0a87a9260ed6
 duration: 3199
-source-git-commit: 2d34720ff7bf878a6aa2af82ab3908e67f7bcb54
+source-git-commit: ae6a36cb22adfba05ae36af34440f72dbdfad942
 workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -28,6 +28,6 @@ ht-degree: 1%
 
 ContextHub範例套件：
 
-Artur提到的ContextHub範例套件很快將再次以zip檔案形式提供。
+Artur提到的ContextHub範例套件以zip檔案形式提供於此處：
 
-
+[取得檔案](/assets/contexthub-gems-deep-dive-1.0.zip)
