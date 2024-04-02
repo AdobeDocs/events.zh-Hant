@@ -3,9 +3,9 @@ title: APAC Commerce網路研討會系列
 description: APAC商務網路研討會系列是每月為Adobe Commerce客戶舉辦的一系列研討會，涵蓋從最佳作法、產品藍圖和行業趨勢等廣泛主題。
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
 duration: 66
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 6a1868d01c63f6c56157663c41c834b312ddc5a7
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,19 @@ APAC商務網路研討會系列是每月為Adobe Commerce客戶舉辦的一系�
 
 <table>
 <tr>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
+      <img alt="Adobe Commerce創新焦點網路研討會" src="https://video.tv.adobe.com/v/3427965?format=jpeg" />
+    </a>
+     <div>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
+        <strong>Adobe Commerce創新焦點網路研討會</strong>
+      </a>
+    </div>
+    <p>
+    <em>加入我們的行列，瞭解如何採用最新功能和架構，為客戶提供最佳體驗，並發展您的業務！在這場網路研討會中。</em>
+    <p>
+  </td> 
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
       <img alt="Adobe Commerce網站範圍分析工具" src="https://video.tv.adobe.com/v/3419132?format=jpeg" />
@@ -44,19 +57,6 @@ APAC商務網路研討會系列是每月為Adobe Commerce客戶舉辦的一系�
     <em>利用AI的強大功能，透過Adobe在AI上的投資及其與Commerce的整合，提供卓越的客戶體驗。</em>
     <p>
   </td>
-  <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-      <img alt="適用於可擴充和敏捷電子商務的可撰寫商務策略" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
-    </a>
-     <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-        <strong>適用於可擴充和敏捷電子商務的可撰寫商務策略</strong>
-      </a>
-    </div>
-    <p>
-    <em>加入我們，參加一個有洞察力的網路研討會，深入探討可撰寫架構的世界，以及它如何徹底改變電子商務的格局。</em>
-    <p>
-  </td>  
 </tr>
 </table>
 

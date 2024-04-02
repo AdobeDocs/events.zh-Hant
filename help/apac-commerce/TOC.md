@@ -2,7 +2,7 @@
 user-guide-title: APAC商務活動
 breadcrumb-title: APAC商務活動
 user-guide-description: Adobe Commerce活動是影片庫，專家和同業可在其中分享如何使用Adobe Commerce的想法和創意。
-source-git-commit: 598a8b46ed2e2dff796bb076c5323da3639fe837
+source-git-commit: 6a1868d01c63f6c56157663c41c834b312ddc5a7
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 4%
@@ -14,14 +14,14 @@ ht-degree: 4%
 
 + [概觀](overview.md)
 + 2024 {#2024}
-   + [提升電子商務轉換](2024/ecommerce-conversions.md)
    + [創新焦點網路研討會](2024/innovation-spotlight.md)
 + 2023 {#2023}
-   + [市場作為增長的力量](2023/marketplaces.md)
-   + [旺季準備](2023/peak-season-prep.md)
-   + [可撰寫的商務策略](2023/composable-commerce.md)
    + [AI支援的個人化](2023/ai-personalisation.md)
    + [Adobe的PaaS雲端商務](2023/adobes-paas-cloud-commerce.md)
+   + [提升電子商務轉換](2023/ecommerce-conversions.md)
+   + [可撰寫的商務策略](2023/composable-commerce.md)
+   + [市場作為增長的力量](2023/marketplaces.md)
+   + [旺季準備](2023/peak-season-prep.md)
 + 2022 年{#2022}
    + [2022年假期整備](2022/holiday.md)
    + [New Relic Masterclass](2022/new-relic.md)
