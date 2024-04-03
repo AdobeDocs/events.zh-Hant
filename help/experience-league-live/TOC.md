@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 1e8c3a3c4cd7668a78d47a2f018a3dc27900630d
+source-git-commit: 858f7011039c59a4bb34860d05904f03131d2dc4
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '393'
 ht-degree: 5%
 
 ---
@@ -21,6 +21,8 @@ ht-degree: 5%
 
 + [概觀](overview.md)
 + 集數 {#episodes}
+   + [Ep. 35： Journey Optimizer中的全新程式碼型體驗管道](episodes/exl-live-episode-04-24-24.md)
+   + [Ep. 34： Marketo Measure的全新Discover儀表板](episodes/exl-live-episode-04-18-24.md)
    + [Ep. 33：全新Adobe Campaign v8 UI，助您一臂之力](episodes/exl-live-episode-02-29-24.md)
    + [Ep. 32：使用案例教戰手冊、自助範本，按幾下即可部署使用案例](episodes/exl-live-episode-02-08-24.md)
    + [Ep. 31：將您的Adobe Analytics資料和分析帶入Customer Journey Analytics](episodes/exl-live-episode-01-17-24.md)
