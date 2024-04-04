@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM講座
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 44db30f1def4682ed40a703c3e38b787d556621b
+source-git-commit: 3e548378b0a3c35d435e2d67d4857200cf45bd37
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,10 @@ ht-degree: 0%
 
 <img alt="數位體驗" src="./assets/ADX_Gems.png"/>
 
-## 先前的AEM GEM活動！
+## 即將舉辦的AEM GEM活動
+
+2024年4月17日 —  **AEM FormsEdge Delivery Services快速入門**
+請回覆/註冊 [此處](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-getting-started-with-edge-delivery-services-for-aem-forms/)
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -45,6 +48,9 @@ ht-degree: 0%
 </table>
 
 -->
+
+## 先前的AEM GEM事件
+
 我們最新的AEM GEM網路研討會於 **AEM製作和Edge Delivery Services快速入門** 已執行於 *2024年3月13日*.
 此 **錄製** 您可在此處找到：
 [AEM製作和Edge Delivery Services快速入門](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
