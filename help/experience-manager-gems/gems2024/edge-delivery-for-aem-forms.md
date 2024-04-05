@@ -9,9 +9,10 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 3e548378b0a3c35d435e2d67d4857200cf45bd37
+exl-id: 0361b404-1c6c-4343-876c-ac6a200ba3b9
+source-git-commit: cf730e65edcd42ce99b7064c7e7a1c98abbdebf2
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -30,10 +31,10 @@ ht-degree: 0%
 * AdobeDirector產品管理Arun Taneja
 * Vijay Kumar Jalagari，Adobe高級工程經理
 
-## 網路研討會影片
+## 網路研討會社群互動
 
 >[!NOTE]
 > 
->* 對於Experience League上的工作階段特定社群互動，內容對話串將立即可用。
+>* 如需Experience League上特定工作階段的社群互動，請造訪個別 [內容執行緒](https://adobe.ly/4aCz0OE).
 >
 >* 若要收到我們即將舉辦的網路研討會的通知，請到 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
