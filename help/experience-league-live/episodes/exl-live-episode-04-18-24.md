@@ -7,9 +7,10 @@ event-cta-url-live: https://www.youtube.com/watch?v=UI-P0ezCHqA
 event-start-time: 2024-04-18 09:00-7
 event-guests: Ian Michels,Kate Colbert,James Leedom
 duration: 25
-source-git-commit: d222484d9678454f3e74b5ab09e877685ad898f2
+exl-id: 4f3dcc03-307e-48fe-9bf2-e0a15e40bf6a
+source-git-commit: 44b97fea8d73859bbdbccadfb66543a531f25401
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +19,14 @@ ht-degree: 0%
 
 Marketo Measure已完全改版Discover儀表板。 這不僅僅是些許增強功能和新增功能；這是完整的改頭換面。 面板已重新想像，最重要的是簡化了。 這些新主機板更直覺化、更方便使用，讓您輕鬆快速地取得所需的資料！
 
-[![ExL LIVE 2024年1月17日](assets/WebBanner-April18-2024.jpg)](https://engage.adobe.com/ExpLeagueLive-240418.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3428093/?quality=12&learn=on)
 
-**[立即報名](https://engage.adobe.com/ExpLeagueLive-240418.html) 為活動準備！**
+討論的主題：
 
+* B2B行銷世界的歸因哲學
+* 將您的報告心態轉變為收入
+* 探索策略性地分段和增強資料的專業秘訣
+* 瞭解如何解決常見錯誤
+* 哪些新的預先建立控制面板可供使用，以及如何充分利用這些控制面板
+* 新提供的量度以及如何使用這些量度來提高業務洞察力
+* 如何建置和儲存自訂報表
