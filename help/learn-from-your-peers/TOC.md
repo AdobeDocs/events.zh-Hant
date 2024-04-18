@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: 「錄製集合來源： [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 8f572e77a739bdf15824c890acda22fe4029661f
+source-git-commit: a8ae18af0407dd9a1f28a80b2f665ec6d4a446de
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 6%
+source-wordcount: '153'
+ht-degree: 5%
 
 ---
 
@@ -57,3 +57,4 @@ ht-degree: 6%
       + [使用在規模程式碼中破解個人化 [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
    + 三月 {#mar2023}
       + [如何打造您的 [!DNL Adobe Marketo Engage] 內容可擴充](marketo/mar2023/templates-tokens-teamwork.md)
++ [瞭解如何提交傑出的Adobe冠軍應用程式](./adobe-champion-application.md)
