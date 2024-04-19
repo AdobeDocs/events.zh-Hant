@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: 「錄製集合來源： [!DNL Experience Makers Learn from your peers]"
-source-git-commit: a8ae18af0407dd9a1f28a80b2f665ec6d4a446de
+source-git-commit: 28c2d6f249968bfe402dad24bf42fe7e3bfbdf4a
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 5%
+source-wordcount: '167'
+ht-degree: 7%
 
 ---
 
@@ -45,16 +45,18 @@ ht-degree: 5%
    + 五月 {#may2023}
       + [掌握內容與體驗片段](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
-   + 一月 {#jan2024}
+   + 四月 {#april2024}
+      + [Marketo Engage REST API的實際應用](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
+   + 2024年1月 {#jan2024}
       + [透過Marketo Engage掌握個人分數](marketo/jan2024/person-scoring-mastery.md)
-   + 十一月 {#nov2023}
+   + 2023年11月 {#nov2023}
       + [Marketo Engage和Dynamic Chat](marketo/nov2023/dynamic-chat.md)
-   + 九月 {#sept2023}
+   + 2023年9月 {#sept2023}
       + [透過Marketo Engage提升電子郵件傳遞能力](marketo/sept2023/email-deliverability.md)
-   + 六月 {#june2023}
+   + 2023 年 6月 {#june2023}
       + [追蹤、分析和最佳化您的行銷活動](marketo/june2023/marketing-campaigns.md)
-   + 五月 {#may2023}
+   + 2023 年 5 月 {#may2023}
       + [使用在規模程式碼中破解個人化 [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
-   + 三月 {#mar2023}
+   + 2023年3月 {#mar2023}
       + [如何打造您的 [!DNL Adobe Marketo Engage] 內容可擴充](marketo/mar2023/templates-tokens-teamwork.md)
 + [瞭解如何提交傑出的Adobe冠軍應用程式](./adobe-champion-application.md)
