@@ -8,9 +8,9 @@ event-start-time: 2024-04-18 08:30-7
 event-guests: Sandra Hausmann,Robert Calangiu,Brent Kostak
 duration: 25
 exl-id: 94725433-1bc2-40a4-835a-2cfac9af1fd9
-source-git-commit: bf9c0a2b00f6858950f20df5257af1859446ec7e
+source-git-commit: 08b9921b35dcd8c6525edae5dcd1688aed1743f0
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 使用以開發人員為中心的動作，啟用傳入表面和精細的個人化控制。
 
-[![ExL LIVE 2024年1月17日](assets/WebBanner-Apr24-2024.jpg)](https://www.youtube.com/watch?v=ZKa4OatgQjk)
-
-**按一下上方影像，設定事件的YouTube提醒！**
+>[!VIDEO](https://video.tv.adobe.com/v/3428095/?quality=12&learn=on)
 
 **詳細資料**：Adobe Journey Optimizer中的程式碼型Experience Channel為品牌發展個人化和實驗計畫的計劃開啟了巨大機會和新使用案例。 這個新的管道可讓團隊使用HTML或JSON程式碼型動作來增加個人化控制能力，並有能力變更原生應用程式的精細方面。 程式碼型Experience Channel擴充了使用者端、伺服器端、混合式和API型實作的彈性和效能。
 
@@ -29,7 +27,7 @@ ht-degree: 0%
 
 >[!BEGINSHADEBOX 「有疑問嗎？」]
 
-繼續在Adobe Experience League上討論此主題 [社群貼文](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.
+**繼續在Adobe Experience League上討論此主題 [社群貼文](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.**
 
 >[!ENDSHADEBOX]
 

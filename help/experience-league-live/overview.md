@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 4b83bd595f69eafd7dd8074917eee9c9645f2e22
+source-git-commit: 08b9921b35dcd8c6525edae5dcd1688aed1743f0
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 46%
+source-wordcount: '171'
+ht-degree: 43%
 
 ---
 
@@ -26,16 +26,8 @@ Experience League LIVE 是 Experience League 團隊製作的直播串流節目�
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-24-24.md">
-      <img alt="Experience LeagueLIVE 4月21日" src="episodes/assets/WebBanner-Apr24-2024.jpg">
-    </a>
-    <div>
-      <a href="/help/experience-league-live/episodes/exl-live-episode-04-18-24.md">
-        <strong>Journey Optimizer中的全新程式碼型體驗管道</strong>
-      </a>
-      <br/><em>與桑德拉·豪斯曼、羅伯特·卡蘭久和布倫特·科斯塔克合作</em>
-      <br/><em>2024年4月24日</em>
-    </div>
+<td style="vertical-align: top;">
+    <strong>稍後再返回本頁，以取得5月16日節目的詳細資料。 破壞者警報 — 我們將討論如何將Analytics從AppMeasurement移轉至Web SDK！</strong>
   </td>
 </tr>
 </table>
