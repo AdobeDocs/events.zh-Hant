@@ -8,7 +8,7 @@ event-start-time: 2024-04-18 08:30-7
 event-guests: Sandra Hausmann,Robert Calangiu,Brent Kostak
 duration: 25
 exl-id: 94725433-1bc2-40a4-835a-2cfac9af1fd9
-source-git-commit: 608891a7fd02936f4bfc23f9766bae09b19b4e78
+source-git-commit: bf9c0a2b00f6858950f20df5257af1859446ec7e
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -30,3 +30,6 @@ ht-degree: 0%
 >[!BEGINSHADEBOX 「有疑問嗎？」]
 
 繼續在Adobe Experience League上討論此主題 [社群貼文](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.
+
+>[!ENDSHADEBOX]
+
