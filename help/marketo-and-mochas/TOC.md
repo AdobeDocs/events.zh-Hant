@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 01689cc3c8f1d21e1ea223b8ee0fa3f22019fbcf
+source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 9%
+source-wordcount: '46'
+ht-degree: 8%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 9%
 
 + [概觀](overview.md)
 + 2024 {#2024}
+   + [全新Discover控制面板](2024/new-discover-dashboard.md)
    + [歸因控制面板記錄](2024/attribution-dashboard-recording.md)
 + 2023 {#2023}
    + [歸因](2023/attribution.md)

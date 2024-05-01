@@ -4,7 +4,7 @@ description: 取得 Adobe Experience Manager as a Cloud Service 最新功能快�
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
-source-git-commit: 8fdbc89be6e17116ef4f3fe1c3a0465783fa63f4
+source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 55%
@@ -26,9 +26,8 @@ ht-degree: 55%
       <div>
         <a href="2024/2024-3-0.md">
           <strong>版本 | 2024.3.0</strong>
-          <br/>
         </a>
-          <em>發行日期2024年4月 </em>
+          <p><em>發行日期2024年4月 </em></p>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant">發行說明</a>
