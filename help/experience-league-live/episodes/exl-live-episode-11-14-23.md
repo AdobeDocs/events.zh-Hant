@@ -2,14 +2,14 @@
 title: 在Real-Time CDP和Journey Optimizer中充分利用行為事件資料
 description: 瞭解如何使用計算屬性建立事件資料的彙總，以改善您的細分、個人化和歷程！
 kt: KT-14069
-thumbnail: https://video.tv.adobe.com/v/3425196?format=jpeg
+solution: Real-Time Customer Data Platform,Journey Optimizer
 event-cta-url-live: https://www.youtube.com/watch?v=xQ-yydkLeHc
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231114.html
 event-start-time: 2023-11-14 09:00-7
 event-guests: Daniel Wright,Lory Mishra,Rachit Gupta
 exl-id: 2f33350a-6030-43e8-824b-bd69ca153485
 duration: 3269
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -27,3 +27,4 @@ ht-degree: 0%
 在這場Experience League即時座談中，產品專家會向您展示Real-Time CDP和Journey Optimizer中的「計算屬性」如何協助您使用簡單UI來建立行為彙總作為設定檔屬性，以用於增強型細分和個人化。
 
 **繼續節目中有關此主題的討論 [Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722#M5){target="_blank"}**.
+

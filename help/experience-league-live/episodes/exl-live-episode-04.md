@@ -4,13 +4,13 @@ description: 瞭解客戶歷程至關重要。 用戶與網頁或行動屬性互
 landing-page-description: 了解如何使用 Activity Map 分類，以更加了解用戶行為，並繪圖指出哪些點選會造成有價值的網站活動。
 short-description: 了解如何使用 Activity Map 分類，以更加了解用戶行為，並繪圖指出哪些點選會造成有價值的網站活動。
 solution: Analytics
+feature: Activity Map, Classifications
 kt: 9255
-thumbnail: https://video.tv.adobe.com/v/338108?format=jpeg
 event-start-time: 2021-10-21 09:00-7
 event-guests: Jenn Kunz,Adam Klintworth
 exl-id: b601414e-7892-452e-8dd3-e9d917bd9b3e
 duration: 3697
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 41%
@@ -26,3 +26,4 @@ ht-degree: 41%
 我們也會提供一些秘訣，協助您瞭解及運用歸因報表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/338108/?quality=12&learn=on)
+

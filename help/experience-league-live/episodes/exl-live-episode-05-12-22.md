@@ -3,14 +3,13 @@ title: Adobe Journey Optimizer的推播通知
 description: 推播通知可協助您隨時連絡行動應用程式使用者，尤其是當使用者目前未使用您的應用程式時。Journey Optimizer支援推播而非…… （說明應該介於60到160個字元之間）
 solution: Journey Optimizer
 kt: 10407
-thumbnail: https://video.tv.adobe.com/v/342810?format=jpeg
 feature: Push
 role: Developer
 event-start-time: 2022-05-12 09:30-7
 event-guests: Sandra Hausmann,Archana Chaudhary,Don Huynh
 exl-id: 3e813ced-154d-4ec6-b7a3-6800b814f123
 duration: 2963
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 25%
@@ -28,3 +27,4 @@ ht-degree: 25%
 [下載Android AEPSampleAPP](https://github.com/adobe/aepsdk-sample-app-android)
 
 若要繼續此工作階段的對話，請造訪 [Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869).
+

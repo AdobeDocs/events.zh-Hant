@@ -2,16 +2,16 @@
 title: 詢問專家 — Web SDK基礎知識
 description: 進一步瞭解Web SDK。 我們將向您展示Web SDK的所有基本知識，包括它背後的推理、它如何運作以及它支援的重要使用案例。
 solution: Data Collection,Experience Platform
+feature: Data Collection
 kt: 10412
-thumbnail: https://video.tv.adobe.com/v/343335?format=jpeg
 event-start-time: 2022-05-26 09:00-7
 event-guests: Doug Moore, Eric Matisoff, Rudi Shumpert, Jeff Chasin
 exl-id: b2ea730b-d4ad-4be0-b229-7063369cba7f
 duration: 3863
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -37,3 +37,4 @@ ht-degree: 0%
 * [Adobe Experience Platform Debugger概觀和下載](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
 * [行動SDK檔案](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
 * [混合應用程式集合資訊](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}
+

@@ -1,14 +1,14 @@
 ---
 title: 詢問專家 — Tags (Launch)中的實用擴充功能，可協助對Web SDK充電
 description: 您考慮將實作移轉至新的Adobe Web SDK嗎？  我們將在Adobe標籤庫中執行一些我們最愛的擴充功能，協助您將資料收集提升到新的境界。
-solution: Data Collection,Experience Platform
+solution: Data Collection, Experience Platform
+feature: Tags
 kt: 10528
-thumbnail: https://video.tv.adobe.com/v/346610?format=jpeg
 event-start-time: 2022-08-23 09:00-7
 event-guests: Rudi Shumpert,Jeff Chasin,Eric Matisoff
 exl-id: 5ef987f4-37f5-473f-b9f2-1598b7e655ba
 duration: 3833
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '675'
 ht-degree: 0%
@@ -104,3 +104,4 @@ ht-degree: 0%
 * [詢問專家 — Web SDK基礎知識](exl-live-episode-05-26-22.md)
 * [詢問專家 — RTCDP Connections](exl-live-episode-06-23-22.md)
 * [詢問專家 — 資料串流和資料準備](exl-live-episode-07-21-22.md)
+

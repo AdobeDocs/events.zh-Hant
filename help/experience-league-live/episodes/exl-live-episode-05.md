@@ -6,12 +6,11 @@ short-description: 了解如何使用預先定義的網站範本在 AEM 中建�
 solution: Experience Manager
 sub-product: Experience Manager Sites
 kt: 9397
-thumbnail: https://video.tv.adobe.com/v/338798?format=jpeg
 event-start-time: 2021-11-18 09:00-8
 event-guests: Danny Gordon,Shankari Panchapakesan,Gabriel Walt
 exl-id: 2760b900-44b0-49bc-9d63-39a459c338f1
 duration: 3869
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 94%
@@ -25,3 +24,4 @@ Adobe Experience Manager Sites 包含多項功能，可加速提供引人注目�
 加入我們，與Adobe產品經理Shankari Panchapakesan和Gabriel Walt一起進行現場展示和示範。 您甚至有機會看到現場編碼！
 
 >[!VIDEO](https://video.tv.adobe.com/v/338798/?quality=12&learn=on)
+

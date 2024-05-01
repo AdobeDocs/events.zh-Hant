@@ -2,13 +2,14 @@
 title: Journey Optimizer中的全新程式碼型體驗管道
 description: 使用以開發人員為中心的動作，啟用傳入表面和精細的個人化控制。
 kt: KT-14776
-thumbnail: https://video.tv.adobe.com/v/3428095?format=jpeg
+solution: Journey Optimizer
+feature: Code-based Experiences
 event-cta-url-live: https://www.youtube.com/watch?v=ZKa4OatgQjk
-event-start-time: 2024-04-18 08:30-7
+event-start-time: 2024-04-24 08:30-7
 event-guests: Sandra Hausmann,Robert Calangiu,Brent Kostak
 duration: 25
 exl-id: 94725433-1bc2-40a4-835a-2cfac9af1fd9
-source-git-commit: 08b9921b35dcd8c6525edae5dcd1688aed1743f0
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -30,4 +31,3 @@ ht-degree: 0%
 **繼續在Adobe Experience League上討論此主題 [社群貼文](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.**
 
 >[!ENDSHADEBOX]
-
