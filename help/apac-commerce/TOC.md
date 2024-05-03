@@ -1,23 +1,25 @@
 ---
-user-guide-title: APAC商務活動
-breadcrumb-title: APAC商務活動
+user-guide-title: APAC Commerce活動
+breadcrumb-title: APAC Commerce活動
 user-guide-description: Adobe Commerce活動是影片庫，專家和同業可在其中分享如何使用Adobe Commerce的想法和創意。
-source-git-commit: 6a1868d01c63f6c56157663c41c834b312ddc5a7
+source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '97'
 ht-degree: 4%
 
 ---
 
 
-# APAC商務活動 {#apac-commerce-recordings}
+# APAC Commerce活動 {#apac-commerce-recordings}
 
 + [概觀](overview.md)
 + 2024 {#2024}
    + [創新焦點網路研討會](2024/innovation-spotlight.md)
+   + [有遠見的思維如何改變Commerce](2024/visionary-thinking.md)
+   + [有7種方式讓電子商務業務有機成長](2024/grow-ecommerce-business.md)
 + 2023 {#2023}
    + [AI支援的個人化](2023/ai-personalisation.md)
-   + [Adobe的PaaS雲端商務](2023/adobes-paas-cloud-commerce.md)
+   + [Adobe的PaaS Cloud Commerce](2023/adobes-paas-cloud-commerce.md)
    + [提升電子商務轉換](2023/ecommerce-conversions.md)
    + [可撰寫的商務策略](2023/composable-commerce.md)
    + [市場作為增長的力量](2023/marketplaces.md)

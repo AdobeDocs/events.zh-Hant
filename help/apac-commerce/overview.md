@@ -1,18 +1,18 @@
 ---
 title: APAC Commerce網路研討會系列
-description: APAC商務網路研討會系列是每月為Adobe Commerce客戶舉辦的一系列研討會，涵蓋從最佳作法、產品藍圖和行業趨勢等廣泛主題。
+description: 亞太地區Commerce網路研討會系列是每月為Adobe Commerce客戶舉辦的一系列研討會，涵蓋從最佳作法、產品藍圖和行業趨勢等廣泛主題。
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
 duration: 66
-source-git-commit: 6a1868d01c63f6c56157663c41c834b312ddc5a7
+source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
 
 # APAC Commerce網路研討會系列
 
-APAC商務網路研討會系列是每月為Adobe Commerce客戶舉辦的一系列研討會，涵蓋從最佳作法、產品藍圖和行業趨勢等廣泛主題。 聽取企業內各種產品專家的意見，並參與現場活動，以取得提出問題並直接與團隊互動的機會。 此系列可幫助您在Adobe Commerce平台上取得成功，並最大化您的投資。
+亞太地區Commerce網路研討會系列是每月為Adobe Commerce客戶舉辦的一系列研討會，涵蓋從最佳作法、產品藍圖和行業趨勢等廣泛主題。 聽取企業內各種產品專家的意見，並參與現場活動，以取得提出問題並直接與團隊互動的機會。 此系列可幫助您在Adobe Commerce平台上取得成功，並最大化您的投資。
 
 ## 新增功能
 
@@ -32,29 +32,29 @@ APAC商務網路研討會系列是每月為Adobe Commerce客戶舉辦的一系�
     <p>
   </td> 
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
-      <img alt="Adobe Commerce網站範圍分析工具" src="https://video.tv.adobe.com/v/3419132?format=jpeg" />
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/visionary-thinking.html">
+      <img alt="Adobe Commerce網站範圍分析工具" src="https://video.tv.adobe.com/v/3428818?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/adobes-paas-cloud-commerce.html">
-        <strong>使用Adobe的PaaS Cloud Commerce簡化您的業務</strong>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/visionary-thinking.html">
+        <strong>創意邊緣 — 遠見卓識如何改變Commerce</strong>
       </a>
     </div>
     <p>
-    <em>加入我們的網路研討會，探索AdobeCommerce CloudPaaS解決方案的好處，無論您是自行託管，還是想瞭解PaaS或是尋求最佳化設定的現有客戶。</em>
+    <em>探索創意與商業的整合。</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/ai-personalisation.html">
-      <img alt="升級至Adobe Commerce 2.4.4的好處" src="https://video.tv.adobe.com/v/3419107?format=jpeg" />
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/grow-ecommerce-business.html">
+      <img alt="升級至Adobe Commerce 2.4.4的好處" src="https://video.tv.adobe.com/v/3428817?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/ai-personalisation.html">
-        <strong>AI支援的個人化</strong>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/grow-ecommerce-business.html">
+        <strong>有7種方式讓電子商務業務有機成長</strong>
       </a>
     </div>
     <p>
-    <em>利用AI的強大功能，透過Adobe在AI上的投資及其與Commerce的整合，提供卓越的客戶體驗。</em>
+    <em>透過SEO策略取得寶貴的深入分析和實用秘訣，以有機方式發展電子商務業務</em>
     <p>
   </td>
 </tr>
