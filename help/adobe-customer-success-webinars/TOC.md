@@ -2,9 +2,9 @@
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
 user-guide-description: Adobe客戶成功引導的網路研討會，旨在讓您最佳化對AdobeExperience Cloud的投資。 獲得寶貴的見解，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: b023ed45c159d848f28f159348a21763d4c539f5
+source-git-commit: 2cf8e724088594be85182d65ac106e8118920474
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '124'
 ht-degree: 1%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 1%
 + 2024 {#2024}
    + [資料流優先順序](2024/data-stream-prioritization.md)
    + [增強精益團隊的能力](2024/empowering-lean-teams.md)
+   + [Expedia從Adobe Analytics移至Customer Journey Analytics](2024/expedia-aa-to-cja.md)
    + [策略領導力](2024/strategic-leadership.md)
 + 2023 {#2023}
    + [建立大規模個人化的基礎](2023/personalization-at-scale.md)
