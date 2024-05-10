@@ -5,13 +5,13 @@ kt: KT-15382
 solution: Analytics,Data Collection
 feature: Implementation Basics, Tags
 event-cta-url-live: https://www.youtube.com/watch?v=J4fuB2fki8o
-event-start-time: 2024-04-18 09:00-7
+event-start-time: 2024-05-16 09:00-7
 event-guests: Doug Moore,Mitch Rice,Joe Khoury
 duration: 25
 exl-id: c762dfe2-07b8-4eac-afa4-d94636d0b5b5
-source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
+source-git-commit: 3240741ecbade0921e29ff72ea6a52b5f8b59baa
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 瞭解將Adobe Analytics移轉至Web SDK的最新和最大（新）方法。
 
-[![Exl LIVE 2024年5月16日](assets/WebBanner-May16-2024.jpg)](https://www.youtube.com/watch?v=J4fuB2fki8o)
+[![Exl LIVE 2024年5月16日](assets/WebBanner-May16-2024.jpg)](https://engage.adobe.com/ExpLeagueLive-240516.html)
 
-**按一下上方影像，為節目設定YouTube提醒！**
+**[報名參加活動！](https://engage.adobe.com/ExpLeagueLive-240516.html)**
 
 
 **詳細資料**：在本次研討會中，瞭解將Adobe Analytics移轉至Web SDK的最新及最大（新）方式。 這可讓您在期待Adobe Experience Platform的實施時，使用更快、全新的程式庫、許多新功能，且更能經受住未來的考驗，同時輕鬆將資料傳送至Adobe Analytics (以及Target和AAM)。
