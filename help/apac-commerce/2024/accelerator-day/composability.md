@@ -10,10 +10,10 @@ duration: 1432
 last-substantial-update: 2024-05-21T00:00:00Z
 jira: KT-15545
 hidefromtoc: true
-badgeEvent: label="Adobe Commerce加速器日" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html"
-source-git-commit: 4b65bfcf2f3025b1b5deddef7f8347000e0af2ce
+badgeEvent: label="Adobe Commerce加速器日" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview"
+source-git-commit: 89005ee91f2222029cc3abf30d02dc3b7714b588
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -26,3 +26,5 @@ ht-degree: 0%
 + 由ANZ解決方案工程 — Adobe主管Jason Ford主講
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429272/?learn=on)
+
+[&lt;返回Adobe Commerce加速器日](./overview.md)

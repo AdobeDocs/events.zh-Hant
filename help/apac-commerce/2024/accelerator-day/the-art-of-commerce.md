@@ -9,10 +9,10 @@ duration: 1608
 last-substantial-update: 2024-05-21T00:00:00Z
 jira: KT-15547
 hidefromtoc: true
-badgeEvent: label="Adobe Commerce加速器日" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html"
-source-git-commit: 4b65bfcf2f3025b1b5deddef7f8347000e0af2ce
+badgeEvent: label="Adobe Commerce加速器日" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview"
+source-git-commit: 89005ee91f2222029cc3abf30d02dc3b7714b588
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -25,3 +25,5 @@ ht-degree: 0%
 + 由Adobe資深解決方案工程師Carl Screwvala介紹
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429274/?learn=on)
+
+[&lt;返回Adobe Commerce加速器日](./overview.md)

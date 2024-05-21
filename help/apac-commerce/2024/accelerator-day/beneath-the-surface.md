@@ -10,10 +10,10 @@ duration: 1590
 last-substantial-update: 2024-05-21T00:00:00Z
 jira: KT-15543
 hidefromtoc: true
-badgeEvent: label="Adobe Commerce加速器日" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html"
-source-git-commit: 4b65bfcf2f3025b1b5deddef7f8347000e0af2ce
+badgeEvent: label="Adobe Commerce加速器日" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview"
+source-git-commit: 89005ee91f2222029cc3abf30d02dc3b7714b588
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -29,3 +29,5 @@ Commonwealth Bank的Powerboard付款協調平台及其線上業務使用案例�
 + Luke Jericho，組長，電子商務負責人 — CBA
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429270/?learn=on)
+
+[&lt;返回Adobe Commerce加速器日](./overview.md)
