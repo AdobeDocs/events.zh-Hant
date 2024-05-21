@@ -1,9 +1,9 @@
 ---
 title: Commerce Intelligence網路研討會
-description: 探索Commerce Intelligence錄製的網路研討會，其中涵蓋最充分地使用Commerce Intelligence的各種主題和最佳實務。
+description: 探索Commerce Intelligence錄製的網路研討會，其中涵蓋各種主題和最佳實務，以便最充分地使用Commerce Intelligence。
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
 duration: 77
-source-git-commit: 17a9052c99275eff0599c64be3d6872e60c52fe1
+source-git-commit: 78cb08c0aabfa98db97e1b7c1cee466e7c3578df
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 1%
@@ -16,9 +16,9 @@ ht-degree: 1%
 >
 >Adobe Commerce Intelligence先前稱為 [!DNL Magento Business Intelligence (MBI)]. 過去活動的錄影反映了先前的名稱。
 
-Commerce Intelligence網路研討會系列是供Commerce Intelligence客戶使用的定期事件。 這些網路研討會涵蓋了廣泛的主題和最佳實務，以便盡最大可能使用Commerce Intelligence。
+Commerce Intelligence網路研討會系列是供Commerce Intelligence客戶定期觀看的事件。 這些網路研討會涵蓋廣泛的主題和最佳實務，以便您充分利用Commerce Intelligence的潛能。
 
-所有地區的出席者都可現場加入活動，以進一步瞭解產品，並直接回答他們有關Commerce Intelligence功能的問題。
+所有地區的出席者都可現場加入活動，以進一步瞭解產品，並直接獲得有關Commerce Intelligence功能問題的解答。
 
 這些主題會偶爾重複出現，以因應客戶可能詢問的任何新問題。
 
@@ -40,11 +40,11 @@ Commerce Intelligence網路研討會系列是供Commerce Intelligence客戶使�
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
       <img alt="在Adobe Commerce Intelligence中管理資料集" src="https://video.tv.adobe.com/v/3427547?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
         <strong>在Adobe Commerce Intelligence中管理資料集</strong>
       </a>
     </div>
