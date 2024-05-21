@@ -3,9 +3,9 @@ title: APAC Commerce網路研討會系列
 description: 亞太地區Commerce網路研討會系列是每月為Adobe Commerce客戶舉辦的一系列研討會，涵蓋從最佳作法、產品藍圖和行業趨勢等廣泛主題。
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
 duration: 66
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+source-git-commit: d8f496970aeca03fa8e03986dea903409fc71284
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,19 @@ ht-degree: 0%
 
 <table>
 <tr>
+  <td>
+    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html">
+      <img alt="加速器日" src="https://video.tv.adobe.com/v/3429276?format=jpeg" />
+    </a>
+     <div>
+      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html">
+        <strong>Adobe Commerce加速器日</strong>
+      </a>
+    </div>
+    <p>
+    <em>Adobe和澳洲聯邦銀行(CBA)展示了商業、雲端和支付解決方案的創新。</em>
+    <p>
+  </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
       <img alt="Adobe Commerce創新焦點網路研討會" src="https://video.tv.adobe.com/v/3427965?format=jpeg" />
@@ -42,19 +55,6 @@ ht-degree: 0%
     </div>
     <p>
     <em>探索創意與商業的整合。</em>
-    <p>
-  </td>
-  <td>
-    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/grow-ecommerce-business.html">
-      <img alt="升級至Adobe Commerce 2.4.4的好處" src="https://video.tv.adobe.com/v/3428817?format=jpeg" />
-    </a>
-     <div>
-      <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/grow-ecommerce-business.html">
-        <strong>有7種方式讓電子商務業務有機成長</strong>
-      </a>
-    </div>
-    <p>
-    <em>透過SEO策略取得寶貴的深入分析和實用秘訣，以有機方式發展電子商務業務</em>
     <p>
   </td>
 </tr>

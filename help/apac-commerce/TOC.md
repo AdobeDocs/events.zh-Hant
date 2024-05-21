@@ -2,10 +2,10 @@
 user-guide-title: APAC Commerce活動
 breadcrumb-title: APAC Commerce活動
 user-guide-description: Adobe Commerce活動是影片庫，專家和同業可在其中分享如何使用Adobe Commerce的想法和創意。
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+source-git-commit: 4b65bfcf2f3025b1b5deddef7f8347000e0af2ce
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 4%
+source-wordcount: '136'
+ht-degree: 2%
 
 ---
 
@@ -14,6 +14,18 @@ ht-degree: 4%
 
 + [概觀](overview.md)
 + 2024 {#2024}
+   + [加速器日](2024/accelerator-day/overview.md)
+   + 加速器日{#accelerator-day}
+      + [隱藏：明天導覽](./2024/accelerator-day/navigating-tomorrow.md)
+      + [隱藏：邊框以外的面板](./2024/accelerator-day/panel-beyond-borders.md)
+      + [隱藏：體驗進化](./2024/accelerator-day/experience-evolution.md)
+      + [隱藏：輕觸明天的面板](./2024/accelerator-day/panel-tapping-into-tomorrow.md)
+      + [隱藏：新一代Commerce](./2024/accelerator-day/next-gen-commerce.md)
+      + [隱藏：在曲面下](./2024/accelerator-day/beneath-the-surface.md)
+      + [隱藏：閃電般的速度](./2024/accelerator-day/lightning-speed.md)
+      + [隱藏：可組合性](./2024/accelerator-day/composability.md)
+      + [隱藏：跨頻道交響樂](./2024/accelerator-day/cross-channel-symphony.md)
+      + [隱藏： Commerce的藝術](./2024/accelerator-day/the-art-of-commerce.md)
    + [創新焦點網路研討會](2024/innovation-spotlight.md)
    + [有遠見的思維如何改變Commerce](2024/visionary-thinking.md)
    + [有7種方式讓電子商務業務有機成長](2024/grow-ecommerce-business.md)
