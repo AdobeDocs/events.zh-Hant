@@ -4,10 +4,10 @@ description: 取得Adobe Experience Manager as a Cloud Service最新功能快速
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
-source-git-commit: cbf8d71cd9d7071ea70907e550ed3e602a026304
+source-git-commit: 6d8e23f544f23b09f545eb2e09978b8bb26b647e
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 14%
+source-wordcount: '177'
+ht-degree: 1%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 14%
           <strong>版本 | 2024.5.0</strong>
         </a>
       </div>
-      <p><em>發行日期2024年5月 </em></p>
+      <em>發行日期2024年5月 </em>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant">發行說明</a>
       </p>
@@ -49,10 +49,7 @@ ht-degree: 14%
           <strong>版本 | 2024.4.0</strong>
         </a>
       </div>
-      <p><em>發行日期2024年4月 </em></p>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant">發行說明</a>
-      </p>
+      <em>發行日期2024年4月 </em>
     </td>
     <td>
       <a href="2024/2024-3-0.md">
@@ -63,10 +60,7 @@ ht-degree: 14%
           <strong>版本 | 2024.3.0</strong>
         </a>
       </div>
-      <p><em>發行日期2024年4月 </em></p>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant">發行說明</a>
-      </p>
+      <em>發行日期2024年4月 </em>
     </td>
     <td>
       <a href="2024/2024-1-0.md">
@@ -79,9 +73,6 @@ ht-degree: 14%
         </a>
           <em>發行日期2024年1月 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant">發行說明</a>
-      <p>
     </td>
   </tr>
   <tr>
@@ -96,9 +87,6 @@ ht-degree: 14%
         </a>
           <em>發行日期2023年11月 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant">發行說明</a>
-      <p>
     </td>
     <td>
       <a href="2023/2023-10-0.md">
@@ -111,9 +99,6 @@ ht-degree: 14%
         </a>
           <em>發行日期2023年10月 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant">發行說明</a>
-      <p>
     </td>
     <td>
       <a href="2023/2023-9-0.md">
@@ -126,9 +111,6 @@ ht-degree: 14%
         </a>
           <em>發行日期2023年9月 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant">發行說明</a>
-      <p>
     </td>
   </tr>
   <tr>    
@@ -143,9 +125,6 @@ ht-degree: 14%
         </a>
           <em>發行日期2023年8月 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant">發行說明</a>
-      <p>
     </td>
     <td>
       <a href="2023/2023-7-0.md">
@@ -158,9 +137,6 @@ ht-degree: 14%
         </a>
           <em>發行日期2023年7月 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant">發行說明</a>
-      <p>
     </td>
     <td>
       <a href="2023/2023-6-0.md">
@@ -173,9 +149,6 @@ ht-degree: 14%
         </a>
           <em>發行日期：2023年6月 </em>
       </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant">發行說明</a>
-      <p>
     </td>
   </tr>
 </table>
