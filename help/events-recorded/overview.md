@@ -4,10 +4,10 @@ description: 活動錄影的集合，重點說明如何使用Adobe的企業產�
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
 duration: 334
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
-source-wordcount: '1028'
-ht-degree: 9%
+source-wordcount: '1040'
+ht-degree: 3%
 
 ---
 
@@ -278,7 +278,7 @@ ht-degree: 9%
               <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html" title="Experience League LIVE">Experience League LIVE</a>
           </p>
           <p class="is-size-6">
-         「即時Experience League」是Experience League團隊製作的直播串流節目。 您可以藉此機會與 Adobe 產品專家交流，並學到您可以透過 Adobe Experience Cloud 應用程式應用可落實的秘訣、技巧和策略。</p>
+         「即時Experience League」是Experience League團隊製作的直播串流節目。 您可以藉此機會與Adobe產品專家交流，並學到您可以透過Adobe Experience Cloud應用程式應用可落實的秘訣、技巧和策略。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
@@ -322,7 +322,7 @@ ht-degree: 9%
               <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=zh-Hant" title="Experience Manager版本總覽">Experience Manager版本總覽</a>
           </p>
           <p class="is-size-6">
-         取得 Adobe Experience Manager as a Cloud Service 最新功能快速總覽。這些是 AEM 產品團隊提供的簡短影片；每段影片大約 10 分鐘，主要是分享最新版本的摘要。</p>
+         取得Adobe Experience Manager as a Cloud Service最新功能快速總覽。 這些是AEM產品團隊提供的簡短影片，大約10分鐘，主要是分享最新版本的摘要。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=zh-Hant" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
@@ -395,22 +395,22 @@ ht-degree: 9%
       </a>
     </div>
   </div>
-</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="MBI Webinars" tabIndex="16">
+</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Commerce Intelligence" tabIndex="16">
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="MBI網路研討會" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png" alt="MBI網路研討會">
+        <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="Adobe Commerce Intelligence" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-intelligence-webinars.png" alt="Adobe Commerce Intelligence">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="MBI網路研討會">MBI網路研討會</a>
+              <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="Adobe Commerce Intelligence">Adobe Commerce Intelligence</a>
           </p>
           <p class="is-size-6">
-         MBI網路研討會系列是MBI客戶的定期活動。 這些網路研討會涵蓋了廣泛的主題和最佳實務，以便充分利用MBI的潛力。</p>
+         Adobe Commerce Intelligence （亦稱為MBI）網路研討會系列，是供Adobe Commerce Intelligence客戶定期使用的活動。 這些網路研討會涵蓋廣泛的主題和最佳實務，以便您充分利用Adobe Commerce Intelligence的潛能。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
@@ -706,10 +706,10 @@ ht-degree: 9%
     <tr>    
     <td>
       <a href="/help/mbi-webinars/overview.md">
-      <img style="width:100%" alt="MBI Webinars" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
+      <img style="width:100%" alt="Adobe Commerce Intelligence" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
       </a>
       <div>
-         <a href="/help/mbi-webinars/overview.md"><strong>MBI Webinars</strong></a>
+         <a href="/help/mbi-webinars/overview.md"><strong>Adobe Commerce Intelligence</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
       </div>
       <p>

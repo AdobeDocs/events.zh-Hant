@@ -2,9 +2,9 @@
 user-guide-title: Adobe Experience League活動錄製
 user-guide-breadcrumb: Event Recordings
 user-guide-description: 強制使用Adobe企業產品上的事件錄製集合
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '351'
 ht-degree: 12%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 12%
    + [Acrobat Sign網路研討會](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html)
    + [Adobe Campaign測試人員系列](https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html)
    + [Adobe內容管理論壇](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
+   + [Adobe Commerce Intelligence網路研討會](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
    + [Adobe Commerce產品更新](https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html)
    + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
    + [AEM Champion營業時間](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
@@ -31,7 +32,6 @@ ht-degree: 12%
    + [向同儕學習](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
    + [Marketo和Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
    + [營業時間](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
-   + [MBI網路研討會](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
    + [技能培養](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + [技能交流](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
@@ -59,7 +59,7 @@ ht-degree: 12%
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [APAC Commerce活動](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
       + [Commerce和咖啡](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
-      + [MBI網路研討會](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
+      + [Adobe Commerce Intelligence網路研討會](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
       + [營業時間](https://experienceleague.adobe.com/docs/events/office-hours/overview.html)
       + [技能培養](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + Adobe Customer Journey Analytics {#cja}
