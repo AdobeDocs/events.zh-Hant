@@ -2,9 +2,9 @@
 user-guide-title: APAC Commerce活動
 breadcrumb-title: APAC Commerce活動
 user-guide-description: Adobe Commerce活動是影片庫，專家和同業可在其中分享如何使用Adobe Commerce的想法和創意。
-source-git-commit: 4b65bfcf2f3025b1b5deddef7f8347000e0af2ce
+source-git-commit: e2beb9336151eddc3cb29470fab12e77a4f8ffb0
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '138'
 ht-degree: 2%
 
 ---
@@ -26,6 +26,7 @@ ht-degree: 2%
       + [隱藏：可組合性](./2024/accelerator-day/composability.md)
       + [隱藏：跨頻道交響樂](./2024/accelerator-day/cross-channel-symphony.md)
       + [隱藏： Commerce的藝術](./2024/accelerator-day/the-art-of-commerce.md)
+   + [Commerce與可組合性](2024/commerce-and-composability.md)
    + [創新焦點網路研討會](2024/innovation-spotlight.md)
    + [有遠見的思維如何改變Commerce](2024/visionary-thinking.md)
    + [有7種方式讓電子商務業務有機成長](2024/grow-ecommerce-business.md)
