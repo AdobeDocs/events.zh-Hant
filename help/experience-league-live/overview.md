@@ -1,6 +1,6 @@
 ---
-title: Experience League LIVE 活動
-description: 先前 Experience League LIVE 活動的連結集合
+title: Experience League即時活動
+description: 先前Experience LeagueLIVE活動的連結集合
 solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -8,16 +8,16 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 34b3c72c487bd43cd8b1ec0e94e107dfb72be850
+source-git-commit: b38221f215d93a24838a607da1def2129f398bb3
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 44%
+ht-degree: 3%
 
 ---
 
 # Experience League LIVE
 
-Experience League LIVE 是 Experience League 團隊製作的直播串流節目。您可以藉此機會與 Adobe 產品專家交流，並學到您可以透過 Adobe Experience Cloud 應用程式應用可落實的秘訣、技巧和策略。
+「即時Experience League」是Experience League團隊製作的直播串流節目。  您可以藉此機會與Adobe產品專家交流，並學到您可以透過Adobe Experience Cloud應用程式應用可落實的秘訣、技巧和策略。
 
 <div id="upcoming-events">
 
@@ -26,9 +26,16 @@ Experience League LIVE 是 Experience League 團隊製作的直播串流節目�
 <table>
 <tr>
 
-<td style="vertical-align: top;"><b>請儘快返回本頁，深入瞭解我們的2024年6月節目：</b><br/>
-    *適用於Adobe Real-time Customer Data Platform的H1 2024版本<br/>
-    * Adobe Workfront統一檢閱與核准
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
+      <img alt="Experience League直播6月26日" src="episodes/assets/WebBanner-June26-2024.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-06-26-24.md">
+        <strong>最新Adobe Real-Time CDP發行版本如何推動您的業務發展</strong>
+      </a>
+      <br/><em>與Nina Caruso、Rudi Shumpert和Doug Moore合作</em>
+      <br/><em>2024年6月26日</em>
+    </div>
   </td>
 </tr>
 </table>
@@ -94,4 +101,4 @@ Experience League LIVE 是 Experience League 團隊製作的直播串流節目�
 
 >[!TIP]
 >
->如需其他學習方法，請查看我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
+>如需其他學習方法，請檢視我們的免費試用 [課程](https://experienceleague.adobe.com/#dashboard/learning) 以及個人 [教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant).
