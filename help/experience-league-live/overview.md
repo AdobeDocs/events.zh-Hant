@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: b38221f215d93a24838a607da1def2129f398bb3
+source-git-commit: 33de0c8d1af0afe68c602cc566f9fb91a148a302
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '166'
 ht-degree: 3%
 
 ---
@@ -26,16 +26,8 @@ ht-degree: 3%
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
-      <img alt="Experience League直播6月26日" src="episodes/assets/WebBanner-June26-2024.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-06-26-24.md">
-        <strong>最新Adobe Real-Time CDP發行版本如何推動您的業務發展</strong>
-      </a>
-      <br/><em>與Nina Caruso、Rudi Shumpert和Doug Moore合作</em>
-      <br/><em>2024年6月26日</em>
-    </div>
+<td style="vertical-align: top;">
+      <b>請稍後回來學習新的即將上線的節目！ 同時，請按一下下方或左側導覽的連結，檢視我們之前的集數。</b>
   </td>
 </tr>
 </table>
