@@ -8,13 +8,13 @@ doc-type: Event
 duration: 2148
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15558
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+exl-id: 1ab0e81c-50eb-4416-baa1-e80572ffe783
+source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # 使用Adobe Workfront實現效率最大化：精益團隊網路研討會
 
@@ -27,3 +27,31 @@ ht-degree: 0%
 * 持續學習和適應
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429287/?learn=on)
+
+## 會議概觀
+
+會議聚焦於「精益團隊」和Adobe Workfront的效率最大化。 以下是重點討論內容的摘要，
+
+**精簡團隊與效率**
+
+* 討論精益團隊面臨的挑戰。
+* 強調精益管理的目標與優點。
+* 強調與精益管理相關的原則。
+
+**效率策略**
+
+* 持續改進的重要性。
+* 簡化通訊。
+* 制定資料導向式決策。
+
+**Workfront工具**
+
+* 運用Workfront工具（例如Blueprint、資源規劃師和整合）以取得成功。
+
+**重要技巧**
+
+* 提升效率的策略。
+* 通訊簡化。
+* 資料導向式決策。
+* 培養學習的心態。
+* 與Workfront社群互動，以獲得支援和最佳實務。

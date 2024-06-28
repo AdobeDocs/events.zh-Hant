@@ -7,24 +7,28 @@ doc-type: Event
 duration: 3280
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15561
-source-git-commit: e4b0d3ac265fc290580421f1ce37f3ce8f7aa97d
+exl-id: 862e7cf3-079e-4a43-a4c2-3f7157e8efe9
+source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
-
 
 # Web SDK Migration Essentials
 
 瞭解應用程式Measurement/AT.js與Web SDK的差異、移轉方式、移轉時間上的考量事項、移轉選項以及預期的資料差異。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429291/?learn=on)
-
-## 主要討論點
+## 涵蓋的關鍵主題
 
 * 什麼是Web SDK？
 * 移轉步驟與考量事項
 * 移轉時間
 * 要避免的常見錯誤和陷阱
 
+>[!VIDEO](https://video.tv.adobe.com/v/3429291/?learn=on)
+
+
+## 摘要
+
+會議以移轉至Web SDK的要領為中心，這是JavaScript程式庫，可讓您以不受解決方案限制的方式與服務互動。&#x200B;URL討論的要點包括移轉的步驟，例如設定許可權、設定方案、建立資料串流和對映資料。 對於處理資料變異和決定具有Analytics和Target的使用者端移轉順序，已進行考量。 共用的深入見解包括跨裝置追蹤方法、在頁面載入開始時引發分析，以及使用Adobe標籤的重要性。 會議結束時，我們建議大家完成投票、報名參加即將舉辦的網路研討會，並感謝主持人和參與者貢獻的時間與參與。
