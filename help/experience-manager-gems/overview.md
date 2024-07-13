@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM講座
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 338f58a58dc88d72fc641eb51d87ca4bf410be02
+source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 <img alt="數位體驗" src="./assets/ADX_Gems.png"/>
 
-## 即將舉辦的AEM GEM活動
+## 即將舉行的AEM GEM網路研討會 — 在AEM Cloud Manager中整合私人GitHub存放庫
 
-即將推出的網路研討會將於2024年7月公佈。
+此網路研討會將於7月31日星期三下午5點（CEST /太平洋夏令時間/上午8點/晚上8:30 IST）進行。 請注意，此網路研討會只需要註冊 — 請在[這裡](https://adobe.ly/3LmXfGk)註冊。
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -50,17 +50,17 @@ ht-degree: 0%
 
 ## 先前的AEM GEM事件
 
-我們最新的AEM GEM網路研討會於 **使用我們新的API和事件改善AEM Assets的開發人員體驗** 已執行於 *2024年6月19日*.
-此 **錄製** 您可在此處找到：
-[使用我們新的API和事件改善AEM Assets的開發人員體驗](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
+我們於&#x200B;**舉辦的最新AEM GEM網路研討會**&#x200B;已使用我們新的API和活動改善AEM Assets的開發人員體驗&#x200B;*2024年6月19日*。
+您可在下列位置找到**錄製**：
+[使用新的API和活動改善AEM Assets的開發人員體驗](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
 
 >[!NOTE]
 >
-> 註冊即可收到有關即將舉辦的AEM GEM網路研討會和其他與AEM相關活動的通知 —  [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
+> 註冊以接收即將舉行的AEM GEM網路研討會與其他AEM相關活動的通知 — [Adobe的AEM使用者群組](https://aem-augs.adobe.com/)。
 
 ## AEM GEM — 圍繞AEM的技術網路研討會 — 由開發人員提供
 
-歡迎使用 **AEM GEMs**  — 我們由Adobe專家提供的關於Adobe Experience Manager的一系列技術深入探討。 此系列補充了產品檔案和所有其他有關Adobe Experience Manager的技術管道，讓開發人員可以接觸並深入瞭解特定主題。
+歡迎使用&#x200B;**AEM GEM** — 我們由Adobe專家提供的有關Adobe Experience Manager的一系列技術深入探討。 此系列補充了產品檔案和所有其他有關Adobe Experience Manager的技術管道，讓開發人員可以接觸並深入瞭解特定主題。
 
 這些網路研討會將定期進行，包括以下內容：
 
@@ -71,7 +71,7 @@ ht-degree: 0%
 
 ## Experience League社群
 
-我們的 [Experience Manager社群](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) 在支援產品採用和客戶成功上扮演關鍵角色。
+我們的[Experience Manager社群](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)在支援產品採用和客戶成功方面扮演關鍵角色。
 
 * 連線：與同行和Adobe人員建立網路，以獲得從實作到擴大產品使用的指引和最佳實務
 * 快速解答：廣泛的真實使用案例解答，可支援成功主動使用Adobe解決方案
