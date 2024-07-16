@@ -9,7 +9,7 @@ doc-type: Event
 duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 7582ea084cdfe20cfc5bd4c62a5a1234b5c3bcac
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 獨家的MUG Leader訓練，內容涵蓋即將進行之Adobe Admin Console移轉。 此會議將採用「訓練訓練員」的形式，以便您能學習內容，並教育您的章節瞭解此即將進行的變更。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430626/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
 ## 概觀
 
