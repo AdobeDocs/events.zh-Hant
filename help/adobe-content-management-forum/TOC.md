@@ -16,10 +16,10 @@ ht-degree: 1%
 + [Adobe內容管理論壇](overview.md)
 + 2022 年{#2022}
    + [歡迎致辭和AEM概述](2022/welcome.md)
-   + [擴充Adobe [!DNL Experience Manager] Headless搭配 [!DNL Adobe App Builder]](2022/headless.md)
+   + [使用 [!DNL Adobe App Builder]延伸Adobe [!DNL Experience Manager] Headless](2022/headless.md)
    + [開發人員最佳實務](2022/developer-best-practices.md)
    + [提供內容個人化](2022/personalization.md)
    + [建立可擴充的內容供應鏈](2022/supply-chain.md)
-   + [[!DNL Experience Manager as a Cloud Service] 創新](2022/innovations.md)
-   + [全部資產](2022/assets-for-all.md)
+   + [[!DNL Experience Manager as a Cloud Service]個創新](2022/innovations.md)
+   + [適用於所有使用者的Assets](2022/assets-for-all.md)
    + [AEM Forms — 簡化、整合、無周邊功能](2022/forms-headless.md)

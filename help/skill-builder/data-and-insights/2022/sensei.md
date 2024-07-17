@@ -19,6 +19,6 @@ ht-degree: 0%
 
 探索如何運用Adobe所提供的人工智慧Sensei架構，聰明地分析客戶和受眾區段，以找出有意義的差異、歸因轉換因子並預測未來行為。
 
-*馬提亞斯·科利奇* 資深多解決方案培訓師EMEA/Adobe
+*Matthias Kolitsch*&#x200B;資深多解決方案培訓師EMEA /Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343830/?quality=12&learn=on)

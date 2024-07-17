@@ -12,7 +12,7 @@ exl-id: 1621c837-6c27-4411-9747-41d9aceb3c1e
 duration: 2624
 source-git-commit: 07a0a88da92652a6f07f65ba369e17cfe85fdafd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 採訪HTTP通訊協定共同作者兼REST發明者Roy Fielding，瞭解HTTP從早期到目前QUIC和HTTP/3工作的演變。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/36Yd3v6)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/36Yd3v6)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331738/?quality=12&learn=on&hidetitle=true)

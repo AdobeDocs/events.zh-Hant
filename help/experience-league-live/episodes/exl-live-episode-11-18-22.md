@@ -19,13 +19,13 @@ ht-degree: 0%
 
 # 在辦公室或行動中進行Analytics
 
-**透過Adobe隨時隨地提供順暢的深入分析[!DNL Analytics]**
+**隨時隨地透過Adobe[!DNL Analytics]**&#x200B;進行順暢分析
 
 由於需要您投入大量時間和精力，因此無論您是在辦公桌前還是在外面，都必須在任何環境中建立並存取業務深入分析。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410834/?quality=12&learn=on)
 
-觀看上方影片以觀看此直播串流活動，其中Adobe [!DNL Analytics] 專家在Analysis Workspace和 [!DNL Analytics] 儀表板應用程式。
+觀看上方影片以檢視此即時資料流活動，Adobe[!DNL Analytics]專家提供一些在Analysis Workspace和[!DNL Analytics]儀表板應用程式中自訂和存取見解的絕佳秘訣。
 
-有任何問題嗎？ 繼續在Adobe Experience League上討論此主題 [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037).
+有任何問題嗎？ 繼續在Adobe Experience League [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037)上討論此主題。
 

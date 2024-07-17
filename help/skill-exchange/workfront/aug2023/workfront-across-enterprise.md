@@ -27,6 +27,8 @@ IPG Health的Production Intelligence EVP Dale Whitchurch將分享他和他的團
 
 您會聽到，
 
-他們如何隨著時間發展其流程和基礎建設將Workfront整合至更廣泛的技術棧疊和成熟關鍵工作流程的實用建議IPG如何為內容供應鏈奠定基礎
+他們如何隨著時間發展其流程和基礎架構
+將Workfront整合至您更廣泛的技術棧疊中，並讓關鍵工作流程成熟的實際建議
+IPG如何為內容供應鏈奠定基礎
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425810/?learn=on)

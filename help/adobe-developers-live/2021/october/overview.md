@@ -20,8 +20,8 @@ ht-degree: 9%
 橫跨Adobe Experience Cloud、Document Cloud和Creative Cloud的Adobe產品團隊展示了跨產業推動設計、內容創作工作流程、檔案服務和客戶體驗管理的最新技術進步和開發人員工具。
 
 與其他開發人員連絡並加入Experience League社群中的工作階段交談。
-* [Adobe Developer App Builder完整工作階段清單](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
-* [AEM完整工作階段清單](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041#M120517)
+* [Adobe Developer App Builder完成工作階段清單](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
+* [AEM完成工作階段清單](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041#M120517)
 
 ## 反白顯示
 
@@ -33,7 +33,7 @@ ht-degree: 9%
       </a>
       <div>
          <a href="headless.md"><strong>Headless網站</strong></a>         
-         <br/><em>AEM Sites首席產品經理Mathias Siegel</em>
+         <br/><em>與AEM Sites主要產品經理Mathias Siegel</em>
       </div>
       <p>
         <br/>
@@ -46,7 +46,7 @@ ht-degree: 9%
       </a>
       <div>
          <a href="aep-integration.md"><strong>Adobe Experience Platform整合概述</strong></a>
-         <br/><em>與主要企業解決方案設計師Eric Knee合作</em>
+         <br/><em>與Eric Knee，主要企業解決方案架構師</em>
       </div>
       <p>
         <br/>
@@ -60,7 +60,7 @@ ht-degree: 9%
       </a>
       <div>
          <a href="pdf-services-api.md"><strong>使用Adobe Sign API在您的應用程式中產生檔案並擷取電子簽章</strong></a>
-         <br/><em>與首席開發商Evangelist Ben Vanderberg</em>
+         <br/><em>與Ben Vanderberg，主要開發人員宣傳專員</em>
       </div>
       <p>
         <br/>
@@ -72,7 +72,7 @@ ht-degree: 9%
 
 >[!TIP]
 >
->**左側導覽中會列出所有工作階段**.
+>**所有工作階段都列在左側導覽中**。
 
 ## 其他資源
 
@@ -83,7 +83,7 @@ ht-degree: 9%
 * [AEM Sites開發檔案](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
 * [AEM Sites管理檔案](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
 * [AEM Sites部署檔案](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
-* [AEMas a Cloud ServiceTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html)
+* [AEM as a Cloud ServiceTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=zh-Hant)
 * [AEM Assets 教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
 * [AEM Forms 教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
 * [AEM Foundation 教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
@@ -96,6 +96,6 @@ ht-degree: 9%
 
 ### App Builder
 
-* [App Builder概述](https://adobe.ly/aem-appbuilder)
+* [App Builder概觀](https://adobe.ly/aem-appbuilder)
 * [App Builder開發人員指南](https://adobe.ly/appbuilder)
 * [App Builder試用方案註冊](https://adobe.ly/appbuilder-trial)

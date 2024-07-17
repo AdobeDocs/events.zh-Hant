@@ -12,8 +12,8 @@ ht-degree: 0%
 
 # Marketo和Mochas
 
-歡迎使用Marketo和Mochas錄製。 結合使用這些資源與AdobeMarketo [檔案](https://experienceleague.adobe.com/docs/marketo-engage.html) 和 [教學課程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)，您將會更進一步瞭解如何使用AdobeMarketo來支援您的業務。
+歡迎使用Marketo和Mochas錄製。 若將這些資源與AdobeMarketo [檔案](https://experienceleague.adobe.com/docs/marketo-engage.html)和[教學課程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)搭配使用，您將會更瞭解如何使用AdobeMarketo支援您的業務。
 
 >[!TIP]
 >
->**所有錄製的作業階段都會列在左側的導覽中**.
+>**所有錄製的工作階段都會列在左側導覽中**。

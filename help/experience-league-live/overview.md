@@ -27,7 +27,7 @@ ht-degree: 3%
 <tr>
 
 <td style="vertical-align: top;">
-      <b>請稍後回來學習新的即將上線的節目！ 同時，請按一下下方或左側導覽的連結，檢視我們之前的集數。</b>
+      <b>快點回來學習新的即將上線的節目！ 同時，請按一下下方或左側導覽中的連結，檢視我們之前的集數。</b>
   </td>
 </tr>
 </table>
@@ -56,9 +56,9 @@ ht-degree: 3%
     </a>
     <div>
       <a href="/help/experience-league-live/episodes/exl-live-episode-04-21-22.md">
-        <strong>從AEM頭到無頭</strong>
+        從Headful到Headless的<strong>AEM</strong>
       </a>
-      <br/><em>與Danny Gordon、Amol Anand、Sachin Mali和Sean Steimer合作</em>
+      <br/><em>與Danny Gordon、Amol Anand、Sachin Mali和Sean Steimer</em>
       <br/><em>2022年4月21日</em>
     </div>
   </td>
@@ -69,7 +69,7 @@ ht-degree: 3%
     </a>
     <div>
       <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics — 內幕消息</strong></a>
-      <br/><em>與特雷弗·鮑爾森、羅希特·高斯恩、亞歷克斯·斯特勞恩</em>
+      <br/><em>與Trevor Paulsen， Rohit Gossain， Alex Strawn</em>
       <br/><em>2021年1月25日</em>
     </div>
   </td>
@@ -80,9 +80,9 @@ ht-degree: 3%
     </a>
     <div>
       <a href="episodes/exl-live-episode-05-26-22.md">
-        <strong>詢問專家：Web SDK基礎知識</strong>
+        <strong>詢問專家：Web SDK的基本知識</strong>
       </a>
-      <br/><em>與Rudi Shumpert、Jeff Chasin和Eric Matisoff合作</em>
+      <br/><em>與Rudi Shumpert、Jeff Chasin和Eric Matisoff</em>
       <br/><em>2022年5月26日</em>
     </div>
   </td>
@@ -93,4 +93,4 @@ ht-degree: 3%
 
 >[!TIP]
 >
->如需其他學習方法，請檢視我們的免費試用 [課程](https://experienceleague.adobe.com/#dashboard/learning) 以及個人 [教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant).
+>如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。

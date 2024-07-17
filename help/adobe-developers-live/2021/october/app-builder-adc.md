@@ -1,6 +1,6 @@
 ---
 title: Adobe Developer Console簡介
-description: Adobe Developer主控台是AdobeAPI、事件、執行階段和應用程式產生器的閘道。 加入我們，概略瞭解Adobe Developer生態系統提供的服務和工具。
+description: Adobe Developer Console是AdobeAPI、事件、執行階段和App Builder的閘道。 加入我們，概略瞭解Adobe Developer生態系統提供的服務和工具。
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -14,15 +14,15 @@ duration: 1898
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 12%
+ht-degree: 11%
 
 ---
 
 # Adobe Developer Console簡介
 
-Adobe Developer主控台是AdobeAPI、事件、執行階段和應用程式產生器的閘道。 加入我們，概略瞭解Adobe Developer生態系統提供的服務和工具。
+Adobe Developer Console是AdobeAPI、事件、執行階段和App Builder的閘道。 加入我們，概略瞭解Adobe Developer生態系統提供的服務和工具。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/2Y2DDld)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/2Y2DDld)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337771/?quality=12&learn=on&hidetitle=true)
 

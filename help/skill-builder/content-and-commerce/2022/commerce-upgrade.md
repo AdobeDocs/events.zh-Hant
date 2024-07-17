@@ -1,6 +1,6 @@
 ---
 title: 關於Adobe Commerce 2.4.4升級，您只需要知道就能了
-description: 作為2.4.4。Commerce Service Pack已上市，瞭解計畫和提供升級所需的權益和所有。
+description: 作為2.4.4。Commerce Service Pack已推出，深入瞭解各項權益，以及計畫和提供升級所需瞭解的一切。
 solution: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # 關於Adobe Commerce 2.4.4升級，您只需要知道就能了
 
-作為2.4.4。Commerce Service Pack已上市，瞭解計畫和提供升級所需的權益和所有。
+作為2.4.4。Commerce Service Pack已推出，深入瞭解各項權益，以及計畫和提供升級所需瞭解的一切。
 
 *Bethan Williams-James* Commerce解決方案顧問/Adobe
 

@@ -8,7 +8,7 @@ duration: 3581
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19464/?quality=9)
 
-*2014年8月13日送達*
+*已於2014年8月13日傳遞*
 
 **展示者：**
 
@@ -30,5 +30,5 @@ Siddharth Palaniswami，資深軟體工程主管，Adobe
 
 ## 相關連結 {#related-links}
 
-* [程式碼範例的Github連結](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
+* 程式碼範例的[Github連結](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
 * [社交元件架構](https://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)

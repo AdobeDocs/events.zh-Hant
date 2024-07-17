@@ -49,7 +49,7 @@ Workfront活動錄音庫，專家和同行可在此分享如何使用Workfront�
       <img alt="行銷中的敏捷" src="assets/agile-in-marketing.png"/>
       </a>
       <div>
-         <a href="user-groups/agile-in-marketing.md"><strong>行銷中的敏捷</strong></a>
+         行銷中的<a href="user-groups/agile-in-marketing.md"><strong>敏捷</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>

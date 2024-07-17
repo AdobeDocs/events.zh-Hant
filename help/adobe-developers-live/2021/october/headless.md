@@ -22,7 +22,7 @@ ht-degree: 3%
 
 Adobe Experience Manager 6.5和Adobe Experience Manager as a Cloud Service提供適用於內容片段的GraphQL ，讓我們探討如何將Adobe Experience Manager用作Headless CMS。 不使用Adobe Experience Manager編碼，使用內容片段模型定義結構化內容、它們之間的關係、如何最佳化從業人員編輯體驗，然後使用GraphQL和持續性查詢，以可快取、低延遲/高輸送量的方式將內容傳送給您的應用程式和服務。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/39H5BWo).**
+繼續&#x200B;**[Experience League社群](https://adobe.ly/39H5BWo).**&#x200B;中的交談
 
 >[!VIDEO](https://video.tv.adobe.com/v/337576/?quality=12&learn=on&hidetitle=true)
 

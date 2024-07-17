@@ -1,5 +1,5 @@
 ---
-title: 全部資產
+title: 適用於所有使用者的Assets
 description: 聽取Purnima Rachoor Roy介紹Assets Essentials如何成為適用於部門與中型企業的新數位資產管理系統。
 solution: Experience Manager, Experience Manager Assets, Experience Manager as a Cloud Service
 feature: Asset Management
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 全部資產
+# 適用於所有使用者的Assets
 
-聽取Purnima Rachoor Roy如何操作 [!DNL Assets Essentials] 是新的 [!DNL Digital Asset Management] 適用於部門與中型公司的系統。
+聽取Purnima Rachoor Roy介紹[!DNL Assets Essentials]如何成為適用於部門與中型公司的新[!DNL Digital Asset Management]系統。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345378/?quality=12&learn=on)

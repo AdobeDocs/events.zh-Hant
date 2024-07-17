@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 加速您的Web體驗！
 
-**瞭解快速和最快速之間的差異**
+**瞭解快速和最快之間的差異**
 
 網站載入時間與整體效能會直接影響客戶滿意度，並提升轉換率。
 
@@ -27,5 +27,5 @@ ht-degree: 0%
 
 觀看上述影片以觀看此直播串流活動，Adobe體驗傳送專家會討論要考慮的事項，以及您可以採取哪些步驟來提高效能。
 
-**有任何問題嗎？** 繼續在Adobe Experience League上討論此主題 [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513#M36836).
+**有任何問題嗎？**&#x200B;繼續在Adobe Experience League [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513#M36836)上討論此主題。
 

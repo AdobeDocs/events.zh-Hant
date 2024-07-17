@@ -22,7 +22,7 @@ ht-degree: 7%
 
 從其他人最常見的錯誤中學習，這樣您就可以避免這些錯誤！ 在這場會議中，我們將瞭解我們的隨叫隨到和支援工程師所看到的一些常見問題，並討論最佳實務，以確保您在自己的Adobe Experience Manager as a Cloud Service實施中能夠避免這些問題。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/3kLQK3j)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/3kLQK3j)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337852/?quality=12&learn=on&hidetitle=true)
 

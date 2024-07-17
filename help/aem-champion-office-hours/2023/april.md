@@ -1,6 +1,6 @@
 ---
 title: AEM Champion營業時間 — 4月版
-description: 加入我們，參加4月版的Adobe AEM Champion諮詢時間，Adobe Experience Manager Champion小組將討論最佳實務、分享秘訣，並參與圍繞AEMas a Cloud Service的即時問答。 無論您是AEM的新手、對於轉換至Cloud Service存有任何疑問，或只是想了解轉換至AEMas a Cloud Service如何滿足您組織的需求，您一定可以從我們的Adobe Experience Manager Champions獲得一些有價值的深入分析。
+description: 加入我們，參加4月版的Adobe AEM Champion諮詢時間，Adobe Experience Manager Champion小組將討論最佳實務、分享秘訣，並參與圍繞AEM as a Cloud Service的即時問答。 無論您是AEM的新手、對於轉換至Cloud Service存有任何疑問，或只是想了解轉換至AEM as a Cloud Service如何滿足您組織的需求，您一定可以從我們的Adobe Experience Manager Champions獲得一些有價值的見解。
 solution: Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager
@@ -21,8 +21,8 @@ ht-degree: 0%
 
 # AEM Champion營業時間 — 4月版
 
-加入我們，參加4月版的Adobe AEM Champion諮詢時間，作為 [Adobe Experience Manager Champions |https://business.adobe.com/blog/the-latest/introducing-the-very-first-adobe-experience-manager-champion-class]討論最佳實務、分享秘訣，並參與圍繞AEMas a Cloud Service的即時問答。
+加入我們，以[Adobe Experience Manager Champion小組身分參加Adobe的4月版AEM Champion營業時間 |https://business.adobe.com/blog/the-latest/introducing-the-very-first-adobe-experience-manager-champion-class]討論最佳實務、分享秘訣，並參與圍繞AEM as a Cloud Service的即時問答。
 
-無論您是AEM的新手、對於轉換至Cloud Service存有任何疑問，或只是想了解轉換至AEMas a Cloud Service如何滿足您組織的需求，您一定可以從我們的Adobe Experience Manager Champions獲得一些有價值的深入分析。
+無論您是AEM的新手、對於轉換至Cloud Service存有任何疑問，或只是想了解轉換至AEM as a Cloud Service如何滿足您組織的需求，您一定可以從我們的Adobe Experience Manager Champions獲得一些有價值的見解。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419001/?learn=on)

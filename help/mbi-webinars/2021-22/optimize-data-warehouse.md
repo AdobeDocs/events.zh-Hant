@@ -1,5 +1,5 @@
 ---
-title: 最佳化您的Commerce IntelligenceData Warehouse
+title: 最佳化Commerce IntelligenceData Warehouse
 description: 觀看此網路研討會，瞭解更多有關Data Warehouse管理員的資訊。
 landing-page-description: 觀看此錄製的網路研討會至
 short-description: 觀看此錄製的網路研討會至
@@ -13,15 +13,15 @@ duration: 3154
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# 最佳化您的Commerce IntelligenceData Warehouse
+# 最佳化Commerce IntelligenceData Warehouse
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence先前稱為 [!DNL Magento Business Intelligence (MBI)]. 過去活動的錄影反映了先前的名稱。
+>Adobe Commerce Intelligence先前稱為[!DNL Magento Business Intelligence (MBI)]。 過去活動的錄影反映了先前的名稱。
 
 使用「Data Warehouse管理員」，您可以管理表格和欄同步設定、深入研究表格的綱要，並建立計算欄以用於報表。
 
@@ -37,11 +37,11 @@ ht-degree: 1%
 - Data Warehouse檢視
 - 問題與解答
 
-## 影片內容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/342562?quality=12&learn=on)
 
 ## 有用的資源
 
-[將資料庫最佳化以供分析](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
+[正在最佳化您的資料庫以進行分析](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
 [分段和篩選的建議資料Dimension](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)

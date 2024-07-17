@@ -1,5 +1,5 @@
 ---
-title: 建立大規模個人化的基礎
+title: 大規模建立Personalization的基礎
 description: 此網路研討會著重瞭解大規模協調個人化所需的基礎
 solution: Experience Cloud
 topic: Personalization
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# 建立大規模個人化的基礎
+# 大規模建立Personalization的基礎
 
 此網路研討會著重瞭解大規模協調個人化所需的基礎
 

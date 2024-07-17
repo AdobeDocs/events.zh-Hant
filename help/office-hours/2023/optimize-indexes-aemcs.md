@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 使用AEM Cloud Service最佳化索引的基礎
 
-此即時會議推出使用AEMas a Cloud Service(AEMaaCS)編制索引的功能。 我們將介紹 — 索引變更以及其對不同專案的影響、客戶在AEMaaCS上索引時面臨的挑戰，以及最佳化這些索引的最佳實務
+此即時會議推出使用AEM as a Cloud Service (AEMaaCS)編制索引的功能。 我們將介紹 — 索引變更以及其對不同專案的影響、客戶在AEMaaCS上索引時面臨的挑戰，以及最佳化這些索引的最佳實務
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422534/?learn=on)

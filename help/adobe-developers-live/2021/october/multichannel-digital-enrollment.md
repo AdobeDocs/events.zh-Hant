@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Manager FormsCloud Service — 安全的多通道數位註冊
-description: 瞭解如何使用Adobe Experience Manager Formsas a Cloud Service建立現代安全、現代的數位註冊體驗。 此會議將重點說明保護工作流程中處理之資料安全、將提交的資料外部化至Azure儲存空間的最佳實務，並使用Adobe收集深入分析 [!DNL Analytics] 雲端服務上的最適化Forms。
+description: 瞭解如何使用Adobe Experience Manager Forms as a Cloud Service建立現代安全、現代的數位註冊體驗。 此會議將重點說明保護工作流程中處理之資料安全的最佳實務、將提交的資料外部化至Azure儲存空間，以及使用Adobe [!DNL Analytics] 搭配Adaptive Forms on cloud service收集深入分析。
 solution: Experience Manager,Experience Manager Forms
 role: User
 level: Beginner
@@ -18,13 +18,13 @@ ht-degree: 7%
 
 # Adobe Experience Manager FormsCloud Service — 安全的多通道數位註冊
 
-瞭解如何使用Adobe Experience Manager Formsas a Cloud Service建立現代安全、現代的數位註冊體驗。
+瞭解如何使用Adobe Experience Manager Forms as a Cloud Service建立現代安全、現代的數位註冊體驗。
 
-此會議將重點說明保護工作流程中處理之資料安全、將提交的資料外部化至Azure儲存空間的最佳實務，並使用Adobe收集深入分析 [!DNL Analytics] 雲端服務上的最適化Forms。
+此工作階段將重點說明保護工作流程中處理之資料安全的最佳實務、將提交的資料外部化至Azure儲存空間，以及使用Adobe[!DNL Analytics]搭配Adaptive Forms雲端服務收集深入分析。
 
 我們也將在藍圖上包括一些整合專案的預覽，例如Microsoft PowerAutomate和Teams與Adobe Experience Manager Forms的整合。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/3CQjKgg)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/3CQjKgg)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337887/?quality=12&learn=on&hidetitle=true)
 

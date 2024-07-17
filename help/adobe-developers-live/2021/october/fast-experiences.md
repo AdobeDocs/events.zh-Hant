@@ -22,7 +22,7 @@ ht-degree: 3%
 
 Adobe Experience Manager as a Cloud Service的設計宗旨是有效率且有效地提供內容。 對於擁有設計良好的快取和失效策略的專案來說，這是此效率的關鍵要素。 在本次研討會中，我們將介紹一些我們看到專案落入的陷阱，並提供有關如何改善您的快取命中率和快取涵蓋範圍的秘訣，例如真實世界案例中的範例。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/3CUkzoB)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/3CUkzoB)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337846/?quality=12&learn=on&hidetitle=true)
 

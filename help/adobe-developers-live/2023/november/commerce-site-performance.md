@@ -1,6 +1,6 @@
 ---
-title: 最佳化Commerce網站效能的策略
-description: 提升您的商務體驗 — 深入瞭解我們的簡報，瞭解將網站效能最佳化的策略。 探索提升速度、回應速度及客戶滿意度的技術與最佳實務，推動您的線上業務向前發展。
+title: Commerce網站效能最佳化策略
+description: 提升您的Commerce體驗 — 深入瞭解我們的簡報，瞭解網站效能最佳化的策略。 探索提升速度、回應速度及客戶滿意度的技術與最佳實務，推動您的線上業務向前發展。
 solution: Commerce
 feature-set: Commerce
 feature: Site Management
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 ---
 
-# 最佳化Commerce網站效能的策略
+# Commerce網站效能最佳化策略
 
-提升您的商務體驗 — 深入瞭解我們的簡報，瞭解將網站效能最佳化的策略。 探索提升速度、回應速度及客戶滿意度的技術與最佳實務，推動您的線上業務向前發展。
+提升您的Commerce體驗 — 深入瞭解我們的簡報，瞭解網站效能最佳化的策略。 探索提升速度、回應速度及客戶滿意度的技術與最佳實務，推動您的線上業務向前發展。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426314/?learn=on)

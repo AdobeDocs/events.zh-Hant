@@ -1,6 +1,6 @@
 ---
-title: 利用Adobe提升您的跨管道行銷 [!DNL Campaign Classic]
-description: 深入探討Adobe的工作流程、自動化、個人化和測量 [!DNL Campaign Classic] 客戶。
+title: 使用Adobe [!DNL Campaign Classic]提升您的跨管道行銷
+description: 深入探討Adobe [!DNL Campaign Classic] 客戶的工作流程、自動化、個人化和測量。
 version: Classic v7
 solution: Campaign
 kt: 10506
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# 利用Adobe提升您的跨管道行銷 [!DNL Campaign Classic]
+# 使用Adobe[!DNL Campaign Classic]提升您的跨管道行銷
 
-深入探討Adobe的工作流程、自動化、個人化和測量 [!DNL Campaign Classic] 客戶。
+深入探討Adobe[!DNL Campaign Classic]客戶的工作流程、自動化、個人化和測量。
 
 >[!VIDEO](https://video.tv.adobe.com/v/343524/?quality=12&learn=on)

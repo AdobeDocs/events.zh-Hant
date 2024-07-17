@@ -1,6 +1,6 @@
 ---
 title: Nurture 101 — 利用參與計畫與客戶互動
-description: 瞭解中參與計畫的基本知識 [!DNL Marketo Engage] 包括範例使用案例和提示與秘訣。
+description: 瞭解 [!DNL Marketo Engage] 內參與計畫的基本知識，包括範例使用案例和秘訣與技巧。
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 # Nurture 101 — 利用參與計畫與客戶互動
 
-瞭解中參與計畫的基本知識 [!DNL Marketo Engage] 包括範例使用案例和提示與秘訣。
+瞭解[!DNL Marketo Engage]內參與計畫的基本知識，包括範例使用案例和提示與秘訣。
 
-**重要技巧**
+**金鑰套餐**
 
 * 進一步瞭解Marketo參與計畫及其獨特功能
 * 瞭解計畫設定和最佳實務，以及它們如何套用於現實世界的使用案例

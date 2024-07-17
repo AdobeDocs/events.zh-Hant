@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19572/?quality=9)
 
-*2013年9月18日傳遞*
+*已於2013年9月18日傳遞*
 
 **展示者：**
 
@@ -26,4 +26,4 @@ Adobe電腦科學家Bruce Lefebvre
 
 ## 相關連結 {#related-links}
 
-[簡報者幻燈片和資源](https://brucelefebvre.com/blog/2013/09/18/cq-gems-mobile-first-development/)
+[簡報者投影片及資源](https://brucelefebvre.com/blog/2013/09/18/cq-gems-mobile-first-development/)

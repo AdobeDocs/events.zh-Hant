@@ -30,5 +30,5 @@ ht-degree: 0%
 
 **按一下上方影像以觀看節目！**
 
-繼續討論 [Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
+繼續討論[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132)。
 

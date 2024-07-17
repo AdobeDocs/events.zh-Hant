@@ -1,6 +1,6 @@
 ---
-title: 創意代理 — Workfront Proof （2020年8月11日）
-description: 聽Cindy Reichert談論Brown-Forman如何運用Workfront Proof。
+title: 廣告公司 — Workfront Proof （2020年8月11日）
+description: 聽辛迪·賴歇特談論Brown-Forman如何利用Workfront Proof。
 role: User
 level: Beginner, Intermediate
 kt: 9999
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 創意代理商：Workfront Proof （2020年8月11日）
 
-聽Cindy Reichert談論Brown-Forman如何運用Workfront Proof。
+聽辛迪·賴歇特談論Brown-Forman如何利用Workfront Proof。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341411/?quality=12&learn=on)

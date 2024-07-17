@@ -8,7 +8,7 @@ duration: 4010
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ HTL是全新的範本引擎和語言實作。 HTL努力取代JSP成為Apache Sli
 
 >[!VIDEO](https://video.tv.adobe.com/v/19504/?quality=9)
 
-*2014年6月25日傳遞*
+*已於2014年6月25日傳遞*
 
 **展示者：**
 
@@ -28,7 +28,7 @@ Gabriel Walt，Adobe產品經理
 
 [取得檔案](assets/sightly-component-development.pdf)
 
-**工作階段問答**
+**工作階段問答集**
 
 [取得檔案](assets/introduction-to-sightly-q-as.pdf)
 

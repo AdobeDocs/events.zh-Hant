@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # AEM GEM功能 — 客戶使用案例與使用中AEM Headless的實作
 
-*此網路研討會已進行於&#x200B;**10月12日星期三下午3點(UTC)**. 錄製內容如下。*
+*此網路研討會已於10月12日（星期三）下午3點(UTC **)進行。**此錄製可在下方使用。*
 
 這次特別的AEM GEM講座提供兩位以客戶身分操作AEM的演講者。 此工作階段將分成兩半，如下所示：
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 主持人： Vengadesh Shanmugavelu — 卡達航空技術架構師
 
-**工作階段說明：**
+**工作階段描述：**
 有許多方式可透過AEM實作Headless CMS。
 在本次研討會中，我們將介紹下列內容：
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 簡報者： Debal Das - IBM資深系統分析師
 
-**工作階段說明：**
+**工作階段描述：**
 在本次研討會中，我們將涵蓋GraphQL對內容片段的使用（除了已存在的JSON API之外）。
 
 從概念上說，GraphQL類似於SQL資料庫查詢，唯一例外是將API用於查詢，而不是資料庫。
@@ -54,5 +54,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* 如需Experience League上特定工作階段的社群互動，請造訪此 [內容執行緒](https://adobe.ly/3r6P4nr)
->* 若要收到有關網路研討會的自動通知，請註冊於 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
+>* 若為Experience League上的工作階段特定社群互動，請造訪此[內容對話串](https://adobe.ly/3r6P4nr)
+>* 若要接收有關網路研討會的自動通知，請在[Adobe的AEM使用者群組](https://aem-augs.adobe.com/)註冊。

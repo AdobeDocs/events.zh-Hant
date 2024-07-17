@@ -24,7 +24,7 @@ ht-degree: 1%
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html">
-        <strong>使用Adobe Target實現個人化和自動化</strong>
+        <strong>使用Adobe Target進行個人化和自動化</strong>
       </a>
     </div>
     <p>
@@ -37,11 +37,11 @@ ht-degree: 1%
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/innovations.html">
-        <strong>2022年創新和趨勢</strong>
+        <strong>2022年創新與趨勢</strong>
       </a>
     </div>
     <p>
-    <em>在本主旨會議中，您將瞭解D&amp;I的主要趨勢。加入我們，探索如何充分發揮Experience Cloud投資的最大效益，並窺探新的創新內容，以妥善運用您的資料。</em>
+    <em>在本主題演講中，您將瞭解D&amp;I的主要趨勢。加入我們，探索如何充分發揮Experience Cloud投資的最大效益，進而妥善運用您的資料，並窺探新的創新。</em>
     <p>
   </td>  
   <td>
@@ -50,11 +50,11 @@ ht-degree: 1%
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/mobile-and-apps.html">
-        <strong>適用於行動應用程式的Analytics和Target應用程式</strong>
+        <strong>行動應用程式和應用程式的Analytics和Target應用程式</strong>
       </a>
     </div>
     <p>
-    <em>在這場會議中，您將瞭解如何在行動裝置上使用Analytics儀表板，以及如何透過Target個人化應用程式的最佳實務。</em>
+    <em>在本次研討會中，您將瞭解如何在行動裝置上使用Analytics儀表板的最佳實務，以及如何透過Target個人化應用程式。</em>
     <p>
   </td>
 </tr>
@@ -62,4 +62,4 @@ ht-degree: 1%
 
 >[!TIP]
 >
->**所有錄製的作業階段都會列在左側的導覽中**.
+>**所有錄製的工作階段都會列在左側導覽中**。

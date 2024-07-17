@@ -1,6 +1,6 @@
 ---
 title: Marketo Engage體驗製作者焦點
-description: 加入我們，我們將重點介紹兩位專家客戶和 [!DNL Marketo Engage] 使用者。 每個人都將分享其精華 [!DNL Marketo Engage] 提示或訣竅。
+description: 加入我們，我們將重點介紹兩位專家客戶和 [!DNL Marketo Engage] 使用者。 每個人都將分享他們最精通的 [!DNL Marketo Engage] 提示或技巧。
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Engage] 體驗製作者焦點
+# [!DNL Marketo Engage] Experience Makers焦點
 
-加入我們，我們將重點介紹兩位專家客戶和 [!DNL Marketo Engage] 使用者。 每個人都將分享其精華 [!DNL Marketo Engage] 提示或訣竅。
+加入我們，我們將重點介紹兩位專家客戶和[!DNL Marketo Engage]位使用者。 每個人都將分享他們最精通的[!DNL Marketo Engage]秘訣或技巧。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340592/?quality=12&learn=on)

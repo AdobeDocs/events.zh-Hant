@@ -19,6 +19,6 @@ ht-degree: 66%
 
 瞭解如何透過減少標記資產的工作量以及使您的資產更易於搜尋，以充分利用 AEM Assets 的中繼資料。
 
-*Robin Bussell* 資深培訓師/Adobe
+*Robin Bussell*&#x200B;資深訓練員/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343815/?quality=12&learn=on)

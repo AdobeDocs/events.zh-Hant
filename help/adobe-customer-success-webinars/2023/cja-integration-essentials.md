@@ -1,6 +1,6 @@
 ---
 title: Customer Journey Analytics整合要點
-description: 瞭解如何最佳化CJA以搭配其他Adobe解決方案使用，加強貴組織執行資料導向個人化的能力。
+description: 瞭解如何最佳化CJA以搭配其他Adobe解決方案使用，加強貴組織執行資料導向Personalization的能力。
 solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Use Cases, Basics, Experience Platform Integration
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Customer Journey Analytics整合要點
 
-瞭解如何最佳化CJA以搭配其他Adobe解決方案使用，加強貴組織執行資料導向個人化的能力。
+瞭解如何最佳化CJA以搭配其他Adobe解決方案使用，加強貴組織執行資料導向Personalization的能力。
 
 * 精選CJA整合功能概述
 * Customer Journey Analytics整合的使用案例

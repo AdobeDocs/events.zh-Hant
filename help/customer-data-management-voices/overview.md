@@ -18,7 +18,7 @@ ht-degree: 4%
 
 >[!TIP]
 >
->**所有錄製的作業階段都會列在左側的導覽中**.
+>**所有錄製的工作階段都會列在左側導覽中**。
 
 ## 客戶資料管理基礎要素
 
@@ -29,7 +29,7 @@ ht-degree: 4%
       <img alt="簡化資料管理的第一步" src="./assets/first-mile.png"/>
       </a>
       <div>
-         <a href="./cdm/first-mile.md"><strong>簡化資料管理的第一步</strong></a>
+         <a href="./cdm/first-mile.md"><strong>簡化資料管理的第一哩</strong></a>
          <br/>
       </div>
    </td>
@@ -38,7 +38,7 @@ ht-degree: 4%
       <img alt="選擇客戶資料平台以取得成功" src="./assets/cdp-success.png"/>
       </a>
       <div>
-         <a href="./cdm/cdp-success.md"><strong>選擇客戶資料平台以取得成功</strong></a>
+         <a href="./cdm/cdp-success.md"><strong>選取客戶資料平台以取得成功</strong></a>
          <br/>
       </div>
     </td>
@@ -47,7 +47,7 @@ ht-degree: 4%
       <img alt="人員與流程" src="./assets/people-and-process.png"/>
       </a>
       <div>
-         <a href="./cdm/people-and-process.md"><strong>CDP最佳實務 — 人員與流程</strong></a>
+         <a href="./cdm/people-and-process.md"><strong>CDP最佳實務 — 人員與程式</strong></a>
          <br/>
       </div>
     </td>
@@ -116,7 +116,7 @@ ht-degree: 4%
       <img alt="提升行銷人員作為資料管理員的角色" src="./assets/elevating-the-marketers-role-as-a-data-steward.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>提升行銷人員作為資料管理員的角色</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>提升行銷人員的資料管理員角色</strong></a>
          <br/>
       </div>
       <p>
@@ -135,17 +135,17 @@ ht-degree: 4%
       <img alt="使用您的第一方資料建立優異的體驗" src="./assets/build-superb-experiences-with-your-first-party-data.png"/>
       </a>
       <div>
-         <a href="./industry/build-superb-experiences-with-your-first-party-data.md"><strong>使用您的第一方資料建立優異的體驗</strong></a>
+         <a href="./industry/build-superb-experiences-with-your-first-party-data.md"><strong>使用您的第一方資料建立一流的體驗</strong></a>
       </div>
       <p>
       </p>
     </td>
      <td>
       <a href="./industry/data-collaboration-in-the-first-party-data-context.md">
-      <img alt="第一方資料內容中的資料共同作業" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
+      <img alt="第一方資料內容中的資料Collaboration" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
       </a>
       <div>
-         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>第一方資料內容中的資料共同作業</strong></a>
+         第一方資料內容中的<a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>資料Collaboration</strong></a>
       </div>
       <p>
       </p>

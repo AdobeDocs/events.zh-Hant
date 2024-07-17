@@ -1,6 +1,6 @@
 ---
 title: Marketo和Mochas — 銷售機會評分
-description: Marketo & Mochas的首場會議將邀請行銷自動化業務顧問Cynthia Chang和Kelvin Ieng參加。 本會議深入探討潛在客戶評分的好處，以及如何設定、策略和檢閱您的潛在客戶評分模型。 Kelvin會進行現場示範，說明如何在中建立銷售機會評分模型 [!DNL Marketo Engage] 最後是三個主要重點。 簡報和示範會隨附與Kelvin和Cynthia的即時問答。
+description: Marketo & Mochas的首場會議將邀請行銷自動化業務顧問Cynthia Chang和Kelvin Ieng參加。 本會議深入探討潛在客戶評分的好處，以及如何設定、策略和檢閱您的潛在客戶評分模型。 Kelvin會進行如何在 [!DNL Marketo Engage] 內建立潛在客戶評分模型的即時示範，並以3個主要要點的結尾。 簡報和示範會隨附與Kelvin和Cynthia的即時問答。
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Marketo和Mochas — 銷售機會評分
 
-Marketo &amp; Mochas的首場會議將邀請行銷自動化業務顧問Cynthia Chang和Kelvin Ieng參加。 本會議深入探討潛在客戶評分的好處，以及如何設定、策略和檢閱您的潛在客戶評分模型。 Kelvin會進行現場示範，說明如何在中建立銷售機會評分模型 [!DNL Marketo Engage] 最後是三個主要重點。 簡報和示範會隨附與Kelvin和Cynthia的即時問答。
+Marketo &amp; Mochas的首場會議將邀請行銷自動化業務顧問Cynthia Chang和Kelvin Ieng參加。 本會議深入探討潛在客戶評分的好處，以及如何設定、策略和檢閱您的潛在客戶評分模型。 Kelvin會進行如何在[!DNL Marketo Engage]內建立潛在客戶評分模型的即時示範，並以3個主要要務結束。 簡報和示範會隨附與Kelvin和Cynthia的即時問答。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412722/?quality=12&learn=on)

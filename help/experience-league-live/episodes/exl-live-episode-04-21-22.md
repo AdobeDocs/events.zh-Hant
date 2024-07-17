@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/342475/?quality=12&learn=on)
 
-**錄製於太平洋標準時間4月21日上午9點**
+**錄製於4月21日，上午9點(PST)**
 
 ## 簡報投影片
 

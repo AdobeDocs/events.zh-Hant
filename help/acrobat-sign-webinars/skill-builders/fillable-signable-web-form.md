@@ -1,5 +1,5 @@
 ---
-title: 張貼可填寫、可簽署的網頁表單
+title: Post可填寫、可簽署的網頁表單
 description: 瞭解如何建立網路表單，讓任何人都能完成並簽署，而不需要您啟動交易，甚至不需要知道簽署者的電子郵件地址。
 feature: Sign, Form
 role: User
@@ -8,15 +8,15 @@ doc-type: Event
 duration: 1570
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15296
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: de00b727-129b-4ae7-bfec-97795b616fb6
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
 
 ---
 
-
-# 張貼可填寫、可簽署的網頁表單
+# Post可填寫、可簽署的網頁表單
 
 瞭解如何建立網路表單，讓任何人都能完成並簽署，而不需要您啟動交易，甚至不需要知道簽署者的電子郵件地址。 您也會瞭解如何準備檔案範本，該檔案範本可用於個別簽名交易，以及張貼至唯一URL以進行廣泛共用。
 

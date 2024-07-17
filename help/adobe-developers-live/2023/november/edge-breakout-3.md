@@ -26,6 +26,6 @@ ht-degree: 0%
 
 Josh Wadsworth與Adobe Developers Live分享了BambooHR在Adobe Experience Manager中與Edge Delivery Services的變革經驗。 於2023年11月6日錄製影片，以了解決策程式、對網站效能的影響，以及開發人員獲得的效率。 本課程是真實世界的範例，展示AEM的創新解決方案如何徹底改變業務實務。
 
-繼續對話於 [Experience League社群](https://adobe.ly/3rD9rMV).
+繼續[Experience League社群](https://adobe.ly/3rD9rMV)中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425634/?learn=on)

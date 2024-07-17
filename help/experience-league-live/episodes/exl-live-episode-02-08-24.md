@@ -22,21 +22,21 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426930/?quality=12&learn=on)
 
->[!BEGINSHADEBOX 「有疑問嗎？」]
+>[!BEGINSHADEBOX 「有問題嗎？」]
 
-繼續在Adobe Experience League上討論此主題 [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488).
+繼續在Adobe Experience League [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488)上討論此主題。
 
 >[!ENDSHADEBOX]
 
 使用案例教戰手冊是針對解決兩個主要挑戰而建置，
 
-1. **空白頁面綜合徵**  — 許多客戶（尤其是新客戶）在首次存取Adobe Experience平台時感到不知所措，不知從何處開始或如何運用其強大功能。 使用案例教戰手冊提供經過精選的使用案例範本集，引導客戶完成實作特定行銷目標的程式，協助客戶克服此初始障礙。
+1. **空白頁面綜合症** — 許多客戶（尤其是新客戶）在第一次存取AdobeExperience平台時感到不知所措，不知從何處開始或如何運用其功能。 使用案例教戰手冊提供經過精選的使用案例範本集，引導客戶完成實作特定行銷目標的程式，協助客戶克服此初始障礙。
 
-1. **提高採用率和參與度**  — 教戰手冊旨在透過提供預先建立的範本和技術指引，協助客戶更快上手，並充分運用Adobe產品的投資。  這可協助客戶更快速地實作使用案例、向利害關係人展示價值，以及促進IT與行銷團隊之間的協同合作。  基本上，教戰手冊的目標是最大化客戶從AdobeExperience平台獲得的採用度和價值。
+1. **更廣的採用度和參與度** — 行動手冊旨在提供預先建立的範本和技術指引，協助客戶更快上手，並充分利用Adobe產品的投資。  這可協助客戶更快速地實作使用案例、向利害關係人展示價值，以及促進IT與行銷團隊之間的協同合作。  基本上，教戰手冊的目標是最大化客戶從AdobeExperience平台獲得的採用度和價值。
 
 此工作階段中討論的使用案例範例是放棄的瀏覽和商品使用案例。 此使用案例旨在解決客戶在購買前放棄瀏覽工作階段的挑戰。 此使用案例產生的對象區段會是放棄瀏覽工作階段而未完成購買的客戶。 然後，此區段可以個人化訊息或優惠方案定位，以鼓勵他們回訪並完成購買。
 
-## 關鍵重點
+## 重要技巧
 
 * 使用案例教戰手冊是一組精心策劃的使用案例範本，可協助客戶運用和探索AdobeExperience平台的強大功能。
 * 使用案例教戰手冊旨在解決的主要挑戰是「空白頁面綜合徵」，以及需要跨工具更多採用和參與。
@@ -51,11 +51,11 @@ ht-degree: 0%
 
 ## 其他資源
 
-* **[使用案例教戰手冊概覽](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html){target="_blank"}**
-  *使用案例教戰手冊可協助您在開始使用Real-Time CDP或Adobe Journey Optimizer時克服問題，但您可能無法確切瞭解如何開始或是如何建立正確的資產，以達成您想要的使用案例。*
+* **[使用案例教戰手冊概觀](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html){target="_blank"}**
+  *使用案例教戰手冊可協助您在開始使用Real-Time CDP或Adobe Journey Optimizer時克服問題，但您可能無法確切瞭解如何開始使用，或無法建立正確的資產，進而達成您想要的使用案例。*
 
-* **[使用案例教戰手冊快速入門](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=zh-Hant){target="_blank"}**
-  *瞭解如何針對使用案例行動手冊設定帳戶，這些行動手冊是專為Real-time Customer Data Platform和Adobe Journey Optimizer而設計。*
+* **[使用案例教學課程快速入門](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=zh-Hant){target="_blank"}**
+  *瞭解如何設定專為Real-time Customer Data Platform和Adobe Journey Optimizer設計的使用案例教戰手冊帳戶。*
 
 * **[可用的使用案例教戰手冊](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html?lang=zh-Hant){target="_blank"}**
-  *請閱讀本頁面，概略瞭解您可以在Real-time Customer Data Platform和Adobe Journey Optimizer中探索和使用的所有可用教戰手冊。*
+  *請閱讀本頁面，以概略瞭解您可以在Real-time Customer Data Platform和Adobe Journey Optimizer中探索和使用的所有可用教戰手冊。*

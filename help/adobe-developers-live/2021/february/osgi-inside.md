@@ -15,7 +15,7 @@ exl-id: d349c365-cea0-4d5c-9262-b6be05620f04
 duration: 1934
 source-git-commit: 07a0a88da92652a6f07f65ba369e17cfe85fdafd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,6 @@ ht-degree: 0%
 
 此面板會包含Carsten Ziegeler、Karl Pauls和David Bosschaert，說明為何我們使用OSGi、為何其適用於雲端，以及Adobe Experience Manager開發人員需要瞭解的相關資訊。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/36Yd3v6)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/36Yd3v6)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331740/?quality=12&learn=on&hidetitle=true)

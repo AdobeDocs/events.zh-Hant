@@ -20,9 +20,9 @@ ht-degree: 0%
    + [善用自訂Forms](user-groups/leveraging-custom-forms.md)
    + [系統管理員最佳實務](user-groups/system-admin-best-practices.md)
    + [Workfront系統維護](user-groups/workfront-system-maintenance.md)
-+ 敏捷 {#agile}
++ 敏捷{#agile}
    + [行銷中的敏捷](user-groups/agile-in-marketing.md)
-+ 報告和儀表板 {#reporting-and-dashboards}
++ 報告和儀表板{#reporting-and-dashboards}
    + [進階報告](user-groups/advanced-reporting.md)
    + [創意代理：報告和儀表板](user-groups/creative-agencies-reporting-and-dashboards.md)
    + [評估品質和參與](webinars/gauging-quality-and-engagement.md)
@@ -31,20 +31,20 @@ ht-degree: 0%
    + [測量速度](webinars/measuring-velocity.md)
    + [使用API Explorer製作超充基本文字模式報表](webinars/supercharge-basic-text-mode-reporting-using-the-api-explorer.md)
    + [瞭解混合與容量](webinars/understanding-mix-and-capacity.md)
-+ 資源管理 {#resource-management}
++ 資源管理{#resource-management}
    + [資源與容量規劃](user-groups/resource-and-capacity-planning.md)
    + [資源管理](user-groups/resource-management.md)
-+ 檢閱和核准工作 {#review-and-approve-work}
++ 檢閱及核准工作{#review-and-approve-work}
    + [行銷工作流程與核准](user-groups/marketing-workflows-and-approvals.md)
    + [IT工作流程與核准](user-groups/it-workflows-and-approvals.md)
-+ 時間表 {#timesheets}
++ 時程表{#timesheets}
    + [在Workfront中利用時程表](user-groups/utilizing-timesheets-in-workfront.md)
 + Workfront Proof {#workfront-proof}
-   + [將Workfront校訂內容最大化](webinars/best-practices-to-maximize-workfront-proof.md)
-   + [追蹤Workfront校訂最佳實務](webinars/follow-up-to-workfront-proof-best-practices.md)
+   + [讓Workfront Proof發揮最大作用的最佳作法](webinars/best-practices-to-maximize-workfront-proof.md)
+   + [Workfront Proof最佳作法的後續措施](webinars/follow-up-to-workfront-proof-best-practices.md)
    + [創意代理商：Workfront Proof](user-groups/creative-agencies-workfront-proof.md)
    + [善用Workfront Proof](user-groups/leveraging-workfront-proof.md)
-+ 請求佇列和輸入 {#request-queues-and-intake}
++ 要求佇列和輸入{#request-queues-and-intake}
    + [請求佇列和輸入Forms](user-groups/request-queues-and-intake-forms.md)
-+ 發行版本 {#releases}
++ 發行版本{#releases}
    + [24.1版](webinars/24-1-release-webinar.md)

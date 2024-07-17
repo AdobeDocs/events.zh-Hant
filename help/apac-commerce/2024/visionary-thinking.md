@@ -1,5 +1,5 @@
 ---
-title: 創意邊緣 — 遠見卓識如何改變Commerce
+title: 創意Edge — 有遠見的思維如何改變Commerce
 description: 此網路研討會探討整合創意與商務，展示Adobe的工具和技術如何協助管理資產、擴展內容創作並簡化內容供應鏈。 影片探討將創意與商業結合在一起的重要性，並涵蓋個人化體驗、管理資產等主題，以及使用Adobe Workfront、Adobe Experience Manager和Adobe Stock等工具簡化內容建立程式。
 solution: Commerce
 topic: Commerce
@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3419
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-15448
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+exl-id: a495d5f0-a567-4a17-913a-15d01441ab27
+source-git-commit: 441e5d9313ea3c46ce09d1d6cfbe358fce8e0b83
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
+# 創意Edge：有遠見的思維如何改變Commerce
 
-# 創意邊緣：有遠見的思維如何改變Commerce
-
-創意邊緣：遠見卓識思維如何改變電子商務進入創新前沿，而Gen AI正在改變創意領域，提供前所未有的見解和可能性。 與會者將瞭解AI如何簡化品牌和風格指南的管理，以確保不同平台和管道的一致性。
+創意Edge：遠見卓識思維如何改變電子商務進入創新前沿，而Gen AI正在改變創意領域，提供前所未有的見解和可能性。 與會者將瞭解AI如何簡化品牌和風格指南的管理，以確保不同平台和管道的一致性。
 
 透過順暢的整合，探索如何將您的創意資產輕鬆地整合到行銷執行和商業中，提升客戶參與度和轉換率。
 

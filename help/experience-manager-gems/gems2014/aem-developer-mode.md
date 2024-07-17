@@ -8,7 +8,7 @@ duration: 2739
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ David向您介紹AEM 6.O中的開發人員模式。開發人員模式為：
 
 >[!VIDEO](https://video.tv.adobe.com/v/19501/?quality=9)
 
-*傳送日期： 2014年7月16日*
+*已於2014年7月16日傳遞*
 
 **展示者：**
 
@@ -32,7 +32,7 @@ AdobeQE開發人員David Catalan
 
 [取得檔案](assets/aem-6-developer-mode-07-16-14.pdf)
 
-**工作階段問答**
+**工作階段問答集**
 
 [取得檔案](assets/q-a-developer-mode-7-16-14.pdf)
 <!--

@@ -19,11 +19,11 @@ Adobe Developers Live 匯集多元背景的 Adobe 開發人員和有經驗的建
 
 橫跨Adobe Experience Cloud、Document Cloud和Creative Cloud的Adobe產品團隊將展示最新的技術進展和開發人員工具，藉以促進各產業的設計、內容創作工作流程、檔案服務和客戶體驗管理。
 
-報名參加未來的活動 **[此處](https://developerevents.adobe.com/)**.
+在&#x200B;**[這裡](https://developerevents.adobe.com/)**&#x200B;註冊未來的活動。
 
 >[!TIP]
 >
->**所有錄製的作業階段都會列在左側的導覽中**.
+>**所有錄製的工作階段都會列在左側導覽中**。
 
 <!--
 

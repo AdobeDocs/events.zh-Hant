@@ -11,7 +11,7 @@ duration: 3863
 source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/343335/?quality=12&learn=on)
 
-**繼續討論** 在 [Experience League社群](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-the-basics-of-web/m-p/454159#M283){target="_blank"}！
+**在[Experience League社群](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-the-basics-of-web/m-p/454159#M283){target="_blank"}中繼續討論**！
 
 ## 此資料收集系列的其他Experience League即時工作階段
 
@@ -32,9 +32,9 @@ ht-degree: 1%
 
 * [教學課程：使用Web SDK實作Adobe Experience Cloud](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=zh-Hant){target="_blank"}
 * [在Web SDK中自動收集的資訊](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
-* [免費Web SDK布建](https://adobe.ly/websdkaccess){target="_blank"}
+* [免費的Web SDK布建](https://adobe.ly/websdkaccess){target="_blank"}
 * [Web SDK中第一方裝置識別碼的資訊](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
-* [Adobe Experience Platform Debugger概觀和下載](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
+* [Adobe Experience Platform Debugger概述和下載](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
 * [行動SDK檔案](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
-* [混合應用程式集合資訊](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}
+* [混合式應用程式集合資訊](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}
 

@@ -8,7 +8,7 @@ duration: 3831
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19296/?quality=9)
 
-*2016年6月1日傳遞*
+*已於2016年6月1日傳遞*
 
 **展示者：**
 
@@ -32,7 +32,7 @@ ht-degree: 2%
 
 >[!WARNING]
 >
->AEM 6.4版和更舊版本已終止服務，Adobe不再銷售。  Adobe建議升級至最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  檔案的封存版本可從此處存取 [頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM 6.4版和更舊版本已終止服務，Adobe不再銷售。  Adobe建議升級至最新版本 — [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)。  可以從此[頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)存取檔案的封存版本。
 
 Apache：\
 [https://httpd.apache.org/docs/trunk/mod/mod_http2.html](https://httpd.apache.org/docs/trunk/mod/mod_http2.html)

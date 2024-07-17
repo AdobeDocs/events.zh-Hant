@@ -21,9 +21,9 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence先前稱為 [!DNL Magento Business Intelligence (MBI)]. 過去活動的錄影反映了先前的名稱。
+>Adobe Commerce Intelligence先前稱為[!DNL Magento Business Intelligence (MBI)]。 過去活動的錄影反映了先前的名稱。
 
-透過深入瞭解預先設定的儀表板和可用的自訂選項，直接從Commerce產品團隊瞭解Commerce Intelligence的核心功能。
+直接從Commerce Intelligence產品團隊瞭解Commerce的核心功能，深入瞭解預先設定的儀表板和可用的自訂選項。
 
 使用者可在各處分享使用案例，以說明商戶如何從第一天開始透過BI獲得更多深入見解並帶動商店的成長。
 

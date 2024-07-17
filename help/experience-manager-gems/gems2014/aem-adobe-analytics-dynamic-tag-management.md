@@ -9,7 +9,7 @@ duration: 2846
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ AEM 6隨附動態Tag Management (DTM)的雲端服務，這是Adobe在網站上�
 
 >[!VIDEO](https://video.tv.adobe.com/v/19401/?quality=9)
 
-*2014年10月1日傳遞*
+*已於2014年10月1日傳遞*
 
 **展示者：**
 
@@ -31,7 +31,7 @@ Sandro Looser，解決方案設計師，Adobe
 
 ## 相關連結 {#related-links}
 
-[整合Adobe Dynamic Tag Management](https://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
+[與AdobeDynamic Tag Management整合](https://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
 
 [DTM說明](https://experienceleague.adobe.com/docs/data-collection.html?lang=en)
 
@@ -43,4 +43,4 @@ Sandro Looser，解決方案設計師，Adobe
 
 >[!MORELIKETHIS]
 >
->* [如何使用動態Adobe Analytics雲端服務，在本機AEM執行個體上部署Tag Management](aem-adobe-analytics-dynamic-tag-management.md)
+>* [如何使用Dynamic Adobe Analytics雲端服務，在本機AEM執行個體上部署Tag Management](aem-adobe-analytics-dynamic-tag-management.md)

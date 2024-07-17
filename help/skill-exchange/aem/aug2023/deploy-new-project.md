@@ -1,6 +1,6 @@
 ---
 title: AEM開發人員入門套件
-description: 此技能交流聚焦於新的AEM開發人員如何開始和部署新專案。 它將會聚焦在AEM專案原型、Cloud Manager設定和開發工具等主題。
+description: 此技能交流聚焦於新的AEM開發人員如何開始和部署新專案。 影片主題包括AEM專案原型、Cloud Manager設定和開發工具。
 solution: Experience Manager as a Cloud Service
 feature-set: Experience Manager, Experience Manager Sites
 feature: AEM Project Archetype, Developing
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 # 技能交流2023年8月活動 — AEM開發人員追蹤 — AEM開發人員入門套件
 
-本技能交流聚焦於新的AEM開發人員如何開始和部署新專案。 它將會聚焦在AEM專案原型、Cloud Manager設定和開發工具等主題。
+本技能交流聚焦於新的AEM開發人員如何開始和部署新專案。 影片主題包括AEM專案原型、Cloud Manager設定和開發工具。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424017/?learn=on)

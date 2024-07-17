@@ -25,6 +25,6 @@ ht-degree: 0%
 
 瞭解如何使用Adobe Developer App Builder建置自訂Asset compute背景工作，以便在擷取至Adobe Experience Manager期間進行資產處理。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/36Yd3v6)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/36Yd3v6)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331849/?quality=12&learn=on&hidetitle=true)

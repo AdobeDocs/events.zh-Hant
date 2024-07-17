@@ -19,6 +19,6 @@ ht-degree: 0%
 
 進一步瞭解如何使用Adobe Analytics和Customer Journey Analytics來分析跨瀏覽器/裝置/應用程式和多個管道的使用者行為。
 
-*Sonia Charles* 解決方案顧問、資料與見解/Adobe
+*Sonia Charles*&#x200B;解決方案顧問、資料與見解/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343820/?quality=12&learn=on)

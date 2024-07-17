@@ -29,17 +29,17 @@ ht-degree: 0%
 
 ## 會議摘要
 
-**Real-time CDP解決的挑戰**
+**由Real-time CDP解決的挑戰**
 
 * 獨立的行銷工具
 * 分散的資料來源
 * 不斷變化的治理法規
 
-**淘汰第三方Cookie的影響**
+**第三方Cookie淘汰的影響**
 
 * 對付費媒體重新目標定位和個人化等使用案例的影響
 
-**Real-time CDP與DMPAudience Manager的比較**
+**比較Real-time CDP與DMPAudience Manager**
 
 * 著重於資料擷取、對象管理和資料輸出結構
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 * 排定使用案例優先順序
 * 確保有效執行
 
-**已討論策略**
+已討論&#x200B;**策略**
 
 * 善用進階分段功能
 * 利用資料共用功能

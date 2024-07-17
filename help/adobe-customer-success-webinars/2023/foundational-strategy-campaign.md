@@ -1,6 +1,6 @@
 ---
 title: 連結點 — Campaign協調的基本策略
-description: Campaign Orchestration的基礎在Personalization中的Campaign Orchestration作用@規模基礎支柱與指導原則協調測量最佳實務常見挑戰與解決方案
+description: Campaign Orchestration的基礎在Personalization中，Campaign Orchestration的作用@規模基礎支柱與指導原則協調測量最佳實務常見挑戰與解決方案
 solution: Campaign
 feature-set: Campaign
 feature: Personalization
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 # 連結點 — Campaign協調的基本策略
 
-*Campaign Orchestration的基礎*
+*行銷活動協調流程的基礎*
 
-* Personalization @規模內行銷活動協調的作用
+* Personalization規模內行銷活動協調流程的作用
 * 基本支柱與指導原則
 * 協調測量最佳實務
 * 常見挑戰與解決方案

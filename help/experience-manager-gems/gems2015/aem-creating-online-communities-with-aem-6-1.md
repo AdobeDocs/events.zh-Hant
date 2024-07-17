@@ -8,17 +8,17 @@ duration: 3473
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # 使用AEM 6.1建立線上社群{#creating-online-communities-with-aem}
 
-想像一下，只需數小時就能站立社群網站，不必等上數週，而CQ工程師幾乎或完全沒有協助。 AEM Communities 6.1將著重於透過精靈驅動的樣板化方法來提供此功能，以涵蓋各種初始使用案例。 AEM Communities 6.1也能讓您透過AEM WCM進一步自訂這些新社群網站 [!DNL Sites] 功能。 加入我們，瞭解如何運用AEM強大的撰寫介面來建立生氣勃勃的客戶社群，並瞭解相關工具，讓您的粉絲群在上市後長久保持參與。
+想像一下，只需數小時就能站立社群網站，不必等上數週，而CQ工程師幾乎或完全沒有協助。 AEM Communities 6.1將著重於透過精靈驅動的樣板化方法來提供此功能，以涵蓋各種初始使用案例。 AEM Communities 6.1也將提供透過AEM的WCM [!DNL Sites]功能進一步自訂這些新社群網站的功能。 加入我們，瞭解如何運用AEM強大的撰寫介面來建立生氣勃勃的客戶社群，並瞭解相關工具，讓您的粉絲群在上市後長久保持參與。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19381/?quality=9)
 
-*傳送日期： 2015年7月22日*
+*已於2015年7月22日傳遞*
 
 **展示者：**
 

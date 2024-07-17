@@ -1,6 +1,6 @@
 ---
-title: 自我投資 — Adobe [!DNL Marketo Engage] 認證
-description: 您對認證程式感興趣嗎？這會如何協助您的行銷生涯？ 或者，您對學習、準備和參加考試的程式有興趣嗎？ 加入Adobe [!DNL Marketo Engage] 支援人員討論成為Marketo認證專家或架構師的歷程！
+title: 投資自己 — Adobe [!DNL Marketo Engage] 認證
+description: 您對認證程式感興趣嗎？這會如何協助您的行銷生涯？ 或者，您對學習、準備和參加考試的程式有興趣嗎？ 加入Adobe [!DNL Marketo Engage] Champions，討論他們成為Marketo認證專家或架構師的歷程！
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 ---
 
-# 自我投資 — Adobe [!DNL Marketo Engage] 認證
+# 自我投資 — Adobe[!DNL Marketo Engage]認證
 
-您對認證程式感興趣嗎？這會如何協助您的行銷生涯？ 或者，您對學習、準備和參加考試的程式有興趣嗎？ 加入Adobe [!DNL Marketo Engage] 支援人員討論成為Marketo認證專家或架構師的歷程！
+您對認證程式感興趣嗎？這會如何協助您的行銷生涯？ 或者，您對學習、準備和參加考試的程式有興趣嗎？ 加入Adobe[!DNL Marketo Engage] Champions，討論成為Marketo認證專家或架構師的歷程！
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416760/?quality=12&learn=on)
 
-按一下 **[此處](assets/certification.pdf){target="_blank"}** 用於工作階段投影片。
+按一下&#x200B;**[這裡](assets/certification.pdf){target="_blank"}**&#x200B;以取得工作階段投影片。

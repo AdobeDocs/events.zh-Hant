@@ -8,7 +8,7 @@ duration: 3816
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ AEM 6隨附全新的存放庫後端，專為改善效能與擴充能力而設計
 
 >[!VIDEO](https://video.tv.adobe.com/v/19518/?quality=9)
 
-*2014年6月18日傳遞*
+*已於2014年6月18日傳遞*
 
 **展示者：**
 
@@ -36,4 +36,4 @@ Jukka Zitting，Adobe資深開發人員
 ## 相關連結 {#related-links}
 
 * [AEM升級檔案](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade.html)
-* [ApacheCon簡報「Oak，Apache Jackrabbit 3的架構」](https://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)
+* [來自ApacheCon的簡報「Oak，Apache Jackrabbit 3的架構」](https://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)

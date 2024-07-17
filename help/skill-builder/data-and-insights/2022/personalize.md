@@ -19,6 +19,6 @@ ht-degree: 0%
 
 參加此會議，瞭解使用Auto Target和Auto Personalization自動化和最佳化Adobe Target功能的核心概念。
 
-*馬提亞斯·科利奇* 資深多解決方案培訓師EMEA/Adobe
+*Matthias Kolitsch*&#x200B;資深多解決方案培訓師EMEA /Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343821/?quality=12&learn=on)

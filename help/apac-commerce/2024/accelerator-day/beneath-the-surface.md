@@ -11,13 +11,13 @@ last-substantial-update: 2024-05-21T00:00:00Z
 jira: KT-15543
 hidefromtoc: true
 badgeEvent: label="Adobe Commerce加速器日" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview"
-source-git-commit: 89005ee91f2222029cc3abf30d02dc3b7714b588
+exl-id: 9b148be1-f74c-44ff-9f96-9834d5d4b5ce
+source-git-commit: 0ebc7343e2d19e91f27c1bbba20f290ef7df5377
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
-
 
 # 表面之下：探索支付架構
 

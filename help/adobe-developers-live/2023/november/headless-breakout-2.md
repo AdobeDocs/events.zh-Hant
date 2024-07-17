@@ -24,6 +24,6 @@ ht-degree: 0%
 
 在Adobe Developers Live的這場資訊性座談中，Gabriel Walt和Alex Tondo分享了Adobe.com如何在Adobe Experience Manager中使用通用編輯器來增強其內容策略的深入見解。 他們於2023年11月6日錄製，討論這名WYSIWYG編輯者在簡化內容傳遞流程方面的能力，及其在簡化內容製作方面的作用。 此課程非常適合想要瞭解如何有效使用AEM中的內容工具以提供動態且吸引人的數位體驗的人。
 
-繼續對話於 [Experience League社群](https://adobe.ly/46ELi7X).
+繼續[Experience League社群](https://adobe.ly/46ELi7X)中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425635/?learn=on)

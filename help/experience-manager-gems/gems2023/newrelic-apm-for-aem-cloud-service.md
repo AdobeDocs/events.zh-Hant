@@ -1,6 +1,6 @@
 ---
 title: aem雲端服務的newrelic apm
-description: 加入我們並參與我們的研討會，我們將引導您認識並解決影響一般使用者客戶的挑戰，透過提高您的AEMas a Cloud Service專案的效率、衡量外部服務對您的AEMas a Cloud Service系統的影響，以及充分利用自訂和量身打造的檢視，來確保卓越的體驗。 探索存取New Relic的程式，AEMas a Cloud Service預設包含此功能。 請隨時回答您的查詢和問題。
+description: 加入我們並參與我們的研討會，我們將引導您認識並解決影響一般使用者客戶的挑戰，透過提高您的AEM as a Cloud Service專案效率、衡量外部服務對您的AEM as a Cloud Service系統的影響，以及充分利用自訂和量身打造的檢視，確保提供卓越的體驗。 瞭解存取AEM as a Cloud Service預設包含的New Relic功能的程式。 請隨時回答您的查詢和問題。
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -20,21 +20,21 @@ ht-degree: 0%
 
 ---
 
-# 發揮AEMas a Cloud Service的New Relic APM潛力
+# 發揮AEM as a Cloud Service的New Relic APM潛力
 
 最佳化效能並加速問題的解決。
 
-此網路研討會已進行於 **9月20日**， 2023。 請檢視下面的錄製。
+此網路研討會已在2023年9月20日&#x200B;**進行。**&#x200B;請檢視下面的錄製。
 
 ## 工作階段說明
 
 加入我們的課程，我們將引導您認識並解決影響一般使用者客戶的挑戰，透過以下方式確保卓越的體驗：
 
-* 改善AEMas a Cloud Service專案的效率
-* 衡量外部服務對您AEMas a Cloud Service系統的影響
+* 改善AEM as a Cloud Service專案的效率
+* 衡量外部服務對您AEM as a Cloud Service系統的影響
 * 充分運用自訂與量身打造的檢視方式
 
-探索存取New Relic的程式，AEMas a Cloud Service預設包含此功能。 請隨時回答您的查詢和問題。
+瞭解存取AEM as a Cloud Service預設包含的New Relic功能的程式。 請隨時回答您的查詢和問題。
 
 ## 主持人
 
@@ -50,6 +50,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* 如需Experience League上特定工作階段的社群互動，請造訪我們的 [內容執行緒](https://adobe.ly/3sV67N5).
+>* 若為Experience League上特定工作階段的社群互動，請造訪我們的[內容對話串](https://adobe.ly/3sV67N5)。
 >
->* 若要收到我們即將舉辦的網路研討會的通知，請註冊於 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
+>* 若要接收我們即將舉辦之網路研討會的相關通知，請在[Adobe的AEM使用者群組](https://aem-augs.adobe.com/)註冊。

@@ -1,6 +1,6 @@
 ---
 title: Marketo Engage Rockstars
-description: 三位「Rockstar」客戶將各展示其最出色的 [!DNL Marketo Engage] 提示或訣竅。 誰能讓你眼花繚亂？ 即時觀看和投票。
+description: 三位「Rockstar」客戶將各展示其最佳的 [!DNL Marketo Engage] 提示或技巧。 誰能讓你眼花繚亂？ 即時觀看和投票。
 solution: Marketo Engage
 role: User
 level: Intermediate, Experienced
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Engage] Rockstars
+# [!DNL Marketo Engage]顆搖滾星
 
-三位「Rockstar」客戶將各展示其最出色的 [!DNL Marketo Engage] 提示或訣竅。 誰能讓你眼花繚亂？ 即時觀看和投票。
+三位「Rockstar」客戶將各展示其最佳的[!DNL Marketo Engage]秘訣或技巧。 誰能讓你眼花繚亂？ 即時觀看和投票。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342559/?quality=12&learn=on)

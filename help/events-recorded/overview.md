@@ -15,7 +15,7 @@ ht-degree: 3%
 
 ## 對於Experience League來說，學習就是事件。
 
-在專屬的活動和網路研討會中保持聯絡，擴大您的學習範圍。 請經常造訪此空間，以檢視過去活動的錄影，例如Experience League直播、Skill Builders、開發人員直播等。 如果您想要報名參加即將到來的活動，請參閱 [即將到來的活動](https://%65xperienceleague.adobe.com/events/?lang=en) 在Experience League上。
+在專屬的活動和網路研討會中保持聯絡，擴大您的學習範圍。 請經常造訪此空間，以檢視過去活動的錄影，例如Experience League直播、Skill Builders、開發人員直播等。 如果您想要註冊即將舉辦的活動，請在Experience League上檢視[即將舉辦的活動](https://%65xperienceleague.adobe.com/events/?lang=en)。
 
 ## 事件序列
 
@@ -37,7 +37,7 @@ ht-degree: 3%
          向Adobe專家學習如何在Acrobat Sign中掌握新的電子簽章工作流程。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>
@@ -54,13 +54,13 @@ ht-degree: 3%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html" title="Adobe Campaign測試人員系列">Adobe Campaign測試人員系列</a>
+              <a href="https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html" title="Adobe Campaign測試人員系列">Adobe Campaign Insider系列</a>
           </p>
           <p class="is-size-6">
          Adobe Campaign客戶的秘訣與技巧和靈感，有助於改進跨管道行銷策略、提升團隊行銷從業人員的技能，並幫助組織推出更進階的跨管道行銷策略。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>
@@ -83,7 +83,7 @@ ht-degree: 3%
          向Adobe專家學習，討論內容管理策略的目前和未來狀態、交付專案、挑戰和技術需求。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>
@@ -105,7 +105,7 @@ ht-degree: 3%
          Adobe Commerce的最新產品創新，由Adobe Commerce產品團隊提供。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>
@@ -127,7 +127,7 @@ ht-degree: 3%
          Adobe Developers Live彙集多元背景的Adobe開發人員和有經驗的建置者，其目的只有一個，就是創造令人驚豔的端對端體驗。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>
@@ -149,7 +149,7 @@ ht-degree: 3%
          如果您有興趣提升您對Adobe Experience Manager的知識和使用、與Experience Manager思想領袖互動以及獲得獨家獎勵，那麼今天就加入AEM Champion辦公時間使用者群組！</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>
@@ -171,7 +171,7 @@ ht-degree: 3%
          亞太地區Commerce網路研討會系列是每月為Adobe Commerce客戶舉辦的一系列研討會，涵蓋從最佳作法、產品藍圖和行業趨勢等廣泛主題。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>
@@ -193,7 +193,7 @@ ht-degree: 3%
          Adobe客戶成功引導的網路研討會，旨在讓您最佳化對AdobeExperience Cloud的投資。 獲得寶貴的見解，以最大化價值並提高Adobe解決方案的採用率。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>
@@ -215,7 +215,7 @@ ht-degree: 3%
          Commerce &amp; Coffee系列適用於所有技能等級和功能的現有Adobe Commerce客戶。Commerce策略顧問Corey Gelato。 此系列重點介紹Commerce的策略和戰術，並提供反映事件主題的統計資料。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>
@@ -237,7 +237,7 @@ ht-degree: 3%
          身為客戶資料管理技術和行銷實務主管和專家的您。 一站式商店，聽取同行的意見、獲取靈感並瞭解Martech的發展。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=zh-Hant" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>
@@ -253,13 +253,13 @@ ht-degree: 3%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" title="深入探討">深入探討</a>
+              <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" title="深入探討">深度剖析</a>
           </p>
           <p class="is-size-6">
          Deep Dive隨選活動錄製可幫助您更好地瞭解如何使用AdobeMarketo來支援您的業務。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>
@@ -281,7 +281,7 @@ ht-degree: 3%
          「即時Experience League」是Experience League團隊製作的直播串流節目。 您可以藉此機會與Adobe產品專家交流，並學到您可以透過Adobe Experience Cloud應用程式應用可落實的秘訣、技巧和策略。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>
@@ -297,13 +297,13 @@ ht-degree: 3%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="EXPERIENCE MANAGERGEMS">EXPERIENCE MANAGERGEMS</a>
+              <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="EXPERIENCE MANAGERGEMS">Experience ManagerGEMS</a>
           </p>
           <p class="is-size-6">
          由Adobe專家提供的技術Adobe Experience Manager深入探討。 此系列是產品檔案以及所有其他有關Adobe Experience Manager技術管道的補充，讓開發人員可以聯絡並深入瞭解特定主題。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>
@@ -325,7 +325,7 @@ ht-degree: 3%
          取得Adobe Experience Manager as a Cloud Service最新功能快速總覽。 這些是AEM產品團隊提供的簡短影片，大約10分鐘，主要是分享最新版本的摘要。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=zh-Hant" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>
@@ -347,7 +347,7 @@ ht-degree: 3%
          向Adobe專家和同行學習如何從您的Adobe解決方案中獲得最大效益。 透過為從業人員選取主題，這些互動式會議會分享「可能的」使用案例、最佳實務和提示與技巧。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>
@@ -369,7 +369,7 @@ ht-degree: 3%
          Marketo和Mochas可協助您更進一步瞭解如何使用AdobeMarketo支援您的業務。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>
@@ -385,13 +385,13 @@ ht-degree: 3%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" title="諮詢時間">營業時間</a>
+              <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" title="諮詢時間">辦公時間</a>
           </p>
           <p class="is-size-6">
          「諮詢時間」是主動式案例轉換方法，提供客戶解決方案專屬的網路研討會。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/office-hours/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>
@@ -410,10 +410,10 @@ ht-degree: 3%
               <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="Adobe Commerce Intelligence">Adobe Commerce Intelligence</a>
           </p>
           <p class="is-size-6">
-         Adobe Commerce Intelligence （亦稱為MBI）網路研討會系列，是供Adobe Commerce Intelligence客戶定期使用的活動。 這些網路研討會涵蓋廣泛的主題和最佳實務，以便您充分利用Adobe Commerce Intelligence的潛能。</p>
+         Adobe Commerce Intelligence （亦稱為MBI）網路研討會系列，是供Adobe Commerce Intelligence客戶定期觀看的活動。 這些網路研討會涵蓋廣泛的主題和最佳實務，以便充份運用Adobe Commerce Intelligence。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>
@@ -429,13 +429,13 @@ ht-degree: 3%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" title="Skill Builder">Skill Builder</a>
+              <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" title="Skill Builder">技能建立工具</a>
           </p>
           <p class="is-size-6">
          Skill Builder是網路研討會系列，旨在建立您的知識庫，並將Adobe Experience Cloud投資效益最大化。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>
@@ -457,7 +457,7 @@ ht-degree: 3%
          Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重點放在深入瞭解Adobe Experience Cloud解決方案。 此計畫提供機會，透過分享最佳實務和提示與秘訣，向Adobe產品專家和專家同行學習。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>
@@ -479,7 +479,7 @@ ht-degree: 3%
          Workfront活動錄音庫，專家和同行可在此分享如何使用Workfront的想法。</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">瞭解更多</span>
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
   </div>

@@ -27,7 +27,7 @@ ht-degree: 0%
 
 * 將資料轉換成價值
 * 建立堅實的資料基礎
-* 結合MBI和 [!DNL Analytics] 資料
+* 結合MBI和[!DNL Analytics]資料
 
 您也會看到平台的即時示範，以生動呈現這些概念。
 

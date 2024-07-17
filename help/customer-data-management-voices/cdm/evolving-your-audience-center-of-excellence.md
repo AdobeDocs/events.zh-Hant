@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336938/?quality=12&learn=on)
 
-若要補充本影片，您也可以 [下載白皮書](./../assets/whitepaper-evolving-the-audience-center-of-excellence.pdf)
+若要補充此影片，您也可以[下載白皮書](./../assets/whitepaper-evolving-the-audience-center-of-excellence.pdf)

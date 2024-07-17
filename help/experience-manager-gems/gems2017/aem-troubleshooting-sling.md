@@ -9,7 +9,7 @@ duration: 3093
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ Sling Content Distribution (SCD)可用於AEM進行正向、反向內容發佈和
 
 >[!VIDEO](https://video.tv.adobe.com/v/19451/?quality=9)
 
-*2017年8月23日送達*
+*已於2017年8月23日傳遞*
 
 **展示者：**
 
@@ -33,9 +33,9 @@ Adobe資深開發人員Timothee Maret
 
 >[!WARNING]
 >
->AEM 6.4版和更舊版本已終止服務，Adobe不再銷售。  Adobe建議升級至最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  檔案的封存版本可從此處存取 [頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM 6.4版和更舊版本已終止服務，Adobe不再銷售。  Adobe建議升級至最新版本 — [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)。  可以從此[頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)存取檔案的封存版本。
 >
->與此工作階段相關的資訊，請參閱 *使用者同步* (在AEM檔案中)。
+>與此工作階段相關請參閱AEM檔案中的&#x200B;*使用者同步*。
 
 * [Apache Sling內容發佈](https://sling.apache.org/documentation/bundles/content-distribution.html)
 * [返回總覽](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
@@ -43,4 +43,4 @@ Adobe資深開發人員Timothee Maret
 >[!MORELIKETHIS]
 >
 >* [AEM索引和JCR查詢](aem-indexing-jcr-query.md)
->* [Sling Content Distribution疑難排解](aem-troubleshooting-sling.md)
+>* [疑難排解Sling內容發佈](aem-troubleshooting-sling.md)

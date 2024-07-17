@@ -16,7 +16,7 @@ ht-degree: 1%
 + [準備您的合約以進行電子簽章](./skill-builders/e-signature-setup.md)
 + [在Microsoft應用程式中使用電子簽章](./skill-builders/e-signature-microsoft.md)
 + [傳送檔案以索取簽名的進階秘訣](./skill-builders/advanced-sending-documents-signature.md)
-+ [張貼可填寫、可簽署的網頁表單](./skill-builders/fillable-signable-web-form.md)
++ [Post可填寫、可簽署的網頁表單](./skill-builders/fillable-signable-web-form.md)
 + [按一下即可收集許多簽名](./skill-builders/collect-signatures.md)
 + [製作環境](./skill-builders/authoring-environment.md)
 + [協定狀態的可見性](./skill-builders/agreement-status.md)

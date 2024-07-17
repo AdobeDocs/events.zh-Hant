@@ -27,6 +27,6 @@ ht-degree: 0%
 * 資料夾中繼資料結構 — 透過資料夾中繼資料結構探索結構化內容管理的強大功能。
 * 中繼資料結構 — 精通中繼資料結構設計，提高內容關聯性和使用者體驗。 設定報表：透過設定全面報表，利用資料導向的深入分析以進行策略決策。
 
-您可以存取簡報投影片 [此處](/help/learn-from-your-peers/assets/experience-manager/sept2023/AEM-Sites-Tools-Webinar.pdf).
+您可以在[這裡](/help/learn-from-your-peers/assets/experience-manager/sept2023/AEM-Sites-Tools-Webinar.pdf)存取簡報投影片。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424735/?learn=on)

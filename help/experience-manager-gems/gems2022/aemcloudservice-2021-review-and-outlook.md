@@ -1,6 +1,6 @@
 ---
-title: AEMas a Cloud Service- 2021年回顧和2022年展望
-description: 觀看AEM GEM網路研討會，瞭解2021年AEMas a Cloud Service的回顧。 另外取得2022年儲存內容的概觀。
+title: AEM as a Cloud Service - 2021年回顧和2022年展望
+description: 觀看AEM GEM網路研討會，瞭解2021年AEM as a Cloud Service的回顧。 另外取得2022年儲存內容的概觀。
 solution: Experience Manager
 feature-set: Experience Manager
 version: Cloud Service
@@ -33,4 +33,4 @@ ht-degree: 0%
 >
 >* [對應的Adobe Experience Manager使用者群組事件頁面](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266)
 >* [對應的內容執行緒](https://adobe.ly/3rqbSOz)
->* 請在以下網址報名： [Adobe的AEM使用者群組](https://aem-augs.adobe.com/) 以取得有關即將舉辦的網路研討會的通知。
+>* 請在[Adobe的AEM使用者群組](https://aem-augs.adobe.com/)註冊，以取得即將舉辦網路研討會的通知。

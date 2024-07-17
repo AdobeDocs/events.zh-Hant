@@ -15,7 +15,7 @@ exl-id: 86dd2104-fad4-4ad7-bf25-e76efa753a5d
 duration: 1612
 source-git-commit: 07a0a88da92652a6f07f65ba369e17cfe85fdafd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -24,8 +24,8 @@ ht-degree: 0%
 
 使用AEP Web &amp; Mobile SDK，充分發揮AEP Launch Server Side的潛力，將企業資料收集最佳化。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/36Yd3v6)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/36Yd3v6)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331761/?quality=12&learn=on&hidetitle=true)
 
-按一下 **[此處](/help/adobe-developers-live/assets/experience-platform-sdk-launch.pdf)** 用於工作階段投影片。
+按一下&#x200B;**[這裡](/help/adobe-developers-live/assets/experience-platform-sdk-launch.pdf)**&#x200B;以取得工作階段投影片。

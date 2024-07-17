@@ -16,12 +16,12 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Campaign Classic] V7與V8
+# Adobe[!DNL Campaign Classic] V7與V8
 
 參加此會議，從我們的產品經理那裡瞭解最新的產品更新，以及V7和V8之間的差異。
 
-*克里斯托夫·普羅塔特* 產品經理/Adobe
+*Christophe Protat*&#x200B;產品經理/Adobe
 
-*蓋爾·穆埃洛* 資深產品經理/Adobe
+*Gael Mouello*&#x200B;資深產品經理/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343823/?quality=12&learn=on)

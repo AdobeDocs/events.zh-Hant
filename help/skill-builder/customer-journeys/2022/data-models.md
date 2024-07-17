@@ -1,6 +1,6 @@
 ---
-title: 在Adobe中開發和自訂資料模型 [!DNL Campaign Classic]
-description: 瞭解如何在的資料模型內開發資料結構描述 [!DNL Campaign Classic]
+title: 在Adobe [!DNL Campaign Classic]中開發和自訂資料模型
+description: 瞭解如何在 [!DNL Campaign Classic]內的資料模型內開發資料結構描述
 solution: Campaign Classic
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# 在Adobe中開發和自訂資料模型 [!DNL Campaign Classic]
+# 在Adobe[!DNL Campaign Classic]中開發和自訂資料模型
 
-使用我們的 [!DNL Campaign] 此教學課程將學習如何在的資料模型內開發資料結構描述 [!DNL Campaign Classic].
+與我們的[!DNL Campaign]培訓師一起加入此會議，瞭解如何在[!DNL Campaign Classic]內的資料模型內開發資料結構描述。
 
-*Kamilia Tazi* 訓練顧問/Adobe
+*Kamilia Tazi*&#x200B;訓練顧問/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343829/?quality=12&learn=on)

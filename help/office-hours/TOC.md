@@ -33,6 +33,6 @@ ht-degree: 14%
    + AdobeMarketo {#adobe-marketo-office-hours}
       + [進階智慧清單邏輯與常見陷阱](2023/marketo-common-pitfalls.md)
    + Adobe Target {#adobe-target-office-hours}
-      + [JavaScript程式庫概觀、偵錯提示與秘訣](2023/target-debugging-tips-and-tricks.md)
+      + [JavaScript程式庫概觀、偵錯秘訣與技巧](2023/target-debugging-tips-and-tricks.md)
    + Workfront {#workfront-office-hours}
       + [修正重複的連絡人](2023/workfront-fix-duplicate-contacts.md)

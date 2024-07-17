@@ -9,7 +9,7 @@ duration: 3510
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19133/?quality=9)
 
-*於2017年7月19日提交*
+*於2017年7月19日推出*
 
-**Adobe資深軟體工程師Thomas Mueller**
+**Thomas Mueller，資深軟體工程師，Adobe**
 
 **簡報者投影片**
 
@@ -31,13 +31,13 @@ AEM檔案
 
 >[!CAUTION]
 >
->**所有錄製的作業階段都會列在左側的導覽中**.
+>**所有錄製的工作階段都會列在左側導覽中**。
 
 >[!WARNING]
 >
->AEM 6.4版和更舊版本已終止服務，Adobe不再銷售。  Adobe建議升級至最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  檔案的封存版本可從此處存取 [頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM 6.4版和更舊版本已終止服務，Adobe不再銷售。  Adobe建議升級至最新版本 — [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)。  可以從此[頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)存取檔案的封存版本。
 >
->與此工作階段相關的資訊，請參閱 *Oak查詢和索引* 和 *查詢和建立索引的最佳實務* 在AEM 6.3檔案中。
+>與此工作階段相關的資訊，請參閱AEM 6.3檔案中的&#x200B;*Oak查詢與索引*&#x200B;以及&#x200B;*查詢與索引的最佳實務*。
 
 Oak檔案
 
@@ -51,7 +51,7 @@ Oak檔案
 >
 >* [AEM索引和JCR查詢](aem-indexing-jcr-query.md)
 >* [疑難排解AEM復寫](aem-troubleshooting-aem-replication.md)
->* [Sling Content Distribution疑難排解](aem-troubleshooting-sling.md)
+>* [疑難排解Sling內容發佈](aem-troubleshooting-sling.md)
 <!-- 
 >* linking to helpx, removed for now [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html)
 -->

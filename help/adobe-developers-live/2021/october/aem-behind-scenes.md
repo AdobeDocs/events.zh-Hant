@@ -1,6 +1,6 @@
 ---
 title: 擁有SRE協會成員的Adobe Experience Manager幕後
-description: 網站可靠性工程師協會成員何超瓊及彼得·阿克賽和湯姆·布萊克福德在幕後共同組成一個面板，為AEMas a Cloud Service「保持列車準時」。 我們將瞭解成為有效率SRE所需的技巧和心智、他們對讓系統變得強大且有彈性的看法，以及他們用來防止中斷的量度和警報型別。
+description: 網站可靠性工程師協會成員何超瓊及彼得·阿克賽和湯姆·布萊克福德在幕後共同致力於「讓AEM as a Cloud Service的列車保持準時」。 我們將瞭解成為有效率SRE所需的技巧和心智、他們對讓系統變得強大且有彈性的看法，以及他們用來防止中斷的量度和警報型別。
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -20,9 +20,9 @@ ht-degree: 3%
 
 # 擁有SRE協會成員的Adobe Experience Manager幕後
 
-網站可靠性工程師協會成員何超瓊及彼得·阿克賽和湯姆·布萊克福德在幕後共同組成一個面板，為AEMas a Cloud Service「保持列車準時」。 我們將瞭解成為有效率SRE所需的技巧和心智、他們對讓系統變得強大且有彈性的看法，以及他們用來防止中斷的量度和警報型別。
+網站可靠性工程師協會成員何超瓊及彼得·阿克賽和湯姆·布萊克福德在幕後共同致力於「讓AEM as a Cloud Service的列車保持準時」。 我們將瞭解成為有效率SRE所需的技巧和心智、他們對讓系統變得強大且有彈性的看法，以及他們用來防止中斷的量度和警報型別。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/2WoCVOU)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/2WoCVOU)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337527/?quality=12&learn=on&hidetitle=true)
 

@@ -13,7 +13,7 @@ duration: 1693
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 4%
 
 我們將說明如何請求專用IP或VPN連線，並說明客戶可用的選項。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/3EUTdAo)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/3EUTdAo)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337898/?quality=12&learn=on&hidetitle=true)
 

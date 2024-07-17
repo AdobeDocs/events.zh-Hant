@@ -1,6 +1,6 @@
 ---
 title: Adobe I/O支援的Experience Manager Assets匯出
-description: 本課程涵蓋從Events、Actions到App Builder的Adobe I/O無伺服器平台概觀，同時也從AEMaaCS角度瞭解Adobe I/O如何協助實作使用案例，例如以即時（同步）或批次（非同步）模式將資產從Adobe Experience Manager匯出至外部雲端儲存空間(Azure)或第三方系統(Marketo)。
+description: 本課程涵蓋從Events、Actions到App Builder的Adobe I/O無伺服器平台概觀，同時也從AEMaaCS的角度瞭解Adobe I/O如何協助實作使用案例，例如以即時（同步）或批次（非同步）模式將資產從Adobe Experience Manager匯出至外部雲端儲存空間(Azure)或第三方系統(Marketo)。
 solution: Experience Manager,Experience Manager Assets
 feature: Developer Tools
 topic: Development, Integrations
@@ -14,15 +14,15 @@ duration: 1918
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
 # Adobe I/O支援的Experience Manager Assets匯出
 
-本課程涵蓋從Events、Actions到App Builder的Adobe I/O無伺服器平台概觀，同時也從AEMaaCS角度瞭解Adobe I/O如何協助實作使用案例，例如以即時（同步）或批次（非同步）模式將資產從Adobe Experience Manager匯出至外部雲端儲存空間(Azure)或第三方系統(Marketo)。
+本課程涵蓋從Events、Actions到App Builder的Adobe I/O無伺服器平台概觀，同時也從AEMaaCS的角度瞭解Adobe I/O如何協助實作使用案例，例如以即時（同步）或批次（非同步）模式將資產從Adobe Experience Manager匯出至外部雲端儲存空間(Azure)或第三方系統(Marketo)。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/3mkDXo6)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/3mkDXo6)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337842/?quality=12&learn=on&hidetitle=true)
 

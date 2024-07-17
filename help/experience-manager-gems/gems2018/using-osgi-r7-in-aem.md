@@ -8,7 +8,7 @@ duration: 2785
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -28,7 +28,7 @@ OSGi R7版本代表許多重要的新功能，並為對Java開發人員重要的
 
 >[!VIDEO](https://video.tv.adobe.com/v/25037/?quality=9)
 
-*2018年10月17日傳遞*
+*已於10月17日*&#x200B;傳遞
 
 **展示者：**
 
@@ -44,7 +44,7 @@ OSGi R7版本代表許多重要的新功能，並為對Java開發人員重要的
 
 [OSGi Alliance部落格](https://blog.osgi.org/2018/09/osgi-r7-highlights-blog-series.html)
 
-[OSGi規格授權2.0版](https://osgi.org/specification/osgi.core/7.0.0/index.html)
+[OSGi規格授權，版本2.0](https://osgi.org/specification/osgi.core/7.0.0/index.html)
 
 [OSGi Compendium版本7](https://osgi.org/specification/osgi.cmpn/7.0.0/index.html)
 

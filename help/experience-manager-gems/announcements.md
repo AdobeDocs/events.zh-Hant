@@ -22,4 +22,4 @@ ht-degree: 0%
 >[!NOTE]
 >
 >* 近期課程的相關資訊將於2022年11月初發佈。
->* 請在以下網址報名： [Adobe的AEM使用者群組](https://aem-augs.adobe.com/) 以自動取得即將舉辦之網路研討會的通知。
+>* 請在[Adobe的AEM使用者群組](https://aem-augs.adobe.com/)註冊，以自動接收即將舉辦的網路研討會的通知。

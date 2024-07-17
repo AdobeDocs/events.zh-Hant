@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # 使用Adobe的PaaS Cloud Commerce簡化您的業務
 
-在APAC Commerce網路研討會系列的最新版本中，我們探索Adobe的Commerce CloudPaaS解決方案的價值。 任何自行託管、且想瞭解PaaS解決方案能提供什麼內容的人，都可以參加此網路研討會。 如果您已經是Adobe Commerce Cloud客戶，可以加入我們，深入瞭解如何最大化現有設定的價值。
+在最新一期的APAC Commerce網路研討會系列中，我們探索Adobe的Commerce CloudPaaS解決方案的價值。 任何自行託管、且想瞭解PaaS解決方案能提供什麼內容的人，都可以參加此網路研討會。 如果您已經是Adobe Commerce Cloud客戶，可以加入我們，深入瞭解如何最大化現有設定的價值。
 
 我們有一位客戶是印尼領先的運動服裝經銷商Panatrade，向您介紹他們從內部部署到Adobe Commerce Cloud的歷程，以及他們如何為電子商務業務轉向完全最佳化及受管理的解決方案而獲得回報。
 

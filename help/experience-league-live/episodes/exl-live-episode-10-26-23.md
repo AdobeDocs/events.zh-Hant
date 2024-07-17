@@ -27,5 +27,5 @@ Workfront首頁經過全面改版，現已成為生產力的動力來源。 透�
 
 在這場Experience League即時座談中，產品專家Ben Robbins將逐步引導您瞭解新的首頁體驗，包括新的管理員配置控制和令人興奮的2024年增強功能。 Workfront客戶Jamie Smith將會分享新的家庭體驗如何提高AT&amp;T的生產力。
 
-**若要繼續討論，請造訪 [Experience League社群貼文！](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**
+**若要繼續討論，請造訪[Experience League社群Post！](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**
 

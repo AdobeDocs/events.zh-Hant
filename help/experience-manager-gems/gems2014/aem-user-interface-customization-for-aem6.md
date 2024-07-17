@@ -8,7 +8,7 @@ duration: 3601
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19519/?quality=9)
 
-*2014年5月7日送達*
+*已於2014年5月7日傳遞*
 
 **展示者：**
 
@@ -31,7 +31,7 @@ ht-degree: 1%
 
 ## 相關連結 {#related-links}
 
-* [Touch UI概念](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
+* [觸控式UI概念](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-concepts.html)
 * [結構](https://docs.adobe.com/docs/en/aem/6-0/develop/the-basics/touch-ui-structure.html)
 * [自訂主控台（觸控最佳化UI）](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-consoles-touch.html)
-* [自訂頁面製作（觸控最佳化UI）](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)
+* [自訂頁面編寫（觸控最佳化UI）](https://docs.adobe.com/docs/en/aem/6-0/develop/extending/customizing-page-authoring-touch.html)

@@ -8,7 +8,7 @@ duration: 3581
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19833/?quality=9)
 
-*2017年9月27日傳遞*
+*已於2017年9月27日傳遞*
 
 **展示者：**
 
@@ -30,7 +30,7 @@ ht-degree: 1%
 
 ## 相關連結 {#related-links}
 
-[適用於開發人員的網站分析](https://webanalyticsfordevelopers.com/)
+[開發人員網站分析](https://webanalyticsfordevelopers.com/)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

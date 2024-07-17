@@ -1,6 +1,6 @@
 ---
 title: 2023年8月Grow Track - Experience Makers焦點
-description: 平準 — 教導休閒工作區使用者
+description: 平準 — 教導休閒的Workspace使用者
 feature-set: Analytics
 feature: Workspace Basics
 role: User
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 技能交流活動2023年8月 — Grow Track - Experience Makers Spotlight
 
-平準 — 教導休閒工作區使用者
+平準 — 教導休閒的Workspace使用者
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425993/?learn=on)

@@ -8,7 +8,7 @@ duration: 3272
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19576/?quality=9)
 
-*2013年5月22日送達*
+*已於2013年5月22日傳遞*
 
 **展示者：**
 

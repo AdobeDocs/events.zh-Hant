@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 移轉至AEM Cloud Service
 
-在這場會議中，您將瞭解可用的技術和工具，以便更輕鬆地移轉至AEM Cloud Service。 從內容轉移工具到搭配Best Practice Analyzer使用的新Cloud Acceleration Manager以評估您的環境，請勿錯過此啟用工作階段，以確保您已準備好成功上線Cloud Service。
+在這場會議中，您將瞭解可用的技術和工具，以便更輕鬆地移轉至AEM Cloud Service。 從內容轉移工具到搭配Best Practice Analyzer使用的新Cloud Acceleration Manager以評估您的環境，請勿錯過此啟用課程，以確保您已準備好成功上線Cloud Service。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422533/?learn=on)

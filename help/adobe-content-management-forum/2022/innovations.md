@@ -1,6 +1,6 @@
 ---
-title: Experience Manageras a Cloud Service]創新功能
-description: 與Gagan Mand和Shankari Panchapakesan一起瞭解以下產品的最新創新： [!DNL AEM as a Cloud Service]，尤其是就開發人員經驗而言。
+title: Experience Manageras a Cloud Service創新
+description: 加入Gagan Mand和Shankari Panchapakesan的行列，瞭解 [!DNL AEM as a Cloud Service]的最新創新，尤其是開發人員經驗。
 solution: Experience Manager, Experience Manager as a Cloud Service
 topic: Upgrade, Development
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Experience Manager as a Cloud Service] 創新
+# [!DNL Experience Manager as a Cloud Service]個創新
 
-與Gagan Mand和Shankari Panchapakesan一起瞭解以下產品的最新創新： [!DNL AEM as a Cloud Service]，尤其是就開發人員經驗而言。
+加入Gagan Mand和Shankari Panchapakesan的行列，瞭解[!DNL AEM as a Cloud Service]的最新創新，尤其是開發人員經驗。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345379/?quality=12&learn=on)

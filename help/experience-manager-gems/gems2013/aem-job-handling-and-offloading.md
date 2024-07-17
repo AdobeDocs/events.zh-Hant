@@ -8,7 +8,7 @@ duration: 3750
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19580/?quality=9)
 
-*傳送日期： 2013年7月24日*
+*已於2013年7月24日傳遞*
 
 **展示者：**
 
@@ -36,6 +36,6 @@ Adobe首席開發人員Marc Pfaff
 
 ## 相關連結 {#related-links}
 
-* [Apache Sling事件和工作處理](https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
-* [Discovery API及其實施](https://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
+* [Apache Sling事件與工作處理](https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
+* [探索API及其實作](https://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
 * [正在解除安裝工作](https://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)

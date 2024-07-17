@@ -19,7 +19,7 @@ ht-degree: 24%
 
 # 只需按幾下滑鼠，資料收集和事件轉送功能即可正常運作！
 
-**介紹Adobe Experience Platform資料彙集中新的快速入門工作流程**
+**在Adobe Experience Platform資料彙集中推出新的快速入門工作流程**
 
 如果您是 Adobe 現代資料收集工具的新手並且對深入了解感到緊張，您現在可以比以往更快地啟動並執行基本安裝，包括將事件資料傳送到伺服器端的 Meta。只要按幾下，Adobe的資料收集快速入門工作流程就會在後端設定多個專案，為您節省時間並確保設定正確無誤。
 
@@ -27,5 +27,5 @@ ht-degree: 24%
 
 開始播放上述視訊以檢視此即時資料流事件的重播。
 
-有任何問題嗎？ 繼續在Adobe Experience League上討論此主題 [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476).
+有任何問題嗎？ 繼續在Adobe Experience League [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476)上討論此主題。
 

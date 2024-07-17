@@ -1,6 +1,6 @@
 ---
 title: 使用AEM Headless和App Builder更快建立網站
-description: 觀看簡報和示範，瞭解如何使用Adobe App Builder工作流程及工具快速啟動載入和部署單頁應用程式(SPA)。
+description: 觀看簡報和示範，瞭解如何使用AdobeApp Builder工作流程螞蟻工具快速啟動載入和部署單頁應用程式(SPA)。
 solution: Experience Manager
 feature-set: Experience Manager
 version: Cloud Service, 6.5
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 此AEM GEM網路研討會影片包含下列專案的簡報與示範：
 
-SPA使用AdobeApp Builder工作流程和工具快速啟動載入和部署單頁應用程式，無須具備如Java和Sling等傳統的Experience Manager技能。 有了Experience Manager Headless，行銷人員和開發人員可以擁有自己領域的專業知識。 開發人員可控制整體應用程式架構，而行銷人員則可決定內容及其顯示方式。
+使用AdobeApp Builder工作流程和工具快速啟動載入和部署單頁應用程式(SPA)，無須具備如Java和Sling等傳統Experience Manager技能。 有了Experience Manager Headless，行銷人員和開發人員可以擁有自己領域的專業知識。 開發人員可控制整體應用程式架構，而行銷人員則可決定內容及其顯示方式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341311/?quality=12&learn=on)
 
@@ -32,7 +32,7 @@ SPA使用AdobeApp Builder工作流程和工具快速啟動載入和部署單頁�
 >[!MORELIKETHIS]
 >
 >* [對應的內容執行緒](https://adobe.ly/3LkSWdm)
->* 請在以下網址報名： [Adobe的AEM使用者群組](https://aem-augs.adobe.com/) 以取得有關即將舉辦的網路研討會的通知。
+>* 請在[Adobe的AEM使用者群組](https://aem-augs.adobe.com/)註冊，以取得即將舉辦網路研討會的通知。
 
 
 <!-- >>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/) -->

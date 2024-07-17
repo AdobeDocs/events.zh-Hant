@@ -8,7 +8,7 @@ duration: 3474
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19654/?quality=9)
 
-*2017年9月6日傳遞*
+*已於2017年9月6日傳遞*
 
 **展示者：**
 
@@ -35,5 +35,5 @@ Adobe資深軟體工程師David Bosschaert
 
 ## 相關連結 {#related-links}
 
-* [OSGi in Action (pdf)](https://manning-content.s3.amazonaws.com/download/9/86fba2b-2ea2-48cc-855d-39e06df49ceb/OSGIiAsamplech1.pdf)
+* [動作中的OSGi (pdf)](https://manning-content.s3.amazonaws.com/download/9/86fba2b-2ea2-48cc-855d-39e06df49ceb/OSGIiAsamplech1.pdf)
 * [OSGi元件](https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-i/)

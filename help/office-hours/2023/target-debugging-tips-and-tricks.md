@@ -1,5 +1,5 @@
 ---
-title: JavaScript程式庫概觀、偵錯提示與秘訣
+title: JavaScript程式庫概觀、偵錯秘訣與技巧
 description: 最新版本和功能、如何針對at.js進行偵錯、即時示範疑難排解、自助支援資源，以及如何與支援互動。
 role: Admin, User
 level: Beginner
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# JavaScript程式庫概觀、偵錯提示與秘訣
+# JavaScript程式庫概觀、偵錯秘訣與技巧
 
 瞭解：最新版本和功能、如何偵錯at.js、疑難排解即時示範、自助支援資源，以及如何與支援互動。
 

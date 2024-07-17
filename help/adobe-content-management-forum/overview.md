@@ -19,13 +19,13 @@ ht-degree: 0%
 * 如何匯入最新的體驗管理，好讓內容製作大眾化、讓全頻道傳送變得輕而易舉，並擴展個人化以成就每一個體驗。
 * 如何建立因應個人化需求而擴展的內容供應鏈
 * 如何加快新網站建立的上市時間，減少對技術資源的依賴
-* 的最新創新 [!DNL Experience Manager] 以雲端原生服務的形式提供，以及您如何適應不斷變化的市場期望，同時保持領先地位
-* 如何使用Adobe更快建立網站 [!DNL Experience Manager] 以Headless CMS形式使用GraphQL和內容片段
+* [!DNL Experience Manager]的最新創新技術是以雲端原生服務形式提供，以及您如何適應不斷變化的市場期望，同時保持領先地位
+* 如何使用GraphQL和內容片段，以Headless CMS形式以Adobe[!DNL Experience Manager]更快建立網站
 * 加快Adobe Experience Manager Sites上市時間的開發人員最佳實務
 
 >[!TIP]
 >
->**所有錄製的作業階段都會列在左側的導覽中**.
+>**所有錄製的工作階段都會列在左側導覽中**。
 
 <table>
   <tr>
@@ -44,15 +44,15 @@ ht-degree: 0%
    </td>
    <td>
       <a href="2022/assets-for-all.md">
-      <img alt="全部資產" src="assets/assets-for-all.png" >
+      <img alt="適用於所有人的Assets" src="assets/assets-for-all.png" >
       </a>
       <div>
-         <a href="2022/assets-for-all.md"><strong>擴充Adobe [!DNL Experience Manager] Headless與Adobe [!DNL App Builder]</strong></a>         
-         <br/><em>與Purnima Rachoor Roy</em>
+         <a href="2022/assets-for-all.md"><strong>延伸Adobe為[!DNL App Builder]</strong></a>的Adobe[!DNL Experience Manager] Headless         
+         <br/><em>配備Purnima Rachoor Roy</em>
       </div>
       <p>
         <br/>
-          瞭解如何 [!DNL Assets Essentials] 是新的 [!DNL Digital Asset Management] 適用於部門與中型公司的系統。
+          瞭解[!DNL Assets Essentials]如何成為適用於部門與中型公司的新[!DNL Digital Asset Management]系統。
       </p>
    </td>
    <td>
@@ -60,8 +60,8 @@ ht-degree: 0%
       <img alt="建立可擴充的內容供應鏈" src="assets/supply-chain.png" />
       </a>
       <div>
-         <a href="2022/supply-chain.md"><strong>建立可擴充的內容供應鏈</strong></a>         
-         <br/><em>與馬克·安傑利諾維奇</em>
+         <a href="2022/supply-chain.md"><strong>建立可縮放的內容供應鏈</strong></a>         
+         <br/><em>配備Marc Angelinovich</em>
       </div>
       <p>
         <br/>

@@ -22,7 +22,8 @@ ht-degree: 0%
 
 *此網路研討會已於UTC6月15日下午3點舉行。 請檢視下面的錄製。*
 
-工作階段說明：探索去年發佈的新功能、幕後開發的最新消息，並展望2022年下半年。 有關Cloud Manager如何在幕後運作以及客戶如何最佳利用它的詳細資訊。
+工作階段說明：
+探索去年發佈的新功能、幕後開發的更新以及展望2022年下半年。 詳細說明Cloud Manager的幕後運作方式，以及客戶如何充分運用此產品。
 
 內容適用於Adobe Experience Manager as a Cloud Service和Experience Manager Managed Services，焦點放在Cloud Service上。 無論技術或非技術出席者，皆可適用。 之前接觸Cloud Manager有助於瞭解上下文，但並非必要。
 
@@ -32,5 +33,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* 如需Experience League上特定工作階段的社群互動，請造訪此 [內容執行緒](https://adobe.ly/3O0rdzd)
->* 若要收到有關網路研討會的自動通知，請註冊於 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
+>* 若為Experience League上的工作階段特定社群互動，請造訪此[內容對話串](https://adobe.ly/3O0rdzd)
+>* 若要接收有關網路研討會的自動通知，請在[Adobe的AEM使用者群組](https://aem-augs.adobe.com/)註冊。

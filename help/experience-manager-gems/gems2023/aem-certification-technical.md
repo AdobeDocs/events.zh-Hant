@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # 掌握Experience Manager認證的藝術：準備就緒、準備就緒、取得認證！
 
-此網路研討會已進行於 **6月28**， 2023。 請檢視下面的錄製。
+此網路研討會已在2023年6月28日&#x200B;**進行。**&#x200B;請檢視下面的錄製。
 
 ## 工作階段說明
 
@@ -45,6 +45,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* 如需Experience League上特定工作階段的社群互動，請造訪此 [內容執行緒](https://adobe.ly/3p2CmbA)
+>* 若為Experience League上的工作階段特定社群互動，請造訪此[內容對話串](https://adobe.ly/3p2CmbA)
 >
->* 若要收到我們即將舉辦的網路研討會的通知，請註冊於 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
+>* 若要接收我們即將舉辦之網路研討會的相關通知，請在[Adobe的AEM使用者群組](https://aem-augs.adobe.com/)註冊。

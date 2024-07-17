@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27088/?quality=9)
 
-*2019年4月16日傳遞*
+*已於2019年4月16日傳遞*
 
 **展示者：**
 

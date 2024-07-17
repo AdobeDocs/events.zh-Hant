@@ -1,6 +1,6 @@
 ---
 title: 分析資料
-description: 自由表格是Analysis Workspace彈性的基礎 — 熟悉這些強大的表格將帶您走出工作區歷程的深淵區段是篩選和深入瞭解資料的高度彈性方法，可在量度層級全域套用，或當作獨立維度使用。 面板提供複雜分析的捷徑 — 尤其是快速深入分析面板，是輕鬆回答您的業務所面臨的問題的絕佳選項
+description: 自由格式表格是Analysis Workspace的彈性基礎 — 熟悉這些強大的表格將帶您進入Workspace歷程更深入瞭解區段是極為靈活的方式，可篩選及深入瞭解您的資料，並可在量度層級全域套用，或作為獨立維度使用。 面板提供複雜分析的捷徑 — 尤其是快速深入分析面板，是輕鬆回答您的業務所面臨的問題的絕佳選項
 feature-set: Analytics
 feature: Freeform Tables, Metrics
 role: User
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 2023年8月技能交流活動 — 學習追蹤 — Adobe Analytics：分析資料
 
-自由表格是Analysis Workspace的彈性基礎 — 熟悉這些強大的表格將可讓您在工作區歷程中走得更遠
+自由表格是Analysis Workspace的彈性基礎 — 熟悉這些強大的表格將能帶您進入Workspace歷程
 
 區段是篩選和深入瞭解您資料的高度靈活方式，可在量度層級全域套用，或作為獨立維度使用
 

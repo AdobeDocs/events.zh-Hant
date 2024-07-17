@@ -10,7 +10,7 @@ duration: 3644
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19282/?quality=9)
 
-*傳送日期： 2017年7月26日*
+*已於2017年7月26日傳遞*
 
 **Tommaso Teofili，開發人員，Adobe**
 

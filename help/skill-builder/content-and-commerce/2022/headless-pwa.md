@@ -1,5 +1,5 @@
 ---
-title: 適用於商務和PWA Studio的Headless
+title: 適用於Commerce和PWA Studio的Headless
 description: 進一步瞭解如何使用Adobe Commerce中的PWA studio快速且符合成本效益地建置部署及最佳化PWA
 solution: Commerce
 role: Admin, Architect, Developer, Leader, User
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# 適用於商務和PWA Studio的Headless
+# 適用於Commerce和PWA Studio的Headless
 
 Headless和漸進式網頁應用程式(PWA)提供快速、吸引人且類似應用程式的瀏覽體驗，重新定義消費者如何使用行動裝置。 參加此會議，進一步瞭解如何使用Adobe Commerce中的PWA Studio快速且符合成本效益地建置部署和最佳化PWA。
 

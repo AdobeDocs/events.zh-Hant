@@ -1,6 +1,6 @@
 ---
 title: 範本、權杖和團隊合作 — 讓您的內容可擴充
-description: 瞭解如何在中使用代號和範本 [!DNL Marketo Engage]. 探索善用現有內容庫的秘訣。
+description: 瞭解如何在 [!DNL Marketo Engage]中使用權杖和範本。 探索善用現有內容庫的秘訣。
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# 範本、權杖和團隊合作 — 製作您的Adobe [!DNL Marketo Engage] 內容可擴充
+# 範本、權杖和團隊合作 — 讓您的Adobe[!DNL Marketo Engage]內容可擴充
 
-為行銷方案建立內容是一項漫長的工作。 套用範本和權杖可協助您跨團隊建立可擴充的流程，並且以較少的投入取得更多成果 [!DNL Marketo Engage]. 聆聽獲獎行銷主管Lauren McCormack的介紹 — 以及2倍的Adobe [!DNL Marketo Engage] Champion — 分享她多年的智慧來創造您的 [!DNL Marketo Engage] 內容可擴充。
+為行銷方案建立內容是一項漫長的工作。 套用範本和權杖可協助您跨團隊建立可擴充的流程，並在[!DNL Marketo Engage]中用更少的資源完成更多工作。 聆聽Lauren McCormack，一位獲獎的行銷領導者 — 以及2倍的Adobe[!DNL Marketo Engage] Champion — 分享她多年的智慧以擴展您的[!DNL Marketo Engage]內容。
 
 瞭解：
 

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence先前稱為 [!DNL Magento Business Intelligence (MBI)]. 過去活動的錄影反映了先前的名稱。
+>Adobe Commerce Intelligence先前稱為[!DNL Magento Business Intelligence (MBI)]。 過去活動的錄影反映了先前的名稱。
 
 工作階段1：
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 錄製的網路研討會內容
 
-_詢問專家_ 包含兩個工作階段：
+_向專家提問_&#x200B;由兩個工作階段組成：
 
 ### 工作階段1
 
@@ -51,7 +51,7 @@ _詢問專家_ 包含兩個工作階段：
 
 >[!TIP]
 >
->如果您是初次使用Commerce Intelligence，您可以 [快速入門影片系列](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) 提供透過資料彙總、分析和視覺化產生更佳業務深入分析和結果的完整概覽。
+>如果您是Commerce Intelligence的新手，[快速入門影片系列](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html)會提供完整概覽，讓您透過資料彙總、分析和視覺效果，獲得更好的業務見解和結果。
 
 - [Commerce Intelligence簡介](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
 - [Commerce Intelligence支援](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

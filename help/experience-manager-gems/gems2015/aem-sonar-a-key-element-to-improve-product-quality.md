@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19379/?quality=9)
 
-*2015年2月11日送達*
+*已於2015年2月11日傳遞*
 
 **展示者：**
 

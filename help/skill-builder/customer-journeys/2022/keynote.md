@@ -19,6 +19,6 @@ ht-degree: 0%
 
 在這場主旨會議中，您將瞭解B2B和B2C的客戶歷程管理的最新趨勢。 我們也會與您分享關鍵歷程應用程式及更廣泛的Adobe Experience Cloud和平台的最新創新。 不要錯過一個！
 
-*提莫·柯爾伯格* 資深經理與EMEA主要產品行銷/Adobe
+*Timo Kohlberg*&#x200B;資深經理與EMEA主要產品行銷/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343822/?quality=12&learn=on)

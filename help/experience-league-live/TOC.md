@@ -20,7 +20,7 @@ ht-degree: 5%
 # Experience League Live 活動 {#experience-league-live-recordings}
 
 + [概觀](overview.md)
-+ 集數 {#episodes}
++ 集數{#episodes}
    + [Ep. 37：最新Adobe Real-Time CDP發行版本如何為您的企業指引方向](episodes/exl-live-episode-06-26-24.md)
    + [Ep. 36：這是將Analytics移轉至Web SDK的方式](episodes/exl-live-episode-05-16-24.md)
    + [Ep. 35： Journey Optimizer中的全新程式碼型體驗管道](episodes/exl-live-episode-04-24-24.md)
@@ -38,7 +38,7 @@ ht-degree: 5%
    + [Ep. 23：只要按幾下滑鼠，資料收集和事件轉送功能即可正常運作！](episodes/exl-live-episode-4-25-23.md)
    + [Ep. 22：加速您的網路體驗](episodes/exl-live-episode-2-16-23.md)
    + [Ep. 21：資料收集重點和藍圖](episodes/exl-live-episode-1-26-23.md)
-   + [Ep. 20： [!DNL Analytics] 無論是在辦公室還是外出](episodes/exl-live-episode-11-18-22.md)
+   + [Ep. 20： [!DNL Analytics] 在辦公室或外出](episodes/exl-live-episode-11-18-22.md)
    + [Ep. 19：透過決策管理在適當的時間提供適當的優惠](episodes/exl-live-episode-10-25-22.md)
    + [Ep. 18：在Adobe Journey Optimizer中執行行銷活動](episodes/exl-live-episode-09-22-22.md)
    + [Ep. 17：即時提供更個人化的客戶體驗](episodes/exl-live-episode-09-20-22.md)
@@ -51,11 +51,11 @@ ht-degree: 5%
    + [Ep. 10：從Headful到Headless的AEM （以及介於兩者之間的一切）](episodes/exl-live-episode-04-21-22.md)
    + [Ep. 9：介紹AEM的所有最新參考示範](episodes/exl-live-episode-02-03-22.md)
    + [Ep. 8：Customer Journey Analytics：內幕消息](episodes/exl-live-episode-08.md)
-   + [Ep. 7：使用Adobe App Builder延伸AEM](episodes/exl-live-episode-07.md)
+   + [Ep. 7：使用AdobeApp Builder擴充AEM](episodes/exl-live-episode-07.md)
    + [Ep. 6：測量人員而非裝置](episodes/exl-live-episode-06.md)
    + [Ep. 5：透過快速建立網站，以前所未有的速度直播](episodes/exl-live-episode-05.md)
    + [Ep. 4：誰按一下該連結？ 他們還做了什麼？](episodes/exl-live-episode-04.md)
    + [Ep. 3：讓您的假日行銷活動脫穎而出的專家秘訣](episodes/exl-live-episode-03.md)
    + [Ep. 2：讓您未來的受眾人群變得前所未有的聰明](episodes/exl-live-episode-02.md)
    + [Ep. 1：我最愛的三個Adobe [!DNL Analytics] 實作秘訣](episodes/exl-live-episode-01.md)
-+ [Experience League即時資產](exl-live-assets.md)
++ [EXPERIENCE LEAGUELIVE ASSETS](exl-live-assets.md)

@@ -19,6 +19,6 @@ ht-degree: 0%
 
 在這場會議中，您將瞭解如何在行動裝置上使用Analytics儀表板，以及如何透過Target個人化應用程式的最佳實務。
 
-*蘆果藍季* 解決方案顧問/Adobe
+*Ashika Ramjee*&#x200B;解決方案顧問/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343819/?quality=12&learn=on)

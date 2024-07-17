@@ -8,13 +8,13 @@ doc-type: Event
 duration: 1109
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15303
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: 72fc12aa-05fe-4856-9c34-bb61f6f3a295
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
 
 ---
-
 
 # 由Microsoft Power Automate支援的工作流程自動化
 
@@ -29,5 +29,3 @@ ht-degree: 0%
 * 此外&#x200B;，Power Automate可讓使用者在Adobe Acrobat Sign中建立和使用自動化工作流程，而不需要IT人員參與。
 * 這些自動化工作流程可提高效率、生產力並減少錯誤。
 * Power Automate也允許非管理員建立工作流程，為使用者提供一個平台，藉由建立流程來連線不同的應用程式和服務，以自動化工作和流程。 它提供廣泛的觸發器和動作，可用於根據特定業務需求建立自訂工作流程。
-
-

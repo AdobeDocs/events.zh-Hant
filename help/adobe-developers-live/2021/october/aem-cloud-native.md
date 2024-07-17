@@ -1,6 +1,6 @@
 ---
 title: Experience Cloud的雲端原生擴充功能 — 可供Experience Manager開發人員使用
-description: 加入我們，與Loni Stark、Experience Manager副總裁、Michael Marth、Director AEM Sites & Screens資深一起開會，進一步瞭解Adobe的雲端原生擴充性策略Experience Cloud，以及其中適用於開發人員的內容。 觀看擴充性使用案例的即時示範，這些使用以Adobe的雲端原生開發人員架構「Adobe Developer App Builder」建置，其中包括與整合和擴充Adobe Experience Manager的新功能。
+description: 加入我們，與Experience Manager副總裁Loni Stark和Director AEM Sites & Screens資深Michael Marth一起開會，進一步瞭解Adobe的雲端原生擴充性策略Experience Cloud及其對開發人員的好處。 觀看擴充性使用案例的即時示範，這些使用以Adobe的雲端原生開發人員架構「Adobe Developer App Builder」建置，其中包括與整合和擴充Adobe Experience Manager的新功能。
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -20,9 +20,9 @@ ht-degree: 3%
 
 # Experience Cloud的雲端原生擴充功能 — 可供Experience Manager開發人員使用
 
-加入我們，與Loni Stark、Experience Manager副總裁、Michael Marth、Director AEM Sites &amp; Screens資深一起開會，進一步瞭解Adobe的雲端原生擴充性策略Experience Cloud，以及其中適用於開發人員的內容。 觀看擴充性使用案例的即時示範，這些使用以Adobe的雲端原生開發人員架構「Adobe Developer App Builder」建置，其中包括與整合和擴充Adobe Experience Manager的新功能。
+加入我們，與Experience Manager副總裁Loni Stark和Director AEM Sites &amp; Screens資深Michael Marth一起開會，進一步瞭解Adobe的雲端原生擴充性策略Experience Cloud及其對開發人員的好處。 觀看擴充性使用案例的即時示範，這些使用以Adobe的雲端原生開發人員架構「Adobe Developer App Builder」建置，其中包括與整合和擴充Adobe Experience Manager的新功能。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/2XTk7aX)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/2XTk7aX)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337491/?quality=12&learn=on&hidetitle=true)
 

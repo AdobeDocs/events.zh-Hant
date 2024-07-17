@@ -1,6 +1,6 @@
 ---
-title: Creative Cloud程式庫和資產瀏覽器API簡介
-description: 瞭解如何透過Creative Cloud資料庫API和資產瀏覽器SDK將Creative Cloud資料庫整合到您的網頁應用程式中
+title: Creative Cloud Libraries和資產瀏覽器API簡介
+description: 瞭解如何透過Creative Cloud Libraries API和Asset Browser SDK將Creative Cloud Libraries整合到您的網頁應用程式中
 solution: Creative Cloud
 feature: Developer Tools
 topic: Development
@@ -13,13 +13,13 @@ duration: 1485
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 17%
+ht-degree: 16%
 
 ---
 
-# Creative Cloud程式庫和資產瀏覽器API簡介
+# Creative Cloud Libraries和資產瀏覽器API簡介
 
-瞭解如何透過Creative Cloud資料庫API和資產瀏覽器SDK將Creative Cloud資料庫整合到您的網頁應用程式中
+瞭解如何透過Creative Cloud Libraries API和Asset Browser SDK將Creative Cloud Libraries整合到您的網頁應用程式中
 
 >[!VIDEO](https://video.tv.adobe.com/v/337592/?quality=12&learn=on&hidetitle=true)
 

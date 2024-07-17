@@ -7,15 +7,15 @@ duration: 105
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 12%
+ht-degree: 7%
 
 ---
 
 # Adobe Commerce產品更新
 
-加入Adobe Commerce產品更新網路研討會，瞭解我們如何運用多項令人興奮的新功能來轉換平台！ 我們將展示最新的Commerce創新技術，以及它們如何協助您提升銷售量、簡化開發工作並提升效能。
+加入Adobe Commerce產品更新網路研討會，瞭解我們如何運用多項令人興奮的新功能來轉換平台！ 我們將展示最新的Commerce創新技術，以及這些技術如何協助您提升銷售量、簡化開發工作並提升效能。
 
-## 上次更新
+## 最新更新
 
 <table style="max-width: 50%;">
   <tr>
@@ -31,13 +31,13 @@ ht-degree: 12%
           <!-- <em>Release date June 2023 </em> -->
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html">發行說明</a>
+        <a href="https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hant">發行說明</a>
       <p>
     </td>
   </tr>  
 </table>
 
-## 以前的更新
+## 過去的更新
 
 <table style="max-width: 50%;">
   <tr>
@@ -53,7 +53,7 @@ ht-degree: 12%
           <!-- <em>Release date June 2023 </em> -->
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html">發行說明</a>
+        <a href="https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=zh-Hant">發行說明</a>
       <p>
     </td>
   </tr>  

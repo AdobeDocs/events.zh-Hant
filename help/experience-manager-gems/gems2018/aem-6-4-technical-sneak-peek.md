@@ -8,7 +8,7 @@ duration: 3717
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '157'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ Experience Manager提供敏捷的解決方案，可跨網路、行動裝置和�
 
 >[!VIDEO](https://video.tv.adobe.com/v/21749/?quality=9)
 
-*2018年3月14日送達*
+*已於2018年3月14日傳遞*
 
 **展示者：**
 

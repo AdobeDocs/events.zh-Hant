@@ -1,6 +1,6 @@
 ---
-title: 瞭解Adobe App Builder、Adobe IO、Webhooks和管理UI SDK
-description: 瞭解AdobeApp Builder、AdobeIO、Webhook、管理員UI SDK。  以下介紹每個新功能，協助您瞭解常見的使用案例。
+title: 瞭解AdobeApp Builder、AdobeIO、Webhooks和管理UI SDK
+description: 瞭解AdobeApp Builder、AdobeIO、Webhook、管理UI SDK。  以下介紹每個新功能，協助您瞭解常見的使用案例。
 solution: Commerce
 feature: App Builder
 topic: Development
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 ---
 
-# 瞭解Adobe App Builder、Adobe IO、Webhooks和管理UI SDK
+# 瞭解AdobeApp Builder、AdobeIO、Webhooks和管理UI SDK
 
-瞭解AdobeApp Builder、AdobeIO、Webhook、管理員UI SDK。  以下介紹每個新功能，協助您瞭解常見的使用案例。
+瞭解AdobeApp Builder、AdobeIO、Webhook、管理UI SDK。  以下介紹每個新功能，協助您瞭解常見的使用案例。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425805/?learn=on)

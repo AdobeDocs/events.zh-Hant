@@ -1,5 +1,5 @@
 ---
-title: 使用快速開發環境加速AEMas a Cloud Service開發
+title: 透過快速開發環境加速AEM as a Cloud Service開發
 description: 為了部署變更，目前的雲端開發環境需要使用採用廣泛計畫碼安全性和品質規則（稱為CI/CD管道）的程式。 對於需要快速反複變更的情況，Adobe已推出快速開發環境（簡稱RDE）。RDE可讓開發人員快速部署及檢閱變更，將測試被證明可在本機開發環境中運作的功能所需的時間減至最少。
 feature-set: Experience Manager
 solution: Experience Manager
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ---
 
-# 使用快速開發環境加速AEMas a Cloud Service開發
+# 透過快速開發環境加速AEM as a Cloud Service開發
 
 此網路研討會已在2023年2月22日舉行。 請檢視下面的錄製。
 
@@ -44,6 +44,6 @@ RDE可讓開發人員快速部署和檢閱變更，將測試經證實可在本�
 
 >[!NOTE]
 >
->* 如需Experience League上特定工作階段的社群互動，請造訪此 [內容執行緒](http://bit.ly/3x1Cl8x)
+>* 若為Experience League上的工作階段特定社群互動，請造訪此[內容對話串](http://bit.ly/3x1Cl8x)
 >
->* 若要收到我們即將舉辦的網路研討會的通知，請註冊於 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
+>* 若要接收我們即將舉辦之網路研討會的相關通知，請在[Adobe的AEM使用者群組](https://aem-augs.adobe.com/)註冊。

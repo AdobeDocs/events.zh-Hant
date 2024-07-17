@@ -1,6 +1,6 @@
 ---
-title: 商務與咖啡 — 個人化
-description: 此會議深入探討有關個人化您的Commerce網站的策略和戰術，全年保持競爭力。 我們會檢閱個人化的原因、內容及方式，並討論與個人化直接相關的轉換影響。 接著，Cory會進行類別許可權、客戶區段、動態區塊/介面工具集、產品Recommendations等的示範。 簡報和示範會隨附Corey的即時問答。
+title: Commerce與咖啡 — Personalization
+description: 此會議深入探討關於個人化Commerce網站的策略和策略，全年保持競爭力。 我們會檢閱個人化的原因、內容及方式，並討論與個人化直接相關的轉換影響。 接著，Cory會進行類別許可權、客戶區段、動態區塊/介面工具集、產品Recommendations等的示範。 簡報和示範會隨附Corey的即時問答。
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 商務與咖啡 — 個人化
+# Commerce與咖啡 — Personalization
 
-此會議深入探討有關個人化您的Commerce網站的策略和戰術，全年保持競爭力。 我們會檢閱個人化的原因、內容及方式，並討論與個人化直接相關的轉換影響。 接著，Cory會進行類別許可權、客戶區段、動態區塊/介面工具集、產品Recommendations等的示範。 簡報和示範會隨附Corey的即時問答。
+此會議深入探討關於個人化Commerce網站的策略和策略，全年保持競爭力。 我們會檢閱個人化的原因、內容及方式，並討論與個人化直接相關的轉換影響。 接著，Cory會進行類別許可權、客戶區段、動態區塊/介面工具集、產品Recommendations等的示範。 簡報和示範會隨附Corey的即時問答。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412700/?quality=12&learn=on)

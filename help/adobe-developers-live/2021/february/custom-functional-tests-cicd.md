@@ -25,8 +25,8 @@ ht-degree: 0%
 
 瞭解如何透過自訂功能測試，在生產環境中自信地部署程式碼。 即使是在繁忙的星期五下午，品質也不應該很難。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/36Yd3v6)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/36Yd3v6)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332309/?quality=12&learn=on&hidetitle=true)
 
-按一下 **[此處](/help/adobe-developers-live/assets/custom-functional-tests-cicd.pdf)** 用於工作階段投影片。
+按一下&#x200B;**[這裡](/help/adobe-developers-live/assets/custom-functional-tests-cicd.pdf)**&#x200B;以取得工作階段投影片。

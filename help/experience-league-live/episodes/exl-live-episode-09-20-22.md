@@ -21,5 +21,5 @@ Adobe Target與Adobe Real-time Customer Data Platform可整合，以提供更個
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409425/?quality=12&learn=on)
 
-請瀏覽檔案以取得更多關於以下內容的資訊： [邊緣細分](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/edge-segmentation.html?lang=zh-Hant) 和 [串流細分](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html).
+請瀏覽檔案以取得有關[Edge分段](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/edge-segmentation.html?lang=zh-Hant)和[串流分段](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html)的詳細資訊。
 

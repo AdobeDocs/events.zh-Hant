@@ -8,7 +8,7 @@ duration: 3560
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,12 +18,12 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/21532/?quality=9)
 
-*2017年10月25日傳遞*
+*已於2017年10月25日傳遞*
 
 **展示者：**
 
 Leandro Reis，Adobe核心服務全球化架構師\
-Mathias Siegel，資深產品經理， [!DNL AEM Sites]，Adobe
+Mathias Siegel，Sr產品經理，[!DNL AEM Sites]，Adobe
 
 **簡報者投影片**
 
@@ -33,6 +33,6 @@ Mathias Siegel，資深產品經理， [!DNL AEM Sites]，Adobe
 
 >[!WARNING]
 >
->AEM 6.4版和更舊版本已終止服務，Adobe不再銷售。  Adobe建議升級至最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  檔案的封存版本可從此處存取 [頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM 6.4版和更舊版本已終止服務，Adobe不再銷售。  Adobe建議升級至最新版本 — [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)。  可以從此[頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)存取檔案的封存版本。
 >
->與此工作階段相關的資訊，請參閱 *AEM Sites翻譯檔案*， *翻譯最佳實務檔案* 和 *管理多語言資產* 在AEM 6.3檔案中。
+>與此工作階段相關的資訊，請參閱AEM 6.3檔案中的&#x200B;*AEM Sites翻譯檔案*、*翻譯最佳實務檔案*&#x200B;和&#x200B;*管理多語言Assets*。

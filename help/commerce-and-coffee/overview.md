@@ -1,6 +1,6 @@
 ---
-title: 商務與咖啡
-description: Adobe Commerce和Coffee系列專注於商務策略和戰術，並有反映事件主題的統計資料作為支援。
+title: Commerce和咖啡
+description: Adobe Commerce和Coffee系列著重於Commerce策略和戰術，並有反映活動主題的統計資料支援。
 exl-id: fba820f3-55cf-4cf5-bb0f-6b19870264db
 duration: 81
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -10,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# 商務與咖啡
+# Commerce和咖啡
 
-Commerce &amp; Coffee系列適用於所有技能水準和功能的現有Adobe Commerce客戶。Commerce策略顧問Corey Gelato。 此系列專注於商務策略和戰術，由反映事件主題的統計資料所支援。 簡報結束後，將進行即時示範，展示如何在Commerce平台中實施所討論的策略。 每場活動的結尾都會讓與會者有機會即時提出問題，並直接與Adobe專家互動。 您將重新認識每個活動，瞭解保持競爭力及取得成功的原因，以及方法，同時充分發揮Adobe Commerce平台的最大效益。
+Commerce &amp; Coffee系列適用於所有技能等級和功能的現有Adobe Commerce客戶。Commerce策略顧問Corey Gelato。 此系列重點介紹Commerce的策略和戰術，並提供反映事件主題的統計資料。 簡報結束後，直播示範會示範如何在Commerce平台中將所討論的策略付諸行動。 每場活動的結尾都會讓與會者有機會即時提出問題，並直接與Adobe專家互動。 您將重新認識每個活動，瞭解保持競爭力及取得成功的原因，以及方法，同時充分發揮Adobe Commerce平台的最大效益。
 
 <!--
 ## What's New
@@ -64,4 +64,4 @@ Commerce &amp; Coffee系列適用於所有技能水準和功能的現有Adobe Co
 
 >[!TIP]
 >
->**所有錄製的作業階段都會列在左側的導覽中**.
+>**所有錄製的工作階段都會列在左側導覽中**。

@@ -1,6 +1,6 @@
 ---
 title: Adobe Workfront Proof的未來
-description: 您是否使用Workfront校訂進行檢閱和核准組織的工作流程？ 好奇如何充分運用此工具，以及我們針對未來有何計畫。
+description: 您是否使用Workfront Proof來檢閱及核准組織的工作流程？ 好奇如何充分運用此工具，以及我們針對未來有何計畫。
 solution: Workfront
 role: User
 level: Intermediate, Experienced
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Adobe Workfront Proof的未來
 
-您是否使用Workfront校訂進行檢閱和核准組織的工作流程？ 好奇如何充分運用此工具，以及我們針對未來有何計畫？ Proof的Adobe Workfront產品經理Caroline Ossmann將分享：
+您是否使用Workfront Proof來檢閱及核准組織的工作流程？ 好奇如何充分運用此工具，以及我們針對未來有何計畫？ Proof的Adobe Workfront產品經理Caroline Ossmann將分享：
 
 * 最新創新的亮點
 * 我們如何檢視客戶運用Proof的範例

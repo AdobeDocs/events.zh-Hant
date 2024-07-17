@@ -1,6 +1,6 @@
 ---
 title: 可執行檔行銷活動 — 瞭解可執行檔如何提升效率和影響力
-description: 此課程專為Marketo管理員和行銷活動營運專業人士量身打造，著重於瞭解及部署可執行行銷活動，為行銷活動和方案增加價值、建立效率並促進增長。
+description: 該會議是為 Marketo 管理員和行銷活動營運專業人員量身定制，重點是了解和部署可執行的行銷活動，以增加行銷活動和計劃的價值、提高效率並推動成長。
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -12,7 +12,7 @@ exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
 source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
 workflow-type: tm+mt
 source-wordcount: '468'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427704/?learn=on)
 
-**仲裁者** 克里斯·威利斯
-**喇叭** Courtny Edwards-Jones和Jane Musatova
+**由** Chris Willis主持
+**喇叭** Courtny Edwards-Jones與Jane Musatova
 
 ## 概觀
 

@@ -21,5 +21,5 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/342611/?quality=12&learn=on)
 
-若要繼續此工作階段的對話，請造訪 [Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/experience-league-live-post-session-discussion-how-do-i-handle/m-p/450340#M419)，我們也會回答課程中我們沒有時間即時回答的問題。
+若要繼續此工作階段的對話，請造訪[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/experience-league-live-post-session-discussion-how-do-i-handle/m-p/450340#M419)，我們也會在此回答我們沒時間即時回答的問題。
 

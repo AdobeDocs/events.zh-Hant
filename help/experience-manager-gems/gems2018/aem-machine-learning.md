@@ -9,7 +9,7 @@ duration: 3539
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 4%
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 >[!VIDEO](https://video.tv.adobe.com/v/22255/?quality=9)
 
-*2018年4月18日送達*
+*已於2018年4月18日傳遞*
 
 **展示者：**
 
@@ -37,4 +37,4 @@ Jonas Dahl，Adobe產品經理
 
 >[!MORELIKETHIS]
 >
->* [AEM中的機器學習：增強型智慧標籤、智慧版面配置等](aem-machine-learning.md)
+>* [AEM中的機器學習：增強智慧標籤、智慧配置等等](aem-machine-learning.md)

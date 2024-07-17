@@ -24,9 +24,9 @@ ht-degree: 1%
    + [將使用案例對應至解決方案功能](2024/use-case-mapping.md)
    + [Web SDK Migration Essentials](2024/web-sdk-migration.md)
 + 2023 {#2023}
-   + [建立大規模個人化的基礎](2023/personalization-at-scale.md)
+   + [大規模建立Personalization的基礎](2023/personalization-at-scale.md)
    + [變更管理](2023/change-management.md)
-   + [內容與體驗 — 個人化](2023/content-experiences-personalization.md)
+   + [內容與體驗 — Personalization](2023/content-experiences-personalization.md)
    + [Customer Journey Analytics遷移整備](2023/cja-migration-readiness.md)
    + [Customer Journey Analytics整合要點](2023/cja-integration-essentials.md)
    + [開發即時資料收集與啟用策略](2023/data-collection-activation-strategy.md)

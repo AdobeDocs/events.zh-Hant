@@ -1,5 +1,5 @@
 ---
-title: Experience League即時資產
+title: EXPERIENCE LEAGUELIVE ASSETS
 description: 此頁面內含用於「即時Experience League」的資產
 role: User
 level: Beginner
@@ -14,10 +14,10 @@ ht-degree: 0%
 
 ---
 
-# Experience League即時資產
+# EXPERIENCE LEAGUELIVE ASSETS
 
 此頁面內含用於「即時Experience League」的資產
 
 ![第6集側欄影像](assets/exl-live-ep6-sidebar.jpg)
 
-![Experience LeagueLive標誌](assets/exl-live-logo.png)
+![Experience League即時標誌](assets/exl-live-logo.png)

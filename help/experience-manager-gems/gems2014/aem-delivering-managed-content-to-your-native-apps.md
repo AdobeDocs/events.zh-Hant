@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19467/?quality=9)
 
-*2014年9月10日傳遞*
+*已於2014年9月10日傳遞*
 
 **展示者：**
 

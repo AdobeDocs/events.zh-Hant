@@ -1,5 +1,5 @@
 ---
-title: 商務與咖啡 — 2021年假期回顧展
+title: Commerce與咖啡 — 2021年假期回顧展
 description: 在這場會議中，我們將瞭解電子商務在2021年獨特節日季節如何成功。 我們將運用這些學到的知識，討論在2022年對Adobe Commerce策略產生更好影響的方法。 接著Corey會示範產品庫存警示、BOPIS /路邊取貨、獎勵和忠誠度等等。 簡報和示範會隨附Corey的即時問答。
 solution: Commerce
 topic: Commerce

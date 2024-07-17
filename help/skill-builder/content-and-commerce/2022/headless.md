@@ -22,6 +22,6 @@ ht-degree: 69%
 
 了解使用最新 Experience Manager 內容片段增強功能的無頭式體驗管理，以及用於無頭式內容提供的新 GraphQL API。
 
-*Thomas Morf* 訓練顧問/Adobe
+*Thomas Morf*&#x200B;訓練顧問/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343816/?quality=12&learn=on)

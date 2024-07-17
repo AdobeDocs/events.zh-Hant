@@ -1,5 +1,5 @@
 ---
-title: 第一方資料內容中的資料共同作業
+title: 第一方資料內容中的資料Collaboration
 description: 此網路研討會有助於未來在無第三方Cookie的情況下解放共同作業機會。
 solution: Real-Time Customer Data Platform
 feature: Data Management
@@ -13,11 +13,11 @@ duration: 2560
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 15%
+ht-degree: 11%
 
 ---
 
-# 第一方資料內容中的資料共同作業
+# 第一方資料內容中的資料Collaboration
 
 實踐體驗承諾，存取較少的資料。無論您是否為廣告商、發佈者或機構，此網路研討會有助於未來在無第三方Cookie的情況下解放共同作業機會。
 
@@ -31,8 +31,8 @@ ht-degree: 15%
 
 ## 其他資訊
 
-[區段比對概觀](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en)
+[區段比對總覽](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en)
 
-[適用於資料購買者的 Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
+資料購買者的[Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
 
 [以人物為基礎的目的地](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=en)

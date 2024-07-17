@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19523/?quality=9)
 
-*2014年3月5日送達*
+*已於2014年3月5日傳遞*
 
 **展示者：**
 

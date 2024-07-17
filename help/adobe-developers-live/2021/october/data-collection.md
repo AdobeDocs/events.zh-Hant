@@ -1,6 +1,6 @@
 ---
 title: 數位體驗的資料收集 — 使用者端效能和伺服器端整合的強大功能
-description: 網頁和行動上的數位體驗和您的工具都在快速變化。 快來看看有哪些Adobe採用Edge技術提升效能，並讓開發人員和模式將程式碼部署到世界上最大的資料收集基礎架構之一。
+description: 網頁和行動上的數位體驗和您的工具都在快速變化。 快來瞭解Adobe在Edge技術中會採取哪些措施來改善效能，並讓開發人員和模式將程式碼部署到世界上最大的資料收集基礎架構之一。
 solution: Data Collection
 feature: Web SDK, Debugger, Tags, Event Forwarding
 topic: Development
@@ -13,13 +13,13 @@ duration: 1591
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 10%
+ht-degree: 9%
 
 ---
 
 # 數位體驗的資料收集 — 使用者端效能和伺服器端整合的強大功能
 
-網頁和行動上的數位體驗和您的工具都在快速變化。 快來看看有哪些Adobe採用Edge技術提升效能，並讓開發人員和模式將程式碼部署到世界上最大的資料收集基礎架構之一。
+網頁和行動上的數位體驗和您的工具都在快速變化。 快來瞭解Adobe在Edge技術中會採取哪些措施來改善效能，並讓開發人員和模式將程式碼部署到世界上最大的資料收集基礎架構之一。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337584/?quality=12&learn=on&hidetitle=true)
 

@@ -1,6 +1,6 @@
 ---
 title: 前端計畫碼管道
-description: 瞭解如何使用最近在Cloud Manager中引入的新前端計畫碼管道
+description: 瞭解如何使用Cloud Manager中最近推出的新前端計畫碼管道
 solution: Experience Manager,Experience Manager Sites
 feature: Developer Tools, Deploying
 topic: Development
@@ -14,15 +14,15 @@ duration: 1805
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 11%
+ht-degree: 9%
 
 ---
 
 # 前端計畫碼管道
 
-瞭解如何使用最近在Cloud Manager中引入的新前端計畫碼管道
+瞭解如何使用Cloud Manager中最近推出的新前端計畫碼管道
 
-繼續對話於 **[Experience League社群](https://adobe.ly/2XVcBg8)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/2XVcBg8)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337886/?quality=12&learn=on&hidetitle=true)
 

@@ -8,7 +8,7 @@ duration: 3336
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ Commerce integration framework(CIF)是AEM的附加元件，可提供記錄的整
 
 >[!VIDEO](https://video.tv.adobe.com/v/19375/?quality=9)
 
-*2015年9月9日傳遞*
+*已於2015年9月9日傳遞*
 
 **展示者：**
 

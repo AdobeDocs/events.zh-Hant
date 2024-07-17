@@ -1,6 +1,6 @@
 ---
-title: 『[!DNL Adobe Analytics] 可能的檔案使命'
-description: 觀看此會議，瞭解檔案為何對成功至關重要、最佳實務、提示和訣竅，以及您可採取的一些檔案化方法 [!DNL Adobe Analytics] 執行個體。 2022 年 6 月
+title: '[!DNL Adobe Analytics]檔案任務可能'
+description: 觀看此會議，瞭解檔案為何對成功至關重要、最佳實務、提示和訣竅，以及您可採取的一些檔案化 [!DNL Adobe Analytics] 執行個體的方法。 2022 年 6 月
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -15,8 +15,8 @@ ht-degree: 3%
 
 ---
 
-# [!DNL Adobe Analytics] 可能的說明檔案任務
+# [!DNL Adobe Analytics]個檔案任務（可能）
 
-觀看此會議，瞭解檔案為何對成功至關重要、最佳實務、提示和訣竅，以及您可採取的一些檔案化方法 [!DNL Adobe Analytics] 執行個體。
+觀看此會議，瞭解檔案為何對成功至關重要、最佳實務、提示和訣竅，以及您可採取的一些記載您[!DNL Adobe Analytics]執行個體的方法。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414194/?quality=12&learn=on)

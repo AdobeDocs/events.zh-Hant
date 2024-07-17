@@ -19,13 +19,13 @@ ht-degree: 0%
 在本次研討會中，瞭解如何：
 
 * 構成Adobe Experience Platform的元件 — 資料服務
-* 資料科學工作區大幅改善豐富客戶體驗的設計和傳遞
+* 資料科學Workspace大幅改善豐富客戶體驗的設計和傳遞
 * 整合Adobe Experience Platform及使用Experience Data Model的第一步
 * 適用於協力廠商開發人員的目前和未來整合選項
 
 >[!VIDEO](https://video.tv.adobe.com/v/23270/?quality=9)
 
-*2018年8月8日傳遞*
+*已於2018年8月8日傳遞*
 
 **展示者：**
 

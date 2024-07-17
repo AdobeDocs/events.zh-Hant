@@ -14,7 +14,7 @@ duration: 1566
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 6%
+ht-degree: 5%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 6%
 
 有許多方式可整合Adobe Experience ManagerCloud Service與Adobe I/O自訂事件。 瞭解可用的不同選項，以及如何使其最符合您的特定使用案例。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/3ij0O1W)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/3ij0O1W)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337529/?quality=12&learn=on&hidetitle=true)
 

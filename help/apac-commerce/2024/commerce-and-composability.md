@@ -1,19 +1,19 @@
 ---
 title: 利用Commerce和組合功能實現多樣化的業務模式
-description: 會議主要聚焦在Adobe Commerce中啟用多樣化的商業模式，強調B2B商業發展的趨勢，強調簡化整合以實現無縫升級的重要性，透過示範展示個人化的B2B到B2C互動，討論Adobe Commerce功能，例如全通道支援和API網狀整合，強調可組合的商務服務的好處，推出用於平台中可擴充自訂和訂閱管理的App Builder。
+description: 會議主要聚焦在Adobe Commerce中啟用多樣化的商業模式，強調B2B商業發展的趨勢，強調簡化整合以實現無縫升級的重要性，透過示範展示個人化的B2B到B2C互動，討論Adobe Commerce功能，例如全通道支援和API網狀整合，強調可組合的商務服務的好處，引入App Builder以在平台內進行可擴充的自訂和訂閱管理。
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3594
 last-substantial-update: 2024-06-15T00:00:00Z
 jira: KT-15741
-source-git-commit: e2beb9336151eddc3cb29470fab12e77a4f8ffb0
+exl-id: 2be2bcd3-b595-4362-a7f8-91b1001da874
+source-git-commit: 74f9d5e2e3f3a5830e96422b58222d3c3a9b7acc
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
 
 ---
-
 
 # 利用Commerce和組合功能實現多樣化的業務模式
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 * 全通路支援
 * 個人化的體驗
-* 透過API網狀和App Builder與協力廠商系統整合
+* 透過API網狀架構和App Builder與協力廠商系統整合
 
 ### 技術方面討論
 

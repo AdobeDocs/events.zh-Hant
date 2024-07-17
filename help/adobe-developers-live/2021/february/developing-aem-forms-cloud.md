@@ -24,8 +24,8 @@ ht-degree: 0%
 
 此課程可協助開發人員從Forms的本機設定以及涵蓋自訂，開始使用Adobe Experience Manager as a Cloud Service上的Adobe Experience Manager Forms。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/36Yd3v6)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/36Yd3v6)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332306/?quality=12&learn=on&hidetitle=true)
 
-按一下 **[此處](/help/adobe-developers-live/assets/developing-aem-forms-cloud.pdf)** 用於工作階段投影片。
+按一下&#x200B;**[這裡](/help/adobe-developers-live/assets/developing-aem-forms-cloud.pdf)**&#x200B;以取得工作階段投影片。

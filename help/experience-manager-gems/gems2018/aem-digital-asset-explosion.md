@@ -8,24 +8,24 @@ duration: 3276
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# 數位資產爆炸式增長&amp; [!DNL AEM Assets]{#the-digital-asset-explosion-aem-assets}
+# 數位資產爆炸與[!DNL AEM Assets]{#the-digital-asset-explosion-aem-assets}
 
 在Adobe，我們觀察到數位資產在4個關鍵領域發生爆炸式增長：
 
 * 正在產生的數位資產的檔案大小
 * 正在產生的數位資產數
 * 使用者和客戶對數位資產的期望
-* 對越變越大的要求 [!DNL AEM Assets] 部署
+* 要求越來越大型的[!DNL AEM Assets]部署
 
-在這場會議中，我們將瞭解數位資產爆炸、瞭解AEM在資產爆炸時的規模，並在其生命週期中追隨客戶範例 [!DNL AEM Assets] 專案。
+在此會議中，我們將瞭解數位資產爆炸、瞭解AEM在資產爆炸時的規模，並透過客戶範例完成其[!DNL AEM Assets]專案的生命週期。
 
 >[!VIDEO](https://video.tv.adobe.com/v/21474/?quality=9)
 
-*2018年1月31日送達*
+*已於2018年1月31日傳遞*
 
 **展示者：**
 

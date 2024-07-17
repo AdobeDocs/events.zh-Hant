@@ -38,6 +38,6 @@ ht-degree: 0%
 
 >[!NOTE]
 > 
->* 如需Experience League上特定工作階段的社群互動，請造訪個別 [內容執行緒](https://adobe.ly/4aCz0OE).
+>* 若為Experience League上特定工作階段的社群互動，請造訪個別[內容對話串](https://adobe.ly/4aCz0OE)。
 >
->* 若要收到我們即將舉辦的網路研討會的通知，請到 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
+>* 若要接收我們即將舉辦的網路研討會的通知，請在[Adobe的AEM使用者群組](https://aem-augs.adobe.com/)註冊。

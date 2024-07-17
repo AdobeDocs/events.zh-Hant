@@ -14,7 +14,7 @@ duration: 1165
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 15%
+ht-degree: 14%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 15%
 
 針對開發人員在處理語言復本、即時復本及大量移動或復本作業時，提供部分最佳實務的詳細概觀。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/39DoIQT)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/39DoIQT)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337723/?quality=12&learn=on&hidetitle=true)
 

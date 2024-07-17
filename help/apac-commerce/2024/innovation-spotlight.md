@@ -9,28 +9,28 @@ doc-type: Event
 duration: 3392
 last-substantial-update: 2024-03-18T00:00:00Z
 jira: KT-15182
-source-git-commit: 598a8b46ed2e2dff796bb076c5323da3639fe837
+exl-id: dcdf76f7-3327-4564-b68f-925506715ac4
+source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Commerce創新焦點網路研討會
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427965/?learn=on)
 
-在2024年Commerce網路研討會系列開幕之際，我們將歡迎亞太地區的眾多合作夥伴，分享近期實作的一些創新亮點。 加入我們的行列，瞭解如何採用最新的功能和架構，為客戶提供最佳體驗，發展您的業務！
+在2024年Commerce網路研討會系列開幕之際，我們將歡迎亞太地區的眾多合作夥伴，分享近期實作的一些創新重點內容。 加入我們的行列，瞭解如何採用最新的功能和架構，為客戶提供最佳體驗，發展您的業務！
 在此網路研討會中，您將瞭解：
 
 * 透過PWA Studio提供快速、同級最佳的體驗
-* 運用App Builder實現程式外擴充性
-* Miter10、三菱汽車及APAC其他主要零售商採用的創新商務功能
+* 運用App Builder實現程式外的擴充性
+* Miter10、三菱汽車及APAC其他主要零售商採用的Commerce創新功能
 
-隨著Commerce環境的演變和轉移，確保最大化您的Commerce平台的潛力以保持競爭力並為客戶提供無與倫比的體驗至關重要。 在這場會議中，我們將探索企業如何採用現代架構和Adobe Commerce的最新功能以保持領先地位。
+隨著Commerce環境的演變和轉移，確保您發揮最大Commerce平台的潛力以保持競爭力，並為客戶提供無與倫比的體驗至關重要。 在這場會議中，我們將探索企業如何採用現代架構和Adobe Commerce的最新功能以保持領先地位。
 
-## 關鍵重點
+## 重要技巧
 
 * Adobe Commerce提供一系列可自訂的功能，以符合特定業務需求。
 * 使用PWI Studio可快速且有效率地開發及部署創新解決方案。

@@ -1,6 +1,6 @@
 ---
 title: 所以您要擴充Adobe Experience Cloud
-description: 您想要使用適用於多個解決方案的現代化架構來擴充Adobe解決方案嗎？ 我們認為您應該嘗試使用Adobe Developer App Builder。 此工作階段屬於Adobe Developers Live內容事件的一部分。
+description: 您想要使用適用於多個解決方案的現代化架構來擴充Adobe解決方案嗎？ 嗯，我們認為您應該嘗試Adobe Developer App Builder。 此工作階段屬於Adobe Developers Live內容事件的一部分。
 solution: Experience Cloud
 topic: Development
 role: Developer
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 # 您要擴充Adobe Experience Cloud嗎？
 
-您想要使用適用於多個解決方案的現代化架構來擴充Adobe解決方案嗎？ 我們認為您應該嘗試使用Adobe Developer App Builder。
+您想要使用適用於多個解決方案的現代化架構來擴充Adobe解決方案嗎？ 嗯，我們認為您應該嘗試Adobe Developer App Builder。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/36Yd3v6)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/36Yd3v6)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331852/?quality=12&learn=on&hidetitle=true)
 
-按一下 **[此處](/help/adobe-developers-live/assets/extend-experience-cloud.pdf)** 用於工作階段投影片。
+按一下&#x200B;**[這裡](/help/adobe-developers-live/assets/extend-experience-cloud.pdf)**&#x200B;以取得工作階段投影片。

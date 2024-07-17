@@ -1,6 +1,6 @@
 ---
-title: 『[!DNL Adobe Analytics] 建立資料導向文化
-description: 加入 [!DNL Adobe Analytics] 冠軍Gitai Ben-Ammi將討論資料導向文化的面貌，並分享使用策略 [!DNL Adobe Analytics] 以建置一個。
+title: '[!DNL Adobe Analytics]建立資料導向文化特性'
+description: 加入 [!DNL Adobe Analytics] Champion Gitai Ben-Ammi，討論資料導向文化是什麼樣子，並分享使用 [!DNL Adobe Analytics] 建置文化的策略。
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # 建立資料導向文化
 
-加入 [!DNL Adobe Analytics] 冠軍Gitai Ben-Ammi將討論資料導向文化的面貌，並分享使用策略 [!DNL Adobe Analytics] 以建置一個。
+加入[!DNL Adobe Analytics] Champion Gitai Ben-Ammi，他將討論資料導向文化是什麼樣子，並分享使用[!DNL Adobe Analytics]建置文化的策略。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414131/?quality=12&learn=on)

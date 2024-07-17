@@ -20,7 +20,7 @@ ht-degree: 5%
 # 深入探討 {#deep-dives-recordings}
 
 + [概觀](overview.md)
-+ Marketo中的深入探討 {#deep-dives-marketo}
++ Marketo {#deep-dives-marketo}中的深入探討
    + [Admin Console移轉](admin-console.md)
    + [API](api.md)
    + [認證](certification.md)

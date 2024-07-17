@@ -24,6 +24,6 @@ ht-degree: 0%
 
 在這場由Catalina Dumitru主持的座談中探索Adobe Experience Manager的Headless API的潛力(在Adobe Developers Live現場錄製)。 瞭解這些API的擴充功能，包括標籤、版本設定和端點搜尋。 瞭解它們如何促進跨數位頻道之應用程式式體驗的有效內容擷取，並瞭解這些API的實際應用程式運作情況。 對於希望將Headless技術用於創新解決方案的開發人員而言，本次研討會是寶貴的資源。
 
-繼續對話於 [Experience League社群](https://adobe.ly/3rJfZcN).
+繼續[Experience League社群](https://adobe.ly/3rJfZcN)中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425627/?learn=on)

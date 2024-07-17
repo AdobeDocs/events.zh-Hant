@@ -14,14 +14,14 @@ ht-degree: 5%
 
 + [概觀](overview.md)
 + 2024 {#2024}
-   + [Commerce Intelligence中的常見問題集](2024/faq-in-commerce-intelligence.md)
+   + [Commerce Intelligence常見問題集](2024/faq-in-commerce-intelligence.md)
    + [在Adobe Commerce Intelligence中管理資料集](2024/manage-data-sets-adobe-commerce.md)
 + 2023 {#2023}
    + [Commerce Intelligence快速入門](2023/getting-started.md)
    + [在Commerce Intelligence中管理資料集](2023/manage-data-sets.md)
 + 2021 年 {#2021}
    + [最佳化Commerce IntelligenceData Warehouse](2021-22/optimize-data-warehouse.md)
-   + [Commerce Intelligence儀表板深入探討](2021-22/dashboards-deep-dive.md)
+   + [Commerce Intelligence控制面板深入探討](2021-22/dashboards-deep-dive.md)
    + [Commerce Intelligence假日整備](2021-22/holiday-readiness.md)
    + [Commerce Intelligence — 詢問專家](2021-22/ask-expert.md)
 

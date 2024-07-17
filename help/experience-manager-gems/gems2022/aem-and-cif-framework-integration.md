@@ -30,9 +30,9 @@ ht-degree: 9%
 >
 >* [對應的Adobe Experience Manager使用者群組事件頁面](https://adobe.ly/3O0uXl5/)
 >* [對應的內容執行緒](https://adobe.ly/3jorz5r)
->* 請在以下網址報名： [Adobe的AEM使用者群組](https://aem-augs.adobe.com/) 以取得有關即將舉辦的網路研討會的通知。
+>* 請在[Adobe的AEM使用者群組](https://aem-augs.adobe.com/)註冊，以取得即將舉辦網路研討會的通知。
 
-**高層級議程：**
+**高階議程：**
 
 * 什麼是CIF以及為何使用CIF？
 

@@ -23,13 +23,13 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426778/?quality=12&learn=on)
 
->[!BEGINSHADEBOX 「有疑問嗎？」]
+>[!BEGINSHADEBOX 「有問題嗎？」]
 
-繼續討論 [Experience League社群論壇討論](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
+繼續在[Experience League社群論壇討論](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582)上的討論。
 
 >[!ENDSHADEBOX]
 
-## 關鍵重點
+## 重要技巧
 
 * 您可透過兩種方式，從Adobe Analytics將資料匯入Customer Journey Analytics：Analytics Data Connector (ADC)和Web SDK。
 * ADC可將報表套裝中的資料複製到Adobe Experience Platform進行分析，而Web SDK會將資料直接傳送到Adobe Experience Platform。

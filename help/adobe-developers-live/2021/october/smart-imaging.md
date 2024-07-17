@@ -21,7 +21,7 @@ ht-degree: 2%
 
 影像可能會佔用您數位體驗中總頻寬的60%以上，而若是媒體豐富的影像密集型體驗，則高達85%。 若要為您的使用者帶來最佳體驗，請務必最佳化所提供的影像。 瞭解Adobe Experience Manager Dynamic Media如何透過其領先業界的智慧型影像功能和其他大量動態影像功能集，提供更佳的使用者體驗並改善轉換率。 此會議將協助技術人員瞭解使用Dynamic Media URL和修飾元的最佳實務，這類似一站式服務，技術人員不必透過反複嘗試就達到影像最佳化。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/3F58miP)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/3F58miP)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337847/?quality=12&learn=on&hidetitle=true)
 

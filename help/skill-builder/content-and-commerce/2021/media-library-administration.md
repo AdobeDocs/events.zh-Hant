@@ -1,6 +1,6 @@
 ---
 title: 不要再浪費時間尋找內容
-description: 成為技術嫻熟的作者，深入探討AEM Sites和Media Library管理UI，並提供提高日常效率的秘訣和技巧
+description: 成為技術熟練的作者，深入探討AEM Sites和Media Library管理UI，並提供提高日常效率的秘訣與技巧
 solution: Experience Manager, Experience Manager Sites
 feature-set: Experience Manager Assets
 product: experience manager
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336983/?quality=12&learn=on&hidetitle=true)
 
-成為技術嫻熟的作者，深入探討AEM Sites和Media Library管理UI，並提供提高日常效率的秘訣與技巧。
+成為技術熟練的作者，深入探討AEM Sites和Media Library管理UI，並提供提高日常效率的秘訣與技巧。
 
 ## 系列錄製
 

@@ -1,6 +1,6 @@
 ---
-title: 商務與咖啡 — 旺季準備
-description: 此會議於旺季期間深入探討您Commerce網站的策略、秘訣和最佳實務。 我們將討論2022年假日期望、行動商務、促銷和結帳選項，以及行銷對於推動成功旺季的重要性。 簡報和示範會隨附Corey Gelato的即時問答。
+title: Commerce與咖啡 — 旺季準備
+description: 本課程探討旺季期間您Commerce網站的策略、秘訣和最佳實務。 我們將討論2022年假日期望、行動商務、促銷和結帳選項，以及行銷對於推動成功旺季的重要性。 簡報和示範會隨附Corey Gelato的即時問答。
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 商務與咖啡：旺季準備
+# Commerce與咖啡：旺季準備
 
-此會議於旺季期間深入探討您Commerce網站的策略、秘訣和最佳實務。 我們將討論2022年假日期望、行動商務、促銷和結帳選項，以及行銷對於推動成功旺季的重要性。 簡報和示範會隨附Corey Gelato的即時問答。
+本課程探討旺季期間您Commerce網站的策略、秘訣和最佳實務。 我們將討論2022年假日期望、行動商務、促銷和結帳選項，以及行銷對於推動成功旺季的重要性。 簡報和示範會隨附Corey Gelato的即時問答。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412587/?quality=12&learn=on)

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 透過決策管理在適當的時間提供適當的優惠
 
-**使用AI為優惠方案排名，並將其用於內部和外部傳訊頻道。**
+**使用AI排名優惠，並在您的內部和外部訊息通道中利用這些優惠。**
 
 由於現今大部分的客戶歷程是多表面和多接觸點，在正確的互動中尋找和提供正確的優惠方案至關重要。 除了折扣，優惠方案還包括忠誠度和保留率訊息、升級、提醒、促銷活動，甚至學習機會。 市場行銷人員現在比以往任何時候都更樂於將人工智慧用於關鍵任務的即時決策管理使用案例。
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 在此直播活動中，Adobe產品專家介紹了最新的智慧型優惠排名功能，並展示如何在Adobe Journey Optimizer中為歷程和行銷活動新增優惠。  影片也說明如何在電子郵件、簡訊和行動應用程式等原生Journey Optimizer頻道，以及外部系統和整合式應用程式(如Adobe Target)中放置選件。
 
-繼續在Adobe Experience League上討論此主題 [社群貼文](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55).
+繼續在Adobe Experience League [社群貼文](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55)上討論此主題。

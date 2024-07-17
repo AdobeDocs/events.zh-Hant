@@ -20,7 +20,7 @@ ht-degree: 0%
 
 準備是成功的關鍵，在此網路研討會中，我們將逐步引導您瞭解運用Adobe Commerce的最佳實務，以最大化此重要交易期間（或您的企業全年可能經歷的任何其他銷售活動）的銷售和效能。
 
-您將聽取Commerce Solutions Consulting APAC經理Jason Ford和資深Commerce客戶經理Sophia Gray的意見，他們將會討論下列主題：
+您將會聽到Commerce解決方案諮詢亞太區經理Jason Ford和Commerce資深客戶經理Sophia Gray的意見，他們將會討論下列主題：
 
 * 行銷活動準備
 * 效能考量事項

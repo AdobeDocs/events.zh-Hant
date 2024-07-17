@@ -8,7 +8,7 @@ duration: 3537
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ AEM Dynamic Media可讓客戶透過單一主影像或視訊，以可調整規模
 
 >[!VIDEO](https://video.tv.adobe.com/v/19297/?quality=9)
 
-*2016年8月17日送達*
+*已於2016年8月17日傳遞*
 
 **展示者：**
 
@@ -31,7 +31,7 @@ AEM Dynamic Media可讓客戶透過單一主影像或視訊，以可調整規模
 
 ## 相關連結 {#related-links}
 
-[設定 Dynamic Media](https://docs.adobe.com/docs/en/aem/6-2/administer/content/dynamic-media/config-dynamic.html)
+[設定Dynamic Media](https://docs.adobe.com/docs/en/aem/6-2/administer/content/dynamic-media/config-dynamic.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

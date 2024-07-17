@@ -24,8 +24,8 @@ ht-degree: 0%
 
 調整您的程式碼基底，使其適合雲端使用並避免未來在幕後處理升級作業，這是發揮Adobe Experience ManagerCloud Service最大效益的關鍵。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/36Yd3v6)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/36Yd3v6)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332308/?quality=12&learn=on&hidetitle=true)
 
-按一下 **[此處](/help/adobe-developers-live/assets/get-ready-aem-cloud.pdf)** 用於工作階段投影片。
+按一下&#x200B;**[這裡](/help/adobe-developers-live/assets/get-ready-aem-cloud.pdf)**&#x200B;以取得工作階段投影片。

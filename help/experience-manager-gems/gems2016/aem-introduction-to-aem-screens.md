@@ -8,7 +8,7 @@ duration: 3127
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '256'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ AEM Screens是整合至Adobe Experience Manager的全新數位看板解決方案
 
 >[!VIDEO](https://video.tv.adobe.com/v/19301/?quality=9)
 
-*2016年11月16日傳遞*
+*已於2016年11月16日傳遞*
 
 **展示者：**
 
@@ -38,6 +38,6 @@ AEM Screens是整合至Adobe Experience Manager的全新數位看板解決方案
 
 >[!WARNING]
 >
->AEM 6.4版和更舊版本已終止服務，Adobe不再銷售。  Adobe建議升級至最新版本 —  [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  檔案的封存版本可從此處存取 [頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+>AEM 6.4版和更舊版本已終止服務，Adobe不再銷售。  Adobe建議升級至最新版本 — [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)。  可以從此[頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)存取檔案的封存版本。
 >
->與此工作階段相關的資訊，請參閱 *部署Screens* 和 *Screens概念* 在AEM 6.2檔案中。
+>與此工作階段相關的資訊，請參閱AEM 6.2檔案中的&#x200B;*部署Screens*&#x200B;和&#x200B;*Screens概念*。

@@ -25,5 +25,5 @@ ht-degree: 7%
 ## 其他資訊
 
 * [簡化資料管理的第一步](first-mile.md)
-* [提升行銷人員作為資料管理員的角色](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
+* [提升行銷人員的資料管理員角色](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
 * [負責任的客戶資料管理的十大考量因素](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)

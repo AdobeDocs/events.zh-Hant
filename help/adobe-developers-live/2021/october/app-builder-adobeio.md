@@ -1,6 +1,6 @@
 ---
-title: 協力廠商開發人員市場Adobe交換概觀
-description: 瞭解如何在開發人員控制檯上建立服務對服務整合、在Admin Console上管理它，以及在Adobe交換上發佈公開應用程式清單。 建立與AdobeAPI的連線後，我們將逐步進行註冊為AdobeExchange合作夥伴、建立公開清單、提交核准及發佈的步驟。
+title: 第三方開發人員市場Adobe Exchange概觀
+description: 瞭解如何在Developer Console上建立服務對服務整合、在Adobe Exchange上管理它，以及在Admin Console上發佈公開應用程式清單。 建立與AdobeAPI的連線後，我們將逐步進行註冊為Adobe Exchange合作夥伴、建立公開清單、提交核准及發佈的步驟。
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -12,15 +12,15 @@ duration: 1653
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 8%
+ht-degree: 7%
 
 ---
 
-# 協力廠商開發人員市場Adobe交換概觀
+# 第三方開發人員市場Adobe Exchange概觀
 
-瞭解如何在開發人員控制檯上建立服務對服務整合、在Admin Console上管理它，以及在Adobe交換上發佈公開應用程式清單。 建立與AdobeAPI的連線後，我們將逐步進行註冊為AdobeExchange合作夥伴、建立公開清單、提交核准及發佈的步驟。
+瞭解如何在Developer Console上建立服務對服務整合、在Adobe Exchange上管理它，以及在Admin Console上發佈公開應用程式清單。 建立與AdobeAPI的連線後，我們將逐步進行註冊為Adobe Exchange合作夥伴、建立公開清單、提交核准及發佈的步驟。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/3ooiltm)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/3ooiltm)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337841/?quality=12&learn=on&hidetitle=true)
 

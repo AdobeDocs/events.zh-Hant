@@ -21,7 +21,7 @@ ht-degree: 3%
 
 我們提供多種方式，讓客戶將資產帶入Adobe Experience Manager，並在Adobe Experience Manager Assets中處理一次。 客戶如何為其使用案例選擇正確的方法？ 他們如何運用平台的匯入與處理功能，以將其投資的價值最大化，並縮短實現價值的時間？ 瞭解Adobe Experience Manager AssetsCloud Service平台的新功能如何運作。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/2Zq7dlg)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/2Zq7dlg)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337773/?quality=12&learn=on&hidetitle=true)
 

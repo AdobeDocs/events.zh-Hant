@@ -40,6 +40,6 @@ AEM開發人員將有機會探索我們提供的新推出Assets Open API和雲�
 
 >[!NOTE]
 > 
->* 若為關於Experience League的網路研討會上的工作階段特定社群互動，請造訪個別 [內容執行緒](https://adobe.ly/3UQXwFO).
+>* 若是有關Experience League的此網路研討會上的工作階段特定社群互動，請造訪個別[內容對話串](https://adobe.ly/3UQXwFO)。
 >
->* 若要收到我們即將舉辦的網路研討會的通知，請到 [Adobe的AEM使用者群組](https://aem-augs.adobe.com/).
+>* 若要接收我們即將舉辦的網路研討會的通知，請在[Adobe的AEM使用者群組](https://aem-augs.adobe.com/)註冊。

@@ -7,13 +7,13 @@ doc-type: Event
 duration: 1790
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15298
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: fc9f03e9-09ec-43b5-8afe-6b7866e49489
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
-
 
 # 製作環境的進階訓練
 
@@ -28,4 +28,3 @@ ht-degree: 0%
 * 探索檔案附件欄位、超連結欄位和交易ID欄位等其他選項。
 * 可以為參與者指派表單欄位，並且可以設定範本屬性以進行自訂。
 * 其中也涵蓋建立可重複使用的檔案範本、管理範本及匯出已簽署合約的程式。
-

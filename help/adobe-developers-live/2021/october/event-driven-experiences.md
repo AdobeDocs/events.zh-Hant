@@ -12,7 +12,7 @@ duration: 1657
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 5%
+ht-degree: 4%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 5%
 
 每家企業都想要提供及時、目標明確、有效且個人化的客戶體驗。 事件導向架構是體驗業務的基本元件。 EDA可讓我們的客戶對狀態變更及行為和更新做出反應，以近乎即時地觸發工作流程和決策。 「Adobe I/O事件」可支援Adobe內部提供者和產品團隊，針對這些提供者發出的事件提供協力廠商訂閱管理。 在這場會議中瞭解自訂I/O事件，其可允許協力廠商開發人員產生外部事件，以雙向流程與Adobe產品整合，進而擴充EDA功能。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/3kXfjdx).**
+繼續&#x200B;**[Experience League社群](https://adobe.ly/3kXfjdx).**&#x200B;中的交談
 
 >[!VIDEO](https://video.tv.adobe.com/v/337616/?quality=12&learn=on&hidetitle=true)
 

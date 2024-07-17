@@ -8,7 +8,7 @@ duration: 2897
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ Adobe Experience Manager提供的功能可輕鬆在網站和行動網站上建�
 
 >[!VIDEO](https://video.tv.adobe.com/v/19579/?quality=9)
 
-*2013年6月12日傳遞*
+*已於2013年6月12日傳遞*
 
 **展示者：**
 

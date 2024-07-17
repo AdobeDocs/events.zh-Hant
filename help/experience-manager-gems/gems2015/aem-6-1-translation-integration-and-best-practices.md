@@ -8,7 +8,7 @@ duration: 3807
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ Cristine和Mathias將提供AEM中增強的翻譯整合功能，以及管理多�
 
 >[!VIDEO](https://video.tv.adobe.com/v/19371/?quality=9)
 
-*2015年9月30日傳遞*
+*已於2015年9月30日傳遞*
 
 **展示者：**
 

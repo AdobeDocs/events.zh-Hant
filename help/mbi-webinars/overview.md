@@ -1,6 +1,6 @@
 ---
 title: Commerce Intelligence網路研討會
-description: 探索Commerce Intelligence錄製的網路研討會，其中涵蓋各種主題和最佳實務，以便最充分地使用Commerce Intelligence。
+description: 探索Commerce Intelligence錄製的網路研討會，其中涵蓋各種主題和最佳實務，以便充份運用Commerce Intelligence。
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
 duration: 77
 source-git-commit: 78cb08c0aabfa98db97e1b7c1cee466e7c3578df
@@ -14,11 +14,11 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence先前稱為 [!DNL Magento Business Intelligence (MBI)]. 過去活動的錄影反映了先前的名稱。
+>Adobe Commerce Intelligence先前稱為[!DNL Magento Business Intelligence (MBI)]。 過去活動的錄影反映了先前的名稱。
 
-Commerce Intelligence網路研討會系列是供Commerce Intelligence客戶定期觀看的事件。 這些網路研討會涵蓋廣泛的主題和最佳實務，以便您充分利用Commerce Intelligence的潛能。
+Commerce Intelligence網路研討會系列是供Commerce Intelligence客戶定期觀看的活動。 這些網路研討會涵蓋廣泛的主題和最佳實務，以便充份運用Commerce Intelligence。
 
-所有地區的出席者都可現場加入活動，以進一步瞭解產品，並直接獲得有關Commerce Intelligence功能問題的解答。
+所有地區的出席者都可現場加入活動，以進一步瞭解產品，並直接獲得有關Commerce Intelligence功能的問題的解答。
 
 這些主題會偶爾重複出現，以因應客戶可能詢問的任何新問題。
 
@@ -32,11 +32,11 @@ Commerce Intelligence網路研討會系列是供Commerce Intelligence客戶定�
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
-        <strong>Commerce Intelligence快速入門</strong>
+        <strong>開始使用Commerce Intelligence</strong>
       </a>
     </div>
     <p>
-    <em>透過深入瞭解預先設定的儀表板和可用的自訂選項，直接從產品團隊瞭解Commerce Intelligence的核心功能。</em>
+    <em>直接從產品團隊瞭解Commerce Intelligence的核心功能，深入瞭解預先設定的儀表板和可用的自訂選項。</em>
     <p>
   </td>
   <td>
@@ -62,7 +62,7 @@ Commerce Intelligence網路研討會系列是供Commerce Intelligence客戶定�
       </a>
     </div>
     <p>
-    <em>使用「Data Warehouse管理員」，您可以管理表格和欄同步設定、深入研究表格的綱要，並建立計算欄以用於報表。</em>
+    <em>您可以使用「Data Warehouse管理員」來管理表格和資料行同步設定、深入研究表格的綱要，以及建立計算資料行以用於報表。</em>
     <p>
   </td>
 </tr>
@@ -70,7 +70,7 @@ Commerce Intelligence網路研討會系列是供Commerce Intelligence客戶定�
 
 >[!TIP]
 >
->**所有錄製的網路研討會都會列在左側的導覽器中**.
+>**所有錄製的網路研討會都列於左側導覽中**。
 
 ## 有用的資源
 

@@ -8,7 +8,7 @@ duration: 3062
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '211'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ Adobe Experience Manager可讓您使用Microsoft Translator，以超過45種語�
 
 >[!VIDEO](https://video.tv.adobe.com/v/19383/?quality=9)
 
-*2014年12月3日送達*
+*已於2014年12月3日傳遞*
 
 **展示者：**
 
@@ -33,7 +33,7 @@ Adobe Experience Manager可讓您使用Microsoft Translator，以超過45種語�
 
 [取得檔案](assets/adobe-microsoft-gems-12-03-14.pdf)
 
-**工作階段問答**
+**工作階段問答集**
 
 [取得檔案](assets/q-a-machine-translation-12-3-14.pdf)
 <!--

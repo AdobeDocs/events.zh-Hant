@@ -34,6 +34,6 @@ ht-degree: 0%
 * 可編輯範本提示與秘訣
 * 將他們彙總在一起，建立強大的內容建置區塊
 
-您可以存取簡報投影片 [此處](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf).
+您可以在[這裡](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf)存取簡報投影片。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419557/?learn=on)

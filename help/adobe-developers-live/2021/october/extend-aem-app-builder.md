@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe Developer App Builder延伸AEM內容和商務
-description: 使用Commerce integration framework(CIF)的Adobe Experience Manager Content & Commerce提供彈性的架構，可將Adobe Experience Manager與Adobe Commerce或任何其他商業解決方案（商業與國內開發）連結。 App Builder和GraphQL在Adobe Experience Manager Content & Commerce和CIF中扮演著重要的角色。 此演講討論Adobe Experience Manager Commerce整合與使用App Builder的可擴充性模式。 它強調不同的整合模式，其中App Builder可作為中介軟體，並將您的商務解決方案與Adobe Experience Manager連線。 我們將展示如何使用App Builder為Adobe Experience Manager Commerce提供商務資料和交易。
+title: 使用Adobe Developer App Builder延伸AEM內容和Commerce
+description: 使用Commerce integration framework (CIF)的Adobe Experience Manager Content & Commerce提供彈性的架構，可將Adobe Experience Manager與Adobe Commerce或任何其他商業解決方案（商業與國內開發的解決方案）連結。 App Builder和GraphQL對於Adobe Experience Manager Content & Commerce和CIF而言至關重要。 此演講討論Adobe Experience Manager Commerce整合與使用App Builder的可擴充性模式。 它強調了App Builder可作為中介軟體並將您的商務解決方案與Adobe Experience Manager連線的不同整合模式。 我們將展示App Builder如何用來提供Adobe Experience Manager Commerce的商務資料和交易。
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -18,11 +18,11 @@ ht-degree: 2%
 
 ---
 
-# 使用Adobe Developer App Builder延伸AEM內容和商務
+# 使用Adobe Developer App Builder延伸AEM內容和Commerce
 
-使用Commerce integration framework(CIF)的Adobe Experience Manager Content &amp; Commerce提供彈性的架構，可將Adobe Experience Manager與Adobe Commerce或任何其他商業解決方案（商業與國內開發）連結。 App Builder和GraphQL在Adobe Experience Manager Content &amp; Commerce和CIF中扮演著重要的角色。 此演講討論Adobe Experience Manager Commerce整合與使用App Builder的可擴充性模式。 它強調不同的整合模式，其中App Builder可作為中介軟體，並將您的商務解決方案與Adobe Experience Manager連線。 我們將展示如何使用App Builder為Adobe Experience Manager Commerce提供商務資料和交易。
+使用Commerce integration framework (CIF)的Adobe Experience Manager Content &amp; Commerce提供彈性的架構，可將Adobe Experience Manager與Adobe Commerce或任何其他商業解決方案（商業與國內開發的解決方案）連結。 App Builder和GraphQL對於Adobe Experience Manager Content &amp; Commerce和CIF而言至關重要。 此演講討論Adobe Experience Manager Commerce整合與使用App Builder的可擴充性模式。 它強調了App Builder可作為中介軟體並將您的商務解決方案與Adobe Experience Manager連線的不同整合模式。 我們將展示App Builder如何用來提供Adobe Experience Manager Commerce的商務資料和交易。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/3om4942)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/3om4942)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337567/?quality=12&learn=on&hidetitle=true)
 

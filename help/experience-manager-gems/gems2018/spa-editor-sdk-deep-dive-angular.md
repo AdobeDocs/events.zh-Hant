@@ -8,7 +8,7 @@ duration: 2754
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25503/?quality-9)
 
-*2018年11月21日交付*
+*已於11月21日18日傳遞*
 
 簡報者：Adobe開發人員Artur Kudlacz
 
@@ -40,7 +40,7 @@ ht-degree: 2%
 
 [文件](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
-[範例 — We零售日誌](https://github.com/adobe/aem-sample-we-retail-journal)
+[範例 — 我們零售日誌](https://github.com/adobe/aem-sample-we-retail-journal)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

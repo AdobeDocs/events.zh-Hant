@@ -1,5 +1,5 @@
 ---
-title: 內容與體驗 — 個人化的核心
+title: 內容與體驗 — Personalization跳動的心
 description: 找出並克服建立內容與體驗功能的常見挑戰建立使用案例來推動客戶歷程中的內容
 solution: General
 topic: Personalization
@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# 內容與體驗：個人化的核心
+# 內容與體驗： Personalization跳動的心
 
-*內容與體驗：個人化的核心*
+*內容與體驗： Personalization跳動的心*
 
 * 找出並克服建立內容與體驗功能的共同挑戰
 * 建置使用案例來推動客戶歷程中的內容

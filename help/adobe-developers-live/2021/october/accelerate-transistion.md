@@ -28,7 +28,7 @@ ht-degree: 59%
 
 我們希望藉由在真實的Adobe Experience Manager客戶程式碼基底上顯示工具的執行情況，協助人們瞭解使用程式碼重構工具的最佳作法。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/3ETr7FI)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/3ETr7FI)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/338036/?quality=12&learn=on&hidetitle=true)
 

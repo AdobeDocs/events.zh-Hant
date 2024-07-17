@@ -26,6 +26,6 @@ ht-degree: 0%
 
 來和Markus Haack一起參加這個在Adobe Developers Live現場錄製的實作課程。 瞭解如何使用Adobe Experience Manager的Edge Delivery Services從頭開始建立網站。 此課程涵蓋設定GitHub存放庫、檔案庫管理、發佈您的第一項內容、網站樣式和自訂區塊建立等各個方面。 本指南是初次接觸Adobe Experience Manager的開發人員的最佳選擇，可讓您全面瞭解使用AEM最佳化工具的高效率Web開發。
 
-繼續對話於 [Experience League社群](https://adobe.ly/3Q82EUF).
+繼續[Experience League社群](https://adobe.ly/3Q82EUF)中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425629/?learn=on)

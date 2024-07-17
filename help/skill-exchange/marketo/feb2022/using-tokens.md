@@ -1,6 +1,6 @@
 ---
-title: 使用Token的擴充性和效率 [!DNL Marketo Engage]
-description: 瞭解如何使用個人化以外的代號，讓您的方案建置和營運更有效率， [!DNL Marketo Engage].
+title: 使用 [!DNL Marketo Engage]中的權杖的可擴充性和效率
+description: 瞭解如何在個人化之外使用權杖，讓您的方案建置和作業在 [!DNL Marketo Engage]中更有效率。
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ---
 
-# 使用Token的擴充性和效率 [!DNL Marketo Engage]
+# 使用[!DNL Marketo Engage]中的權杖的可擴充性和效率
 
-瞭解如何使用個人化以外的代號，讓您的方案建置和營運更有效率， [!DNL Marketo Engage].
+瞭解如何在個人化之外使用權杖，讓您的方案建置和作業在[!DNL Marketo Engage]中更有效率。
 
-**重要技巧**
+**金鑰套餐**
 
 * 瞭解不同型別的代號及其使用位置
 * 取得如何記錄代號策略的想法

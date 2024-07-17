@@ -13,7 +13,7 @@ duration: 3410
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 22%
+ht-degree: 21%
 
 ---
 
@@ -21,13 +21,13 @@ ht-degree: 22%
 
 >[!NOTE]
 >
->Adobe Commerce Intelligence先前稱為 [!DNL Magento Business Intelligence (MBI)]. 過去活動的錄影反映了先前的名稱。
+>Adobe Commerce Intelligence先前稱為[!DNL Magento Business Intelligence (MBI)]。 過去活動的錄影反映了先前的名稱。
 
 直接從 Adobe Commerce 產品團隊了解 MBI Data Warehouse Manager 的一些強大功能。超越基本報告建置，了解如何利用資料事半功倍。
 
 在這場錄製的網路研討會中，您將瞭解如何加入Adobe Commerce、Google E-commerce和Google AdWords的資料，以計算廣告促銷活動的投資報酬率。
 
-## 影片內容
+## 視訊內容
 
 >[!VIDEO](https://video.tv.adobe.com/v/344680?quality=12&learn=on)
 

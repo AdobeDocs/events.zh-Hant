@@ -1,6 +1,6 @@
 ---
-title: 技能培養 — 內容與商務
-description: 網路研討會影片系列，可協助您建立知識庫，並將Adobe內容與商務解決方案的投資發揮到極致
+title: 技能培養 — 內容與Commerce
+description: 網路研討會影片系列，可協助您建立知識庫，並將Adobe內容和Commerce解決方案的投資發揮到極致
 exl-id: 1ed57ee1-89d4-4697-a999-72e0fe215f87
 duration: 58
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -24,7 +24,7 @@ ht-degree: 2%
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
-        <strong>使用Adobe Experience Manager提供無頭式體驗</strong>
+        <strong>使用Adobe Experience Manager提供Headless體驗</strong>
       </a>
     </div>
     <p>
@@ -54,7 +54,7 @@ ht-degree: 2%
       </a>
     </div>
     <p>
-    <em>在這場會議中，您將瞭解使用工作流程進行資產管理的好處，以及如何快速建立它們。</em>
+    <em>在此會議中，您將瞭解使用工作流程進行資產管理的好處，以及如何快速建立它們。</em>
     <p>
   </td>
 </tr>
@@ -62,4 +62,4 @@ ht-degree: 2%
 
 >[!TIP]
 >
->**所有錄製的作業階段都會列在左側的導覽中**.
+>**所有錄製的工作階段都會列在左側導覽中**。

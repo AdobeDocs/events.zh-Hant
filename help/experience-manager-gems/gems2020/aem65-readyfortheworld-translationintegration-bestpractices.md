@@ -8,7 +8,7 @@ duration: 3482
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/31153?quality=9)
 
-*2020年1月22日傳遞*
+*已於2020年1月22日傳遞*
 
 **簡報者投影片**
 

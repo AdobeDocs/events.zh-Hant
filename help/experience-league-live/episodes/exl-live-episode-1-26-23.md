@@ -19,7 +19,7 @@ ht-degree: 17%
 
 # 資料收集重點和藍圖
 
-**我們發佈的內容和Adobe資料收集即將推出的功能**
+**我們發佈的內容和即將推出的Adobe資料彙集**
 
 資料收集在Adobe中至關重要！ 您需要能夠信任您所使用的資料。去年，我們的產品發行經歷了多事之秋，今年我們即將推出非常棒的產品。
 
@@ -27,5 +27,5 @@ ht-degree: 17%
 
 觀看上方影片以觀看此直播活動，Adobe資料收集專家在此回顧最近的重要更新，並快速看一下即將推出的藍圖專案。
 
-有任何問題嗎？ 繼續在Adobe Experience League上討論此主題 [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316).
+有任何問題嗎？ 繼續在Adobe Experience League [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316)上討論此主題。
 

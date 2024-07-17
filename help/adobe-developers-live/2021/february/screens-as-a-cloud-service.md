@@ -16,17 +16,17 @@ exl-id: 3ddae9b1-f480-4d84-952a-ca31bb9616f7
 duration: 1665
 source-git-commit: 07a0a88da92652a6f07f65ba369e17cfe85fdafd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # Adobe Experience Manager Screensas a Cloud Service
 
-重新想像Adobe Experience Manager Screensas a Cloud Service：從與CMS緊密結合到成為完全受管理且可擴充的雲端服務的歷程。
+重新構想Adobe Experience Manager Screensas a Cloud Service：從與CMS緊密結合到成為完全受管且可擴充的雲端服務的歷程。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/36Yd3v6)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/36Yd3v6)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331767/?quality=12&learn=on&hidetitle=true)
 
-按一下 **[此處](/help/adobe-developers-live/assets/screens-as-a-cloud-service.pdf)** 用於工作階段投影片。
+按一下&#x200B;**[這裡](/help/adobe-developers-live/assets/screens-as-a-cloud-service.pdf)**&#x200B;以取得工作階段投影片。

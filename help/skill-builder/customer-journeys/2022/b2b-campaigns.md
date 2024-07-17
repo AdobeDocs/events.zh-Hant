@@ -1,6 +1,6 @@
 ---
-title: 更棒的合作 — Adobe [!DNL Marketo Engage] 和Real-Time CDP
-description: 瞭解如何使用協調B2B行銷活動 [!DNL Marketo Engage] 和RT-CDP （B2B版本）
+title: 最佳組合 — Adobe [!DNL Marketo Engage] 與Real-Time CDP
+description: 瞭解如何使用 [!DNL Marketo Engage] 和RT-CDP （B2B版本）來編排B2B行銷活動
 solution: Marketo, Real-Time Customer Data Platform
 role: Admin, Data Architect, Data Engineer, User
 level: Beginner, Intermediate, Experienced
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# 更棒的合作 — Adobe [!DNL Marketo Engage] 和Real-Time CDP
+# 最佳拍檔 — Adobe[!DNL Marketo Engage]與Real-Time CDP
 
-在這場會議中，您將瞭解如何使用協調B2B行銷活動 [!DNL Marketo Engage] 和RT-CDP （B2B版本），以及解鎖的主要使用案例和優勢有哪些。
+在此會議中，您將瞭解如何使用[!DNL Marketo Engage]和RT-CDP （B2B版本）來編排B2B行銷活動，以及解鎖的主要使用案例和優勢有哪些。
 
-*米哈伊·普里薩卡留* 解決方案顧問，CJM/Adobe
+*Mihai Prisacariu*&#x200B;解決方案顧問，CJM /Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343824/?quality=12&learn=on)

@@ -18,6 +18,6 @@ ht-degree: 0%
 
 在這場會議中，您將瞭解使用工作流程進行資產管理的好處，以及如何快速建立它們。
 
-*Chris Sofokleous* AEM/Adobe解決方案顧問
+*Chris Sofokleous*&#x200B;解決方案顧問，AEM / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343817/?quality=12&learn=on)

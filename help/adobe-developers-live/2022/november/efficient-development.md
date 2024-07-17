@@ -23,7 +23,7 @@ ht-degree: 0%
 
 # Adobe Experience Manager as a Cloud Service的高效開發
 
-Cloud Manager提供不同型別的管道來改善開發人員體驗並簡化其工作流程，包括前端計畫碼部署管道。
+Cloud Manager提供不同型別的管道，以改進開發人員體驗並簡化其工作流程，包括前端計畫碼部署管道。
 
 在此會議中，您將瞭解如何設定現有網站以進行快速前端計畫碼部署。
 

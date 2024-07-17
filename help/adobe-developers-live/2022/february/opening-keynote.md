@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 開啟主題演講
 
-開發人員生態系統一直是Magento成功的關鍵，現在的Adobe Commerce和Magento Open Source也是如此。 開始令人興奮的資訊內容和深思熟慮的討論，包括Adobe的平台願景、開放原始碼的演化，以及即將改善開發人員體驗、擴充性、使用者體驗開發和網站維護最佳實務。
+開發人員生態系統一直是Magento成功的關鍵，現在的Adobe Commerce和Magento Open Source也是如此。 開始令人興奮的資訊內容和深思熟慮的討論，包括Adobe的平台願景、開放Source的演化，以及即將改善開發人員體驗、擴充性、使用者體驗開發和網站維護最佳實務。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340620/?quality=12&learn=on)

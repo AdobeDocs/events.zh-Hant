@@ -14,15 +14,15 @@ duration: 1679
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 10%
+ht-degree: 9%
 
 ---
 
 # 深入探討Adobe Experience Manager as a Cloud Service持續傳遞模型
 
-根據白皮書： [Adobe Experience Manager as a Cloud Service：持續傳遞模型](https://fieldreadiness-adobe.highspot.com/items/5ea322e1c714336c23b32599?mkt_tok=eyJpIjoiWlRRNE1qQXlObVV3T0dFNCIsInQiOiJTckVtS1RtWjNCcExxQ3JPYWQ4bENhXC9DNVNRZ0tnNU83MVkraCtaN1NWbUlWU1wvWmJMejY2XC9FYkhBS1gwdjJleHpSY3ZoREJmXC9oanJRTFkzeEplXC9xK1o0TTBvd096b1wvT3BidEMwUGlYMDQxXC91WUk5K2l1ZE83MHV5amhlSkwifQ%3D%3D#1)  我們將分享我們的交付模式的詳細資訊，以提高客戶對CS的信心，並支援採用客戶功能測試。
+根據白皮書： [Adobe Experience Manager as a Cloud Service：持續傳遞模式](https://fieldreadiness-adobe.highspot.com/items/5ea322e1c714336c23b32599?mkt_tok=eyJpIjoiWlRRNE1qQXlObVV3T0dFNCIsInQiOiJTckVtS1RtWjNCcExxQ3JPYWQ4bENhXC9DNVNRZ0tnNU83MVkraCtaN1NWbUlWU1wvWmJMejY2XC9FYkhBS1gwdjJleHpSY3ZoREJmXC9oanJRTFkzeEplXC9xK1o0TTBvd096b1wvT3BidEMwUGlYMDQxXC91WUk5K2l1ZE83MHV5amhlSkwifQ%3D%3D#1)，我們將分享傳遞模式的詳細資料，以提高客戶對CS的信心，並支援採用客戶功能測試。
 
-繼續對話於 **[Experience League社群](https://adobe.ly/3i9XWo8)**.
+繼續&#x200B;**[Experience League社群](https://adobe.ly/3i9XWo8)**&#x200B;中的交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337720/?quality=12&learn=on&hidetitle=true)
 
