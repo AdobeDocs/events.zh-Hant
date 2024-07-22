@@ -2,9 +2,9 @@
 user-guide-title: Adobe營業時間
 user-guide-breadcrumb: Adobe Office Hours
 user-guide-description: 「諮詢時間」是主動式案例轉換方法，提供客戶解決方案專屬的網路研討會。
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+source-git-commit: 3853bd9eb1464cf41b54d09ffb7c5b6a466a5dcd
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '98'
 ht-degree: 14%
 
 ---
@@ -36,3 +36,6 @@ ht-degree: 14%
       + [JavaScript程式庫概觀、偵錯秘訣與技巧](2023/target-debugging-tips-and-tricks.md)
    + Workfront {#workfront-office-hours}
       + [修正重複的連絡人](2023/workfront-fix-duplicate-contacts.md)
+      + [校訂核准報告](2023/workfront-proof-approval-reports.md)
+
+
