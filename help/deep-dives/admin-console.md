@@ -9,18 +9,27 @@ doc-type: Event
 duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
-source-git-commit: c1716eac12bc496f866db8dce1f67235dc75c319
+exl-id: 811852d0-9900-43cc-b6d8-29c8b2fef40c
+source-git-commit: 7358d62eee1468e65b4ec073de1344a54dac41ce
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
-
 # 準備Marketo EngageAdobe身分
+
+這是有關[Adobe Marketo Engage訂閱與AdobeIdentity Management系統](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)整合的移轉訓練。 內容最適合Marketo Engage管理員。 本訓練課程將協助您掌握基本知識，讓貴組織做好跨職能準備，並教育內部使用者瞭解此即將進行的變更。
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
 ## 概觀
 
-此培訓課程的主要焦點在於將Marketo Engage移轉至Adobe身分識別和AdobeAdmin Console。 它涵蓋移轉歷程每個階段（產品、使用者和支援轉換）的基本層面，更強調使用者移轉，包括變更或不變更的內容、組織管理員或使用者所需的動作，以及Adobe在每個里程碑的通訊。 它會深入探討關鍵領域，例如在移轉前階段中排程移轉日期、使用者移轉期間的預期，以及在自我移轉期間如何導覽移轉主控台。 提供實用資源的連結以及準備組織的4個關鍵步驟。
+此培訓課程著重於將Marketo Engage訂閱移轉至Adobe身分和AdobeAdmin Console。 它涵蓋移轉歷程每個階段（產品、使用者和支援轉換）的基本層面，主要著重於使用者移轉。
+
+## 在本次研討會中，您將會聽到：
+
+1. 概述哪些專案會變更或不會變更、組織管理員或使用者所需的移轉動作，以及每個里程碑的Adobe通訊。
+1. 重要的移轉動作包括在移轉前排程移轉日期、使用者移轉期間的預期，以及導覽移轉主控台以取得適合自行移轉的執行個體。
+1. 管理員應該提供的實用資源和4個關鍵步驟，讓貴組織準備好迎接即將到來的變更。
