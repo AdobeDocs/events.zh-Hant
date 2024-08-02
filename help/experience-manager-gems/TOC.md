@@ -2,7 +2,7 @@
 user-guide-title: Adobe Experience Manager GEMS活動
 user-guide-description: 瞭解AEM Gems，這是Adobe Experience Manager專家提供的一系列技術深入探討。
 breadcrumb-title: AEM GEMs活動
-source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
+source-git-commit: ccb92953d827b8ce9a9f7282a83598a6e3d0b2b2
 workflow-type: tm+mt
 source-wordcount: '733'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 + [概觀](overview.md)
 + 2024 {#gems2024}
    + [將AEM Assets與Edge Delivery Services整合](gems2024/edge-delivery-for-aem-assets.md)
-   + [在AEM Cloud Manager中整合私人GitHub存放庫](gems2024/private-github-for-aem-cloud-manager.md)
+   + [在AEM Cloud Manager中整合私人GitHub存放庫](/gems2024/private-github-for-aem-cloud-manager.md)
    + [使用我們新的API和事件改善AEM Assets的開發人員體驗](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
    + [AEM FormsEdge Delivery Services快速入門](gems2024/edge-delivery-for-aem-forms.md)
    + [開始使用AEM編寫和Edge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
