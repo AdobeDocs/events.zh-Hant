@@ -9,16 +9,17 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
+exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
+source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
 # 網路研討會日期： 2024年7月31日
 
-此網路研討會將於7月31日星期三下午5點（CEST /太平洋夏令時間/上午8點/晚上8:30 IST）進行。 請注意，此網路研討會只需要註冊 — 請在[這裡](https://adobe.ly/3LmXfGk)註冊。
+此網路研討會已完成 — 請觀看下方的錄影。
 
 ## 在AEM Cloud Manager中整合私人GitHub存放庫
 
@@ -34,12 +35,14 @@ ht-degree: 0%
 * Shankari Panchapakesan，Adobe主要產品經理
 * Florin Stancu，軟體開發工程師，Adobe
 
-## 網路研討會註冊
+## 網路研討會影片
+
+>[!VIDEO](https://video.tv.adobe.com/v/3432350)
+
+## 網路研討會社群互動
 
 >[!NOTE]
-> 
->* 此網路研討會是免費的，只需要註冊。 請在[這裡](https://adobe.ly/3LmXfGk)註冊。
 >
->* 如需此網路研討會上有關Experience League的網路研討會/主題特定社群互動，請造訪個別[內容對話串](https://adobe.ly/4f1jhMo)。
+>* 如需此網路研討會上有關Experience League的網路研討會/主題特定社群互動，請造訪個別[內容對話串](tbd)。
 >
 >* 若要接收我們即將舉辦的網路研討會的通知，請在[Adobe的AEM使用者群組](https://aem-augs.adobe.com/)註冊。
