@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM講座
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 7f41b655c6e0509084fdacf3f33a382727bf9157
+source-git-commit: 5ea58365068d0e97175bde8b27e9bf995c1b46a9
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -63,8 +63,8 @@ ht-degree: 0%
 
 這些網路研討會將定期進行，包括以下內容：
 
-* 持續時間上限為60分鐘
-* 問答環節和聊天專家可在整個網路研討會中找到
+* 每個網路研討會的最長持續時間為60分鐘
+* 最後，不到15分鐘的問答時間，整個網路研討會期間都有聊天專家可參與
 * 每個網路研討會後皆可錄製
 * 所有AEM GEM網路研討會均為免費且線上進行，只需報名即可。
 
