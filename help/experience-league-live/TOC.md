@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: b38221f215d93a24838a607da1def2129f398bb3
+source-git-commit: d692337e230540fe667072bd12351fd62c5aa4d2
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '432'
 ht-degree: 5%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 5%
 
 + [概觀](overview.md)
 + 集數{#episodes}
+   + [Ep. 38： Summer Spotlight — 三個必須試用Adobe Journey Optimizer中的功能](episodes/exl-live-episode-08-28-24.md)
    + [Ep. 37：最新Adobe Real-Time CDP發行版本如何為您的企業指引方向](episodes/exl-live-episode-06-26-24.md)
    + [Ep. 36：這是將Analytics移轉至Web SDK的方式](episodes/exl-live-episode-05-16-24.md)
    + [Ep. 35： Journey Optimizer中的全新程式碼型體驗管道](episodes/exl-live-episode-04-24-24.md)

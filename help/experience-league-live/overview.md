@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 4382796f5fa84ca4ceecd49b8138a45a3da16a8d
+source-git-commit: d692337e230540fe667072bd12351fd62c5aa4d2
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '177'
 ht-degree: 3%
 
 ---
@@ -26,8 +26,16 @@ ht-degree: 3%
 <table>
 <tr>
 
-<td style="vertical-align: top;">
-      <b>快點回來學習新的即將上線的節目！ 同時，請按一下下方或左側導覽中的連結，檢視我們之前的集數。</b>
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-08-28-24.md">
+      <img alt="Experience LeagueLIVE 8月28日" src="episodes/assets/WebBanner-aug-28-2024.png">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-08-28-24.md">
+        <strong>Summer Spotlight — 必須試用Adobe Journey Optimizer中的功能</strong>
+      </a>
+      <br/><em>與Sandra Hausmann、Keara Fausett、Aaron Forrest和Justin Grover</em>
+      <br/><em>2024年8月28日</em>
+    </div>
   </td>
 </tr>
 </table>
