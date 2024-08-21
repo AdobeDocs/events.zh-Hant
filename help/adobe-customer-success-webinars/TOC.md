@@ -2,9 +2,9 @@
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
 user-guide-description: Adobe客戶成功引導的網路研討會，旨在讓您最佳化對AdobeExperience Cloud的投資。 獲得寶貴的見解，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: 32b9aa55a48d744e695ca23b88f927c9fc538bb0
+source-git-commit: 3bcce2d2a01f5ed1abbc8fccd59512fe8a070fae
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '157'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,6 @@ ht-degree: 1%
    + [將使用案例對應至解決方案功能](2024/use-case-mapping.md)
    + [Web SDK Migration Essentials](2024/web-sdk-migration.md)
    + [針對客戶使用案例的AEP應用程式服務整合](2024/aep-apps-services-integrations.md)
-   + [Commerce與咖啡： B2B電子商務的策略](2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md)
    + [Marketo Measure與Mochas：活動與自訂模型](2024/marketo-measure-and-mochas-activities-and-custom-models.md)
 + 2023 {#2023}
    + [大規模建立Personalization的基礎](2023/personalization-at-scale.md)
