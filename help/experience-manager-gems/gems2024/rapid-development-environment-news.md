@@ -1,5 +1,5 @@
 ---
-title: 快速開發環境的新增功能
+title: AEM快速開發環境的新增功能
 description: RDE可讓開發人員快速部署和檢閱變更，將測試經證實可在本機開發環境中運作的功能所需的時間減至最少。 在這場會議中，我們將向您展示如何使用RDE來縮短開發期間的週轉時間，並取得近乎即時的程式碼變更回饋。 此外，我們也會向您介紹最新功能，例如改良的記錄功能和前端支援。 加入我們，進一步瞭解您可以使用RDE做什麼，讓我們知道您接下來想要新增什麼！
 solution: Experience Manager
 version: Cloud Service
@@ -9,9 +9,9 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 2566ab3bb8dbb6d240dba157bbcb8dadb1c0b43a
+source-git-commit: 06d87b13be213513469f77fd44782f6ae27ffc30
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 此網路研討會是免費的，只需要註冊。
 若要加入，請在[這裡](https://adobe.ly/4cwc5W4)註冊。
 
-## 快速開發環境的新增功能
+## AEM快速開發環境的新增功能
 
 RDE可讓開發人員快速部署和檢閱變更，將測試經證實可在本機開發環境中運作的功能所需的時間減至最少。 在這場會議中，我們將向您展示如何使用RDE來縮短開發期間的週轉時間，並取得近乎即時的程式碼變更回饋。 此外，我們也會向您介紹最新功能，例如改良的記錄功能和前端支援。 加入我們，進一步瞭解您可以使用RDE做什麼，讓我們知道您接下來想要新增什麼！
 
