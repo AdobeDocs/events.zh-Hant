@@ -12,9 +12,9 @@ type: Event
 user-guide-description: AEM GEM講座
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 5ea58365068d0e97175bde8b27e9bf995c1b46a9
+source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,10 @@ ht-degree: 0%
 
 <img alt="數位體驗" src="./assets/ADX_Gems.png"/>
 
-## 即將舉行的AEM GEM網路研討會 — 將AEM Assets與Edge Delivery Services整合
+## 即將舉行的AEM GEM網路研討會 — AEM快速開發環境的新增功能？
 
-此網路研討會將於8月21日星期三下午5點(CEST /太平洋夏令時間/上午8點(PDT) /晚上8:30 (IST)進行。 請注意，此網路研討會只需要註冊 — 請在[這裡](https://adobe.ly/3LTT3hg)註冊。
+此網路研討會將於9月4日星期三下午5點（CEST /太平洋夏令時間/上午8點/晚上8:30 IST）進行。 請注意，此網路研討會只需要報名。
+如果有興趣加入，請在[這裡](https://adobe.ly/3LTT3hg)註冊。
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -50,8 +51,9 @@ ht-degree: 0%
 
 ## 先前的AEM GEM網路研討會
 
-我們最近在&#x200B;**整合AEM Cloud Manager中的私人GitHub存放庫**&#x200B;舉行的AEM GEM網路研討會已於2024年7月31日&#x200B;*進行。*&#x200B;您可在下列位置找到&#x200B;**錄製**：
-[在AEM Cloud Managers中整合私人GitHub存放庫](gems2024/private-github-for-aem-cloud-manager.md)
+我們在&#x200B;**整合AEM Assets與Edge Delivery Services**&#x200B;的最新AEM GEM網路研討會已於&#x200B;*2024年8月21日*進行。
+您可在下列位置找到**錄製**：
+[整合AEM Assets與Edge Delivery Services](gems2024/edge-delivery-for-aem-assets.md)
 
 >[!NOTE]
 >
