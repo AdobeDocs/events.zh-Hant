@@ -2,9 +2,9 @@
 user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
-source-git-commit: e5c41210809983e9b6d2854f6ecf75e44976d019
+source-git-commit: 02ca017c96958afecfa431513997e22e830f0c4e
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,6 @@ ht-degree: 0%
 + 敏捷{#agile}
    + [行銷中的敏捷](user-groups/agile-in-marketing.md)
 + 報告和儀表板{#reporting-and-dashboards}
-   + [進階報告](user-groups/advanced-reporting.md)
    + [創意代理：報告和儀表板](user-groups/creative-agencies-reporting-and-dashboards.md)
    + [評估品質和參與](webinars/gauging-quality-and-engagement.md)
    + [文字模式報表簡介](webinars/introduction-to-text-mode-reporting.md)
