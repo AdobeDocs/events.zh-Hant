@@ -9,7 +9,7 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
+source-git-commit: 9dc54b9034ffa5e533df2c026b9d6518f50c6531
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -35,6 +35,6 @@ ht-degree: 0%
 >
 >[!NOTE]
 >
->* 若為Experience League上特定工作階段的社群互動，請造訪個別[內容對話串](https://adobe.ly/4aCz0OE)。
+>* 若為Experience League上特定工作階段的社群互動，請造訪個別[內容對話串](https://adobe.ly/3LSCVfX)。
 >
 >* 若要接收我們即將舉辦的網路研討會的通知，請在[Adobe的AEM使用者群組](https://aem-augs.adobe.com/)註冊。
