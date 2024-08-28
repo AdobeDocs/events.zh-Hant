@@ -2,9 +2,9 @@
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
 user-guide-description: Adobe客戶成功引導的網路研討會，旨在讓您最佳化對AdobeExperience Cloud的投資。 獲得寶貴的見解，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: 87a01d0a4002a35bf538c6ac32ee6631c38f25c0
+source-git-commit: 12447442bb31bec89d2c82b45cf15a8c99bd34ce
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '196'
 ht-degree: 1%
 
 ---
@@ -23,10 +23,13 @@ ht-degree: 1%
    + [增強精益團隊的能力](2024/empowering-lean-teams.md)
    + [Expedia從Adobe Analytics移至Customer Journey Analytics](2024/expedia-aa-to-cja.md)
    + [Workfront系統與群組管理監護的基礎知識](2024/workfront-admin-guardianship.md)
+   + [Adobe Journey Optimizer Analysis快速入門](2024/getting-started-ajo-analysis.md)
    + [精簡團隊與Customer Journey Analytics](2024/lean-teams-cja.md)
+   + [掌握Cookie和資料隱私權](2024/mastering-cookies-data-privacy.md)
    + [鎖定Personalization](2024/target-personalization.md)
    + [超個人化](2024/hyperpersonalization.md)
    + [Journey Optimizer Mobile功能](2024/journey-optimizer-mobile-capabilities.md)
+   + [Real-time Customer Data Platform遷移整備](2024/rtcdp-migration-readiness.md)
    + [策略領導力](2024/strategic-leadership.md)
    + [將使用案例對應至解決方案功能](2024/use-case-mapping.md)
    + [Web SDK Migration Essentials](2024/web-sdk-migration.md)
