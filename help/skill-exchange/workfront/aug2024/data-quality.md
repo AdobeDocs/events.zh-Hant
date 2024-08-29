@@ -1,6 +1,6 @@
 ---
 title: 從混亂到清晰 — 提升您的資料品質
-description: 在這場會議中，您將會發現以下的實際秘訣和策略：制定並執行資料清理計畫範例報告可用來發現資料品質問題增強所有角色的使用者整理和維護資料的能力額外優點！ 準備您的資料以因應畫布儀表板日益增長的功能」
+description: 在這場會議中，您將瞭解制定和執行資料清理計畫的實用提示和策略範例報告，可用來發現資料品質問題增強所有角色的使用者整理和維護資料的能力額外優點！ 準備您的資料以因應畫布儀表板日益增長的功能」
 solution: Workfront
 role: User
 level: Beginner
@@ -8,7 +8,7 @@ doc-type: Event
 duration: 1816
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16106
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+source-git-commit: 9f58c7c83054cee5296a120f9d55dee84254f5f7
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
