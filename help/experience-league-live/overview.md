@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: d692337e230540fe667072bd12351fd62c5aa4d2
+source-git-commit: 4d3f85437e3f1c27684be89186f9cd6dad74e859
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '178'
 ht-degree: 3%
 
 ---
@@ -26,15 +26,15 @@ ht-degree: 3%
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-08-28-24.md">
-      <img alt="Experience LeagueLIVE 8月28日" src="episodes/assets/WebBanner-aug-28-2024.png">
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-18-24.md">
+      <img alt="Experience LeagueLIVE 8月28日" src="episodes/assets/WebBanner-09-18-2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-08-28-24.md">
-        <strong>Summer Spotlight — 必須試用Adobe Journey Optimizer中的功能</strong>
+      <a href="episodes/exl-live-episode-09-18-24.md">
+        <strong>您準備好升級行動分析應用程式了嗎？</strong>
       </a>
-      <br/><em>與Sandra Hausmann、Keara Fausett、Aaron Forrest和Justin Grover</em>
-      <br/><em>2024年8月28日</em>
+      <br/><em>與Daniel Wright、Mitch Rice和Kevin Lind</em>
+      <br/><em>2024年9月18日8:30 PT</em>
     </div>
   </td>
 </tr>
