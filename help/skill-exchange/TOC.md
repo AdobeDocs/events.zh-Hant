@@ -3,10 +3,10 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers與技能交流的錄製集合
 event-series: The Skill Exchange
-source-git-commit: 76b246f4b6b43632cf07b17ee1ec9b2d581e1e08
+source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
 workflow-type: tm+mt
-source-wordcount: '496'
-ht-degree: 8%
+source-wordcount: '526'
+ht-degree: 6%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 8%
       + [行銷管道，請負責任地使用](analytics/jun2021/marketing-channels.md)
       + [整合所有內容](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
-   + 2023 年 8 月{#aug2023}
+   + 2023年8月{#aug2023}
       + 開發人員追蹤{#developer-track}
          + [AEM開發人員入門套件](aem/aug2023/deploy-new-project.md)
          + [建立有效且可擴充的樣式系統](aem/aug2023/scalable-style-system.md)
@@ -88,7 +88,7 @@ ht-degree: 8%
          + [善用合作DAM](aem/aug2023/collaborative-dam.md)
          + [調整AI整備程度](aem/aug2023/metadata.md)
          + [焦點](aem/aug2023/spotlight.md)
-   + 2022 年 8 月{#aug2022}
+   + 2022年8月{#aug2022}
       + 開發人員追蹤{#developer-track}
          + [體驗製作者焦點](aem/aug2022/spotlight.md)
          + [AEM Champion會議多重租用](aem/aug2022/multi-tenancy.md)
@@ -107,7 +107,7 @@ ht-degree: 8%
       + [大規模Personalization](marketo/feb2022/personalization-at-scale.md)
       + [使用Token的可擴充性和效率](marketo/feb2022/using-tokens.md)
       + [利用參與計畫吸引客戶](marketo/feb2022/utilize-engagement-programs.md)
-   + 2021 年 8 月{#aug2021}
+   + 2021年8月{#aug2021}
       + [在 [!DNL Marketo Engage]內建立程式](marketo/aug2021/create-programs.md)
       + [[!DNL Marketo Engage]顆搖滾星](marketo/aug2021/engage-rockstars.md)
       + [智慧行銷活動的力量](marketo/aug2021/smart-campaign.md)
@@ -122,7 +122,15 @@ ht-degree: 8%
       + [在 [!DNL Marketo Engage]內報告](marketo/feb2021/reporting-within-marketo.md)
       + [適用於Forms的終極提示與秘訣](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
-   + 2023 年 8 月{#aug2023}
+   + 2024年8月{#aug2024}
+      + [開啟主題演講](workfront/aug2024/keynote.md)
+      + [自訂工作負載平衡器](workfront/aug2024/workload-balancer.md)
+      + [增強您的核准體驗](workfront/aug2024/approval-experience.md)
+      + [行銷內容供應鏈](workfront/aug2024/content-supply-chain.md)
+      + [流程增強功能與營運效率](workfront/aug2024/spotlight-process-operations.md)
+      + [保留和參與歷程](workfront/aug2024/retention-engagement-journey.md)
+      + [將程式流程轉換為Workfront Wins](workfront/aug2024/spotlight-process-flows.md)
+   + 2023年8月{#aug2023}
       + [展示板簡介](workfront/aug2023/introduction-to-boards.md)
       + [體驗製作者焦點](workfront/aug2023/spotlight.md)
       + [成長與持續效率](workfront/aug2023/growth-continued-efficiencies.md)
