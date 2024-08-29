@@ -1,14 +1,14 @@
 ---
 title: Real-time Customer Data Platform遷移整備
 description: 瞭解如何移轉至Adobe Real-time CDP (RTCDP)以及需要多少工作量： — 從現有CDP移轉 — 對現有使用案例的影響(Personalization和最佳化) — 支援即時客戶資料管理所需的組織變更。
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 2385
 last-substantial-update: 2024-08-28T00:00:00Z
 jira: KT-16030
-source-git-commit: 12447442bb31bec89d2c82b45cf15a8c99bd34ce
+source-git-commit: 2445124970fdf5e87509d03c1ede66344bbfd234
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
