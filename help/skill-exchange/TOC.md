@@ -3,9 +3,9 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers與技能交流的錄製集合
 event-series: The Skill Exchange
-source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
+source-git-commit: 28a55b5e5e6716f970585d721edd5ab411d3aa45
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '613'
 ht-degree: 6%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 6%
 + [概觀](overview.md)
 + Adobe Commerce {#commerce}
    + 2024年8月{#aug2024}
-      + [開啟主題演講](workfront/aug2024/keynote.md)
+      + [開啟主題演講](commerce/aug2024/keynote.md)
       + [提升Adobe Commerce效能](commerce/aug2024/commerce-performance.md)
       + [有效的擴充性](commerce/aug2024/extensibility.md)
       + [在移轉工作流程中最佳化SEO](commerce/aug2024/seo-migration-workflows.md)
@@ -94,7 +94,6 @@ ht-degree: 6%
       + [使用通用編輯器的AEM Sites](aem/aug2024/universal-editor.md)
       + [Dynamic Media Classic資產管理](aem/aug2024/dmc-asset-management.md)
       + [AEM自訂和治理提供有凝聚力的體驗](aem/aug2024/customize-elements.md)
-      + [自訂元素](aem/aug2024/customize-elements.md)
       + [Headless和SPA編輯器方法精通](aem/aug2024/headless-spa-editor.md)
       + [數位資產管理策略](aem/aug2024/spotlight-dam-strategies.md)
    + 2023年8月{#aug2023}
