@@ -3,9 +3,9 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers與技能交流的錄製集合
 event-series: The Skill Exchange
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '615'
 ht-degree: 6%
 
 ---
@@ -16,10 +16,13 @@ ht-degree: 6%
 + [概觀](overview.md)
 + Adobe Commerce {#commerce}
    + 2024年8月{#aug2024}
+      + [開啟主題演講](workfront/aug2024/keynote.md)
       + [提升Adobe Commerce效能](commerce/aug2024/commerce-performance.md)
+      + [有效的擴充性](commerce/aug2024/extensibility.md)
       + [在移轉工作流程中最佳化SEO](commerce/aug2024/seo-migration-workflows.md)
 + Analytics {#analytics}
    + 2024年8月{#aug2024}
+      + [開啟主題演講](analytics/aug2024/keynote.md)
       + [高階歸因概念](analytics/aug2024/attribution-concepts.md)
       + [發掘有價值的深入分析](analytics/aug2024/uncover-valuable-insights.md)
       + [使用計算量度](analytics/aug2024/calculated-metrics.md)
@@ -87,7 +90,11 @@ ht-degree: 6%
       + [整合所有內容](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
    + 2024年8月{#aug2024}
+      + [開啟主題演講](aem/aug2024/keynote.md)
       + [使用通用編輯器的AEM Sites](aem/aug2024/universal-editor.md)
+      + [Dynamic Media Classic資產管理](aem/aug2024/dmc-asset-management.md)
+      + [AEM自訂和治理提供有凝聚力的體驗](aem/aug2024/customize-elements.md)
+      + [自訂元素](aem/aug2024/customize-elements.md)
       + [Headless和SPA編輯器方法精通](aem/aug2024/headless-spa-editor.md)
       + [數位資產管理策略](aem/aug2024/spotlight-dam-strategies.md)
    + 2023年8月{#aug2023}
@@ -112,6 +119,11 @@ ht-degree: 6%
          + [透過AEM中的內容個人化推動業務價值](aem/aug2022/personalization.md)
          + [讓AEM實作發揮最大效用](aem/aug2022/implementation.md)
 + Marketo {#marketo}
+   + 2024年8月{#aug2024}
+      + [開啟主題演講](marketo/aug2024/keynote.md)
+      + [參與計畫的進階應用程式](marketo/aug2024/advanced-applications-engagment-programs.md)
+      + [保留和參與歷程](marketo/aug2024/retention-engagement-journey.md)
+      + [智慧清單邏輯](marketo/aug2024/smart-list-logic.md)
    + 2022 年 2 月 {#feb2022}
       + [資料維護](marketo/feb2022/data-maintenance.md)
       + [動態內容與Personalization的力量](marketo/feb2022/dynamic-content.md)
@@ -143,7 +155,6 @@ ht-degree: 6%
       + [Workfront Fusion和展示板](workfront/aug2024/fusion-boards.md)
       + [行銷內容供應鏈](workfront/aug2024/content-supply-chain.md)
       + [流程增強功能與營運效率](workfront/aug2024/spotlight-process-operations.md)
-      + [保留和參與歷程](workfront/aug2024/retention-engagement-journey.md)
       + [自訂Workfront首頁](workfront/aug2024/tailoring-homepages.md)
       + [將程式流程轉換為Workfront Wins](workfront/aug2024/spotlight-process-flows.md)
    + 2023年8月{#aug2023}
