@@ -4,10 +4,10 @@ description: 取得Adobe Experience Manager as a Cloud Service最新功能快速
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
-source-git-commit: 497772e2f80ab6f1b240c10ab7fe7fa557cb00ea
+source-git-commit: 259d6cf68792ea0f1aa9140b48006a747b63a89c
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 1%
+source-wordcount: '180'
+ht-degree: 3%
 
 ---
 
@@ -20,6 +20,27 @@ ht-degree: 1%
 <table style="max-width: 50%;">
   <tr>
     <td>
+      <a href="2024/2024-7-0.md">
+        <img alt="2024.7.0版本" src="https://video.tv.adobe.com/v/3431707?format=jpeg" />
+      </a>
+      <div>
+        <a href="2024/2024-7-0.md">
+          <strong>版本 | 2024.7.0</strong>
+        </a>
+      </div>
+      <em>發行日期：2024年7月</em>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant">發行說明</a>
+      </p>
+    </td>
+  </tr>  
+</table>
+
+## 過去的更新
+
+<table style="max-width: 50%;">
+  <tr>
+     <td>
       <a href="2024/2024-6-0.md">
         <img alt="2024.6.0版本" src="https://video.tv.adobe.com/v/3430779?format=jpeg" />
       </a>
@@ -32,14 +53,7 @@ ht-degree: 1%
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant">發行說明</a>
       </p>
-    </td>
-  </tr>  
-</table>
-
-## 過去的更新
-
-<table style="max-width: 50%;">
-  <tr>
+     </td>
      <td>
       <a href="2024/2024-5-0.md">
         <img alt="2024.5.0版本" src="2024/assets/2024-5-0-thumb.png" />
@@ -64,6 +78,8 @@ ht-degree: 1%
       </div>
       <em>發行日期：2024年4月</em>
     </td>
+  </tr>
+  <tr> 
     <td>
       <a href="2024/2024-3-0.md">
         <img alt="2024.3.0版本" src="2024/assets/2024-3-0-thumb.png" />
@@ -76,8 +92,6 @@ ht-degree: 1%
       </div>
       <em>發行日期：2024年4月</em>
     </td>   
-  </tr>
-  <tr>    
     <td>
       <a href="2024/2024-1-0.md">
         <img alt="2024.1.0版本" src="2024/assets/2024-1-0-thumb.png" />
@@ -102,6 +116,8 @@ ht-degree: 1%
           <em>發行日期：2023年11月</em>
       </div>
     </td>
+  </tr>
+  <tr>     
     <td>
       <a href="2023/2023-10-0.md">
         <img alt="2023.10.0版" src="2023/assets/2023-10-0-thumb.png" />
@@ -114,8 +130,6 @@ ht-degree: 1%
           <em>發行日期：2023年10月</em>
       </div>
     </td>
-  </tr>
-  <tr>    
     <td>
       <a href="2023/2023-9-0.md">
         <img alt="2023.9.0版" src="2023/assets/2023-9-0-thumb.png" />
@@ -140,18 +154,5 @@ ht-degree: 1%
           <em>發行日期：2023年8月</em>
       </div>
     </td>
-    <td>
-      <a href="2023/2023-7-0.md">
-        <img alt="2023.7.0版" src="2023/assets/2023-7-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2023/2023-7-0.md">
-          <strong>版本 | 2023.7.0</strong>
-          <br/>
-        </a>
-          <em>發行日期：2023年7月</em>
-      </div>
-    </td>
   </tr>
-  <tr>    
 </table>
