@@ -2,10 +2,10 @@
 user-guide-title: Experience Cloud技術研討會
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud技術會議是主動式案例轉移方法，為客戶提供解決方案專屬的網路研討會。
-source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
+source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 13%
+source-wordcount: '112'
+ht-degree: 12%
 
 ---
 
@@ -14,6 +14,8 @@ ht-degree: 13%
 
 + [Experience Cloud技術研討會](overview.md)
 + 2024 {#2024}
+   + 即時內容資料平台{#rtcdp-office-hours-2024}
+      + [即時內容資料平台時間安排](2024/rtcdp-timings.md)
    + AdobeMarketo {#adobe-marketo-office-hours-2024}
       + [冠軍技術研討會 — 5月](2024/champion-office-hours.md)
 + 2023 {#2023}

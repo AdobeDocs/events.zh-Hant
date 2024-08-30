@@ -3,10 +3,10 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers與技能交流的錄製集合
 event-series: The Skill Exchange
-source-git-commit: 28a55b5e5e6716f970585d721edd5ab411d3aa45
+source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
 workflow-type: tm+mt
-source-wordcount: '613'
-ht-degree: 6%
+source-wordcount: '658'
+ht-degree: 5%
 
 ---
 
@@ -20,10 +20,15 @@ ht-degree: 6%
       + [提升Adobe Commerce效能](commerce/aug2024/commerce-performance.md)
       + [有效的擴充性](commerce/aug2024/extensibility.md)
       + [在移轉工作流程中最佳化SEO](commerce/aug2024/seo-migration-workflows.md)
+      + [個人化客戶體驗](commerce/aug2024/personalization.md)
 + Analytics {#analytics}
    + 2024年8月{#aug2024}
       + [開啟主題演講](analytics/aug2024/keynote.md)
+      + [警報和註解](analytics/aug2024/alerts-annotations.md)
+      + [體驗製作者焦點](analytics/aug2024/spotlight-reporting-analysis.md)
       + [高階歸因概念](analytics/aug2024/attribution-concepts.md)
+      + [深入瞭解區段](analytics/aug2024/segmentation.md)
+      + [行銷管道和歸因](analytics/aug2024/marketing-channels-attribution.md)
       + [發掘有價值的深入分析](analytics/aug2024/uncover-valuable-insights.md)
       + [使用計算量度](analytics/aug2024/calculated-metrics.md)
       + [使用Analysis Workspace的視覺效果](analytics/aug2024/spotlight-visualizations.md)
@@ -92,10 +97,12 @@ ht-degree: 6%
    + 2024年8月{#aug2024}
       + [開啟主題演講](aem/aug2024/keynote.md)
       + [使用通用編輯器的AEM Sites](aem/aug2024/universal-editor.md)
-      + [Dynamic Media Classic資產管理](aem/aug2024/dmc-asset-management.md)
       + [AEM自訂和治理提供有凝聚力的體驗](aem/aug2024/customize-elements.md)
-      + [Headless和SPA編輯器方法精通](aem/aug2024/headless-spa-editor.md)
       + [數位資產管理策略](aem/aug2024/spotlight-dam-strategies.md)
+      + [Dynamic Media Classic資產管理](aem/aug2024/dmc-asset-management.md)
+      + [強化內容供應鏈](aem/aug2024/spotlight-content-supply-chain.md)
+      + [Headless和SPA編輯器方法精通](aem/aug2024/headless-spa-editor.md)
+      + [Print Production](aem/aug2024/print-production.md)
    + 2023年8月{#aug2023}
       + 開發人員追蹤{#developer-track}
          + [AEM開發人員入門套件](aem/aug2023/deploy-new-project.md)
@@ -121,8 +128,13 @@ ht-degree: 6%
    + 2024年8月{#aug2024}
       + [開啟主題演講](marketo/aug2024/keynote.md)
       + [參與計畫的進階應用程式](marketo/aug2024/advanced-applications-engagment-programs.md)
+      + [透過A/B測試提升效能](marketo/aug2024/a-b-testing.md)
+      + [生命週期管理與分析](marketo/aug2024/lifecycle-management-analytics.md)
+      + [行銷運作效率](marketo/aug2024/spotlight-marketing-ops-efficiency.md)
       + [保留和參與歷程](marketo/aug2024/retention-engagement-journey.md)
       + [智慧清單邏輯](marketo/aug2024/smart-list-logic.md)
+      + [焦點 — 互動式網路研討會](marketo/aug2024/spotlight-interactive-webinars.md)
+      + [使用稽核軌跡和行銷活動檢查程式](marketo/aug2024/audit-trail-campaign-inspector.md)
    + 2022 年 2 月 {#feb2022}
       + [資料維護](marketo/feb2022/data-maintenance.md)
       + [動態內容與Personalization的力量](marketo/feb2022/dynamic-content.md)
