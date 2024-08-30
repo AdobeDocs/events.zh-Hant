@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 4d3f85437e3f1c27684be89186f9cd6dad74e859
+source-git-commit: 3481a7e4b34febb1d570e87d789ada6d1550be4b
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 3%
+source-wordcount: '213'
+ht-degree: 2%
 
 ---
 
@@ -35,6 +35,22 @@ ht-degree: 3%
       </a>
       <br/><em>與Daniel Wright、Mitch Rice和Kevin Lind</em>
       <br/><em>2024年9月18日8:30 PT</em>
+    </div>
+  </td>
+</tr>
+</table>
+<table>
+<tr>
+
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-26-24.md">
+      <img alt="Experience LeagueLIVE 8月28日" src="episodes/assets/WebBanner-09-26-2024.png">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-09-18-24.md">
+        <strong>探索AI Assistant如何在Adobe Experience Cloud應用程式和Adobe Campaign中轉變客戶互動並提高生產力。 </strong>
+      </a>
+      <br/><em>與Rachel Hannessian、Amarnath Vannararth和Arthur Lacroix</em>
+      <br/><em>2024年9月26日8:30 PT</em>
     </div>
   </td>
 </tr>
