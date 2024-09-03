@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 7f5998a03b576b2b50f0e44507a81187fac10919
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '56'
 ht-degree: 5%
 
 ---
@@ -31,4 +31,5 @@ ht-degree: 5%
    + [運用PMCF欄位進行擴充](pmcf-fields.md)
    + [透過小型團隊最大化您的執行個體](small-team-instance.md)
    + [在活動記錄檔中記錄複雜程式](activity-log.md)
+   + [解鎖全球行銷](global-marketing.md)
    + [使用Webhook傳輸資料](webhooks.md)
