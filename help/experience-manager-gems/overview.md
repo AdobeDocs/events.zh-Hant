@@ -12,7 +12,7 @@ type: Event
 user-guide-description: AEM GEM講座
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
+source-git-commit: 3b55664ebc35de2657158bc0d7f365753cbb28eb
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 ## 即將舉行的AEM GEM網路研討會 — AEM快速開發環境的新增功能？
 
 此網路研討會將於9月4日星期三下午5點（CEST /太平洋夏令時間/上午8點/晚上8:30 IST）進行。 請注意，此網路研討會只需要報名。
-如果有興趣加入，請在[這裡](https://adobe.ly/3LTT3hg)註冊。
+如果有興趣加入，請在[這裡](https://adobe.ly/3yWr9OY)註冊。
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
