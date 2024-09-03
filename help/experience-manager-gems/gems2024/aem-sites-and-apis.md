@@ -9,7 +9,7 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 3b55664ebc35de2657158bc0d7f365753cbb28eb
+source-git-commit: 8727d2d86d807d31ca35e3951fd65da78acd9cbd
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -24,8 +24,7 @@ ht-degree: 0%
 
 ## 解鎖AEM Sites的強大功能：掌握內容管理API
 
-AEM Sites的使用方式正在迅速發展，在傳統使用者互動中新增API優先模式。 無論您是要簡化營運或提升自動化，領先於這些趨勢都至關重要。 加入我們，深入瞭解我們如何在AEM Sites中探索相關尖端更新，以及這些更新如何強化您的內容管理策略。
-在此會議中，您將發現：
+AEM Sites的使用方式正在迅速發展，在傳統使用者互動中新增API優先模式。 無論您是要簡化營運或提升自動化，領先於這些趨勢都至關重要。 加入我們，深入瞭解我們如何在AEM Sites中探索相關尖端更新，以及這些更新如何強化您的內容管理策略。 在此會議中，您將發現：
 * 進階OpenAPI標準：探索最新OpenAPI實作，以針對AEM結構化內容進行順暢的CRUD操作。
 * 事件和Webhook：瞭解Adobe I/O的事件和Webhook功能如何根據AEM中的內容和狀態變更來自動化流程。
 * 適用於翻譯自動化的新REST API：瞭解新的REST API，能簡化並簡化AEM的內容翻譯工作流程。
