@@ -8,9 +8,9 @@ doc-type: Event
 duration: 2477
 last-substantial-update: 2024-09-18T00:00:00Z
 jira: KT-16216
-source-git-commit: ac811378b605024bc49232b84932b029fe783c45
+source-git-commit: 933d52ea829b18ee287631c8701c7e4494c5379b
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -33,3 +33,11 @@ ht-degree: 0%
 * 轉換策略：利用智慧行銷活動在參與方案中的串流之間轉換，可提供控制和自動化。&#x200B;URL 瞭解何時以及如何根據生命週期階段或內容耗盡等因素轉換潛在客戶，是有效培養潛在客戶的關鍵。
 
 * 計畫成功量度：為參與計畫定義明確的成功量度對衡量有效性至關重要。&#x200B;URL 無論是電子郵件點選、網站造訪或其他動作，已定義成功標準，有助於準確評估參與計畫的績效和影響。&#x200B;URL
+
+## 此簡報中參考的資源
+
+* [瞭解參與計畫](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
+* [瞭解參與分數](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
+* [新增方案至參與方案資料流](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
+* [程式匯入程式庫總覽](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
+* [行銷國家社群討論對話串](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)
