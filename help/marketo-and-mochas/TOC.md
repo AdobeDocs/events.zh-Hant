@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+source-git-commit: d5584d9714f046ed32853edb7602123487ad9ac9
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '66'
 ht-degree: 6%
 
 ---
@@ -22,6 +22,7 @@ ht-degree: 6%
 + [概觀](overview.md)
 + 2024 {#2024}
    + [成熟度第1部分 — 基礎](2024/maturity-part1-foundation.md)
+   + [成熟度第2部分 — 最佳化Marketo使用](2024/optimize-marketo-usage.md)
    + [領導培養成功](2024/lead-nurture-success.md)
    + [全新Discover控制面板](2024/new-discover-dashboard.md)
    + [歸因控制面板記錄](2024/attribution-dashboard-recording.md)

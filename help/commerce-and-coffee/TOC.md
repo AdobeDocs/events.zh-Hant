@@ -2,9 +2,9 @@
 user-guide-title: Commerce與咖啡活動
 breadcrumb-title: Commerce與咖啡活動
 user-guide-description: Adobe Commerce和Coffee是一個影片庫，專家和同行可以在其中分享他們有關如何使用Adobe Commerce的想法和想法。
-source-git-commit: c68bc0fbcdefc563819294a6f9a2dc842951c4b2
+source-git-commit: d5584d9714f046ed32853edb7602123487ad9ac9
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '88'
 ht-degree: 5%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 5%
 + [概觀](overview.md)
 + 2024 {#2024}
    + [Ecommerce Essentials](2024/ecommerce-essentials.md)
+   + [旺季準備](2024/peak-season-prep.md)
    + [使用AI個人化電子商務體驗](2024/personalize-ecommerce.md)
    + [B2B電子商務的策略](2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md)
 + 2023 {#2023}
