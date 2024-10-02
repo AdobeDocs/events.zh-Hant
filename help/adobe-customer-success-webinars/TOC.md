@@ -2,9 +2,9 @@
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
 user-guide-description: Adobe客戶成功引導的網路研討會，旨在讓您最佳化對AdobeExperience Cloud的投資。 獲得寶貴的見解，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: 3ccafeec70790d62407a06e8dde89ae7ed5fd826
+source-git-commit: 2552636b85de07bec762083103a50b207798d71f
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,7 @@ ht-degree: 0%
    + [Workfront系統與群組管理監護的基礎知識](2024/workfront-admin-guardianship.md)
    + [Adobe Journey Optimizer Analysis快速入門](2024/getting-started-ajo-analysis.md)
    + [Real-time Customer Data Platform快速入門](2024/getting-started-rtcdp.md)
+   + [將AI用於客戶體驗](2024/ai-customer-experience.md)
    + [精簡團隊與Customer Journey Analytics](2024/lean-teams-cja.md)
    + [掌握Cookie和資料隱私權](2024/mastering-cookies-data-privacy.md)
    + [鎖定Personalization](2024/target-personalization.md)
