@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: eacc80e3015303ec35d1a3d115b3117b11fb868e
+source-git-commit: a738e2b749e1dc7511cb613539f3e3b675e3fe12
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '472'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [概觀](overview.md)
 + 集數{#episodes}
+   + [Ep. 41：使用Experience Platform中的同盟對象構成來協調對象](episodes/exl-live-episode-40-2024-10-24.md)
    + [Ep. 40： AI Bash — 在Adobe Experience Platform應用程式和行銷活動中釋放AI助理的力量](episodes/exl-live-episode-09-26-24.md)
    + [Ep. 39：您已準備好提升行動分析應用程式等級嗎？](episodes/exl-live-episode-09-18-24.md)
    + [Ep. 38： Summer Spotlight — 三個必須試用Adobe Journey Optimizer中的功能](episodes/exl-live-episode-08-28-24.md)
