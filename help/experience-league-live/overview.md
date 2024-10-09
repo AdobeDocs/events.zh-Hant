@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 5475b8048816bfded3e1fdfc9483553d29bed43a
+source-git-commit: aeef8e994a4c54f6884e3090fba028a9888abe4d
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '194'
 ht-degree: 3%
 
 ---
@@ -30,10 +30,10 @@ ht-degree: 3%
       <img alt="Experience LeagueLIVE 10月24日" src="episodes/assets/ep41-web-banner.png">
     </a>
     <div>
-      <strong>瞭解Federated Audience Composition如何提供使用Real-Time CDP和Journey Optimizer進行對象組織和啟用的完整方法。 </strong>
+      <a href="episodes/exl-live-episode-40-2024-10-24.md"><strong>瞭解Federated Audience Composition如何提供使用Real-Time CDP和Journey Optimizer進行對象組織和啟用的完整方法。 </strong></a>
       <br/><em>與Alyssa Espiritu、Abhijit Ghosh和Arthur Lacroix</em>
       <br/><em>2024年10月24日8:30 PT</em>
-      <br/><br/><a href="https://youtube.com/live/ghN-XWdBLvg">在YouTube上將節目加入書籤</a>
+      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241024.html">報名此活動</a>
     </div>
   </td>
 </tr>
