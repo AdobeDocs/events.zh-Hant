@@ -2,9 +2,9 @@
 user-guide-title: Adobe Experience League活動錄製
 user-guide-breadcrumb: Event Recordings
 user-guide-description: 強制使用Adobe企業產品上的事件錄製集合
-source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
+source-git-commit: 628e6811e60c0157d268acbd70435dff0ff0daf0
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '391'
 ht-degree: 11%
 
 ---
@@ -29,6 +29,7 @@ ht-degree: 11%
    + [Experience League LIVE](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
    + [Experience ManagerGEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
    + [Experience Manager版本總覽](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=zh-Hant)
+   + [GenStudio for Performance Marketing活動](https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html)
    + [向同儕學習](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
    + [Marketo和Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
    + [Experience Cloud技術研討會](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
@@ -81,6 +82,8 @@ ht-degree: 11%
       + [客戶資料管理對話](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=zh-Hant)
       + [Experience League即時](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [Experience Cloud技術研討會](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
+   + Adobe GenStudio for Performance Marketing {#agspm}
+      + [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html)
    + AdobeMarketo {#am}
       + [深度剖析](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
       + [向同儕學習](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
