@@ -4,7 +4,7 @@ description: 活動錄影的集合，重點說明如何使用Adobe的企業產�
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
 duration: 334
-source-git-commit: ac867e3983725543f7a63bcf7e0db1598e1de6c9
+source-git-commit: d2b255e29737bb6bd878108daa4d75906618b2ab
 workflow-type: tm+mt
 source-wordcount: '1091'
 ht-degree: 3%
@@ -363,12 +363,12 @@ ht-degree: 3%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html" title="GenStudio for Performance Marketing事件">GenStudio for Performance Marketing活動</a>
+              <a href="https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html" title="GenStudio for Performance Marketing事件">GenStudio for Performance Marketing活動</a>
           </p>
           <p class="is-size-6">
          探索即將舉辦和過去的網路研討會及活動，協助您掌握GenStudio for Performance Marketing。</p>
       </div>
-      <a href="https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+      <a href="https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
       </a>
     </div>
