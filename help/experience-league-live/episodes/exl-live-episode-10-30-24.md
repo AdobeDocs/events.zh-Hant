@@ -7,22 +7,20 @@ feature: Audiences
 event-cta-url-live: https://www.youtube.com/watch?v=xp3WRr4XmWM
 event-start-time: 2024-10-30 08:30-7
 event-guests: Sandra Hausmann, Don Huynh, Pravin Prakash Kumar
-source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
+source-git-commit: fe04eef54d34f1bcc0ce9d164d4d212096908f0a
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 # 揭示Adobe Journey Optimizer的內容卡
 
-**利用順暢、非侵入性的持續性訊息來革新您的參與策略**
+瞭解如何使用Adobe Journey Optimizer中的內容卡，透過順暢、非侵入性的持續性傳訊變革您的參與策略。
 
-在這場會議中，Don Huynh和Pravin Prakash Kumar介紹Content Cards，這是Adobe Journey Optimizer的全新多功能傳訊頻道，旨在增強使用者參與度並提升行動與網路應用程式之間的交談。 不同於傳統的推播和應用程式內通知，內容卡會在您的應用程式或網站中順暢地提供關鍵更新、促銷活動和訊息，確保不會造成使用者干擾。
+>[!VIDEO](https://video.tv.adobe.com/v/3436281/?quality=12&learn=on)
 
+**顯示詳細資料**：
 
-![experience league live](/help/experience-league-live/assets/WebBanner-Nov-6-2024.jpg)
-
-[註冊此活動](https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&amp;s_iid=&amp;sfid=&amp;acctid=&amp;ecp=)
-
+在這場會議中，Don Huynh和Pravin Prakash Kumar介紹並示範內容卡，這是Adobe Journey Optimizer的多功能訊息頻道，旨在增強使用者參與度並提升行動與網頁應用程式之間的對話。 不同於傳統的推播和應用程式內通知，內容卡會在您的應用程式或網站中順暢地提供關鍵更新、促銷活動和訊息，確保不會造成使用者干擾。
 
