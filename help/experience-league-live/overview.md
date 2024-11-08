@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
+source-git-commit: f08cc0e05763e738a03c508896a7122e121127a0
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 2%
@@ -101,3 +101,4 @@ ht-degree: 2%
 >[!TIP]
 >
 >如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
+
