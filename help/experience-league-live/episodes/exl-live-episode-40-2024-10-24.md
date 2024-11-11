@@ -7,9 +7,10 @@ feature: Audiences
 event-cta-url-live: https://youtube.com/live/ghN-XWdBLvg
 event-start-time: 2024-10-24 08:30-7
 event-guests: Doug Moore,Alyssa Espiritu,Abhijit Ghosh,Arthur Lacroix
-source-git-commit: aeef8e994a4c54f6884e3090fba028a9888abe4d
+exl-id: bfaacf49-a7a1-48a4-b3e4-52b9346b9f1b
+source-git-commit: 88f711a66ac62d97590d27adf5df1c7c5f6ebfef
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -18,9 +19,9 @@ ht-degree: 0%
 
 瞭解同盟受眾構成如何透過Real-Time CDP和Journey Optimizer提供全方位受眾組織與啟用方法。
 
-<img alt="Experience League直播 — 2024年10月24日" src="../episodes/assets/ep41-web-banner.png">
+>[!VIDEO](https://video.tv.adobe.com/v/3436457/?quality=12&learn=on)
 
-[註冊此活動](https://engage.adobe.com/ExpLeagueLive-241024.html)
+**若要繼續討論，請造訪我們在Experience League社群上的[討論](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976#M636){target="_blank"}。**
 
 **顯示詳細資料**：
 取得對企業資料倉儲的擴充存取權，以組成對象並強化品牌啟動和即時的體驗。
