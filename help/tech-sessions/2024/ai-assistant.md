@@ -7,13 +7,13 @@ doc-type: Event
 duration: 2813
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16367
-source-git-commit: 3f245f71cd4db5097b5a9e712114112451d899e4
+exl-id: 29400794-7b24-41e8-a3b5-e15337ecb62f
+source-git-commit: 745121bd9c9a88634a54c0bff67d913035378e83
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
-
 
 # 使用Adobe Experience Platform中的AI助理快速啟動您的生產力
 
@@ -28,10 +28,10 @@ ht-degree: 0%
 
 ## 網路研討會議程
 
-AI和AI助理概述。
-範例提示和Rachel的示範。
-關於信任和資料使用的討論。
-正在存取AI助理。
+* AI和AI助理概述。
+* 範例提示和示範。
+* 關於信任和資料使用的討論。
+* 正在存取AI助理。
 
 ## 要點
 
