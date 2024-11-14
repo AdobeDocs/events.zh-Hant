@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: f08cc0e05763e738a03c508896a7122e121127a0
+source-git-commit: 2abf56d9dea80f750aa77b002ede38e9d2aa96cb
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 2%
+source-wordcount: '178'
+ht-degree: 3%
 
 ---
 
@@ -26,15 +26,10 @@ ht-degree: 2%
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-11-13-24.md">
-      <img alt="Experience LeagueLIVE 10月24日" src="episodes/assets/WebBanner_nov13_2024.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-11-13-24.md"><strong>加入我們，進行令人興奮的即時會議，Adobe產品和工程專家將讓您快速瞭解我們最新的突破性創新 — AI Assistant for Audiences，即將在Adobe Real-Time CDP推出以強化受眾見解和動作。 </strong></a>
-      <br/><em>與Shivakumar Vaithyanathan、Ali Nazer和Horia Galatanu</em>
-      <br/><em>2024年11月13日9:00 PT</em>
-      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241113.html">報名此活動</a>
-    </div>
+<td style="vertical-align: top;">
+    請儘快返回本頁，以取得更多即將播出的Experience LeagueLIVE場次！
+    </br>
+    從此頁面左側的目錄中選擇前幾集。
   </td>
 </tr>
 </table>
