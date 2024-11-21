@@ -1,19 +1,19 @@
 ---
 title: 透過Adobe解決方案深入分析Edge Network和行動Personalization
-description: 瞭解Edge架構的運作方式，以及如何使用Assurance技術指引對實作進行偵錯，瞭解如何設定和設定Mobile SDK如何透過Target和AJO提供個人化體驗
+description: 瞭解如何使用Adobe解決方案來增強行動策略、改善使用者參與度並有效提供個人化體驗。
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3460
 last-substantial-update: 2024-09-04T00:00:00Z
 jira: KT-16137
-source-git-commit: 3ccafeec70790d62407a06e8dde89ae7ed5fd826
+exl-id: 235124fa-ff68-44d7-8e8e-70ce67a19134
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
-
 
 # 透過Adobe解決方案深入分析Edge Network和行動Personalization
 
@@ -41,6 +41,6 @@ ht-degree: 0%
 
 * 針對量身打造的功能實作特定擴充功能，例如同意、身分和Analytics。
 * 設定Campaign Classic和媒體傳訊的擴充功能。
-* 善用針對資料收集流程除錯、驗證和模擬的保證。
+* 運用Assurance進行資料收集流程的偵錯、驗證和模擬。
 
 專注於這些關鍵要務可讓企業增強其行動策略、改善使用者參與度，並使用Adobe解決方案有效提供個人化體驗。

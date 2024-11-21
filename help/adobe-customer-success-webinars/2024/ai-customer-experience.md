@@ -1,6 +1,6 @@
 ---
 title: RTCDP Insights — 運用AI提供客戶體驗
-description: 探索Adobe Real-time Customer Data Platform (RTCDP)如何運用人工智慧(AI)解決挑戰，為市場分析師提供增強的功能、建立預測傾向模型，並透過加速的深入分析最佳化客戶體驗。主要討論點： — 挑戰、解決方案和Customer AI的優點 — 高階架構 — Customer AI模型
+description: 探索Adobe Real-time Customer Data Platform (RTCDP)如何運用AI增強市場分析師的能力、建立預測性傾向模型，並透過加速的深入分析來最佳化客戶體驗，其中涵蓋如Customer AI挑戰、解決方案、優點、高階架構和AI模型等關鍵主題。
 solution: Real-Time Customer Data Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 2453
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-16269
-source-git-commit: 2552636b85de07bec762083103a50b207798d71f
+exl-id: fe4c4ebb-9f3c-4dc3-8bc7-529296346404
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
-
 
 # RTCDP深入分析：運用AI提供客戶體驗
 

@@ -1,6 +1,6 @@
 ---
 title: 瀏覽變更 — 有效變更管理的資深領導網路研討會
-description: 深入探討「變更管理」的細微差別，並提供策略性深入分析，協助您透過轉型歷程引導組織。重點討論點 — 瞭解如何根據首要組織目的和目標調整變更努力掌握與各利益相關者溝通變更的技巧實施有效的啟用策略和規劃瞭解主動策略以降低風險並確保平穩過渡
+description: 深入探討「變更管理」的細微差別，並提供策略性深入分析，協助您透過轉型歷程引導組織。
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3340
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15557
 exl-id: 6e71cc1e-f1bd-4c78-9fee-90ba0e0bce47
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---

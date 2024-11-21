@@ -1,6 +1,6 @@
 ---
 title: 從願景到價值 — AEP使用案例規劃
-description: 瞭解如何定義具有明確目標和成功因素的策略，以提供具影響力的客戶體驗，這些目標和成功因素包括1)符合業務結果和KPI、2)指引藍圖以實現可實現的價值，以及3)有效運用Adobe解決方案功能。
+description: 瞭解如何透過定義策略提供具影響力的客戶體驗，該策略具有符合業務結果和KPI的明確目標和成功因素，為藍圖提供資訊以實現可實現的價值，並有效利用Adobe解決方案功能。
 solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3022
 last-substantial-update: 2024-08-26T00:00:00Z
 jira: KT-16038
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: 1d30c85d-3e78-4cc1-94f5-0a5b63d20ab2
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '170'
 ht-degree: 1%
 
 ---
-
 
 # 從願景到價值：AEP使用案例計畫
 

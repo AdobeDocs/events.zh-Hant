@@ -1,6 +1,6 @@
 ---
 title: Workfront系統與群組管理監護的基礎知識
-description: 瞭解如何充分判斷您的Workfront執行個體中系統管理員與群組管理員的適當比例，以及為何放棄一些金鑰進入王國不一定像人們最初認為的那樣危險或恐怖。 這段影片將概述有關管理員人員配備、分配管理工作負載、維護企業執行個體中資料完整性和可擴充性的最佳實務，同時也會分享部分工作。
+description: 探索最佳實務，以判斷Workfront系統與群組管理員之間的適當平衡、分配工作負載及維護資料完整性，進而有效且安全地擴充您的企業。
 solution: Workfront
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3455
 last-substantial-update: 2024-08-27T00:00:00Z
 jira: KT-16037
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: b5997fdf-7e5c-4a96-8968-0898dd8f1ab7
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
-
 
 # Workfront系統與群組管理監護的基礎知識
 

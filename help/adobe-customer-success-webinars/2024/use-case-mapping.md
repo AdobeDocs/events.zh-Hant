@@ -1,6 +1,6 @@
 ---
 title: Real-Time CDP — 與解決方案功能對應的使用案例
-description: 此網路研討會探討探索使用案例並安排優先順序的重要方式，將其對應至特定RTCDP功能，並確保符合業務成果和價值。 關鍵討論點 — 使用案例RT-CDP可解決業務成果的特定問題並排定其優先順序​調整RT-CDP功能與排定優先順序的使用案例
+description: 此網路研討會探討探索使用案例並安排優先順序的重要方式，將其對應至特定的Real-time CDP功能，並確保符合業務成果和價值。
 solution: Real-Time Customer Data Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 2421
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15560
 exl-id: ebc38b82-52a7-4f8c-8ac7-f6e9f3fd2c55
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
