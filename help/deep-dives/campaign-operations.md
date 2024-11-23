@@ -1,5 +1,5 @@
 ---
-title: Adobe Marketo Engage Champion深入探討 — 使用Marketo API自動化及簡化行銷活動作業
+title: 使用Marketo API自動化及簡化Campaign作業
 description: 在這場深入探討中，瞭解如何使用Marketo API簡化您的行銷作業，我們將示範如何自動化重複工作，例如建立電子郵件電子報、追蹤計畫、合併重複專案、更新計畫成本和複製計畫，讓您專注在策略性計畫上。
 role: Admin, Developer, User
 level: Intermediate, Experienced
@@ -7,9 +7,9 @@ doc-type: Event
 duration: 4370
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16520
-source-git-commit: 27c53f62fe63e9b166b46cefa04abcdcc7823556
+source-git-commit: e54e738d55d4037f500d68597d2d29334ddddae9
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '339'
 ht-degree: 1%
 
 ---

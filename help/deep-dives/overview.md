@@ -3,9 +3,9 @@ title: 深入探討
 description: Deep Dives是一個影片庫，專家和同行可在這裡分享他們關於如何最佳使用AdobeMarketo的想法和想法。
 exl-id: 21242f9e-8084-4482-8461-ba8a9e2fbd26
 duration: 15
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: e54e738d55d4037f500d68597d2d29334ddddae9
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '920'
 ht-degree: 0%
 
 ---
@@ -16,19 +16,19 @@ ht-degree: 0%
 
 <!-- CARDS
 
-* activity-log.md
-* admin-console.md
-* api.md
-* campaign-operations.md
-* certification.md
-* email-nurture.md
-* executable-campaigns.md
-* global-marketing.md
-* inheriting-an-instance.md
-* lead-lifecycles.md
-* pmcf-fields.md
-* small-team-instance.md
-* webhooks.md
+* activity-log.md {cta  = Watch event}
+* admin-console.md {cta  = Watch event}
+* api.md {cta  = Watch event}
+* campaign-operations.md {cta  = Watch event}
+* certification.md {cta  = Watch event}
+* email-nurture.md {cta  = Watch event}
+* executable-campaigns.md {cta  = Watch event}
+* global-marketing.md {cta  = Watch event}
+* inheriting-an-instance.md {cta  = Watch event}
+* lead-lifecycles.md {cta  = Watch event}
+* pmcf-fields.md {cta  = Watch event}
+* small-team-instance.md {cta  = Watch event}
+* webhooks.md {cta  = Watch event}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -37,7 +37,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="activity-log.md" title="在活動記錄檔中記錄複雜程式" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427149/?format=jpeg&nocache=1732319262209" alt="在活動記錄檔中記錄複雜程式"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427149/?format=jpeg&nocache=1732325051669" alt="在活動記錄檔中記錄複雜程式"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -50,7 +50,7 @@ ht-degree: 0%
                     <p class="is-size-6">與Beth Massura、Jimmy Spencer和版主Cory Bayless一起參加這場Deep Dive研討會，以探索Marketo中複雜多分支流程的創新疑難排解技術，使用活動記錄備註來追蹤流程的開始、結束、失敗和成功位置。</p>
                 </div>
                 <a href="activity-log.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
         </div>
@@ -60,7 +60,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="admin-console.md" title="準備Marketo EngageAdobe身分" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1732319262217" alt="準備Marketo EngageAdobe身分"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1732325051675" alt="準備Marketo EngageAdobe身分"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -73,7 +73,7 @@ ht-degree: 0%
                     <p class="is-size-6">參加此培訓課程，為將Marketo Engage訂閱移轉至Adobe身分識別做好準備，並專注於使用者移轉、關鍵動作和管理員的重要資源，提供導覽移轉控制檯和瞭解每個里程碑變更的指南。</p>
                 </div>
                 <a href="admin-console.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
         </div>
@@ -83,7 +83,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="api.md" title="API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1732319262206" alt="API"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1732325051686" alt="API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -96,17 +96,17 @@ ht-degree: 0%
                     <p class="is-size-6">加入我們，充分發掘AdobeMarketo API的潛力，從發出第一個API呼叫到運用大量API進行匯入/匯出任務、探索Webhook與API，以及學習資料安全性和雲端整合的最佳實務，還有無限可能革命您的行銷策略。</p>
                 </div>
                 <a href="api.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Marketo Engage Champion Deep Dive - Automating & Streamlining Campaign Operations Using the Marketo API">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Automating & Streamlining Campaign Operations Using the Marketo API">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="campaign-operations.md" title="Adobe Marketo Engage Champion深入探討 — 使用Marketo API自動化及簡化行銷活動作業" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440396/?format=jpeg&nocache=1732319262212" alt="Adobe Marketo Engage Champion深入探討 — 使用Marketo API自動化及簡化行銷活動作業"
+                    <a href="campaign-operations.md" title="使用Marketo API自動化及簡化Campaign作業" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440396/?format=jpeg&nocache=1732325051684" alt="使用Marketo API自動化及簡化Campaign作業"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -114,12 +114,12 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="campaign-operations.md" target="_blank" rel="referrer" title="Adobe Marketo Engage Champion深入探討 — 使用Marketo API自動化及簡化行銷活動作業">Adobe Marketo Engage Champion深入探討 — 使用Marketo API自動化及簡化行銷活動作業</a>
+                        <a href="campaign-operations.md" target="_blank" rel="referrer" title="使用Marketo API自動化及簡化Campaign作業">使用Marketo API自動化及簡化行銷活動作業</a>
                     </p>
                     <p class="is-size-6">在這場深入探討中，瞭解如何使用Marketo API簡化您的行銷作業，我們將示範如何自動化重複工作，例如建立電子郵件電子報、追蹤計畫、合併重複專案、更新計畫成本和複製計畫，讓您專注在策略性計畫上。</p>
                 </div>
                 <a href="campaign-operations.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
         </div>
@@ -129,7 +129,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="certification.md" title="自我投資 — Adobe[!DNL Marketo Engage]認證" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416760/?format=jpeg&nocache=1732319262212" alt="自我投資 — Adobe[!DNL Marketo Engage]認證"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416760/?format=jpeg&nocache=1732325051678" alt="自我投資 — Adobe[!DNL Marketo Engage]認證"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -142,7 +142,7 @@ ht-degree: 0%
                     <p class="is-size-6">想知道認證如何能提升您的行銷事業嗎？ 加入Adobe Marketo Engage Champions，分享他們在學習、準備和參加考試以成為Marketo認證專家或架構師方面的經驗和秘訣！</p>
                 </div>
                 <a href="certification.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
         </div>
@@ -152,7 +152,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="email-nurture.md" title="Adobe[!DNL Marketo Engage] Champion Deep Dive電子郵件Nurture" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418903/?format=jpeg&nocache=1732319262219" alt="Adobe[!DNL Marketo Engage] Champion Deep Dive電子郵件Nurture"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418903/?format=jpeg&nocache=1732325051696" alt="Adobe[!DNL Marketo Engage] Champion Deep Dive電子郵件Nurture"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -165,7 +165,7 @@ ht-degree: 0%
                     <p class="is-size-6">在這場會議中釋放潛在客戶培養和滴水式行銷的潛力，您將瞭解建立有效策略的關鍵因素、探索成功的範例，並探索如何在您的組織中應用這些技術以實現您的獨特目標。</p>
                 </div>
                 <a href="email-nurture.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
         </div>
@@ -175,7 +175,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="executable-campaigns.md" title="可執行檔行銷活動 — 瞭解可執行檔如何提升效率和影響力" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427704/?format=jpeg&nocache=1732319262232" alt="可執行檔行銷活動 — 瞭解可執行檔如何提升效率和影響力"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427704/?format=jpeg&nocache=1732325051692" alt="可執行檔行銷活動 — 瞭解可執行檔如何提升效率和影響力"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -188,7 +188,7 @@ ht-degree: 0%
                     <p class="is-size-6">與Chris Willis、Courtny Edwards-Jones和Jane Musatova一起加入這場AdobeChampion深入探討，瞭解Marketo中的可執行行銷活動如何簡化流程、確保資料準確性，以及透過實務範例將複雜工作流程自動化，並專注於儘量減少錯誤和積壓。</p>
                 </div>
                 <a href="executable-campaigns.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
         </div>
@@ -198,7 +198,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="global-marketing.md" title="透過Marketo Engage開啟全球行銷 — Adobe Champion深入探討 — 2024年8月" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433245/?format=jpeg&nocache=1732319262224" alt="透過Marketo Engage開啟全球行銷 — Adobe Champion深入探討 — 2024年8月"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433245/?format=jpeg&nocache=1732325051690" alt="透過Marketo Engage開啟全球行銷 — Adobe Champion深入探討 — 2024年8月"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -211,7 +211,7 @@ ht-degree: 0%
                     <p class="is-size-6">參加8月的深入探討，透過Marketo Engage解鎖全球行銷，內容涵蓋資料結構、法律規範、具有區段的行銷活動支援、代碼片段、動態內容等，深入分析如何為多個品牌和執行個體最佳化工作區與分割區。</p>
                 </div>
                 <a href="global-marketing.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
         </div>
@@ -221,7 +221,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="inheriting-an-instance.md" title="繼承執行個體" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420422/?format=jpeg&nocache=1732319262229" alt="繼承執行個體"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420422/?format=jpeg&nocache=1732325051698" alt="繼承執行個體"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -234,7 +234,7 @@ ht-degree: 0%
                     <p class="is-size-6">不論是混亂還是運作良好的機器，繼承Marketo例項都可能令人望而生畏。 加入我們的Marketo Champions，他們將分享重要提示和最佳實務，協助您導覽和最佳化新執行個體，確保順利轉換和有效管理。</p>
                 </div>
                 <a href="inheriting-an-instance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
         </div>
@@ -244,7 +244,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="lead-lifecycles.md" title="潛在客戶生命週期" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421711/?format=jpeg&nocache=1732319262227" alt="潛在客戶生命週期"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3421711/?format=jpeg&nocache=1732325051700" alt="潛在客戶生命週期"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -257,7 +257,7 @@ ht-degree: 0%
                     <p class="is-size-6">瞭解如何透過策略性銷售機會生命週期模型，在此深入探討中有效吸引及培育銷售機會，並由Marketo Champion提供建議，協助您在繼承、改良或設計新模型時避免常見陷阱。</p>
                 </div>
                 <a href="lead-lifecycles.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
         </div>
@@ -267,7 +267,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="pmcf-fields.md" title="運用PMCF欄位進行擴充" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430531/?format=jpeg&nocache=1732319262235" alt="運用PMCF欄位進行擴充"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430531/?format=jpeg&nocache=1732325051705" alt="運用PMCF欄位進行擴充"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -280,7 +280,7 @@ ht-degree: 0%
                     <p class="is-size-6">瞭解如何善用Marketo中的方案會員自訂欄位(PMCF)來獲得擴充能力，包括資料管理、個人化通訊和準確報告的最佳實務，如Adobe Marketo Engage Champion深入分析影片中所述。</p>
                 </div>
                 <a href="pmcf-fields.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
         </div>
@@ -290,7 +290,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="small-team-instance.md" title="瞭解小型團隊如何最大化其Adobe[!DNL Marketo Engage]執行個體" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3417670/?format=jpeg&nocache=1732319262237" alt="瞭解小型團隊如何最大化其Adobe[!DNL Marketo Engage]執行個體"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3417670/?format=jpeg&nocache=1732325051707" alt="瞭解小型團隊如何最大化其Adobe[!DNL Marketo Engage]執行個體"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -303,7 +303,7 @@ ht-degree: 0%
                     <p class="is-size-6">與小型團隊或單一團隊討論如何支援Adobe[!DNL Marketo Engage]的執行個體。</p>
                 </div>
                 <a href="small-team-instance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
         </div>
@@ -313,7 +313,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="webhooks.md" title="Adobe Marketo Engage Champion深入探討 — 使用Webhook傳輸資料" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428687/?format=jpeg&nocache=1732319262240" alt="Adobe Marketo Engage Champion深入探討 — 使用Webhook傳輸資料"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428687/?format=jpeg&nocache=1732325051710" alt="Adobe Marketo Engage Champion深入探討 — 使用Webhook傳輸資料"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -326,7 +326,7 @@ ht-degree: 0%
                     <p class="is-size-6">瞭解如何使用Marketo中的Webhook與Darshil Shah和Josh Arrington有效傳輸資料，涵蓋結構化資料處理、錯誤管理、驗證方法，以及John Grundy主持的CRM整合和電子商務等實際使用案例。</p>
                 </div>
                 <a href="webhooks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
         </div>
