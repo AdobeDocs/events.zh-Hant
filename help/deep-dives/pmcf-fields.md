@@ -1,8 +1,8 @@
 ---
 title: 運用PMCF欄位進行擴充
-description: 這討論在Marketo中使用程式成員自訂欄位(PMCF)來擴充性。 課程內容涵蓋PMCF的定義、用途、規則及使用案例。 使用PMCF變更資料、參考資訊和追蹤獨特事件資料（例如網路研討會的UTM引數）的最佳做法。 整體而言，PMCF是行銷人員在Marketo中管理和擴充複雜行銷方案的寶貴工具。
+description: 瞭解如何善用Marketo中的方案會員自訂欄位(PMCF)來獲得擴充能力，包括資料管理、個人化通訊和準確報告的最佳實務，如Adobe Marketo Engage Champion深入分析影片中所述。
 solution: Marketo Engage
-feature-set: "Marketo Engage"
+feature-set: Marketo Engage
 feature: Field Management
 role: Admin, Developer, User
 level: Intermediate, Experienced
@@ -10,13 +10,13 @@ doc-type: Event
 duration: 3059
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15784
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+exl-id: 9fd094c3-d6ad-410e-aeae-1b6bf3f012bd
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
-
 
 # 運用PMCF欄位進行擴充
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 * 允許方案層級的內容資料。
 * 限製為每個程式建立20個自訂欄位。
 * 資料匯入方法：清單匯入、表單填寫、流程步驟。
-* 與Salesforce促銷活動成員同步以保持資料一致性。
+* 與Salesforce促銷活動成員同步，以保持資料一致性。
 * 用於電子郵件、登陸頁面和警報中，以進行個人化通訊。
 * 增強計畫特定資料的追蹤、分析和報告功能。
 

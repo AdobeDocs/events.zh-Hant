@@ -1,6 +1,6 @@
 ---
 title: Adobe Marketo Engage Champion深入探討 — 使用Webhook傳輸資料
-description: 有時候，您不需要建立、測試和部署API的整個繁瑣程式。 反之，您可以自助使用webhook，將各種資料傳輸到CRM或其他整合系統中。 加入Darshil Shah和Josh Arrington的行列，瞭解如何使用此功能並快速推動效率！ 由John Grundy主持。
+description: 瞭解如何使用Marketo中的Webhook與Darshil Shah和Josh Arrington有效傳輸資料，涵蓋結構化資料處理、錯誤管理、驗證方法，以及John Grundy主持的CRM整合和電子商務等實際使用案例。
 feature: Webhooks, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -9,9 +9,9 @@ duration: 3185
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15385
 exl-id: d8e22e01-724a-4b0c-855b-0adb29e98d30
-source-git-commit: 0dfaa269fd25df0845c4eeee442fb2859492b543
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---

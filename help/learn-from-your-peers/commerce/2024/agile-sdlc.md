@@ -1,6 +1,6 @@
 ---
 title: 在Agile SDLC中著重於通訊、需求和測試的方法
-description: 透過Agile Software Development Life Cycle (SDLC)作法，深入探討簡化電子商務。  瞭解需求分析和規劃、管理錯誤和功能積壓的策略、大型計畫的專案規劃、適用於各個階段的測試程式的提示，以確保開發強大且可靠的電子商務網站，以及促進有效溝通的提示。 強調透明度和責任感是成功執行專案的關鍵驅動因素。您可以在此處存取投影片。
+description: 透過Agile SDLC實務來簡化電子商務開發，包括需求分析、待辦專案管理、專案規劃、測試策略，以及促進透明、負責任的溝通，以成功執行。
 solution: Commerce
 feature-set: Commerce
 feature: Best Practices
@@ -13,9 +13,9 @@ last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15011
 thumbnail: 3427501.jpeg
 exl-id: 2bb76c43-fda5-4ebb-832e-4ab54166076a
-source-git-commit: a0a222e6636182df97d49c5fce629bf25381394c
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---

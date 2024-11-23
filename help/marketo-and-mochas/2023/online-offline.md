@@ -1,6 +1,6 @@
 ---
 title: 線上與離線頻道
-description: 深入瞭解管道和子管道的策略設定、線上和離線管道管理的說明概覽、運作方式，此會議會展示產品內的示範，並檢閱歸因專家使用的最佳實務
+description: 加入Adobe的行銷自動化業務顧問Kate Colbert和Elizabeth Lundberg的行列，深入探討90分鐘的Marketo Measure Attribution線上和離線管道最佳化工作，其中包括策略設定、最佳實務和即時問答。
 solution: Marketo Measure
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -10,9 +10,9 @@ jira: KT-13750
 thumbnail: 3422363.jpeg
 exl-id: d11e2351-81d3-42ae-baf2-dc9b487cc9b5
 duration: 5434
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 客戶歷程管理 — 生命週期模式
-description: 涵蓋從一開始就正確設定生命週期、在購買歷程中正確劃分人員、在產品內展示生命週期模型工具，以及各種有助於分析客戶區段成效的報告和分析。
+description: 探索透明度如何建立Cynthia Chang和James Leedom的行銷信譽，讓他們共用生命週期設定、歷程細分的策略，並展示Marketo Engage的生命週期模型工具、報告和分析工具。
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +10,9 @@ thumbnail: 3420763.jpeg
 event-start-time: 2023-6-30 08:30-8
 exl-id: e31120ae-3bdd-4974-953b-1f007c6962a8
 duration: 3772
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---

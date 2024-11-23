@@ -1,6 +1,6 @@
 ---
 title: 旺季準備
-description: Corey Gelato深入探討旺季最佳實務和策略，瞭解如何在網站上成功且有效地推廣您的商品和/或服務，並在一年中的任何時候於旺季保持競爭力。 在展示功能（包括內容測試和預覽、促銷活動、目錄和購物車價格規則等）後，Cory會在即時問答工作階段中回答問題。
+description: 加入Corey Gelato的行列，探索旺季策略，包括促銷活動、內容測試和價格規則，以及即時示範和專家秘訣，協助您的電子商務網站全年保持競爭力。
 solution: Commerce
 feature-set: Commerce
 feature: Promotions/Events, Catalog Management, Catalog Service, Checkout, Best Practices, Price Rules
@@ -12,9 +12,9 @@ jira: KT-13992
 thumbnail: 3424390.jpeg
 exl-id: 48986967-b794-4dc9-8a17-d38800ae90aa
 duration: 3580
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---

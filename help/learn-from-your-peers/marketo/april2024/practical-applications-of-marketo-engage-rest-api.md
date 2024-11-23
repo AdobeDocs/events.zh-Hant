@@ -1,6 +1,6 @@
 ---
 title: 釋放強大的工作流程自動化 — Marketo Engage REST API的實際應用
-description: 探索Marketo EngageREST API的強大功能，讓您能夠簡化行銷運作工作流程、減少手動勞動，並騰出時間進行創收活動。 使用REST API可讓您運用Zapier等自動化工具來觸發自動化工作流程和Python等程式語言，以大量執行動作。在此網路研討會中，您將： — 瞭解Marketo EngageREST API是什麼、如何建立您的第一個API使用者，以及如何監控不同使用者的API使用情況。 — 瞭解REST API如何在Zapier等工具和Python等程式語言中使用。 — 從實際使用案例獲得靈感，瞭解如何使用REST API來簡化典型行銷運作工作流程，例如合併銷售機會、建立UTM追蹤計畫以及擷取活動資料。
+description: 解鎖Marketo EngageREST API自動化行銷工作流程的潛力、整合Zapier之類的工具、運用Python進行大量動作，並簡化潛在客戶合併、UTM追蹤和活動資料擷取等工作。
 feature: REST API
 role: Admin
 level: Beginner, Intermediate
@@ -9,9 +9,9 @@ duration: 2447
 last-substantial-update: 2024-04-19T00:00:00Z
 jira: KT-15347
 exl-id: bdfc3a26-0af1-4f39-b9ed-2842fecea17c
-source-git-commit: 18df838cce497b57c9bee0229bd2e7fc2ffde999
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---

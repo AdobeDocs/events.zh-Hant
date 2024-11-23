@@ -9,9 +9,9 @@ duration: 1109
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15303
 exl-id: 72fc12aa-05fe-4856-9c34-bb61f6f3a295
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 27c53f62fe63e9b166b46cefa04abcdcc7823556
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 ## 有關Power Automate的更多詳細資料
 
 * Power Automate的目的在於提供低程式碼/無程式碼解決方案，讓非開發人員能夠以Microsoft術語建立複雜的工作流程或流程。
-* 它可讓使用者運用預先建立的聯結器來與數百種其他系統和應用程式合作，以自動化工作與流程。 Power Automate可讓使用者透過圖形拖放設定，讀取及寫入資料、啟動程式及使用這些聯結器執行動作。 資料會自動公開，並可用於後續的觸發器和動作。
-* 此外&#x200B;，Power Automate可讓使用者在Adobe Acrobat Sign中建立和使用自動化工作流程，而不需要IT人員參與。
+* 它可讓使用者利用預先建立的聯結器來與數百種其他系統和應用程式搭配運作，以自動化工作與流程。 Power Automate可讓使用者透過圖形拖放設定，讀取及寫入資料、啟動程式及使用這些聯結器執行動作。 資料會自動公開，並可供後續觸發器和動作使用。
+* 此外&#x200B;，Power Automate可讓使用者在Adobe Acrobat Sign中建立和使用自動化工作流程，而不需牽涉IT人員。
 * 這些自動化工作流程可提高效率、生產力並減少錯誤。
-* Power Automate也允許非管理員建立工作流程，為使用者提供一個平台，藉由建立流程來連線不同的應用程式和服務，以自動化工作和流程。 它提供廣泛的觸發器和動作，可用於根據特定業務需求建立自訂工作流程。
+* Power Automate也允許非管理員建立工作流程，為使用者提供一個平台，藉由建立流程來連線不同的應用程式和服務，以自動化任務和流程。 它提供廣泛的觸發器和動作，可用於根據特定業務需求建立自訂工作流程。

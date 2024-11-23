@@ -1,6 +1,6 @@
 ---
 title: 透過Marketo Engage開啟全球行銷 — Adobe Champion深入探討 — 2024年8月
-description: 您的組織已準備好運用Marketo Engage支援多種語言、國家、業務單位及/或產品，並且您想要沿著正確的軌道開始此轉型。 參加八月的深入探討，取得有關啟動、維護及報告全球行銷計畫等複雜專案的全面指南。 我們將說明如何使用工作區與分割區來建構您的資料與執行個體、如何在全球各地遵守各種法律規定，以及如何使用區段、代碼片段、動態內容等支援您的行銷活動。
+description: 參加8月的深入探討，透過Marketo Engage解鎖全球行銷，內容涵蓋資料結構、法律規範、具有區段的行銷活動支援、代碼片段、動態內容等，深入分析如何為多個品牌和執行個體最佳化工作區與分割區。
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3351
 last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-16119
-source-git-commit: 6109b20829c1e50664eafb5bc674b781ec26611a
+exl-id: 297b9baf-95c9-4154-be96-75455100b4d8
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
-
 
 # 透過Marketo Engage開啟全球行銷 — Adobe Champion深入探討 — 2024年8月
 

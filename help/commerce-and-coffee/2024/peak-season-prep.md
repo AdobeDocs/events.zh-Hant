@@ -1,6 +1,6 @@
 ---
 title: Commerce與咖啡 — 旺季準備
-description: 您應瞭解的所有事項，以便在一年中的任何時間妥善準備您的網站以迎接旺季。 有效的策略，不僅要保持競爭力，更要超越競爭對手。 瞭解如何最佳化網站效能、管理詳細目錄，以及主動提升客戶支援。 科里還將介紹規劃有效行銷活動的最佳實務，這些行銷活動可促進轉換、完成訂單，並透過分析和報告旺季後的報告來分析您的行銷活動。
+description: Corey Gelato的研討會透過最佳化網站效能、管理庫存、增強客戶對AI工具的參與度以及運用季後分析以改善保留率和忠誠度，為電子商務企業提供在旺季期間表現出色的策略。
 solution: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3436
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16235
-source-git-commit: d5584d9714f046ed32853edb7602123487ad9ac9
+exl-id: 8dc72811-74db-485a-ac25-e2647d0848f7
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
-
 
 # Commerce與咖啡：旺季準備
 

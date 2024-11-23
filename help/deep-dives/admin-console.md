@@ -1,6 +1,6 @@
 ---
 title: 準備Marketo EngageAdobe身分
-description: 有關即將進行之Adobe Admin Console移轉的專屬訓練。 此會議將採用「訓練訓練員」的形式，以便您能學習內容，並教育您的章節瞭解此即將進行的變更。
+description: 參加此培訓課程，為將Marketo Engage訂閱移轉至Adobe身分識別做好準備，並專注於使用者移轉、關鍵動作和管理員的重要資源，提供導覽移轉控制檯和瞭解每個里程碑變更的指南。
 solution: Marketo
 feature: Administration
 role: Admin, Developer, Leader, User
@@ -10,9 +10,9 @@ duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
 exl-id: 811852d0-9900-43cc-b6d8-29c8b2fef40c
-source-git-commit: 7358d62eee1468e65b4ec073de1344a54dac41ce
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: 可執行檔行銷活動 — 瞭解可執行檔如何提升效率和影響力
-description: 該會議是為 Marketo 管理員和行銷活動營運專業人員量身定制，重點是了解和部署可執行的行銷活動，以增加行銷活動和計劃的價值、提高效率並推動成長。
+description: 與Chris Willis、Courtny Edwards-Jones和Jane Musatova一起加入這場AdobeChampion深入探討，瞭解Marketo中的可執行行銷活動如何簡化流程、確保資料準確性，以及透過實務範例將複雜工作流程自動化，並專注於儘量減少錯誤和積壓。
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,10 +9,10 @@ last-substantial-update: 2024-03-07T00:00:00Z
 jira: KT-15098
 thumbnail: 3427704.jpeg
 exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
-source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 6%
+source-wordcount: '479'
+ht-degree: 0%
 
 ---
 
