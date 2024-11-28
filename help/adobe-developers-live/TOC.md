@@ -2,9 +2,9 @@
 user-guide-title: Adobe Developers Live 活動
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Adobe Developers Live Content 活動錄影集合
-source-git-commit: 8770c8172ee90524079efc65aec7e129f1d1d031
+source-git-commit: a5b6c2c3150fcc98686fe74d68f186bfe4e1befa
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '911'
 ht-degree: 4%
 
 ---
@@ -15,10 +15,34 @@ ht-degree: 4%
 + [概觀](overview.md)
 + 2024 {#2024}
    + 十一月{#nov2024}
-      + [將AI和Personalization帶入AEM EDS](2024/nov/ai-and-personalization.md)
-      + [AEM Sites的Extension Manager](2024/nov/extension-manager.md)
-      + [與Web元件HTML](2024/nov/html-and-web-components.md)
-      + [為Headless實作策劃Commerce API](2024/nov/commerce-api-headless.md)
+      + [主旨](2024/nov/keynote.md)
+      + [AEM Cloud Service] {#aem-cloud-service}
+         + [AEM API和事件](2024/nov/apis-eventing.md)
+         + [將AI和Personalization帶入AEM EDS](2024/nov/ai-and-personalization.md)
+         + [AEM CS中的CDN與WAF設定](2024/nov/cdn-waf-aemcs.md)
+         + [魔術按鈕及其建置方式](2024/nov/magic-buttons.md)
+         + [快速開發環境](2024/nov/rapid-development-environments.md)
+      + [AEM Sites] {#aem-sites}
+         + [Edge Delivery Services的真實歷程](2024/nov/journey-to-edge-delivery-services.md)
+         + [Edge Delivery Services — 一年內，六個方面更好](2024/nov/edge-delivery-services.md)
+         + [AEM Sites的Extension Manager](2024/nov/extension-manager.md)
+         + [Adobe Experience Manager Sites如何運用GenAI](2024/nov/aem-sites-gen-ai.md)
+         + [與Web元件HTML](2024/nov/html-and-web-components.md)
+         + [200個戰壕的故事表](2024/nov/tales-200-trenches.md)
+         + [Universal Editor、AEM Authoring &amp; Edge Delivery Services](2024/nov/universal-editor-eds.md)
+      + [AEM Assets] {#aem-assets}
+         + [Assets移轉藍圖](2024/nov/asset-migration-blueprint.md)
+         + [效能傳遞的最佳實務](2024/nov/performant-delivery.md)
+         + [搭配使用Dynamic Media與Open API](2024/nov/dynamic-media-open-api.md)
+      + [AEM Forms] {#aem-forms}
+         + [Edge上的Forms！](2024/nov/forms-on-the-edge.md)
+      + [Cloud Manager] {#cloud-manager}
+         + [使用Cloud Manager簡化DevOps](2024/nov/dev-ops-cloud-manager.md)
+      + [Adobe Commerce] {#commerce}
+         + [Adobe Commerce搭配整合入門套件](2024/nov/back-office-integrations.md)
+         + [Commerce與AEM Assets和GenAI](2024/nov/commerce-aem-assets-gen-ai.md)
+         + [Edge Delivery Services和Adobe Commerce](2024/nov/commerce-storefront-eds.md)
+         + [為Headless實作策劃Commerce API](2024/nov/commerce-api-headless.md)
 + 2023 {#2023}
    + 十一月{#nov2023}
       + [開啟主題演講](2023/november/keynote.md)
