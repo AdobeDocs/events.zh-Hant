@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Adobe Analytics]檔案任務可能'
+title: '[!DNL Adobe Analytics]個檔案任務（可能）'
 description: 觀看此會議，瞭解檔案為何對成功至關重要、最佳實務、提示和訣竅，以及您可採取的一些檔案化 [!DNL Adobe Analytics] 執行個體的方法。 2022 年 6 月
 role: User
 doc-type: Event

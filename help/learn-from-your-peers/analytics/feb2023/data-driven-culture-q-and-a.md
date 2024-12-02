@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Adobe Analytics]建立資料導向文化特性後續追蹤問答'
+title: '[!DNL Adobe Analytics]建立資料導向文化後續問答'
 description: 在 [!DNL Adobe Analytics] 建立資料導向文化網路研討會期間，全球有 [!DNL Adobe Analytics] 位使用者問了超過35個問題。 由於我們的 [!DNL Adobe Analytics] 冠軍在即時問答中無法回答所有這些問題，我們帶他們回來並主持後續問答課程，以回答您的問題並分享更多專業知識。
 role: User
 doc-type: Event
