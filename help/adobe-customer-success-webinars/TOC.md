@@ -2,9 +2,9 @@
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
 user-guide-description: Adobe客戶成功引導的網路研討會，旨在讓您最佳化對AdobeExperience Cloud的投資。 獲得寶貴的見解，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 0%
 + [Adobe客戶成功網路研討會](overview.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
+   + [Adobe Target的AI導向Personalization](2024/ai-personalization.md)
    + [Adobe Workfront — 精益團隊](2024/workfront-lean-teams.md)
    + [Adobe Workfront精通](2024/workfront-mastery.md)
    + [AEM編寫重要概念](2024/aem-authoring-concepts.md)
@@ -22,6 +23,7 @@ ht-degree: 0%
    + [針對客戶使用案例的AEP應用程式服務整合](2024/aep-apps-services-integrations.md)
    + [AEP使用案例計畫](2024/aep-use-case-planning.md)
    + [AI賦權文字撰寫](2024/ai-copywriting.md)
+   + [基本至中繼分析功能](2024/basic-to-intermediate-analysis-capabilities.md)
    + [資料流優先順序](2024/data-stream-prioritization.md)
    + [Edge Network與行動Personalization](2024/edge-network-mobile-personalization.md)
    + [有效的變更管理](2024/effective-change-management.md)
@@ -31,16 +33,17 @@ ht-degree: 0%
    + [Adobe Journey Optimizer Analysis快速入門](2024/getting-started-ajo-analysis.md)
    + [Real-time Customer Data Platform快速入門](2024/getting-started-rtcdp.md)
    + [將AI用於客戶體驗](2024/ai-customer-experience.md)
+   + [超個人化](2024/hyperpersonalization.md)
+   + [Journey Optimizer Mobile功能](2024/journey-optimizer-mobile-capabilities.md)
    + [精簡團隊與Customer Journey Analytics](2024/lean-teams-cja.md)
    + [掌握Adobe Admin Console](2024/adobe-admin-console.md)
    + [掌握Cookie和資料隱私權](2024/mastering-cookies-data-privacy.md)
-   + [鎖定Personalization](2024/target-personalization.md)
-   + [超個人化](2024/hyperpersonalization.md)
-   + [Journey Optimizer Mobile功能](2024/journey-optimizer-mobile-capabilities.md)
+   + [內容供應鏈的組織整備](2024/organizational-readiness-content-supply-chain.md)
    + [Real-time Customer Data Platform與Marketo整合](2024/aep-marketo-integration.md)
    + [Real-time Customer Data Platform遷移整備](2024/rtcdp-migration-readiness.md)
    + [策略領導力](2024/strategic-leadership.md)
    + [簡化驗證](2024/streamline-authentication.md)
+   + [鎖定Personalization](2024/target-personalization.md)
    + [將資料變成動作](2024/turning-data-into-action.md)
    + [解鎖Edge服務的強大功能](2024/edge-delivery-services.md)
    + [將使用案例對應至解決方案功能](2024/use-case-mapping.md)

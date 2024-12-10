@@ -7,13 +7,13 @@ doc-type: Event
 duration: 3391
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16628
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+exl-id: eaa9642c-c460-410b-9af5-3ff42e50ef89
+source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
 
 ---
-
 
 # 測量的策略力量：將資料轉化為行動
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 * 讓利害關係人定期參與提供他們的輸入，可確保熟悉擷取的資料。
 * 讓利害關係人能夠自信地自行撰寫報告和做出決策，減少猶豫。
 
-**信任
+**信任**
 
 * 信任是透過主動參與、透明度、資料控管和品質控制所建立的。
 * 利害關係人的協調和參與戰略規劃至關重要。
@@ -52,4 +52,3 @@ ht-degree: 0%
 * 為新使用者和非分析人員角色組織資源。
 * 定期舉辦快速提示課程和知識分享課程。
 * 使用電子報和內部通訊，以分享見解和更新。
-
