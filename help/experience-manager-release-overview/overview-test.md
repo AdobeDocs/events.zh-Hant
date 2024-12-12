@@ -5,7 +5,7 @@ user-guide-breadcrumb: AEM Release Events
 duration: 91
 hidefromtoc: true
 exl-id: eb9580ae-84c9-4c68-84c3-007e67b91a92
-source-git-commit: 49b386b6729419261265a3d022a87df77f294137
+source-git-commit: ee8aede121140f6a4ce9f5da2656b3e3cc0e0137
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops" title="2024.11.0 AEM版本總覽" target="_blank" rel="referrer">
+                    <a href="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops&autoplay=true" title="2024.11.0 AEM版本總覽" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="2024/assets/2024-11-play-button.png" alt="2024.11.0 AEM版本總覽"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -86,7 +86,7 @@ ht-degree: 0%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-10-0.md" target="_blank" rel="referrer" title="2024.10.0 AEM版本總覽">2024.10.0 AEM版本總覽</a>
                     </p>
-                    <p class="is-size-6">此版本中的功能專注於Experience Manager Assets和Cloud Service創新，並包括下列專案：AEM Assets新定價和封裝搭配AEM Assets Assets Ultimate與Asset PrimeAEMCloud Service將記錄檔轉送到更多目的地企業使用者的Pipeline免費URL重新導向​RDE支援Config Pipeline YAML​ Interactive AEM Developer Console</p>
+                    <p class="is-size-6">此發行版本中的功能專注於Experience Manager Assets和Cloud Service創新，並包括下列專案：AEM Assets新定價和封裝搭配AEM Assets與Assets Ultimate和Asset PrimeAEMCloud Service將記錄轉送到更多目的地業務使用者的管道免費URL重新導向​RDE支援設定管道YAML​ Interactive AEM Developer Console</p>
                 </div>
                 <a href="2024/2024-10-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">更多詳細資料</span>
