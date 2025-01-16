@@ -8,17 +8,18 @@ doc-type: Event
 duration: 3153
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16471
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+exl-id: 0e765a3e-9ff8-4a4a-8987-e56631adfc58
+source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%
 
 ---
 
-
 # 詢問我任何事
 
 Corey和Agbi會即時回答及註冊問題、分享他們的最佳實務並展示Adobe Commerce的功能，以協助客戶在一年中的任何時間都成功完成註冊。
+
 >[!VIDEO](https://video.tv.adobe.com/v/3437034/?learn=on&enablevpops)
 
 ## 要點

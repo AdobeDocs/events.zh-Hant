@@ -2,9 +2,9 @@
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
 user-guide-description: Adobe客戶成功引導的網路研討會，旨在讓您最佳化對AdobeExperience Cloud的投資。 獲得寶貴的見解，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 0%
    + [精簡團隊與Customer Journey Analytics](2024/lean-teams-cja.md)
    + [掌握Adobe Admin Console](2024/adobe-admin-console.md)
    + [掌握Cookie和資料隱私權](2024/mastering-cookies-data-privacy.md)
+   + [掌握循序邏輯](2024/sequential-logic.md)
    + [內容供應鏈的組織整備](2024/organizational-readiness-content-supply-chain.md)
    + [Real-time Customer Data Platform與Marketo整合](2024/aep-marketo-integration.md)
    + [Real-time Customer Data Platform遷移整備](2024/rtcdp-migration-readiness.md)
@@ -47,7 +48,7 @@ ht-degree: 0%
    + [將資料變成動作](2024/turning-data-into-action.md)
    + [解鎖Edge服務的強大功能](2024/edge-delivery-services.md)
    + [將使用案例對應至解決方案功能](2024/use-case-mapping.md)
-   + [Web SDK Migration Essentials](2024/web-sdk-migration.md)
+   + [Web SDK移轉要點](2024/web-sdk-migration.md)
 
 + 2023 {#2023}
    + [大規模建立Personalization的基礎](2023/personalization-at-scale.md)

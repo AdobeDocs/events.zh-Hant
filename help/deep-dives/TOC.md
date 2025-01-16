@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 0de0ff84e6e29b9460cb02f8890a5fbce7c432d3
+source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '70'
 ht-degree: 4%
 
 ---
@@ -27,6 +27,7 @@ ht-degree: 4%
    + [認證](certification.md)
    + [電子郵件Nurture](email-nurture.md)
    + [可執行的行銷活動](executable-campaigns.md)
+   + [IMS移轉已解壓縮](ims-migration.md)
    + [繼承執行個體](inheriting-an-instance.md)
    + [潛在客戶生命週期](lead-lifecycles.md)
    + [運用PMCF欄位進行擴充](pmcf-fields.md)
