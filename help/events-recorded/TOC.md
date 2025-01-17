@@ -2,10 +2,10 @@
 user-guide-title: Adobe Experience League活動錄製
 user-guide-breadcrumb: Event Recordings
 user-guide-description: 強制使用Adobe企業產品上的事件錄製集合
-source-git-commit: 5cfca96daa651cd2d2c8860c1217acbec1e6168e
+source-git-commit: 46f5e599ad9648498972898731f64f3c24d92c43
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 11%
+source-wordcount: '412'
+ht-degree: 10%
 
 ---
 
@@ -23,9 +23,12 @@ ht-degree: 11%
    + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
    + [AEM Champion營業時間](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
    + [APAC Commerce活動](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
+   + [在釀造之後](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
    + [Commerce和咖啡](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
    + [客戶資料管理對話](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=zh-Hant)
+   + [資料滴注](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
    + [深度剖析](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
+   + [濃縮咖啡和Experience Manager](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
    + [Experience Cloud技術研討會](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
    + [Experience League LIVE](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
    + [Experience ManagerGEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
@@ -35,6 +38,7 @@ ht-degree: 11%
    + [Marketo和Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
    + [技能培養](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + [技能交流](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
+   + [使用Workfront喚醒](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
 + 依方案{#solution}
    + Acrobat Sign {#as}
