@@ -9,16 +9,18 @@ event-background-image: exl-event-data-drip.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 46f5e599ad9648498972898731f64f3c24d92c43
+source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
 workflow-type: tm+mt
-source-wordcount: '14'
-ht-degree: 7%
+source-wordcount: '23'
+ht-degree: 0%
 
 ---
 
 
 # 資料滴落 {#data-drip-recordings}
 
-+ [概觀](overview.md)
-+ 資料滴落{#data-drip}
++ [資料滴落](overview.md)
++ 2025 {#2025}
+   + [Adobe Analytics基本概念及更多內容](2025/adobe-analytics-basics-beyond.md)
+   + [行銷管道和歸因模型](2025/marketing-channel-attribution-modeling.md)
 

@@ -2,7 +2,7 @@
 user-guide-title: Experience Cloud技術研討會
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud技術會議是主動式案例轉移方法，為客戶提供解決方案專屬的網路研討會。
-source-git-commit: b6f18d1a7adb683886bd08ad86998e619be24c29
+source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 15%
@@ -43,5 +43,3 @@ ht-degree: 15%
    + Workfront {#workfront-office-hours}
       + [修正重複的連絡人](2023/workfront-fix-duplicate-contacts.md)
       + [校訂核准報告](2023/workfront-proof-approval-reports.md)
-
-
