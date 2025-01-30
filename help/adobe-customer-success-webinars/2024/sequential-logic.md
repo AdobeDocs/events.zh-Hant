@@ -1,23 +1,23 @@
 ---
-title: 掌握Adobe Analytics和Customer Journey Analytics中的循序邏輯
-description: 在Customer Journey Analytics(CJA)中掌握循序邏輯和分析，包括基礎層面、實務範例和業務應用程式，如Andy Powers的工作階段中所述。
+title: 在Adobe Analytics和Customer Journey Analytics中掌握循序邏輯 — 基礎
+description: 在AA和CJA中掌握循序細分和篩選器，包括基礎層面、實際範例和業務應用程式，如Andy Powers的工作階段中所述。
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3259
 last-substantial-update: 2025-01-15T00:00:00Z
 jira: KT-17125
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+exl-id: db84e4aa-2585-4a08-8e85-bbf67419cc24
+source-git-commit: eba128e9c55c6f22e172b2700dae34dfbd2c16b3
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
-
 # 在AA和CJA中掌握循序邏輯：基礎
 
-對Adobe Analytics和Customer Journey Analytics中的THEN以及相關的循序邏輯運運算元有基本的瞭解。 循序邏輯可在Adobe Analytics和Customer Journey Analytics中啟用高價值分析，但運用率偏低，且常有誤解。 此網路研討會將為如何在Analysis Workspace中評估這些運運算元奠定基礎。
+對Adobe Analytics （循序區段）和Customer Journey Analytics（循序篩選器）中的THEN和相關循序邏輯運運算元有基本的瞭解。 循序邏輯可在Adobe Analytics和Customer Journey Analytics中啟用高價值分析，但運用率偏低，且常有誤解。 此網路研討會將為如何在Analysis Workspace中評估這些運運算元奠定基礎。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442925/?learn=on&enablevpops)
 
