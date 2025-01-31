@@ -11,19 +11,20 @@ doc-type: Technical Video
 duration: 3325
 last-substantial-update: 2024-10-10T00:00:00Z
 jira: KT-16327
-source-git-commit: d76e08a224c8416bbe79a0fc82d2cb9937b2827e
+exl-id: 9137dbbd-4e23-4a59-9f9c-d2702b56d70d
+source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
 
 ---
 
-
 # AEM GEMs — 解鎖AEM Sites的強大功能：掌握內容管理API
 
 AEM Sites的使用方式正在迅速發展，在傳統使用者互動中新增API優先模式。 無論您是要簡化營運或提升自動化，領先於這些趨勢都至關重要。 加入我們，深入瞭解我們如何在AEM Sites中探索相關尖端更新，以及這些更新如何強化您的內容管理策略。
 
 在此會議中，您將探索
+
 * **進階OpenAPI標準**&#x200B;探索最新OpenAPI實作，以針對AEM結構化內容進行順暢的CRUD作業。
 * **事件和Webhook**&#x200B;瞭解Adobe I/O的事件和Webhook功能如何根據AEM中的內容和狀態變更來自動化程式。
 * **翻譯自動化的新REST API**&#x200B;瞭解簡化並簡化AEM內容翻譯工作流程的新REST API。

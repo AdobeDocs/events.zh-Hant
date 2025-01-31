@@ -2,9 +2,9 @@
 user-guide-title: Adobe Experience Manager GEMS活動
 user-guide-description: 瞭解AEM Gems，這是Adobe Experience Manager專家提供的一系列技術深入探討。
 breadcrumb-title: AEM GEMs活動
-source-git-commit: d76e08a224c8416bbe79a0fc82d2cb9937b2827e
+source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '759'
 ht-degree: 1%
 
 ---
@@ -13,6 +13,8 @@ ht-degree: 1%
 # Experience ManagerGEMS活動 {#experience-manager-gems-recordings}
 
 + [概觀](overview.md)
++ 2025 {#gems2025}
+   + [開始使用Adobe Managed CDN](gems2025/getting-started-adobe-managed-cdn.md)
 + 2024 {#gems2024}
    + [解鎖AEM Sites的強大功能 — 掌握內容管理API](gems2024/content-management-apis.md)
    + [AEM快速開發環境的新增功能](gems2024/rapid-development-environment-news.md)
@@ -45,7 +47,7 @@ ht-degree: 1%
 + 2018 年 {#gems2018}
    + [深入探討Adobe Experience Manager 6.4](gems2018/aem-6-4-technical-sneak-peek.md)
    + [Adobe Experience Platform -Experience Cloud的核心](gems2018/aem-acp.md)
-   + [即時且輕量型：使用Adobe I/O事件建立AEM的事件導向整合](gems2018/aem-adobe-io.md)
+   + [即時且輕量：使用Adobe I/O Events建立事件導向與AEM的整合](gems2018/aem-adobe-io.md)
    + [Adobe Developer (IO)事件 — Analytics觸發器](gems2018/aem-analytics-triggers.md)
    + [AEM作者擴充性中的實驗](gems2018/aem-author-scalability1.md)
    + [AEM核心元件](gems2018/aem-core-components.md)
