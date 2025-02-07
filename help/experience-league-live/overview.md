@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 2abf56d9dea80f750aa77b002ede38e9d2aa96cb
+source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '175'
 ht-degree: 3%
 
 ---
@@ -25,11 +25,16 @@ ht-degree: 3%
 
 <table>
 <tr>
-
-<td style="vertical-align: top;">
-    請儘快返回本頁，以取得更多即將播出的Experience LeagueLIVE場次！
-    </br>
-    從此頁面左側的目錄中選擇前幾集。
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-27-25.md">
+      <img alt="Experience LeagueLIVE 2月27日" src="episodes/assets/WebBanner-02-27-25.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-02-27-25.md">
+        <strong>在Adobe Experience Platform中使用AI助理解除鎖定操作深入分析</strong>
+      </a>
+      <br/><em>與Rudi Shumpert、Namita Krishnan和Huong Vu</em>
+      <br/><em>2025年2月27日</em>
+    </div>
   </td>
 </tr>
 </table>

@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
+source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '505'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [概觀](overview.md)
 + 集數{#episodes}
+   + [Ep. 44：使用Adobe Experience Platform中的AI Assistant解鎖營運深入分析](episodes/exl-live-episode-02-27-25.md)
    + [Ep. 43：在Real-Time CDP中向行銷人員推出適用於受眾的AI助理](episodes/exl-live-episode-11-13-24.md)
    + [Ep. 42：揭示Adobe Journey Optimizer的內容卡](episodes/exl-live-episode-10-30-24.md)
    + [Ep. 41：使用Experience Platform中的同盟對象構成來協調對象](episodes/exl-live-episode-40-2024-10-24.md)
@@ -48,10 +49,10 @@ ht-degree: 4%
    + [Ep. 19：透過決策管理在適當的時間提供適當的優惠](episodes/exl-live-episode-10-25-22.md)
    + [Ep. 18：在Adobe Journey Optimizer中執行行銷活動](episodes/exl-live-episode-09-22-22.md)
    + [Ep. 17：即時提供更個人化的客戶體驗](episodes/exl-live-episode-09-20-22.md)
-   + [Ep. 16：詢問專家 — 標籤(Launch)中的實用擴充功能，協助對Web SDK充電](episodes/exl-live-episode-08-23-22.md)
+   + [Ep. 16：詢問專家 — Tags (Launch)中的實用擴充功能，以協助對Web SDK額外收費](episodes/exl-live-episode-08-23-22.md)
    + [Ep. 15：詢問專家 — 資料串流和資料準備](episodes/exl-live-episode-07-21-22.md)
    + [Ep. 14：詢問專家 — RTCDP Connections](episodes/exl-live-episode-06-23-22.md)
-   + [Ep. 13：詢問專家 — Web SDK基礎知識](episodes/exl-live-episode-05-26-22.md)
+   + [Ep. 13：詢問專家 — 網路SDK基礎知識](episodes/exl-live-episode-05-26-22.md)
    + [Ep. 12：Journey Optimizer的推播通知](episodes/exl-live-episode-05-12-22.md)
    + [Ep. 11：AAM和Real-time CDP — 如何處理這些觀眾？](episodes/exl-live-episode-04-28-22.md)
    + [Ep. 10：從Headful到Headless的AEM （以及介於兩者之間的一切）](episodes/exl-live-episode-04-21-22.md)
