@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3077
 last-substantial-update: 2025-02-07T00:00:00Z
 jira: KT-17266
-source-git-commit: 4a4822129ced9ee1bd11374a637c09ff7f95d61f
+exl-id: 29b18954-f53a-4273-8852-0e42fb9477e9
+source-git-commit: a5112a81216059cfa3f362eb3a7882801c8a001a
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
-
 
 # 推動付款人領域的客戶參與
 
@@ -26,9 +26,9 @@ ht-degree: 0%
 
 * **支付者領域的挑戰與機遇**&#x200B;醫療保健產業在管理數位資訊與表單的指數式成長方面面臨挑戰，導致低效與高成本。 需要簡化流程、降低成本，並改善客戶參與度。
 
-* **Aim Forms** Aim表單可讓組織大規模撰寫表單、自動化工作流程，並提供全通路體驗，藉以提高營運效率及卓越的使用者體驗。 這會導致更高轉換率和註冊率、減少表單放棄率，以及提高團隊生產力。
+* **AEM Forms** AEM表單功能可讓組織大規模撰寫表單、自動化工作流程，並提供全通路體驗，進而提升營運效率及卓越的使用者體驗。 這會導致更高轉換率和註冊率、減少表單放棄率，以及提高團隊生產力。
 
-* **端對端解決方案** Aim表單提供端對端解決方案，包括全通路表單、自動化工作流程和互動式客戶通訊。 此解決方案與Adobe Experience Cloud整合，可提升整體使用者體驗和營運效率。
+* **端對端解決方案** AEM Forms提供端對端解決方案，包括全通道表單、自動化工作流程和互動式客戶通訊。 此解決方案與Adobe Experience Cloud整合，可提升整體使用者體驗和營運效率。
 
 * **創新與整合**&#x200B;最近的創新包括效能更佳的傳送服務、全通路傳送的無周邊調適型表單，以及與OneDrive、Power Automate、Salesforce和Workfront等系統整合的新聯結器。 搶先使用的功能包括Gen AI助理、Marketo聯結器和對話式表單。
 
