@@ -1,6 +1,6 @@
 ---
 title: 最佳化內容傳送 — 釋放Edge服務的強大功能
-description: ATMEdge Delivery Services(EDS)透過可撰寫服務、快速的開發週期和高的Lighthouse分數來增強ATM功能，支援檔案式和WYSIWYG編寫、無伺服器架構、快速網站建立和廣泛的自訂選項。
+description: 關於Edge Delivery Services (EDS)的座談會涵蓋其架構、與檔案式和AEM式撰寫的整合、快速網站建立、自訂選項，以及維持高效能的最佳實務。
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 role: Admin, Developer, Leader, User
@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3589
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16631
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+exl-id: 2057e491-9ec3-4bfe-b85a-6b74d70822bf
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
-
 # 最佳化內容傳送：釋放Edge服務的強大功能
 
-在這場會議中，我們將概述Edge Delivery Services(EDS)及其架構。 我們將透過通用編輯器，深入探討EDS如何與檔案式撰寫和AEM式撰寫整合。 即時示範會展示EDS的實際運作概況，並提供資源以供進一步探索及問答環節使用。
+在這場會議中，我們將概述Edge Delivery Services (EDS)及其架構。 我們將透過Universal Editor深入探討EDS如何與檔案式撰寫和AEM式撰寫整合。 即時示範會展示EDS的實際運作概況，並提供資源以供進一步探索及問答環節使用。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440938/?learn=on&enablevpops)
 
@@ -32,12 +32,12 @@ ht-degree: 0%
 
 ### 製作選項
 
-* **檔案式撰寫**&#x200B;使用熟悉的工具(如Microsoft Word或Google Docs)來建立內容，無需經過大量培訓即可快速建立內容。&#x200B;URL
+* **檔案式撰寫**&#x200B;使用熟悉的工具(如Microsoft Word或Google Docs)來建立內容，無需經過大量訓練即可快速建立內容。&#x200B;URL
 * **通用編輯器**&#x200B;提供與傳統ATM網站類似的WYSIWYG介面，允許建立更詳細且更視覺化的內容。&#x200B;URL
 
 ### 架構
 
-* EDS會在AmazonCloud Service架構中整合。&#x200B;URL
+* EDS整合至Amazon Cloud Service架構。&#x200B;URL
 * 它支援無伺服器實作，且不需要傳統作者或發佈者執行個體即可運作。&#x200B;URL
 * 可以實作兩個快取層級：在客戶基礎架構層級和EDS層級。&#x200B;URL
 
@@ -65,4 +65,4 @@ ht-degree: 0%
 ### 支援和檔案
 
 * 提供完整的檔案，以引導使用者完成設定和自訂程式。&#x200B;URL
-* 對於任何尚未解決的問題，建議使用者聯絡Adobe支援。&#x200B;URL
+* 如有任何未解決的問題，建議使用者聯絡Adobe支援。&#x200B;URL

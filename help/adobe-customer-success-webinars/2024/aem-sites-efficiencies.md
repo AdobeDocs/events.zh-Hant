@@ -1,6 +1,6 @@
 ---
 title: AEM Sites效率 — 效能最佳化、設定和疑難排解
-description: 本課程涵蓋Adobe Experience Manager (AEM) Sites的基本疑難排解技能，專注於針對效能問題、複雜設定和使用者許可權的實際動手解決方案。
+description: 有關AMP網站效率的網路研討會內容包括效能最佳化、Dispatcher設定、許可權管理最佳實務，以及解決效能問題的策略。
 solution: Experience Manager
 version: Cloud Service
 role: Admin, Developer, Leader, User
@@ -10,16 +10,16 @@ duration: 3452
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16353
 exl-id: 55f7c1d8-7c2c-4392-894a-2aa9b3cc0e4a
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
 # AEM Sites效率：效能最佳化、設定和疑難排解
 
-在本網路研討會中，我們將深入探討Adobe Experience Manager (AEM) Sites疑難排解的要點。 無論您是面臨效能問題或處理複雜的設定，本課程都能提供維護及最佳化AEM環境的實用技能。 我們將優先安排即時示範而非投影片，提供親身體驗來應對現實世界的挑戰&#x200B;。
+在本網路研討會中，我們將深入探討Adobe Experience Manager (AEM) Sites疑難排解的要點。 無論您是面臨效能問題或處理複雜的設定，此課程都能提供維護及最佳化AEM環境的實用技能。 我們將優先安排即時示範而非投影片，提供親身體驗來應對現實世界的挑戰&#x200B;。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435114/?learn=on)
 

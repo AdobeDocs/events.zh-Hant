@@ -1,6 +1,6 @@
 ---
 title: Adobe Analytics與CJA基本至中繼分析功能快速入門
-description: 由Kirsten Schaffer博士領導的「基本中繼分析功能快速入門」課程，內容包括設定健全的分析功能、控管和分析路徑、比較Adobe Analytics和Customer Journey Analytics、討論分析型別，以及強調資料報告的單一信任來源的重要性。
+description: 課程內容涵蓋設定分析功能、比較Adobe Analytics和Customer Journey Analytics，以及行銷報表的主要功能。
 solution: Customer Journey Analytics, Analytics
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,17 +8,17 @@ doc-type: Event
 duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '448'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Analytics與CJA：基本至中繼分析功能的快速入門
 
-瞭解如何快速開始使用Adobe Analytics和Customer Journey Analytics (CJA)，以資料導向式決定支援您的行銷活動：瞭解如何設定您的組織以進行健全的分析功能、瞭解何時以最佳方式使用哪個分析解決方案，以及將Analytics和CJA功能對應至分析成熟度等級，以建立關鍵行銷報告。
+瞭解如何快速開始使用Adobe Analytics和Customer Journey Analytics (CJA)，以資料導向式決策支援您的行銷活動：瞭解如何設定您的組織以進行健全的分析功能、瞭解何時以最佳方式使用哪個分析解決方案，以及將Analytics和CJA功能對應至分析成熟度等級，以建立關鍵行銷報告。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440933/?learn=on&enablevpops)
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 * **演講者簡介**
    * Adobe資深客戶成功經理Frederick介紹了此次會議。
-   * Adobe主要客戶成功經理Kirsten Schaffer博士為簡報者。
+   * Adobe首席客戶成功經理Kirsten Schaffer博士為簡報者。
 
 * **工作階段內容**
    * 課程內容涵蓋建立組織以提供強大的分析功能、控管方面，以及Analytics和Customer Journey分析的執行路徑。
@@ -61,5 +61,5 @@ ht-degree: 0%
 * **問答重點**
    * 元件和靜態資料結構描述的說明。
    * 離線資料的說明。
-   * 從Adobe Analytics移轉至CGA的Recommendations。
+   * 從Adobe Analytics移轉至CGA的建議。
    * 定義資料報告的單一信任來源的重要性。

@@ -1,6 +1,6 @@
 ---
-title: Real-time Customer Data Platform與Marketo整合的基礎知識
-description: 深入探討Adobe AEP/Real-Time Customer Data Platforms與Marketo之間的強大整合。 瞭解這兩個平台如何緊密合作，以增強您的溝通工作、簡化流程，並推進個人化的客戶體驗。
+title: Real-Time Customer Data Platform與Marketo整合的基礎知識
+description: Real-Time Customer Data Platform和Marketo整合的基礎探索Adobe AEP/RTCDP和Marketo如何共同運作以強化溝通、簡化流程，並提供個人化的客戶體驗。
 solution: Marketo, Real-Time Customer Data Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,16 +8,16 @@ doc-type: Event
 duration: 1694
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16108
-source-git-commit: 04f746e0ad3429f2810a2a8cd9eae123a70ac05a
+exl-id: f20dc3fe-6004-4932-9234-86ab76e20709
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
+# Real-Time Customer Data Platform與Marketo整合的基礎知識
 
-# Real-time Customer Data Platform與Marketo整合的基礎知識
-
-深入探討Adobe AEP/即時客戶資料平台(RTCDP)與Marketo之間的強大整合。 瞭解這兩個平台如何緊密合作，以增強您的溝通工作、簡化流程，並推進個人化的客戶體驗。
+深入探討Adobe AEP/Real-Time Customer Data Platforms (RTCDP)與Marketo之間的強大整合。 瞭解這兩個平台如何緊密合作，以增強您的溝通工作、簡化流程，並推進個人化的客戶體驗。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433222/?learn=on)

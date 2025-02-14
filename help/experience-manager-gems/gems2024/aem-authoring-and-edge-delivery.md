@@ -1,6 +1,6 @@
 ---
-title: AEM製作和Edge Delivery Services快速入門
-description: 此AEM GEM網路研討會包含簡報和示範，向您展示AEM製作如何與Edge Delivery Services搭配運作。 我們將逐步引導您建立新Edge Delivery Services專案，專案已啟用以AEM Cloud Service作為內容來源的AEM編寫，我們將向您展示如何受益於Edge Delivery Services隨附的精簡和敏捷開發體驗，但保留從業者的WYSIWYG編寫體驗。
+title: AEM Authoring和Edge Delivery Services快速入門
+description: AEM GEM網路研討會會示範AEM製作如何與Edge Delivery Services整合、使用AEM Cloud Service建立專案以及維護WYSIWYG製作介面。
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -13,9 +13,9 @@ last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
 exl-id: ef0cf02c-1670-4286-bf2e-1563a5307820
-source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,13 @@ ht-degree: 0%
 
 此網路研討會已完成 — 請觀看下方的錄影。
 
-## AEM製作和Edge Delivery Services快速入門
+## AEM Authoring和Edge Delivery Services快速入門
 
-此AEM GEM網路研討會包含簡報和示範，向您展示AEM製作如何與Edge Delivery Services搭配運作。 我們將逐步引導您建立新Edge Delivery Services專案，專案已啟用以AEM Cloud Service作為內容來源的AEM編寫，我們將向您展示如何受益於Edge Delivery Services隨附的精簡和敏捷開發體驗，但保留從業者的WYSIWYG編寫體驗。
+此AEM GEM網路研討會包含簡報和示範，向您展示AEM製作如何與Edge Delivery Services搭配運作。 我們將逐步引導您建立新的Edge Delivery Services專案，專案已啟用以AEM Cloud Service作為內容來源的AEM製作，我們將向您展示如何受益於Edge Delivery Services提供的精簡和敏捷開發體驗，同時為從業人員保留WYSIWYG製作體驗。
 
 ## 主持人
 
-* Dirk Rudolph，經理，軟體開發，Adobe
+* Dirk Rudolph，Adobe軟體開發部經理
 
 ## 網路研討會影片
 

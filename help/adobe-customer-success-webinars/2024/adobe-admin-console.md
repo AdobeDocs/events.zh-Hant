@@ -1,29 +1,29 @@
 ---
 title: 掌握Adobe Admin Console
-description: Adobe Admin Console是管理Adobe企業解決方案的集中平台，提供使用者和授權管理、安全性和合規性功能、支援資源、管理員角色、擴充的最佳實務，以及與各種系統整合，以簡化操作。
+description: Adobe Admin Console是管理Adobe企業解決方案的集中式平台，為組織提供使用者和產品管理、安全性和合規性功能、支援資源以及可擴充的最佳實務。
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 2767
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16630
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+exl-id: 2a604f0f-d422-4a7d-8e72-bd38dfca7bf0
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
-
 # 掌握Adobe Admin Console
 
-此網路研討會將提供瀏覽適用於Adobe Experience Platform的Adobe Admin Console的完整總覽。 我們將檢視Admin Console的主要功能，及其與其他Adobe解決方案的整合。 此外，我們將討論隨著您的使用者群擴展而縮放Admin Console作業的最佳實務，並提供使用者同步工具的概觀。
+此網路研討會將提供瀏覽適用於Adobe Experience Platform的Adobe Admin Console的完整總覽。 我們將檢視Admin Console的主要功能，及其與其他Adobe解決方案的整合。 此外，我們將討論隨著您的使用者基礎擴充而調整Admin Console作業的最佳實務，並提供使用者同步工具的概觀。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440937/?learn=on&enablevpops)
 
 ## 重要技巧
 
-* **Adobe Admin Console概述** Admin Console是管理Adobe企業解決方案的集中平台，可與Creative Cloud、Document Cloud和Experience Cloud整合。
+* **Adobe Admin Console概述** Admin Console是管理Adobe企業解決方案的集中式平台，可與Creative Cloud、Document Cloud和Experience Cloud整合。
 
 * **使用者管理**&#x200B;管理員可以新增/移除使用者、指派產品及管理使用者群組。 此外也支援SSL功能以提供安全登入。
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 * **使用者同步工具**&#x200B;自動化使用者布建與產品存取，支援與LDAP的整合，並管理使用者生命週期。
 
-* **Global Admin Console**&#x200B;可做為擁有多個組織的組織的中央管理中心，允許資源分配和簡化管理。
+* **Global Admin Console**&#x200B;可做為擁有多個組織的中央管理中心，允許資源分配和簡化管理。
 
 * **設定和管理**&#x200B;主控台支援各種設定，包括隱私權、安全性、身分、資產共用、驗證和加密設定。
 
