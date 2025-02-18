@@ -1,6 +1,6 @@
 ---
-title: Experience League即時活動
-description: 先前Experience LeagueLIVE活動的連結集合
+title: Experience League LIVE活動
+description: 先前Experience League LIVE活動的連結集合
 solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
+source-git-commit: 6201fd942b87ec5e094a90c314d30dcb38a2b278
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 3%
@@ -17,22 +17,22 @@ ht-degree: 3%
 
 # Experience League LIVE
 
-「即時Experience League」是Experience League團隊製作的直播串流節目。  您可以藉此機會與Adobe產品專家交流，並學到您可以透過Adobe Experience Cloud應用程式應用可落實的秘訣、技巧和策略。
+Experience League LIVE是Experience League團隊製作的直播串流節目。  您可以藉此機會與Adobe產品專家交流，並學到您可以透過Adobe Experience Cloud應用程式應用可落實的秘訣、技巧和策略。
 
 <div id="upcoming-events">
 
-## 即將推出的Experience League直播活動
+## 即將推出的Experience League LIVE活動
 
 <table>
 <tr>
 <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-27-25.md">
-      <img alt="Experience LeagueLIVE 2月27日" src="episodes/assets/WebBanner-02-27-25.jpg">
+      <img alt="Experience League LIVE 2月27日" src="episodes/assets/WebBanner-Feb-27-2025.png">
     </a>
     <div>
       <a href="episodes/exl-live-episode-02-27-25.md">
         <strong>在Adobe Experience Platform中使用AI助理解除鎖定操作深入分析</strong>
       </a>
-      <br/><em>與Rudi Shumpert、Namita Krishnan和Huong Vu</em>
+      <br/><em>與Daniel Wright、Namita Krishnan和Huong Vu</em>
       <br/><em>2025年2月27日</em>
     </div>
   </td>
@@ -59,7 +59,7 @@ ht-degree: 3%
 
 <tr>
   <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
-      <img alt="Experience LeagueLIVE 4月21日" src="episodes/assets/WebBanner-June26-2024.jpg">
+      <img alt="Experience League LIVE 4月21日" src="episodes/assets/WebBanner-June26-2024.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-06-26-24.md">
@@ -72,7 +72,7 @@ ht-degree: 3%
 
 <td style="vertical-align: top;">
     <a href="episodes/exl-live-episode-05-16-24.md">
-      <img alt="Experience LeagueLIVE ep8" src="episodes/assets/WebBanner-May16-2024.jpg">
+      <img alt="Experience League LIVE ep8" src="episodes/assets/WebBanner-May16-2024.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-05-16-24.md"><strong>這是將Analytics移轉至Web SDK的方式</strong></a>
@@ -83,7 +83,7 @@ ht-degree: 3%
 
 <td style="vertical-align: top;">
     <a href="episodes/exl-live-episode-05-26-22.md">
-      <img alt="Experience League直播5月26日" src="episodes/assets/WebBanner-Apr24-2024.jpg">
+      <img alt="Experience League LIVE 5月26日" src="episodes/assets/WebBanner-Apr24-2024.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-04-24-24.md">

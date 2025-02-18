@@ -7,7 +7,8 @@ feature: AI Assistant
 event-cta-url-live: https://www.youtube.com/live/fGgFwAOZle8
 event-start-time: 2025-02-27 08:30-8
 event-guests: Daniel Wright, Rudi Shumpert, Namita Krishnan, Huong Vu
-source-git-commit: c0d5ae4419c2e42322faa752a7cecca75f7c3aaf
+exl-id: d04e52e5-b6d0-4f9a-b6e6-f78e8f8cb7d0
+source-git-commit: 356cf28cdd2e8d6731ce58b4ae98267a73990582
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -24,6 +25,6 @@ ht-degree: 0%
 * 整個組織的團隊（從行銷運作到資料工程師和架構師）如何透過AI Assistant運用營運深入分析
 * AI Assistant的最新創新和功能將提高生產力並重新定義Adobe Experience Platform應用程式中的工作流程
 
-[![ExL LIVE 2025年2月27日](assets/WebBanner-02-27-25.jpg)](https://www.youtube.com/live/fGgFwAOZle8)
+[![ExL LIVE 2025年2月27日](assets/WebBanner-Feb-27-2025.png)](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
 **按一下影像以設定Youtube提醒！**
