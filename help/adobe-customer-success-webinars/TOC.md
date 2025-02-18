@@ -1,10 +1,10 @@
 ---
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
-user-guide-description: Adobe客戶成功引導的網路研討會，旨在讓您最佳化對AdobeExperience Cloud的投資。 獲得寶貴的見解，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: 4a4822129ced9ee1bd11374a637c09ff7f95d61f
+user-guide-description: Adobe客戶成功引導的網路研討會，旨在協助您最佳化Adobe Experience Cloud投資。 獲得有價值的深入分析，以最大化價值並提高Adobe解決方案的採用率。
+source-git-commit: 5d4308bd92d8285e2380725ad72e341319347cc4
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 0%
 
 + [Adobe客戶成功網路研討會](overview.md)
 + 2025 {#2025}
+   + [內容供應鏈基本需知](2025/content-supply-chain-basics.md)
+   + [有效測量的製作策略](2025/impactful-insights.md)
    + [促進客戶參與](2025/driving-customer-engagement.md)
    + [透過Personalization和資料增強忠誠度計畫](2025/enhance-loyalty-programs.md)
    + [掌握循序邏輯](2025/mastering-sequential-logic.md)
@@ -29,23 +31,23 @@ ht-degree: 0%
    + [AI賦權文字撰寫](2024/ai-copywriting.md)
    + [基本至中繼分析功能](2024/basic-to-intermediate-analysis-capabilities.md)
    + [資料流優先順序](2024/data-stream-prioritization.md)
-   + [Edge Network與行動Personalization](2024/edge-network-mobile-personalization.md)
+   + [Edge Network與Mobile Personalization](2024/edge-network-mobile-personalization.md)
    + [有效的變更管理](2024/effective-change-management.md)
    + [增強精益團隊的能力](2024/empowering-lean-teams.md)
    + [Expedia從Adobe Analytics移至Customer Journey Analytics](2024/expedia-aa-to-cja.md)
    + [Workfront系統與群組管理監護的基礎知識](2024/workfront-admin-guardianship.md)
    + [Adobe Journey Optimizer Analysis快速入門](2024/getting-started-ajo-analysis.md)
-   + [Real-time Customer Data Platform快速入門](2024/getting-started-rtcdp.md)
+   + [Real-Time Customer Data Platform快速入門](2024/getting-started-rtcdp.md)
    + [將AI用於客戶體驗](2024/ai-customer-experience.md)
    + [超個人化](2024/hyperpersonalization.md)
    + [Journey Optimizer Mobile功能](2024/journey-optimizer-mobile-capabilities.md)
-   + [精簡團隊與Customer Journey Analytics](2024/lean-teams-cja.md)
+   + [精益團隊和Customer Journey Analytics](2024/lean-teams-cja.md)
    + [掌握Adobe Admin Console](2024/adobe-admin-console.md)
    + [掌握Cookie和資料隱私權](2024/mastering-cookies-data-privacy.md)
    + [掌握循序邏輯](2024/sequential-logic.md)
    + [內容供應鏈的組織整備](2024/organizational-readiness-content-supply-chain.md)
-   + [Real-time Customer Data Platform與Marketo整合](2024/aep-marketo-integration.md)
-   + [Real-time Customer Data Platform遷移整備](2024/rtcdp-migration-readiness.md)
+   + [Real-Time Customer Data Platform與Marketo整合](2024/aep-marketo-integration.md)
+   + [即時客戶資料平台遷移整備](2024/rtcdp-migration-readiness.md)
    + [策略領導力](2024/strategic-leadership.md)
    + [簡化驗證](2024/streamline-authentication.md)
    + [鎖定Personalization](2024/target-personalization.md)
@@ -59,7 +61,7 @@ ht-degree: 0%
    + [變更管理](2023/change-management.md)
    + [內容與體驗 — Personalization](2023/content-experiences-personalization.md)
    + [Customer Journey Analytics遷移整備](2023/cja-migration-readiness.md)
-   + [Customer Journey Analytics整合要點](2023/cja-integration-essentials.md)
+   + [Customer Journey Analytics Integration Essentials](2023/cja-integration-essentials.md)
    + [開發即時資料收集與啟用策略](2023/data-collection-activation-strategy.md)
    + [有效測量策略](2023/measurement-strategy.md)
    + [行銷活動協調的基本策略](2023/foundational-strategy-campaign.md)
