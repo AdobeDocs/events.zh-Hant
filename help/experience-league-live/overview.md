@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 6201fd942b87ec5e094a90c314d30dcb38a2b278
+source-git-commit: 98c81f4400d80ca7991c9df94c3fa400600391c8
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '161'
 ht-degree: 3%
 
 ---
@@ -25,16 +25,8 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
 
 <table>
 <tr>
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-27-25.md">
-      <img alt="Experience League LIVE 2月27日" src="episodes/assets/WebBanner-Feb-27-2025.png">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-02-27-25.md">
-        <strong>在Adobe Experience Platform中使用AI助理解除鎖定操作深入分析</strong>
-      </a>
-      <br/><em>與Daniel Wright、Namita Krishnan和Huong Vu</em>
-      <br/><em>2025年2月27日</em>
-    </div>
+<td>
+  即將返回此頁面，以取得更多即將推出的節目！
   </td>
 </tr>
 </table>
