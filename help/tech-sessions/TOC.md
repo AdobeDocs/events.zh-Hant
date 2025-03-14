@@ -1,11 +1,11 @@
 ---
 user-guide-title: Experience Cloud技術研討會
 user-guide-breadcrumb: Experience Cloud Tech Sessions
-user-guide-description: Experience Cloud技術會議是主動式案例轉移方法，為客戶提供解決方案專屬的網路研討會。
-source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
+user-guide-description: Experience Cloud技術研討會是主動式案例轉換方法，為客戶提供解決方案專屬的網路研討會。
+source-git-commit: 0060197dfc26604cda34f5380b9935c8e2bb791e
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 15%
+source-wordcount: '140'
+ht-degree: 14%
 
 ---
 
@@ -13,16 +13,21 @@ ht-degree: 15%
 # Experience Cloud技術研討會 {#tech-sessions}
 
 + [Experience Cloud技術研討會](overview.md)
-+ 2024 {#2024}
++ 2025 年{#2025}
+   + [充份運用Marketo Measure](2025/getting-most-marketo-measure.md)
+   + Marketo移轉至Adobe Admin Console {#marketo-admin-console}
+      + [移轉前](2025/marketo-pre-migration.md)
+      + [移轉後](2025/marketo-post-migration.md)
++ 2024 年{#2024}
    + 即時內容資料平台{#rtcdp-office-hours-2024}
-      + [aep Web SDK疑難排解](2024/aep-web-sdk-troubleshooting.md)
+      + [AEP Web SDK疑難排解](2024/aep-web-sdk-troubleshooting.md)
       + [AI 助理](2024/ai-assistant.md)
       + [即時內容資料平台時間安排](2024/rtcdp-timings.md)
    + Adobe Experience Manager {#aem-office-hours-2024}
       + [追蹤訪客](2024/tracking-visitors.md)
-   + AdobeMarketo {#adobe-marketo-office-hours-2024}
+   + Adobe Marketo {#adobe-marketo-office-hours-2024}
       + [冠軍技術研討會 — 5月](2024/champion-office-hours.md)
-+ 2023 {#2023}
++ 2023 年{#2023}
    + Adobe Analytics {#adobe-analytics}
       + [Launch最佳作法](2023/launch-best-practices.md)
    + Adobe Campaign {#adobe-campaign-office-hours}
@@ -36,7 +41,7 @@ ht-degree: 15%
       + [AEM Forms Headless架構](2023/aem-forms-headless-architecture.md)
       + [移轉至AEM Cloud Service](2023/migration-aemcs.md)
       + [索引最佳化的基礎](2023/optimize-indexes-aemcs.md)
-   + AdobeMarketo {#adobe-marketo-office-hours}
+   + Adobe Marketo {#adobe-marketo-office-hours}
       + [進階智慧清單邏輯與常見陷阱](2023/marketo-common-pitfalls.md)
    + Adobe Target {#adobe-target-office-hours}
       + [JavaScript程式庫概觀、偵錯秘訣與技巧](2023/target-debugging-tips-and-tricks.md)
