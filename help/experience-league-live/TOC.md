@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
+source-git-commit: aab3785f25043242f8eccb11e304bab7e2ab7804
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '514'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [概觀](overview.md)
 + 集數{#episodes}
+   + [Ep. 45：請勿等候……共同作業！ Real-Time CDP Collaboration簡介](episodes/exl-live-episode-04-10-25.md)
    + [Ep. 44：使用Adobe Experience Platform中的AI Assistant解鎖營運深入分析](episodes/exl-live-episode-02-27-25.md)
    + [Ep. 43：在Real-Time CDP中向行銷人員推出適用於受眾的AI助理](episodes/exl-live-episode-11-13-24.md)
    + [Ep. 42：揭示Adobe Journey Optimizer的內容卡](episodes/exl-live-episode-10-30-24.md)
@@ -34,7 +35,7 @@ ht-degree: 4%
    + [Ep. 34： Marketo Measure的全新discover儀表板](episodes/exl-live-episode-04-18-24.md)
    + [Ep. 33：全新Adobe Campaign v8 UI，助您一臂之力](episodes/exl-live-episode-02-29-24.md)
    + [Ep. 32：使用案例教戰手冊、自助範本，按幾下即可部署使用案例](episodes/exl-live-episode-02-08-24.md)
-   + [Ep. 31：將您的Adobe Analytics資料和分析帶入Customer Journey Analytics](episodes/exl-live-episode-01-17-24.md)
+   + [Ep. 31：將您的Adobe Analytics資料和分析匯入Customer Journey Analytics](episodes/exl-live-episode-01-17-24.md)
    + [Ep. 30：使用Adobe Real-Time CDP的5大新功能進入2024倒計時](episodes/exl-live-episode-12-14-23.md)
    + [Ep. 29：在Real-Time CDP和AJO中充分運用行為事件資料](episodes/exl-live-episode-11-14-23.md)
    + [Ep. 28： Workfront發行深入探討 — 新Workfront首頁](episodes/exl-live-episode-10-26-23.md)
@@ -55,14 +56,14 @@ ht-degree: 4%
    + [Ep. 13：詢問專家 — 網路SDK基礎知識](episodes/exl-live-episode-05-26-22.md)
    + [Ep. 12：Journey Optimizer的推播通知](episodes/exl-live-episode-05-12-22.md)
    + [Ep. 11：AAM和Real-time CDP — 如何處理這些觀眾？](episodes/exl-live-episode-04-28-22.md)
-   + [Ep. 10：從Headful到Headless的AEM （以及介於兩者之間的一切）](episodes/exl-live-episode-04-21-22.md)
+   + [Ep. 10：從AEM頭到無頭（以及中間的一切）](episodes/exl-live-episode-04-21-22.md)
    + [Ep. 9：介紹AEM的所有最新參考示範](episodes/exl-live-episode-02-03-22.md)
    + [Ep. 8：Customer Journey Analytics：內幕消息](episodes/exl-live-episode-08.md)
-   + [Ep. 7：使用AdobeApp Builder擴充AEM](episodes/exl-live-episode-07.md)
+   + [Ep. 7：使用Adobe App Builder擴充AEM](episodes/exl-live-episode-07.md)
    + [Ep. 6：測量人員而非裝置](episodes/exl-live-episode-06.md)
    + [Ep. 5：透過快速建立網站，以前所未有的速度直播](episodes/exl-live-episode-05.md)
    + [Ep. 4：誰按一下該連結？ 他們還做了什麼？](episodes/exl-live-episode-04.md)
    + [Ep. 3：讓您的假日行銷活動脫穎而出的專家秘訣](episodes/exl-live-episode-03.md)
    + [Ep. 2：讓您未來的受眾人群變得前所未有的聰明](episodes/exl-live-episode-02.md)
    + [Ep. 1：我最愛的三個Adobe [!DNL Analytics] 實作秘訣](episodes/exl-live-episode-01.md)
-+ [EXPERIENCE LEAGUELIVE ASSETS](exl-live-assets.md)
++ [EXPERIENCE LEAGUE LIVE ASSETS](exl-live-assets.md)
