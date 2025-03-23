@@ -2,7 +2,7 @@
 title: aem雲端服務的newrelic apm
 description: 加入我們並參與我們的研討會，我們將引導您認識並解決影響一般使用者客戶的挑戰，透過提高您的AEM as a Cloud Service專案效率、衡量外部服務對您的AEM as a Cloud Service系統的影響，以及充分利用自訂和量身打造的檢視，確保提供卓越的體驗。 瞭解存取AEM as a Cloud Service預設包含的New Relic功能的程式。 請隨時回答您的查詢和問題。
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Developer Tools
 topic: Performance
 role: Developer
@@ -13,7 +13,7 @@ jira: KT-13920
 thumbnail: KT-13920.jpeg
 exl-id: 874cb607-f622-4ef0-9835-13b640fe57f6
 duration: 3385
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -40,9 +40,9 @@ ht-degree: 0%
 
 * New Relic解決方案架構師Alan Mon
 * New Relic解決方案架構師Matthew Lowe
-* Director軟體開發AdobeAdam Pazik
+* Adobe軟體開發總監，Adam Pazik
 * Luciana Surdoiu，Adobe雲端自動化主管
-* Adobe高級AEM網站可靠性工程師Michael Campbell
+* Adobe AEM網站可靠性資深工程師Michael Campbell
 
 ## 網路研討會影片 — 2023/9/20
 

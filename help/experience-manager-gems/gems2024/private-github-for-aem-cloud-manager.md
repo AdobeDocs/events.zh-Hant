@@ -2,7 +2,7 @@
 title: 在AEM Cloud Manager中整合私人GitHub存放庫
 description: AEM GEM網路研討會將示範如何在Cloud Manager中新增私人GitHub存放庫、將其直接連結至管道，以及按住Shift鍵測試，以在合併程式碼之前識別提取請求層級的問題。
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Developer Tools
 topic: Development
 role: Developer
@@ -10,7 +10,7 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%

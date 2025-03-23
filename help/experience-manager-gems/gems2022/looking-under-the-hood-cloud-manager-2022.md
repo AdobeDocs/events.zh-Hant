@@ -1,9 +1,9 @@
 ---
 title: Cloud Manager 2022
-description: 此AEM GEM網路研討會包含下列主題的簡報和示範：探索去年推出的新功能、幕後更新…… （說明應該介於60到160個字元之間）
+description: 此AEM GEM網路研討會包含下列專案的簡報和示範：探索去年推出的新功能、幕後更新…… （說明應該介於60到160個字元之間）
 solution: Experience Manager
 feature-set: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Cloud Manager
 topic: Administration
 role: Developer
@@ -11,7 +11,7 @@ level: Beginner
 kt: 10470
 exl-id: 70564929-78c2-4a3d-bcf7-8708fd458812
 duration: 3289
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 工作階段說明：
 探索去年發佈的新功能、幕後開發的更新以及展望2022年下半年。 詳細說明Cloud Manager的幕後運作方式，以及客戶如何充分運用此產品。
 
-內容適用於Adobe Experience Manager as a Cloud Service和Experience Manager Managed Services，焦點放在Cloud Service上。 無論技術或非技術出席者，皆可適用。 之前接觸Cloud Manager有助於瞭解上下文，但並非必要。
+內容適用於Adobe Experience Manager as a Cloud Service和Experience Manager Managed Services，焦點放在Cloud Service。 無論技術或非技術出席者，皆可適用。 之前接觸Cloud Manager有助於瞭解上下文，但並非必要。
 
 **網路研討會影片**
 

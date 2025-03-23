@@ -1,41 +1,41 @@
 ---
-title: 客戶使用案例與使用中AEM Headless的實作
+title: 客戶使用案例與實施使用中的AEM Headless
 description: 工作階段公告
-solution: Experience Manager
+solution: Experience Manager, Experience Manager 6.5
 feature-set: Experience Manager
-version: 6.5
+version: Experience Manager 6.5
 feature: AEM Community Lens
 topic: Administration
 role: User
 level: Intermediate
 exl-id: 6e35763d-d18a-468c-9b34-df14da7c7e2f
 duration: 3729
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
-# AEM GEM功能 — 客戶使用案例與使用中AEM Headless的實作
+# AEM GEMs功能 — 客戶使用案例與實施使用中的AEM Headless
 
 *此網路研討會已於10月12日（星期三）下午3點(UTC **)進行。**此錄製可在下方使用。*
 
-這次特別的AEM GEM講座提供兩位以客戶身分操作AEM的演講者。 此工作階段將分成兩半，如下所示：
+這次特別的AEM GEM講座提供兩位演講者，他們以客戶的身分操作AEM。 此工作階段將分成兩半，如下所示：
 
-## 第1部分：AEM as a headless CMS地點/時間/原因？
+## 第1部分：AEM as a headless CMS地點/時間/原因
 
 主持人： Vengadesh Shanmugavelu — 卡達航空技術架構師
 
 **工作階段描述：**
-有許多方式可透過AEM實作Headless CMS。
+我們有許多方式可以透過AEM實施Headless CMS。
 在本次研討會中，我們將介紹下列內容：
 
 * 透過匯出工具/servlet的內容服務
 * 透過資產API的內容片段（示範）
 * 透過graphql的內容片段（示範）
 * 有關使用內容片段及其方法的即時使用案例
-* SPA編輯器學習（選擇時可採用的一些解決方案方法） （示範）
+* SPA Editor學習（選擇時可採用的一些解決方案方法） （示範）
 
 ## 第2部分：透過GraphQL API和內容片段提供Headless內容
 

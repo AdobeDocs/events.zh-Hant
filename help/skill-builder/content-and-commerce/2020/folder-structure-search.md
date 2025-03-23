@@ -9,12 +9,12 @@ feature: Asset Management
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 7338
 exl-id: b19bdea1-486a-400d-93b8-166f0f12d366
 duration: 3317
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 2%
@@ -23,7 +23,7 @@ ht-degree: 2%
 
 # 檔案夾結構與搜尋 — Adobe Experience Manager資產系列
 
-此網路研討會系列由五部分組成，可協助您建立知識庫，並將Adobe Experience Manager Assets投資效益最大化。 如果您是初次使用Adobe Experience Manager Assets或已經使用Adobe Experience Manager Assets一段時間且希望進一步提升現有技能的從業人員，這是深入探究解決方案5個最重要領域的理想方式。 Adobe專家將檢閱基本知識，並提供進階見解，為您提供可立即實施的可操作後續步驟。
+此網路研討會系列由五部分組成，可協助您建立知識庫，並將Adobe Experience Manager Assets投資效益最大化。 如果您是初次使用Adobe Experience Manager Assets或已經使用Adobe Experience Manager Assets一段時間且希望進一步提升現有技能的從業人員，這是深入探究解決方案5個最重要領域的理想方式。 Adobe專家將檢閱基本資訊，並提供進階深入分析，為您提供可立即實施的可行後續步驟。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332135/?quality=12&learn=on&hidetitle=true)
 

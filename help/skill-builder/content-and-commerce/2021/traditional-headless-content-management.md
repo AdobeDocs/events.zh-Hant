@@ -9,12 +9,12 @@ feature: Authoring
 topic: Content Management
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 type: Event
 kt: 8938
 exl-id: 93ca4320-8364-4f35-b52d-0bb3bd929d13
 duration: 4002
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 # Adobe Experience Manager Sites基本需知
 
-在這個5部分的網路研討會系列中，瞭解如何在Adobe Experience Manager中建立豐富且吸引人的客戶體驗。 我們將從內容製作的組成要素開始，同時向您介紹基本概念和操作。 這將包括網站管理功能以及在AEM內處理數位資產的基本知識。 在系列的後半部分，探索可協助您重複使用內容並跨管道提供內容，以節省時間並提高效率的功能。
+在這個5部分的網路研討會系列中，瞭解如何在Adobe Experience Manager中建立豐富且吸引人的客戶體驗。 我們將從內容製作的組成要素開始，同時向您介紹基本概念和操作。 這將包括網站管理功能以及在AEM中處理數位資產的基本知識。 在系列的後半部分，探索可協助您重複使用內容並跨管道提供內容，以節省時間並提高效率的功能。
 
 ## 網路與超越 — 傳統與Headless內容管理的強大功能
 

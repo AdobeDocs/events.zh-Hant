@@ -4,7 +4,7 @@ description: 缺少說明
 solution: Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 role: User
 level: Intermediate
 doc-type: Value Video
@@ -14,7 +14,7 @@ thumbnail: 3420725.jpeg
 event-start-time: 2023-3-1 08:30-8
 exl-id: 7c15c370-3027-4a2f-a677-02f8c6b82fc1
 duration: 3487
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '22'
 ht-degree: 0%

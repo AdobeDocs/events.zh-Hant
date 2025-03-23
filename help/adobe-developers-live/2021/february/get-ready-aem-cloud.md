@@ -1,30 +1,30 @@
 ---
-title: 準備Cloud Service — 移轉最佳實務
-description: 調整您的程式碼基底，使其適合雲端使用並避免未來在幕後處理升級作業，這是發揮Adobe Experience ManagerCloud Service最大效益的關鍵。
+title: 為Cloud Service做好準備 — 移轉最佳實務
+description: 調整您的程式碼基底，使其適合雲端使用並嚴防未來在幕後處理的升級，是最大化Adobe Experience Manager Cloud Service優勢的關鍵。
 solution: Experience Manager
 product: experience manager
 feature: Migration
 topic: Development, Migration
 role: Developer
 level: Intermediate, Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 7405
 type: Event
 thumbnail: 332308.jpg
 exl-id: 3d1d959b-af21-4268-8dc6-8ac8a910f06a
 duration: 1487
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
-# 準備Cloud Service — 移轉最佳實務
+# 為Cloud Service做好準備 — 移轉最佳實務
 
-調整您的程式碼基底，使其適合雲端使用並避免未來在幕後處理升級作業，這是發揮Adobe Experience ManagerCloud Service最大效益的關鍵。
+調整您的程式碼基底，使其適合雲端使用並嚴防未來在幕後處理的升級，是最大化Adobe Experience Manager Cloud Service優勢的關鍵。
 
-繼續&#x200B;**[Experience League社群](https://adobe.ly/36Yd3v6)**&#x200B;中的交談。
+在&#x200B;**[Experience League社群](https://adobe.ly/36Yd3v6)**&#x200B;中繼續交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332308/?quality=12&learn=on&hidetitle=true)
 
