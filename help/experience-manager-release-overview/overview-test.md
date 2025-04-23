@@ -5,7 +5,7 @@ user-guide-breadcrumb: AEM Release Events
 duration: 91
 hidefromtoc: true
 exl-id: eb9580ae-84c9-4c68-84c3-007e67b91a92
-source-git-commit: 3311f2f2898f9d37f39b25d205d6db780565cc8f
+source-git-commit: 4d0f5c7de34d29e86eb0c3a875015508776e8e16
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 0%
@@ -32,7 +32,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops&autoplay=true" title="2024.11.0 AEM版本總覽" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops&autoplay=true" alt="2024.11.0 AEM版本總覽"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg" alt="2024.11.0 AEM版本總覽"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
