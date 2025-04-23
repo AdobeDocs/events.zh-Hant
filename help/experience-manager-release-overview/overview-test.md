@@ -5,7 +5,7 @@ user-guide-breadcrumb: AEM Release Events
 duration: 91
 hidefromtoc: true
 exl-id: eb9580ae-84c9-4c68-84c3-007e67b91a92
-source-git-commit: ee8aede121140f6a4ce9f5da2656b3e3cc0e0137
+source-git-commit: 3311f2f2898f9d37f39b25d205d6db780565cc8f
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Adobe Experience Manager as a Cloud Service版本更新
 
-取得Adobe Experience Manager as a Cloud Service最新功能快速總覽。 這些是AEM產品團隊提供的簡短影片，大約10分鐘，主要是分享最新版本的摘要。
+取得Adobe Experience Manager as a Cloud Service最新功能快速總覽。 這些是AEM產品團隊提供的簡短影片，大約10分鐘，主要分享最新版本的摘要。
 
 ## 最新更新
 
@@ -32,7 +32,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops&autoplay=true" title="2024.11.0 AEM版本總覽" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="2024/assets/2024-11-play-button.png" alt="2024.11.0 AEM版本總覽"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops&autoplay=true" alt="2024.11.0 AEM版本總覽"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,7 +86,7 @@ ht-degree: 0%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-10-0.md" target="_blank" rel="referrer" title="2024.10.0 AEM版本總覽">2024.10.0 AEM版本總覽</a>
                     </p>
-                    <p class="is-size-6">此發行版本中的功能專注於Experience Manager Assets和Cloud Service創新，並包括下列專案：AEM Assets新定價和封裝搭配AEM Assets與Assets Ultimate和Asset PrimeAEMCloud Service將記錄轉送到更多目的地業務使用者的管道免費URL重新導向​RDE支援設定管道YAML​ Interactive AEM Developer Console</p>
+                    <p class="is-size-6">此發行版本中的功能專注於Experience Manager Assets和Cloud Service創新，並包括下列專案：AEM Assets新定價和封裝搭配AEM Assets與Assets Ultimate和Asset PrimeAEM Cloud Service將記錄檔轉送到更多目的地業務使用者的Pipeline免費URL重新導向​RDE支援設定Pipeline YAML​互動式AEM Developer Console</p>
                 </div>
                 <a href="2024/2024-10-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">更多詳細資料</span>
@@ -109,7 +109,7 @@ ht-degree: 0%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-9-0.md" target="_blank" rel="referrer" title="2024.9.0 AEM版本總覽">2024.9.0 AEM版本總覽</a>
                     </p>
-                    <p class="is-size-6">此發行版本中的功能專注於Experience Manager Assets和Cloud Service創新，並包括下列專案：AEM Assets — 支援集合的資產選擇器增強功能​Assets Content Hub — 支援DRM （已到期和授權的資產）​AEM Cloud Service - Cloud Manager對Edge Delivery​的支援Edge Side Include (ESI) ​Basic Authentication​Interactive AEM Developer Console</p>
+                    <p class="is-size-6">此發行版本中的功能專注於Experience Manager Assets和Cloud Service創新，並包含下列專案：AEM Assets — 支援集合的資產選擇器增強功能​Assets Content Hub — 支援DRM （已到期和授權的資產）​AEM雲端服務 — Cloud Manager對Edge Delivery​的支援Edge Side Include (ESI) ​基本驗證​互動式AEM Developer Console</p>
                 </div>
                 <a href="2024/2024-9-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">更多詳細資料</span>
@@ -132,7 +132,7 @@ ht-degree: 0%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-8-0.md" target="_blank" rel="referrer" title="2024.8.0 AEM版本總覽">2024.8.0 AEM版本總覽</a>
                     </p>
-                    <p class="is-size-6">此發行版本中的功能著重於AEM Assets和Dynamic Media、Forms、Sites及Cloud Foundation創新，包括下列專案 — 1:1動態變化的Dynamic Media可撰寫範本Forms GenAI Assistant Universal editor與新的AEM內容結構整合​管理DV憑證的生命週期及透過Cloud Manager支援Edge Delivery Services體驗稽核儀表板改進管道效能</p>
+                    <p class="is-size-6">此發行版本中的功能著重於AEM Assets和Dynamic Media、Forms、Sites及Cloud Foundation創新，並包括下列專案 — 1:1動態變化的Dynamic Media可撰寫範本Forms GenAI Assistant Universal Editor與新的AEM內容結構整合​管理DV憑證的生命週期以及透過Cloud Manager體驗稽核儀表板改善Edge Delivery Services的支援Pipeline效能</p>
                 </div>
                 <a href="2024/2024-8-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">更多詳細資料</span>
@@ -155,7 +155,7 @@ ht-degree: 0%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-7-0.md" target="_blank" rel="referrer" title="2024.7.0 AEM版本總覽">2024.7.0 AEM版本總覽</a>
                     </p>
-                    <p class="is-size-6">此發行版本中的功能著重於Experience Manager Assets和Cloud Service創新，並包括下列專案：AEM Assets：AEM Assets​AI支援的影片字幕中的Content credentials​Dynamic Media資產選擇器上傳​增強功能Cloud Manager：客戶管理的CDN憑證的自助設定​CDN清除​ ​流量篩選器規則警報</p>
+                    <p class="is-size-6">此版本中的功能著重於Experience Manager Assets和Cloud Service創新，包括下列專案：使用Dynamic Media​Asset Selector增強功能上傳影片的AEM AssetsCloud Manager ​AI支援字幕AEM AssetsContent Credentials ​：自助設定客戶管理的CDN憑證​CDN清除​ ​流量篩選器規則警報</p>
                 </div>
                 <a href="2024/2024-7-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">更多詳細資料</span>
@@ -178,7 +178,7 @@ ht-degree: 0%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-6-0.md" target="_blank" rel="referrer" title="2024.6.0 AEM版本總覽">2024.6.0 AEM版本總覽</a>
                     </p>
-                    <p class="is-size-6">2024年6月發行版本中的功能著重於AEM Assets (具有Content Hub)、Dynamic Media （具有OpenAPI功能）、Assets Selector增強功能 — 標籤和過期的資產、內容片段Admin Console中的內容片段模型、Cloud Foundation — 在Cloud Manager中新增私人存放庫，以及Cloud Foundation — 內容還原。</p>
+                    <p class="is-size-6">2024年6月發行版本中的功能著重於AEM Assets與Content Hub、具有OpenAPI功能的Dynamic Media、Assets選擇器增強功能 — 標籤和過期的資產、內容片段Admin Console中的內容片段模型、Cloud Foundation — 在Cloud Manager中新增私人存放庫，以及Cloud Foundation — 內容還原。</p>
                 </div>
                 <a href="2024/2024-6-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">更多詳細資料</span>
@@ -201,7 +201,7 @@ ht-degree: 0%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-5-0.md" target="_blank" rel="referrer" title="2024.5.0 AEM版本總覽">2024.5.0 AEM版本總覽</a>
                     </p>
-                    <p class="is-size-6">此版本中的功能專注於 — AEM與Dynamic Media Universal Editor的新增Publish選項增強功能將最適化Forms Foundation元件移轉至核心元件最適化Forms Cloud Foundation增強功能中的其他驗證碼支援</p>
+                    <p class="is-size-6">此版本中的功能專注於 — AEM和Dynamic Media通用編輯器的新發佈選項增強功能最適化Forms基礎元件到核心元件的移轉最適化Forms雲端基礎增強功能中的其他驗證碼支援</p>
                 </div>
                 <a href="2024/2024-5-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">更多詳細資料</span>
@@ -224,7 +224,7 @@ ht-degree: 0%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-4-0.md" target="_blank" rel="referrer" title="2024.4.0 AEM版本總覽">2024.4.0 AEM版本總覽</a>
                     </p>
-                    <p class="is-size-6">此版本中的功能專注於Experience Manager Assets和Cloud Service創新，並包含下列專案：AEM Assets：在Assets中按一下資產/資料夾重新命名檢視使用自然語言的簡化搜尋體驗預覽動態轉譯，包括來自Assets的Smart Crop透過Express Quick Actions在AEM中檢視輕鬆編輯視訊使用Cloud Manager：CDN最佳化和調整版本清除和稽核記錄清除維護任務的自助設定將記錄串流延伸到Splunk以外的廠商，提供自助服務、專用IP支援ESI的CDN支援，也透過針對RDE的SDII改進的Java記錄體驗</p>
+                    <p class="is-size-6">此發行版本中的功能專注於Experience Manager Assets和Cloud Service創新，並包含下列專案：AEM Assets：在Assets中按一下資產/資料夾重新命名檢視使用自然語言的簡化搜尋體驗預覽動態轉譯，包括Assets的智慧型裁切透過Express快速動作在AEM中檢視視視視訊使用Cloud Manager：CDN最佳化和調整版本清除和稽核記錄清除維護任務的自助設定將記錄串流延伸至Splunk以外的廠商，提供自助服務、專用IP支援ESI的CDN支援，以及透過SDII改進的JavaRDE記錄體驗</p>
                 </div>
                 <a href="2024/2024-4-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">更多詳細資料</span>
@@ -247,7 +247,7 @@ ht-degree: 0%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-3-0.md" target="_blank" rel="referrer" title="2024.3.0 AEM版本總覽">2024.3.0 AEM版本總覽</a>
                     </p>
-                    <p class="is-size-6">高影響力體驗AEM製作包含所有表單內容的Edge Delivery ServicesEdge Delivery Services針對所有通用編輯器可操作的智慧AEM Sites — 產生內容變體(GenAI)快速開發CruD內容片段和模型的OpenAPI Cloud Service基礎進階網路其他顯著增強功能比較內容片段版本體驗片段的多網站管理支援更新內容匯入工具v1.51.0Sidekick擴充功能v6.41.0</p>
+                    <p class="is-size-6">高影響力體驗AEM使用Edge Delivery Services Edge Delivery Services編寫FormsContent for all， for all， Universal Editor Activable Intelligence AEM Sites — 產生內容變體(GenAI)快速開發CruD OpenAPIs for Content Fragments and ModelsCloud Service基礎進階網路其他顯著增強功能比較內容片段版本體驗片段的多網站管理支援更新內容匯入工具v1.51.0 Sidekick擴充功能v6.41.0</p>
                 </div>
                 <a href="2024/2024-3-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">更多詳細資料</span>
@@ -270,7 +270,7 @@ ht-degree: 0%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-1-0.md" target="_blank" rel="referrer" title="2024.1.0 AEM版本總覽">2024.1.0 AEM版本總覽</a>
                     </p>
-                    <p class="is-size-6">此發行版本中的功能著重於Experience Manager Assets和Cloud Service創新，並包括下列專案 — AEM Assets - AEM AssetsCloud Service與Adobe Journey Optimizer整合、智慧標籤封鎖清單、OOTB影片預覽轉譯、Cloud Manager — 自訂許可權</p>
+                    <p class="is-size-6">此發行版本中的功能著重於Experience Manager Assets和Cloud Service創新，並包括下列專案 — AEM Assets - AEM Assets Cloud Service與Adobe Journey Optimizer整合、智慧標籤封鎖清單、OOTB影片預覽轉譯、Cloud Manager — 自訂許可權</p>
                 </div>
                 <a href="2024/2024-1-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">更多詳細資料</span>
