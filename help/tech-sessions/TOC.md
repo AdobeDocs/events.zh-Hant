@@ -2,10 +2,10 @@
 user-guide-title: Experience Cloud技術研討會
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud技術研討會是主動式案例轉換方法，為客戶提供解決方案專屬的網路研討會。
-source-git-commit: 0060197dfc26604cda34f5380b9935c8e2bb791e
+source-git-commit: 373605f79b3122382e221252232a26535ff3109b
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 14%
+source-wordcount: '146'
+ht-degree: 15%
 
 ---
 
@@ -13,13 +13,14 @@ ht-degree: 14%
 # Experience Cloud技術研討會 {#tech-sessions}
 
 + [Experience Cloud技術研討會](overview.md)
-+ 2025 年{#2025}
++ 2025 版 {#2025}
+   + [Adobe Campaign Classic傳遞效能疑難排解](2025/acc-delivery-performance.md)
    + [充份運用Marketo Measure](2025/getting-most-marketo-measure.md)
    + Marketo移轉至Adobe Admin Console {#marketo-admin-console}
       + [移轉前](2025/marketo-pre-migration.md)
       + [移轉後](2025/marketo-post-migration.md)
-+ 2024 年{#2024}
-   + 即時內容資料平台{#rtcdp-office-hours-2024}
++ 2024 版 {#2024}
+   + 即時內容資料平台 {#rtcdp-office-hours-2024}
       + [AEP Web SDK疑難排解](2024/aep-web-sdk-troubleshooting.md)
       + [AI 助理](2024/ai-assistant.md)
       + [即時內容資料平台時間安排](2024/rtcdp-timings.md)
@@ -27,7 +28,7 @@ ht-degree: 14%
       + [追蹤訪客](2024/tracking-visitors.md)
    + Adobe Marketo {#adobe-marketo-office-hours-2024}
       + [冠軍技術研討會 — 5月](2024/champion-office-hours.md)
-+ 2023 年{#2023}
++ 2023 版 {#2023}
    + Adobe Analytics {#adobe-analytics}
       + [Launch最佳作法](2023/launch-best-practices.md)
    + Adobe Campaign {#adobe-campaign-office-hours}
