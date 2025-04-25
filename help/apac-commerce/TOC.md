@@ -2,9 +2,9 @@
 user-guide-title: APAC Commerce活動
 breadcrumb-title: APAC Commerce活動
 user-guide-description: Adobe Commerce活動是影片庫，專家和同業可在其中分享如何使用Adobe Commerce的想法和創意。
-source-git-commit: 888157b1ae32dcd6657ddbac51c448ac72c65933
+source-git-commit: 0019364eaad86248349d31290f25f758d762eaf4
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '147'
 ht-degree: 4%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 4%
 # APAC Commerce活動 {#apac-commerce-recordings}
 
 + [概觀](overview.md)
-+ 2024 {#2024}
++ 2024 版 {#2024}
    + [加速器日](2024/accelerator-day/overview.md)
    + 加速器日{#accelerator-day}
       + [隱藏：明天導覽](./2024/accelerator-day/navigating-tomorrow.md)
@@ -33,20 +33,19 @@ ht-degree: 4%
    + [創新焦點網路研討會](2024/innovation-spotlight.md)
    + [Adobe Commerce的安全性](2024/security-overview.md)
    + [有7種方式讓電子商務業務有機成長](2024/grow-ecommerce-business.md)
-+ 2023 {#2023}
++ 2023 版 {#2023}
    + [AI支援的個人化](2023/ai-personalisation.md)
    + [Adobe的PaaS Cloud Commerce](2023/adobes-paas-cloud-commerce.md)
    + [提升電子商務轉換](2023/ecommerce-conversions.md)
    + [可撰寫的商務策略](2023/composable-commerce.md)
    + [市場作為增長的力量](2023/marketplaces.md)
    + [旺季準備](2023/peak-season-prep.md)
-+ 2022 年{#2022}
++ 2022 版 {#2022}
    + [2022年假期整備](2022/holiday.md)
    + [New Relic Masterclass](2022/new-relic.md)
    + [全網站分析工具](2022/analysis-tool.md)
    + [使用MBI將資料轉換為價值](2022/mbi.md)
    + [升級至2.4.4](2022/upgrade.md)
-+ [發行藍圖重點說明](release-highlights.md)
 
 <!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)
