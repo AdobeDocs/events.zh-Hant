@@ -21,4 +21,4 @@ ht-degree: 0%
 
 本課程將透過瞭解Adobe Analytics如何追蹤網站資料並利用視覺效果獲得進一步深入分析來總結工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425988/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456741/?learn=on&captions=chi_hant)

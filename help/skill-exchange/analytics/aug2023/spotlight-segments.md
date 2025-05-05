@@ -21,4 +21,4 @@ ht-degree: 0%
 
 關於區段 — 如何分割您的資料以進行深入分析
 
->[!VIDEO](https://video.tv.adobe.com/v/3425989/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456618/?learn=on&captions=chi_hant)

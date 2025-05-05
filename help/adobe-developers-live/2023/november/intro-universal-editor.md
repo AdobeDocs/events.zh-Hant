@@ -24,4 +24,4 @@ ht-degree: 0%
 
 通用編輯器是新一代AEM內文中頁面編輯器，可解決AEM頁面編輯器或SPA編輯器目前的限制。 它獨立於架構、演算引擎和資料來源，因此提供開發人員所追求的所有自由，並真正實現通用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426341/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456480/?learn=on&captions=chi_hant)

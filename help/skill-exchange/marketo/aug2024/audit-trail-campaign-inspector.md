@@ -26,4 +26,4 @@ ht-degree: 0%
 * 使用稽核軌跡的最佳實務，包括檢查內容、頻率及重要原因，以及最新2024年6月版本的其他優點。
 * 如何使用Campaign Inspector定期檢閱Smart Campaigns，包括要尋找的專案（數量、批次與觸發、高延遲觸發可能會減慢執行個體速度的行銷活動，等等）。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432944/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456962/?learn=on&captions=chi_hant)

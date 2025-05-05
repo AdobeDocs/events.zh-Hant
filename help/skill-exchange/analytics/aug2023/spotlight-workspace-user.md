@@ -22,4 +22,4 @@ ht-degree: 0%
 
 平準 — 教導休閒的Workspace使用者
 
->[!VIDEO](https://video.tv.adobe.com/v/3425993/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456695/?learn=on&captions=chi_hant)

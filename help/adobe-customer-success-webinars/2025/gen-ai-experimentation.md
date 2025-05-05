@@ -27,7 +27,7 @@ ht-degree: 1%
 * 內容實驗與最佳化
 * Generative AI
 
->[!VIDEO](https://video.tv.adobe.com/v/3444453/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444470/?learn=on&enablevpops&captions=chi_hant)
 
 ## 重要技巧
 

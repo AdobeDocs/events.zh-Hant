@@ -18,4 +18,4 @@ ht-degree: 0%
 
 聽聽Walgreens的Nicholas Twillie和Alma Martinez談到Workfront的追蹤時間（透過時程表）。 然後觀看Christian Barnes展示時程表的技術方面。
 
->[!VIDEO](https://video.tv.adobe.com/v/341228/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457345/?quality=12&learn=on&captions=chi_hant)

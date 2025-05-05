@@ -24,4 +24,4 @@ ht-degree: 0%
 - 設定長期成功的課程
 - 有效推動策略性計畫
 
->[!VIDEO](https://video.tv.adobe.com/v/3427463/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456794/?learn=on&captions=chi_hant)

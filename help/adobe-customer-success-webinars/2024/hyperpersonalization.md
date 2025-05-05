@@ -19,7 +19,7 @@ ht-degree: 0%
 
 瞭解超個人化的新紀元。 我們將建立個人化成熟度模型的基礎，討論常見的阻斷因素，並提供開始使用的戰術秘訣。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429288/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457356/?learn=on&captions=chi_hant)
 
 ## 主要討論點
 

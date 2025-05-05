@@ -22,4 +22,4 @@ ht-degree: 0%
 
 在傳入和傳出頻道之間對齊內容可能很難組織。 Adobe Experience Manager可讓您建立傳入和傳出的內容，並在客戶歷程中使用該內容。 本課程說明與Adobe Target、Adobe Campaign、Adobe Journey Optimizer等的整合模式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426337/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455024/?learn=on&captions=chi_hant)

@@ -80,7 +80,7 @@ Adobe Developers Live 匯集多元背景的 Adobe 開發人員和有經驗的建
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/ai-and-personalization.md" title="將AI和Personalization帶入Adobe Experience ManagerEdge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440405/?format=jpeg&nocache=1733162925381" alt="將AI和Personalization帶入Adobe Experience ManagerEdge Delivery Services"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440417/?format=jpeg&nocache=1733162925381&captions=chi_hant" alt="將AI和Personalization帶入Adobe Experience ManagerEdge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -126,7 +126,7 @@ Adobe Developers Live 匯集多元背景的 Adobe 開發人員和有經驗的建
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/cdn-waf-aemcs.md" title="Adobe Experience Manager as a Cloud Service中的CDN與WAF設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440401/?format=jpeg&nocache=1733162925358" alt="Adobe Experience Manager as a Cloud Service中的CDN與WAF設定"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440613/?format=jpeg&nocache=1733162925358&captions=chi_hant" alt="Adobe Experience Manager as a Cloud Service中的CDN與WAF設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -237,7 +237,7 @@ Adobe Developers Live 匯集多元背景的 Adobe 開發人員和有經驗的建
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/extension-manager.md" title="Adobe Experience Manager Sites的Extension Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440404/?format=jpeg&nocache=1733162926516" alt="Adobe Experience Manager Sites的Extension Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440439/?format=jpeg&nocache=1733162926516&captions=chi_hant" alt="Adobe Experience Manager Sites的Extension Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -390,7 +390,7 @@ Adobe Developers Live 匯集多元背景的 Adobe 開發人員和有經驗的建
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/asset-migration-blueprint.md" title="Assets移轉藍圖" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440403/?format=jpeg&nocache=1733162927528" alt="Assets移轉藍圖"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440450/?format=jpeg&nocache=1733162927528&captions=chi_hant" alt="Assets移轉藍圖"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -413,7 +413,7 @@ Adobe Developers Live 匯集多元背景的 Adobe 開發人員和有經驗的建
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/performant-delivery.md" title="效能傳遞的最佳實務" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440399/?format=jpeg&nocache=1733162927540" alt="效能傳遞的最佳實務"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440428/?format=jpeg&nocache=1733162927540&captions=chi_hant" alt="效能傳遞的最佳實務"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

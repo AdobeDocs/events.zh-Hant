@@ -25,4 +25,4 @@ ht-degree: 0%
 * 瞭解如何與組織的業務使用案例保持一致
 * 即時CDP整備的關鍵資源與動作
 
->[!VIDEO](https://video.tv.adobe.com/v/3425603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457074/?learn=on&captions=chi_hant)

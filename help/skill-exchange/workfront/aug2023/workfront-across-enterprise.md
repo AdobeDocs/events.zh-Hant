@@ -31,4 +31,4 @@ IPG Health的Production Intelligence EVP Dale Whitchurch將分享他和他的團
 將Workfront整合至您更廣泛的技術棧疊中，並讓關鍵工作流程成熟的實際建議
 IPG如何為內容供應鏈奠定基礎
 
->[!VIDEO](https://video.tv.adobe.com/v/3425810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456674/?learn=on&captions=chi_hant)

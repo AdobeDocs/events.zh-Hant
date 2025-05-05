@@ -23,4 +23,4 @@ ht-degree: 0%
 
 本技能交流聚焦於新的AEM開發人員如何開始和部署新專案。 影片主題包括AEM專案原型、Cloud Manager設定和開發工具。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424017/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457285/?learn=on&captions=chi_hant)

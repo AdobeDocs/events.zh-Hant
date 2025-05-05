@@ -20,7 +20,7 @@ ht-degree: 0%
 
 瞭解如何建立網路表單，讓任何人都能完成並簽署，而不需要您啟動交易，甚至不需要知道簽署者的電子郵件地址。 您也會瞭解如何準備檔案範本，該檔案範本可用於個別簽名交易，以及張貼至唯一URL以進行廣泛共用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428187/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455461/?learn=on&captions=chi_hant)
 
 ## 要點
 

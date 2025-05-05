@@ -22,7 +22,7 @@ ht-degree: 0%
 
 加入Adobe資深產品經理Riya Midha，探索設定Adobe Experience Manager Assets Dynamic Media的最佳實務。 瞭解如何最佳化資產傳送、增強視訊串流、設定檢視器以及衡量和改善效能。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440399/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440428/?learn=on&enablevpops&captions=chi_hant)
 
 ## 社群討論
 

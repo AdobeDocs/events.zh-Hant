@@ -23,7 +23,7 @@ ht-degree: 9%
 
 在&#x200B;**[Experience League社群](https://adobe.ly/3kHfJED)**&#x200B;中繼續交談。
 
->[!VIDEO](https://video.tv.adobe.com/v/337578/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3457175/?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 ## 其他資源
 

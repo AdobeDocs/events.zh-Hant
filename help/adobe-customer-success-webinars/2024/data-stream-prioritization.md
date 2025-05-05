@@ -28,4 +28,4 @@ ht-degree: 0%
 - 瞭解資料流優先順序的重要性和最佳實務
 - 即時最佳化行銷活動
 
->[!VIDEO](https://video.tv.adobe.com/v/3427302/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456816/?learn=on&captions=chi_hant)

@@ -24,4 +24,4 @@ ht-degree: 0%
 
 發掘Adobe Commerce的未來！ 探索我們最尖端的簡報，瞭解由創作AI和3D技術支援的Commerce平台的最新增強功能。 瞭解這些創新如何重新定義客戶參與度並推動業務成功。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426312/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456467/?learn=on&captions=chi_hant)

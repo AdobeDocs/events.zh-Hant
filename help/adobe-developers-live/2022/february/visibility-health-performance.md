@@ -18,4 +18,4 @@ ht-degree: 0%
 
 在這場會議中，您將瞭解可用於監控Adobe Commerce平台的健全狀態、安全性和品質的工具。
 
->[!VIDEO](https://video.tv.adobe.com/v/340624/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456873/?quality=12&learn=on&captions=chi_hant)

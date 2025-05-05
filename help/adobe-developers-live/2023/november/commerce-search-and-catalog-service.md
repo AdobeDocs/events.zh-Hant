@@ -24,4 +24,4 @@ ht-degree: 0%
 
 瞭解搜尋和目錄服務，以強化和最佳化您的店面體驗。  此示範說明商務服務聯結器，以及如何使用GraphQL在店面中使用它們。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425806/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454747/?learn=on&captions=chi_hant)

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 在Salesforce中自動執行資料導向檔案的日常工作，讓您的銷售團隊在數秒內就能掌握預先填入的提案、合約、發票等資訊。 Document Builder可讓您在傳送檔案以索取簽名之前，使用Salesforce資料動態產生檔案，讓原本繁瑣的程式變得更簡單化、精簡。 我們將逐步說明此程式，必定能協助您節省時間和精力。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428193/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454924/?learn=on&captions=chi_hant)
 
 ## Document Builder適用於Acrobat Sign有何用途？
 

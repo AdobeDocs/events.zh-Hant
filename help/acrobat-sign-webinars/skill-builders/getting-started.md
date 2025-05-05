@@ -20,7 +20,7 @@ ht-degree: 0%
 
 瞭解Acrobat Sign的基本知識，以開始快速簽署檔案。 我們將向您展示如何：準備並傳送您的檔案以進行電子簽章檢視您的簽署者所看到的內容管理和追蹤合約進度建立您自己的簽名等等。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428183/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455476/?learn=on&captions=chi_hant)
 
 ## 要點
 

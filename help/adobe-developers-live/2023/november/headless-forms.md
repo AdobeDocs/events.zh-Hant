@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Headless最適化Forms是在Adobe Experience Manager平台中建立和管理Headless網路表單的解決方案。 此功能可讓組織建立、發佈和管理互動式表單，這些表單可透過API存取及互動，而非透過傳統的圖形使用者介面。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426336/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454979/?learn=on&captions=chi_hant)

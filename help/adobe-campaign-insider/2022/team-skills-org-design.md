@@ -20,4 +20,4 @@ ht-degree: 0%
 
 在現今的跨頻道與數位世界中，消費者能夠隨時隨地以自己想要的方式參與。 行銷人員必須做好準備，否則將面臨客戶體驗不佳，甚至更糟的流失風險。 答案不僅在於行銷平台可支援跨頻道協調訊息，還在於行銷組織可支援所有頻道行銷活動的規劃、執行和測量。
 
->[!VIDEO](https://video.tv.adobe.com/v/343871/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457062/?quality=12&learn=on&captions=chi_hant)

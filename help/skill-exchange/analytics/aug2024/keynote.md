@@ -26,4 +26,4 @@ ht-degree: 1%
 * 瞭解提供正確內容並確保有效資料使用的最佳實務。
 * 探索Adobe Analytics和Customer Journey Analytics如何協助讓您的團隊擁有資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432751/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453598/?learn=on&captions=chi_hant)

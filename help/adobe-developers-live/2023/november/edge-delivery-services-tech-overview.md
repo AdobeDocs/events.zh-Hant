@@ -25,4 +25,4 @@ ht-degree: 5%
 
 或許，在AEM領域談論最多的變化，就是新加入的AEM系列新Edge Delivery Services的詳細技術概觀。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426339/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455938/?learn=on&captions=chi_hant)

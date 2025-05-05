@@ -20,4 +20,4 @@ ht-degree: 0%
 
 導覽是訪客找到您網站並進入您的轉換漏斗的關鍵所在。 瞭解如何透過Adobe Analytics追蹤導覽效率及如何加以改善。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425992/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457378/?learn=on&captions=chi_hant)

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 瞭解Acrobat Sign中的大量傳送功能如何節省您的時間。 如果您需要多人簽署全企業原則更新、NDA或任何其他檔案的唯一副本，大量傳送可讓您準備檔案一次、按一下即可傳送給多位簽署者，並輕鬆追蹤回應。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428188/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454906/?learn=on&captions=chi_hant)
 
 ## 要點
 

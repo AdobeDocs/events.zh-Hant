@@ -24,4 +24,4 @@ ht-degree: 0%
 
 絕佳的體驗效能是體驗成功的關鍵。 在這場會議中，我們將與您分享我們的10大提示最佳實務，以協助您的開發人員更快速地打造您的Adobe Experience Manager網站。
 
->[!VIDEO](https://video.tv.adobe.com/v/3411300/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457186/?quality=12&learn=on&captions=chi_hant)

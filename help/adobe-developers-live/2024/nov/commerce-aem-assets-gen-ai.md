@@ -22,7 +22,7 @@ ht-degree: 0%
 
 探索Adobe的資深電腦科學家Ankush Malhotra和Adobe的資深軟體工程師Pablo Moreno如何整合Adobe Experience Manager Assets和GenAI與Adobe Express，以提升Adobe Commerce商店。 利用品牌上核准的影像參考、改善媒體內容品質，並透過此強大的組合提升電子商務效能。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440400/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440560/?learn=on&enablevpops&captions=chi_hant)
 
 ## 社群討論
 

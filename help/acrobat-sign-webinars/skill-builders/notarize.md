@@ -20,7 +20,7 @@ ht-degree: 0%
 
 公證整合 — 以更快、更輕鬆的方式公證您的檔案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428195/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454383/?learn=on&captions=chi_hant)
 
 ## 涵蓋的關鍵主題
 

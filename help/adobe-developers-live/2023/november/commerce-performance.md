@@ -24,4 +24,4 @@ ht-degree: 0%
 
 在這段鼓舞人心的簡報中，我們深入探討「更完美結合」的故事，其中Adobe Commerce可順暢地整合我們全方位的技術套件。 探索此協同合作如何促進效率、創新和整體客戶體驗，將您的業務提升到新的高度
 
->[!VIDEO](https://video.tv.adobe.com/v/3426311/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455989/?learn=on&captions=chi_hant)

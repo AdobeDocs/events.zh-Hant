@@ -19,7 +19,7 @@ ht-degree: 0%
 
 深入探討Acrobat Sign製作環境中可用的選項。 涵蓋的主題包括：使用Acrobat準備Acrobat Sign檔案範本的概觀、文字標籤和Acrobat Sign製作環境。 深入瞭解製作環境，包括複製與複製欄位、新增專業欄位、指派欄位，以及設定條件和計算欄位。 如何傳送範本以索取簽名，比較檔案範本與表單欄位範本。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428189/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455918/?learn=on&captions=chi_hant)
 
 ## 要點
 

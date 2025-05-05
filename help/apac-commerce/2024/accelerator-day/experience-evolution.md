@@ -25,6 +25,6 @@ ht-degree: 0%
 
 + 由Enterprise Commerce專家 — AdobeMike Lynch主講
 
->[!VIDEO](https://video.tv.adobe.com/v/3429266/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454449/?learn=on&captions=chi_hant)
 
 [&lt;返回Adobe Commerce加速器日](./overview.md)

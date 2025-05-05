@@ -20,4 +20,4 @@ ht-degree: 0%
 
 在這場會議中，產品行銷的Director Richard Whitehead將逐步帶您瞭解Workfront的演化，包括亮點、新功能和可用功能，並以產品創新結束。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425894/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453840/?learn=on&captions=chi_hant)

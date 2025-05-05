@@ -21,7 +21,7 @@ ht-degree: 0%
 
 瞭解如何透過Adobe資深軟體工程師Iryna Lagno在Headless編輯介面和通用編輯器中為作者擴充Adobe Experience Manager功能。 啟用跨組織UI擴充功能，甚至會發佈擴充功能，以供其他人透過Extension Manager運用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440404/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440439/?learn=on&enablevpops&captions=chi_hant)
 
 ## 社群討論
 

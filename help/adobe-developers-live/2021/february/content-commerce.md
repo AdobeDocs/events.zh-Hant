@@ -27,6 +27,6 @@ ht-degree: 0%
 
 在&#x200B;**[Experience League社群](https://adobe.ly/36Yd3v6)**&#x200B;中繼續交談。
 
->[!VIDEO](https://video.tv.adobe.com/v/331851/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454405/?quality=12&learn=on&hidetitle=true&captions=chi_hant)
 
 按一下&#x200B;**[這裡](/help/adobe-developers-live/assets/content-commerce.pdf)**&#x200B;以取得工作階段投影片。

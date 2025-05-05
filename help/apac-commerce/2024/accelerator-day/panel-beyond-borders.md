@@ -28,6 +28,6 @@ ht-degree: 0%
 + 卡羅萊納de Figuerido — 克瑞比·克雷梅
 + 侯賽因·穆斯塔法
 
->[!VIDEO](https://video.tv.adobe.com/v/3429265/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457244/?learn=on&captions=chi_hant)
 
 [&lt;返回Adobe Commerce加速器日](./overview.md)

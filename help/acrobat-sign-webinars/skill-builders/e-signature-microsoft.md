@@ -20,7 +20,7 @@ ht-degree: 0%
 
 將Adobe Acrobat Sign新增至現有工作流程，以擴展您使用Microsoft應用程式（如Word、Outlook和Sharepoint）的方式。 此課程會教導您如何開始簡化常見Microsoft應用程式中的檔案程式，因此您不需要僅為了取得簽名或檢查狀態而切換內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428185/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455061/?learn=on&captions=chi_hant)
 
 ## Acrobat Sign整合支援哪些應用程式？
 

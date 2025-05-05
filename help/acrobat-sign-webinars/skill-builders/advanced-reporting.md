@@ -20,7 +20,7 @@ ht-degree: 0%
 
 瞭解Acrobat Sign中可用的分析和報告，並瞭解如何檢視資料以幫助您提供推動業務前進所需的深入分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428191/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454416/?learn=on&captions=chi_hant)
 
 ## 新的報告和匯出功能
 

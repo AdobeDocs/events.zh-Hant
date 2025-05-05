@@ -20,7 +20,7 @@ ht-degree: 0%
 
 致電所有Acrobat Sign管理員和一般使用者/個人貢獻者。 此課程將涵蓋工作流程的建立與使用。 身為Acrobat Sign群組或帳戶管理員，您可以瞭解如何定義預先設定的工作流程，以自動將要簽名的檔案路由至正確的對象，然後授予整個Acrobat Sign群組的存取權。 身為一般使用者，瞭解如何運用這些工作流程，確保檔案在第一次簽署時確實簽署，而且每次都簽署。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428192/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454913/?learn=on&captions=chi_hant)
 
 ## 涵蓋的主題
 

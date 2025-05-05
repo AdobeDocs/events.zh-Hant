@@ -20,7 +20,7 @@ ht-degree: 0%
 
 此網路研討會將展示整合這些概念如何提高效率、改善客戶體驗，以及支援組織內以資料為導向的決策。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432998/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457019/?learn=on&captions=chi_hant)
 
 ## 重要技巧
 

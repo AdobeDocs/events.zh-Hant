@@ -26,4 +26,4 @@ Adobe Analytics中的區段可能非常強大，但隨之而來的是複雜和�
 * 排除邏輯的力量
 * 選擇正確的設定以成功
 
->[!VIDEO](https://video.tv.adobe.com/v/3432748/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456940/?learn=on&captions=chi_hant)

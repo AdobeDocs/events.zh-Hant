@@ -26,7 +26,7 @@ ht-degree: 0%
 * 使用Workfront支援精益專案管理
 * 持續學習和適應
 
->[!VIDEO](https://video.tv.adobe.com/v/3429287/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456721/?learn=on&captions=chi_hant)
 
 ## 會議概觀
 

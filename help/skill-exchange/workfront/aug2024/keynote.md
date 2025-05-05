@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Workfront：開啟主題演講
 
->[!VIDEO](https://video.tv.adobe.com/v/3433193/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454493/?learn=on&captions=chi_hant)

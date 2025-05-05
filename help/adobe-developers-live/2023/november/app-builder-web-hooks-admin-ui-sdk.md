@@ -23,4 +23,4 @@ ht-degree: 0%
 
 瞭解AdobeApp Builder、AdobeIO、Webhook、管理UI SDK。  以下介紹每個新功能，協助您瞭解常見的使用案例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425805/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456684/?learn=on&captions=chi_hant)

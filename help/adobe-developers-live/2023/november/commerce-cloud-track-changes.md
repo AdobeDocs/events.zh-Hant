@@ -24,4 +24,4 @@ ht-degree: 0%
 
 透過建立指令碼整合，追蹤New Relic中的Commerce專案部署事件。 輕鬆啟用New Relic追蹤變更功能，以監控雲端基礎結構專案上Commerce的部署事件。 「部署」資料收集可協助分析部署變更對整體效能的影響，例如CPU、記憶體、交易回應時間等。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426313/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456457/?learn=on&captions=chi_hant)

@@ -25,4 +25,4 @@ ht-degree: 0%
 * 高階架構概觀
 * 資料收集與啟用策略的考量事項
 
->[!VIDEO](https://video.tv.adobe.com/v/3426006/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456235/?learn=on&captions=chi_hant)

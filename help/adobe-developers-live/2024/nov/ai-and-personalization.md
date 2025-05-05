@@ -21,7 +21,7 @@ ht-degree: 0%
 
 探索將個人化與AI整合至Adobe Experience ManagerEdge Delivery Services的基礎架構。 加入Cognizant Netcentric首席解決方案架構師Andreas Haller，示範語意搜尋和進階使用案例，以強化您的專案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440405/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440417/?learn=on&enablevpops&captions=chi_hant)
 
 ## 社群討論
 

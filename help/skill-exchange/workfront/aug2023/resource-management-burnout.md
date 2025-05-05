@@ -30,4 +30,4 @@ ht-degree: 0%
 * 如何納入休假追蹤
 * Mayo Clinic如何使用Analytics和Resource Manager為團隊提供透明度，以及規劃新工作的範例
 
->[!VIDEO](https://video.tv.adobe.com/v/3425811/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457107/?learn=on&captions=chi_hant)
