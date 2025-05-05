@@ -17,32 +17,32 @@ ht-degree: 4%
    + 2023 年{#2023}
       + 十一月{#nov2023}
          + [具影響力的資料視覺效果](analytics/nov2023/impactful-data-visualizations.md)
-      + {#aug2023}年8月
+      + 年8月{#aug2023}
          + [解鎖Adobe Analytics中處理規則的強大功能](analytics/aug2023/processing-rules.md)
-      + {#feb2023}年2月
+      + 年2月{#feb2023}
          + [建立資料導向文化](analytics/feb2023/data-driven-culture.md)
          + [建立資料導向文化後續問答](analytics/feb2023/data-driven-culture-q-and-a.md)
    + 2022 年{#2022}
       + 十一月{#nov2022}
          + [提示與秘訣](analytics/nov2022/tips-and-tricks.md)
          + [Champion提示與秘訣後續問答](analytics/nov2022/tips-and-tricks-q-and-a.md)
-      + {#aug2022}年8月
+      + 年8月{#aug2022}
          + [資料品質和採用](analytics/aug2022/data-quality.md)
-      + {#jun2022}年6月
+      + 年6月{#jun2022}
          + [可能的說明檔案任務](analytics/june2022/mission-possible.md)
       + 3月{#mar2022}
          + [使用資料訴說有影響力的故事](analytics/mar2022/stories-with-data.md)
 + Commerce {#commerce}
-   + {#feb2024}年2月
+   + 年2月{#feb2024}
       + [Agile SDLC中的通訊、需求和測試](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
    + 十一月{#nov2023}
       + [使用AEM核心元件提供卓越的開發人員](experience-manager/nov2023/core-components.md)
-   + {#sept2023}年9月
+   + 年9月{#sept2023}
       + [深入探討AEM Sites的工具](experience-manager/sept2023/aem-sites-tools.md)
    + 7月{#july2023}
-      + 在Cloud Service中[有效的安全性策略](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
-   + {#may2023}年5月
+      + [在Cloud Service中有效的安全性策略](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+   + 年5月{#may2023}
       + [掌握內容與體驗片段](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
    + 2024年11月{#nov2024}
@@ -67,25 +67,25 @@ ht-degree: 4%
       + [如何讓您的 [!DNL Adobe Marketo Engage] 內容可擴充](marketo/mar2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 年{#2025}
-      + {#february2025}年2月
+      + 年2月{#february2025}
          + [清楚說明影響 — 如何測量和共用Workfront值](workfront/2025/how-to-measure-and-share-workfront-value.md)
    + 2024 年{#2024}
-      + {#april2024}年4月
+      + 年4月{#april2024}
          + [人員配備您的Workfront系統管理員實務](workfront/2024/04/staffing-your-workfront-system-admin-practice.md)
    + 2023 年{#2023}
       + 十一月{#november}
          + [使用Workfront進行培訓和賦能](workfront/2023/11/using-workfront-for-training-and-enablement.md)
       + 7月{#july}
          + [與一般使用者通訊](workfront/2023/07/communicating-with-end-users.md)
-      + {#june}年6月
+      + 年6月{#june}
          + [建立Workfront卓越中心](workfront/2023/06/establishing-a-workfront-center-of-excellence.md)
-      + {#may}年5月
+      + 年5月{#may}
          + [專案範本基礎](workfront/2023/05/foundations-of-project-templates.md)
-      + {#april}年4月
+      + 年4月{#april}
          + [在Workfront自動化中尋找效率](workfront/2023/04/finding-efficiencies-in-workfront-automation.md)
       + 3月{#march}
          + [透過介面設計改善使用者體驗](workfront/2023/03/improving-user-experience-with-interface-design.md)
-      + {#february}年2月
+      + 年2月{#february}
          + [接管現有Workfront執行個體的秘訣](workfront/2023/02/tips-for-taking-over-an-existing-workfront-instance.md)
    + 2022 年{#2022}
       + 十二月{#december}
@@ -94,20 +94,20 @@ ht-degree: 4%
          + [成功的使用者採用](workfront/2022/11/successful-end-user-adoption.md)
       + 10月{#october}
          + [工作流程和流程設計](workfront/2022/10/workflow-and-process-design.md)
-      + {#september}年9月
+      + 年9月{#september}
          + [資源管理快速入門](workfront/2022/09/getting-started-with-resource-management.md)
-      + {#august}年8月
+      + 年8月{#august}
          + [系統維護和清理](workfront/2022/08/system-maintenance-and-cleanup.md)
       + 7月{#july}
          + [關於請求佇列](workfront/2022/07/all-about-request-queues.md)
-      + {#june}年6月
+      + 年6月{#june}
          + [Operational Reporting的基礎](workfront/2022/06/foundations-of-operational-reporting.md)
-      + {#may}年5月
+      + 年5月{#may}
          + [善用群組管理員](workfront/2022/05/leveraging-the-group-admin.md)
-      + {#april}年4月
+      + 年4月{#april}
          + [設計理想的使用者體驗](workfront/2022/04/designing-an-ideal-user-experience.md)
       + 3月{#march}
          + [什麼是Workfront控管？](workfront/2022/03/what-is-workfront-governance.md)
-      + {#february}年2月
+      + 年2月{#february}
          + [瞭解使用者管理](workfront/2022/02/understanding-user-management.md)
 + [瞭解如何提交傑出的Adobe Champion應用程式](./adobe-champion-application.md)

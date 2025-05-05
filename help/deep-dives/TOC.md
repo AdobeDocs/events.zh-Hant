@@ -20,7 +20,7 @@ ht-degree: 3%
 # 深入探討 {#deep-dives-recordings}
 
 + [概觀](overview.md)
-+ Marketo {#deep-dives-marketo}中的深入探討
++ Marketo中的深入探討 {#deep-dives-marketo}
    + [Admin Console移轉](admin-console.md)
    + [API](api.md)
    + [使用Marketo API自動化及簡化Campaign作業](campaign-operations.md)

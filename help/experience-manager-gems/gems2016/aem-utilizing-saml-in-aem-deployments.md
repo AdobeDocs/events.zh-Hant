@@ -32,7 +32,7 @@ ht-degree: 0%
 ## 相關連結 {#related-links}
 
 * [SAML 2.0驗證處理常式](https://docs.adobe.com/docs/en/aem/6-2/administer/security/saml-2-0-authenticationhandler.html)
-* OASIS安全性宣告標籤語言(SAML) V2.0](https://docs.oasis-open.org/security/saml/v2.0/saml-profiles-2.0-os.pdf)的[[SAMLProf]設定檔
-* OASIS安全性宣告標籤語言(SAML) V2.0](https://docs.oasis-open.org/security/saml/v2.0/saml-bindings-2.0-os.pdf)的[[SAMLBind]繫結
+* OASIS安全性宣告標籤語言(SAML) V2.0[&#128279;](https://docs.oasis-open.org/security/saml/v2.0/saml-profiles-2.0-os.pdf)的[SAMLProf]設定檔
+* OASIS安全性宣告標籤語言(SAML) V2.0[&#128279;](https://docs.oasis-open.org/security/saml/v2.0/saml-bindings-2.0-os.pdf)的[SAMLBind]繫結
 * [[SAMLTech]安全性宣告標籤語言(SAML) V2.0技術概覽](https://www.oasis-open.org/committees/download.php/27819/sstc-saml-tech-overview-2.0-cd-02.pdf)
 * [SAML V2.0執行概覽](https://www.oasis-open.org/committees/download.php/13525/sstc-saml-exec-overview-2.0-cd-01-2col.pdf)
