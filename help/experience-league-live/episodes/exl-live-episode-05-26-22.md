@@ -31,10 +31,10 @@ ht-degree: 0%
 ### 一些實用連結
 
 * [教學課程：使用Web SDK實作Adobe Experience Cloud](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=zh-Hant){target="_blank"}
-* [在Web SDK中自動收集的資訊](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
+* [在Web SDK中自動收集的資訊](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=zh-Hant){target="_blank"}
 * [免費的Web SDK布建](https://adobe.ly/websdkaccess){target="_blank"}
-* [Web SDK中第一方裝置識別碼的資訊](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
-* [Adobe Experience Platform Debugger概述和下載](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
+* [Web SDK中第一方裝置識別碼的資訊](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html?lang=zh-Hant){target="_blank"}
+* [Adobe Experience Platform Debugger概述和下載](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=zh-Hant){target="_blank"}
 * [行動SDK檔案](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
-* [混合式應用程式集合資訊](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}
+* [混合式應用程式集合資訊](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html?lang=zh-Hant){target="_blank"}
 

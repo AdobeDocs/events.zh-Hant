@@ -101,22 +101,22 @@ ht-degree: 4%
         <br/>
    </td> 
    <td>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html">
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=zh-Hant">
       <img alt="負責任的客戶資料管理的十大考量因素" src="./assets/ten-considerations-for-responsible-customer-data-management.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>負責任的客戶資料管理的十大考量因素</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=zh-Hant"><strong>負責任的客戶資料管理的十大考量因素</strong></a>
          <br/>
       </div>
       <p>
         <br/>
     </td>
     <td>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html">
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=zh-Hant">
       <img alt="提升行銷人員作為資料管理員的角色" src="./assets/elevating-the-marketers-role-as-a-data-steward.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html"><strong>提升行銷人員的資料管理員角色</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=zh-Hant"><strong>提升行銷人員的資料管理員角色</strong></a>
          <br/>
       </div>
       <p>

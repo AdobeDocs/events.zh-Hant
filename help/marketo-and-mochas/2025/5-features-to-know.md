@@ -30,23 +30,23 @@ ht-degree: 2%
    * [2025年須知的5項功能](../assets/marketo-&-mochas-5-features-handout.pdf)
 
 * **目標帳戶管理**
-   * [概觀](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
+   * [概觀](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
    * [常見問題集](https://nation.marketo.com/t5/knowledgebase/target-account-management-previously-abm-faq-product-facts-and/ta-p/301199)
    * [提示與秘訣影片](https://nation.marketo.com/t5/product-blogs/marketo-engage-abm-tips-amp-tricks-with-corey-bayless/ba-p/304664)
 
 * **預測客群**
-   * [概觀](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
+   * [概觀](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
    * [使用案例](https://nation.marketo.com/t5/product-blogs/using-predictive-audiences-in-marketo-engage/ba-p/301937)
 
 * **進階歷程分析**
-   * [報告總覽](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
-   * [生命週期Modeler概觀](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
+   * [報告總覽](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
+   * [生命週期Modeler概觀](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
 
 * **沙箱**
-   * [概觀](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
+   * [概觀](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
 
 * **工作區與分割區**
-   * [概觀](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
+   * [概觀](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
 
 ## 重要技巧
 

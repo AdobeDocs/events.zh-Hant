@@ -36,5 +36,5 @@ AdobeQE開發人員David Catalan
 
 [取得檔案](assets/q-a-developer-mode-7-16-14.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

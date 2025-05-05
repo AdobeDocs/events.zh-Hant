@@ -30,5 +30,5 @@ Cristine和Mathias將提供AEM中增強的翻譯整合功能，以及管理多�
 [取得檔案](assets/09302015-aem-gems-translation-integration-and-best-practices.pdf)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

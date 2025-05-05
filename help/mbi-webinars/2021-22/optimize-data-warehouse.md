@@ -43,5 +43,5 @@ ht-degree: 0%
 
 ## 有用的資源
 
-[正在最佳化您的資料庫以進行分析](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html)
-[分段和篩選的建議資料Dimension](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[正在最佳化您的資料庫以進行分析](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/opt-db-analysis.html?lang=zh-Hant)
+[分段和篩選的建議資料Dimension](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=zh-Hant)

@@ -34,5 +34,5 @@ ht-degree: 0%
 
 [取得檔案](assets/aem-gems-customizing-touch-ui-dialog-fields.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

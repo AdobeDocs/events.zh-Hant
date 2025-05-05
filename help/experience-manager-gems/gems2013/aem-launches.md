@@ -33,5 +33,5 @@ Gilles Knobloch，Adobe首席開發人員
 [文件](https://docs.adobe.com/docs/en/cq/current/wcm/launches.html)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

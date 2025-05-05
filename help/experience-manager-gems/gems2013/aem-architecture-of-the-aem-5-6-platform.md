@@ -37,5 +37,5 @@ Felix Meschberger，Adobe首席科學家
 [文件](https://docs.adobe.com/docs/en/cq/5-6-1/exploring/introduction.html?wcmmode=disabled)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

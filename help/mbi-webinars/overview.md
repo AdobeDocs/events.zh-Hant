@@ -27,11 +27,11 @@ Commerce Intelligence網路研討會系列是供Commerce Intelligence客戶定�
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html?lang=zh-Hant">
       <img alt="Commerce Intelligence快速入門" src="https://video.tv.adobe.com/v/3425736?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2023/getting-started.html?lang=zh-Hant">
         <strong>開始使用Commerce Intelligence</strong>
       </a>
     </div>
@@ -40,11 +40,11 @@ Commerce Intelligence網路研討會系列是供Commerce Intelligence客戶定�
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html?lang=zh-Hant">
       <img alt="在Adobe Commerce Intelligence中管理資料集" src="https://video.tv.adobe.com/v/3427547?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html?lang=zh-Hant">
         <strong>在Adobe Commerce Intelligence中管理資料集</strong>
       </a>
     </div>
@@ -53,11 +53,11 @@ Commerce Intelligence網路研討會系列是供Commerce Intelligence客戶定�
     <p>
   </td>
    <td>
-    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html?lang=zh-Hant">
       <img alt="最佳化您的MBIData Warehouse" src="https://video.tv.adobe.com/v/342562?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2021/optimize-data-warehouse.html?lang=zh-Hant">
         <strong>最佳化您的MBIData Warehouse</strong>
       </a>
     </div>
@@ -74,5 +74,5 @@ Commerce Intelligence網路研討會系列是供Commerce Intelligence客戶定�
 
 ## 有用的資源
 
-- [Commerce Intelligence影片和教學課程](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
-- [Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html)
+- [Commerce Intelligence影片和教學課程](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html?lang=zh-Hant)
+- [Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=zh-Hant)

@@ -34,5 +34,5 @@ ht-degree: 0%
 
 [取得檔案](assets/08262015-commons-and-tools.pptx)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

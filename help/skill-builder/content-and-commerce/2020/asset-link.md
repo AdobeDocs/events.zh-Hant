@@ -31,10 +31,10 @@ Asset Link是您與Adobe Creative Cloud的原始連線。
 
 ## 資源
 
-* [Adobe資產連結影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html)
-* 適用於Adobe XD的[資產連結](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
-* [為AEM Assets Asset Link設定Adobe 6.5和6.4](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
-* [為Adobe資產連結設定AEM as a Cloud Service](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
+* [Adobe資產連結影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html?lang=zh-Hant)
+* 適用於Adobe XD的[資產連結](https://helpx.adobe.com/tw/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
+* [為AEM Assets Asset Link設定Adobe 6.5和6.4](https://helpx.adobe.com/tw/enterprise/using/configure-aem-assets-6-for-asset-link.html)
+* [為Adobe資產連結設定AEM as a Cloud Service](https://helpx.adobe.com/tw/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
 
 ## 系列錄製
 

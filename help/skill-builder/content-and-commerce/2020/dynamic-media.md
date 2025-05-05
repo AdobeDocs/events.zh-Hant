@@ -31,7 +31,7 @@ ht-degree: 1%
 
 ## 資源
 
-*[Dynamic Media影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html#dynamic-media)
+*[Dynamic Media影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html?lang=zh-Hant#dynamic-media)
 *[多媒體策略Kickstart指南](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[多媒體策略影像預設集指南](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
 *[影像是所有部落格系列](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)

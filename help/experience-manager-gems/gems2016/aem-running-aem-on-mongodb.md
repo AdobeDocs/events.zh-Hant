@@ -32,10 +32,10 @@ ht-degree: 0%
 
 >[!WARNING]
 >
->AEM 6.4版和更舊版本已終止服務，Adobe不再銷售。  Adobe建議升級至最新版本 — [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)。  可以從此[頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)存取檔案的封存版本。
+>AEM 6.4版和更舊版本已終止服務，Adobe不再銷售。  Adobe建議升級至最新版本 — [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=zh-Hant)。  可以從此[頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant)存取檔案的封存版本。
 >
 >由於它與此工作階段有關，請參閱AEM 6.1檔案中的&#x200B;*Oak查詢和索引：使用MongoDB的AEM*。
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

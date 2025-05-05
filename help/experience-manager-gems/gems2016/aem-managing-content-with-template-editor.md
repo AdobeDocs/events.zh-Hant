@@ -36,6 +36,6 @@ Adobe Experience Manager 6.2匯入了新的範本編輯器，提供強大的全�
 
 >[!WARNING]
 >
->AEM 6.4版和更舊版本已終止服務，Adobe不再銷售。  Adobe建議升級至最新版本 — [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)。  可以從此[頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)存取檔案的封存版本。
+>AEM 6.4版和更舊版本已終止服務，Adobe不再銷售。  Adobe建議升級至最新版本 — [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=zh-Hant)。  可以從此[頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant)存取檔案的封存版本。
 >
 >與此工作階段相關請參閱AEM 6.2檔案中的&#x200B;*頁面範本*&#x200B;和&#x200B;*建立頁面範本*。

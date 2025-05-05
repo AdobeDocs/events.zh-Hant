@@ -51,7 +51,7 @@ _向專家提問_&#x200B;由兩個工作階段組成：
 
 >[!TIP]
 >
->如果您是Commerce Intelligence的新手，[快速入門影片系列](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html)會提供完整概覽，讓您透過資料彙總、分析和視覺效果，獲得更好的業務見解和結果。
+>如果您是Commerce Intelligence的新手，[快速入門影片系列](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html?lang=zh-Hant)會提供完整概覽，讓您透過資料彙總、分析和視覺效果，獲得更好的業務見解和結果。
 
-- [Commerce Intelligence簡介](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-- [Commerce Intelligence支援](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+- [Commerce Intelligence簡介](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html?lang=zh-Hant)
+- [Commerce Intelligence支援](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=zh-Hant)

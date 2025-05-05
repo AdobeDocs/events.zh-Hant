@@ -31,4 +31,4 @@ ht-degree: 0%
 **簡報者投影片**
 
 [取得檔案](assets/cq-gems-on-aem-sonarqube-2015-02.pdf)
-[返回總覽](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[返回總覽](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)

@@ -30,8 +30,8 @@ Gabriel Walt，Adobe產品經理
 
 ## 資源 {#resources}
 
-[檔案： AEM SPA編輯器](https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-overview.html)
+[檔案： AEM SPA編輯器](https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-overview.html?lang=zh-Hant)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

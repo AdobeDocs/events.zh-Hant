@@ -37,5 +37,5 @@ Adobe資深電腦科學家Dominique Pfister
 [更多資訊](https://adobe-consulting-services.github.io/acs-aem-commons/features/dispatcher-ttl/index.html)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

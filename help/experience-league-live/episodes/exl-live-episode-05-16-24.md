@@ -28,6 +28,6 @@ ht-degree: 0%
 
 若要向Adobe專家以及您的同業提出問題或取得介面，請造訪[Experience League社群討論](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538){target="_blank"}。
 
-如需其他檔案，請參閱[使用Adobe Experience Platform Web SDK實作Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics/implementation/aep-edge/web-sdk/overview)。
+如需其他檔案，請參閱[使用Adobe Experience Platform Web SDK實作Adobe Analytics](https://experienceleague.adobe.com/zh-hant/docs/analytics/implementation/aep-edge/web-sdk/overview)。
 
 若要參加即將舉行的&#x200B;**網路研討會，瞭解實作Web SDK**&#x200B;的戰略步驟，請在[這裡](https://engage.adobe.com/step_by_step_guide_implement.html)註冊。

@@ -29,5 +29,5 @@ François Le Droff，資深電腦科學家，雲端整合，Adobe
 [取得檔案](assets/gem-2018-05-aem-events.pdf)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

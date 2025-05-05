@@ -24,7 +24,7 @@ ht-degree: 4%
 
 Gabriel Walt，Adobe產品經理
 
-[AEM核心元件檔案](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
+[AEM核心元件檔案](https://helpx.adobe.com/tw/experience-manager/core-components/user-guide.html)
 
 AEM Gems - AEM核心元件 — 日期： 2018/12/05
 

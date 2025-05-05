@@ -21,8 +21,8 @@ ht-degree: 6%
    + [使用客戶設定檔建立更好的體驗](cdm/building-better-experiences-with-customer-profiles.md)
    + [行銷團隊如何改善資料管理策略](cdm/how-marketing-teams-are-improving-data-management-strategies.md)
 + 對象和設定檔資料控管與隱私權{#governance}
-   + [負責任的客戶資料管理的十大考量因素](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
-   + [提升行銷人員的資料管理員角色](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
+   + [負責任的客戶資料管理的十大考量因素](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=zh-Hant)
+   + [提升行銷人員的資料管理員角色](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=zh-Hant)
    + [受眾設定檔資料控管與隱私權](governance/healthcare-shield.md)
 + 產業討論{#industry}
    + [使用您的第一方資料建立優異的體驗](industry/build-superb-experiences-with-your-first-party-data.md)

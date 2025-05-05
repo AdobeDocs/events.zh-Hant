@@ -49,5 +49,5 @@ OSGi R7版本代表許多重要的新功能，並為對Java開發人員重要的
 [OSGi Compendium版本7](https://osgi.org/specification/osgi.cmpn/7.0.0/index.html)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

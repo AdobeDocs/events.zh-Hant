@@ -31,4 +31,4 @@ Christine Duran，Sr Translation Technology Group經理，Adobe
 
 * [多網站管理最佳實務](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
 * [翻譯最佳實務](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
-* [返回總覽](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [返回總覽](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)

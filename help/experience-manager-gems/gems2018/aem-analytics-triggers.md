@@ -30,7 +30,7 @@ Adobe開發人員宣傳專員Sarah Xu
 [取得檔案](assets/gems+6+27+18+adobe+io+analytics+triggers.pdf)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
 
 >[!MORELIKETHIS]

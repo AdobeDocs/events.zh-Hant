@@ -31,9 +31,9 @@ Brand Portal可讓您輕鬆與內部和外部團隊共用資產。
 
 ## 資源
 
-* [Brand Portal概觀](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html)
-* [Brand Portal影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal.html)
-* [資產來源](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html)
+* [Brand Portal概觀](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=zh-Hant)
+* [Brand Portal影片](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal.html?lang=zh-Hant)
+* [資產來源](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=zh-Hant)
 
 ## 系列錄製
 

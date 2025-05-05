@@ -35,5 +35,5 @@ ht-degree: 0%
 
 ## 有用的資源
 
-[儀表板](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
-[匯出圖表資料](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
+[儀表板](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html?lang=zh-Hant)
+[匯出圖表資料](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html?lang=zh-Hant)

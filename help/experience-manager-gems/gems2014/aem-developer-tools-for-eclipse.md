@@ -30,9 +30,9 @@ Stefan Egli，開發人員，Adobe
 
 ## 相關連結 {#related-links}
 
-* [AEM Developer Tools for Eclipse — 檔案](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/eclipse.html)
+* [AEM Developer Tools for Eclipse — 檔案](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/eclipse.html?lang=zh-Hant)
 * [Sling IDE工具](https://sling.apache.org/documentation/development/ide-tooling.html)
 * [討論與問題論壇](https://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html)
 * [問題報告與追蹤](https://github.com/Adobe-Marketing-Cloud/aem-eclipse-developer-tools/issues)
 * [Hobbes.js： UI測試架構](https://docs.adobe.com/docs/en/aem/6-0/develop/components/hobbes.html)
-* [返回總覽](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [返回總覽](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)

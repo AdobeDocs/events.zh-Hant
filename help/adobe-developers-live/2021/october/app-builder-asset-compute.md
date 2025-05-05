@@ -28,6 +28,6 @@ Adobe Experience Manager as Cloud Service的Asset Compute微服務可支援開�
 
 ## 其他資源
 
-- [Adobe Experience Manager檔案](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-- [Adobe Experience Manager Cloud Service概觀](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
-- [Adobe Experience Manager 教學課程](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)
+- [Adobe Experience Manager檔案](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=zh-Hant)
+- [Adobe Experience Manager Cloud Service概觀](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=zh-Hant)
+- [Adobe Experience Manager 教學課程](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=zh-Hant)

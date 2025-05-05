@@ -24,6 +24,6 @@ Adobe Analytics是市面上最多樣化的分析工具之一。 除了方便使�
 
 ## 其他資源
 
-- [Adobe Experience Platform檔案](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform檔案](https://experienceleague.adobe.com/docs/experience-platform.html?lang=zh-Hant)
 - [Adobe Experience Platform 概述](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=zh-Hant)
 - [Adobe Experience Platform 教學課程](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=zh-Hant)

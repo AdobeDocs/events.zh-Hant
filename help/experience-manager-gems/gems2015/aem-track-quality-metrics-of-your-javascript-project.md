@@ -36,5 +36,5 @@ ht-degree: 2%
 
 [取得檔案](assets/com-adobe-granite-ui-utils-timing-with-licenses.zip)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

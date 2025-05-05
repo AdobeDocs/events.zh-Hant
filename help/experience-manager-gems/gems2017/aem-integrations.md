@@ -33,5 +33,5 @@ ht-degree: 0%
 [開發人員網站分析](https://webanalyticsfordevelopers.com/)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

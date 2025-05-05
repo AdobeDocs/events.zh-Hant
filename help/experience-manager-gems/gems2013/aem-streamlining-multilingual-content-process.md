@@ -25,5 +25,5 @@ ht-degree: 0%
 Keith Brazil，技術副總裁，Translations.com
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

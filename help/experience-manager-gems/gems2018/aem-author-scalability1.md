@@ -28,5 +28,5 @@ Matt Ryan，Adobe資深軟體工程師
 
 [取得檔案](assets/experiments+in+aem+author+scalability+2+7+18.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

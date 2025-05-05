@@ -29,5 +29,5 @@ ht-degree: 0%
 
 [取得檔案](assets/aem-gems-041316-6-2-tech-preview.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

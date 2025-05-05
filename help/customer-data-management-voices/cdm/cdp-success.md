@@ -25,5 +25,5 @@ ht-degree: 1%
 ## 其他資訊
 
 *[客戶資料管理的人員與流程最佳實務](people-and-process.md)
-*[使用您的第一方資料建立一流的體驗](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html)
+*[使用您的第一方資料建立一流的體驗](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html?lang=zh-Hant)
 *[個案研究 — TSB銀行為每個客戶提供即時資料個人化。](https://business.adobe.com/customer-success-stories/tsb-case-study.html)

@@ -29,10 +29,10 @@ Jonas Dahl，Adobe產品經理
 
 ## 資源 {#resources}
 
-[增強型智慧標籤 — AEM Assets](https://helpx.adobe.com/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
+[增強型智慧標籤 — AEM Assets](https://helpx.adobe.com/tw/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
 
 >[!MORELIKETHIS]

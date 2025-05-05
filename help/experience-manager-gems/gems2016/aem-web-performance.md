@@ -32,7 +32,7 @@ ht-degree: 0%
 
 >[!WARNING]
 >
->AEM 6.4版和更舊版本已終止服務，Adobe不再銷售。  Adobe建議升級至最新版本 — [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)。  可以從此[頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)存取檔案的封存版本。
+>AEM 6.4版和更舊版本已終止服務，Adobe不再銷售。  Adobe建議升級至最新版本 — [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=zh-Hant)。  可以從此[頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant)存取檔案的封存版本。
 
 Apache：\
 [https://httpd.apache.org/docs/trunk/mod/mod_http2.html](https://httpd.apache.org/docs/trunk/mod/mod_http2.html)
@@ -42,7 +42,7 @@ Apache：\
 [https://www.w3.org/TR/resource-hints/](https://www.w3.org/TR/resource-hints/)
 
 AEM：\
-[https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html)
+[https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html?lang=zh-Hant](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html?lang=zh-Hant)
 
 AEM元件：\
 [https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components](https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components)\
@@ -60,5 +60,5 @@ JavaScript效能：\
 [https://visualvm.java.net/](https://docs.oracle.com/javase/8/docs/technotes/guides/visualvm/intro.html)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

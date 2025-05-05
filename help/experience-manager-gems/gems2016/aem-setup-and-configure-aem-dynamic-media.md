@@ -34,5 +34,5 @@ AEM Dynamic Media可讓客戶透過單一主影像或視訊，以可調整規模
 [設定Dynamic Media](https://docs.adobe.com/docs/en/aem/6-2/administer/content/dynamic-media/config-dynamic.html)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

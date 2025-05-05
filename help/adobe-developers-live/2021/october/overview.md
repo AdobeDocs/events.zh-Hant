@@ -78,19 +78,19 @@ ht-degree: 9%
 
 ### AEM
 
-* [Experience League — 探索AEM](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
-* [AEM Sites編寫檔案](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
-* [AEM Sites開發檔案](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
-* [AEM Sites管理檔案](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
-* [AEM Sites部署檔案](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
+* [Experience League — 探索AEM](https://experienceleague.adobe.com/zh-hant#recommended/solutions/experience-manager)
+* [AEM Sites編寫檔案](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=zh-Hant)
+* [AEM Sites開發檔案](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=zh-Hant)
+* [AEM Sites管理檔案](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=zh-Hant)
+* [AEM Sites部署檔案](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=zh-Hant)
 * [AEM as a Cloud ServiceTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=zh-Hant)
-* [AEM Assets 教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
-* [AEM Forms 教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
-* [AEM Foundation 教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
+* [AEM Assets 教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=zh-Hant)
+* [AEM Forms 教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=zh-Hant)
+* [AEM Foundation 教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=zh-Hant)
 
 ### Adobe Experience Platform
 
-* [Adobe Experience Platform檔案](https://experienceleague.adobe.com/docs/experience-platform.html)
+* [Adobe Experience Platform檔案](https://experienceleague.adobe.com/docs/experience-platform.html?lang=zh-Hant)
 * [Adobe Experience Platform 概述](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=zh-Hant)
 * [Adobe Experience Platform 教學課程](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=zh-Hant)
 

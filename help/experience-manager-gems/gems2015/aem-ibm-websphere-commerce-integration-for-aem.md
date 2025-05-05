@@ -29,5 +29,5 @@ Commerce integration framework(CIF)是AEM的附加元件，可提供記錄的整
 
 [取得檔案](assets/150909-aem-gems-ibm-websphere-commerce-integration.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

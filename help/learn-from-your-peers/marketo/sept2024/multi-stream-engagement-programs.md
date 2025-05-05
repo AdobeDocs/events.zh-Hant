@@ -36,8 +36,8 @@ ht-degree: 0%
 
 ## 此簡報中參考的資源
 
-* [瞭解參與計畫](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
-* [瞭解參與分數](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
-* [新增方案至參與方案資料流](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
-* [程式匯入程式庫總覽](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
+* [瞭解參與計畫](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs)
+* [瞭解參與分數](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score)
+* [新增方案至參與方案資料流](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream)
+* [程式匯入程式庫總覽](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview)
 * [行銷國家社群討論對話串](https://nation.marketo.com/t5/product-discussions/sept-17-webinar-learn-from-your-peers-master-complex-customer/td-p/352582)

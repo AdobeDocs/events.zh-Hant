@@ -25,6 +25,6 @@ Adobe的PDF服務API可讓開發人員透過功能強大且靈活的雲端式API
 
 ## 其他資源
 
-- [Adobe Experience Platform檔案](https://experienceleague.adobe.com/docs/experience-platform.html)
+- [Adobe Experience Platform檔案](https://experienceleague.adobe.com/docs/experience-platform.html?lang=zh-Hant)
 - [Adobe Experience Platform 概述](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=zh-Hant)
 - [Adobe Experience Platform 教學課程](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=zh-Hant)

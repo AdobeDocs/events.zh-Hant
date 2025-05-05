@@ -38,5 +38,5 @@ Daniel Gordon，AEM技術行銷工程師，Adobe
 
 [取得檔案](assets/gems+bp-asset+share+nov+8+17+.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

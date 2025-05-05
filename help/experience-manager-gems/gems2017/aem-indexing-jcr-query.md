@@ -35,16 +35,16 @@ AEM檔案
 
 >[!WARNING]
 >
->AEM 6.4版和更舊版本已終止服務，Adobe不再銷售。  Adobe建議升級至最新版本 — [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)。  可以從此[頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)存取檔案的封存版本。
+>AEM 6.4版和更舊版本已終止服務，Adobe不再銷售。  Adobe建議升級至最新版本 — [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=zh-Hant)。  可以從此[頁面](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant)存取檔案的封存版本。
 >
 >與此工作階段相關的資訊，請參閱AEM 6.3檔案中的&#x200B;*Oak查詢與索引*&#x200B;以及&#x200B;*查詢與索引的最佳實務*。
 
 Oak檔案
 
-* [Oak查詢和索引](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/queries-and-indexing.html)
+* [Oak查詢和索引](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/queries-and-indexing.html?lang=zh-Hant)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
 
 >[!MORELIKETHIS]

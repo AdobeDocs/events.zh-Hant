@@ -31,13 +31,13 @@ ht-degree: 2%
 
 ## 資源
 
-* [AEM Assets使用手冊](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html)
-* [正在設定您的AEM Assets資料夾結構](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
-* [設定AEM Assets資料夾許可權](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html)
-* [使用集合來組織和共用資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
-* [透過機器學習尋找視覺上類似的資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [使用動態搜尋Facet取得精確且精確的搜尋結果](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [進階全文檢索搜尋語法](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
+* [AEM Assets使用手冊](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=zh-Hant)
+* [正在設定您的AEM Assets資料夾結構](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html?lang=zh-Hant)
+* [設定AEM Assets資料夾許可權](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=zh-Hant)
+* [使用集合來組織和共用資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html?lang=zh-Hant)
+* [透過機器學習尋找視覺上類似的資產](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=zh-Hant)
+* [使用動態搜尋Facet取得精確且精確的搜尋結果](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=zh-Hant)
+* [進階全文檢索搜尋語法](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=zh-Hant#using)
 
 ## 系列錄製
 

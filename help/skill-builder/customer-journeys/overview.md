@@ -19,11 +19,11 @@ ht-degree: 2%
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html?lang=zh-Hant">
       <img alt="最佳拍檔 — Adobe[!DNL Marketo Engage]與Real-Time CDP" src="assets/343824.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html?lang=zh-Hant">
         <strong>攜手共進 — Adobe[!DNL Marketo Engage]與Real-Time CDP</strong>
       </a>
     </div>
@@ -32,11 +32,11 @@ ht-degree: 2%
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html?lang=zh-Hant">
       <img alt="在Adobe中開發和自訂資料模型 [!DNL Campaign Classic]" src="assets/343829.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html?lang=zh-Hant">
         <strong>在Adobe[!DNL Campaign Classic]</strong>中開發和自訂資料模型
       </a>
     </div>
@@ -45,11 +45,11 @@ ht-degree: 2%
     <p>
   </td>  
   <td>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html">
+    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html?lang=zh-Hant">
       <img alt="Adobe Campaign Standard的重要提示和秘訣" src="https://video.tv.adobe.com/v/343828?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html">
+      <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html?lang=zh-Hant">
         <strong>Adobe Campaign Standard的重要提示和秘訣</strong>
       </a>
     </div>

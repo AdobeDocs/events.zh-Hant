@@ -33,5 +33,5 @@ Felix Oghina，Adobe產品開發人員
 [文件](https://docs.adobe.com/content/docs/en/cq/5-6-1/ecommerce/eCommerce-framework.html#Deploying%20eCommerce%20with%20hybris)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

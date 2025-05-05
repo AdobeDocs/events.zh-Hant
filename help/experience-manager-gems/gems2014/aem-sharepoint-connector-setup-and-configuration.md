@@ -33,5 +33,5 @@ Adobe軟體工程師主管Tarun Aggarwal
 
 [取得檔案](assets/cq-gems-sharepoint-connector.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/tw/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
