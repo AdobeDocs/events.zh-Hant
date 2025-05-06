@@ -2,9 +2,9 @@
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
 user-guide-description: Adobe客戶成功引導的網路研討會，旨在協助您最佳化Adobe Experience Cloud投資。 獲得有價值的深入分析，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+source-git-commit: b0f07b52c50ea008e8d0569ef7c8687a9e806f72
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 # Adobe客戶成功網路研討會 {#adobe-customer-success-webinar-recordings}
 
 + [Adobe客戶成功網路研討會](overview.md)
-+ 2025 {#2025}
++ 2025 版 {#2025}
    + [Adobe數位分析](2025/adobe-digital-insights.md)
    + [AEM與Workfront整合](2025/aem-workfront-integration.md)
    + [建立有效網頁](2025/build-effective-web-pages.md)
@@ -28,7 +28,8 @@ ht-degree: 0%
    + [GenStudio for Performance Marketing作業模型](2025/genstudio-for-performance-marketing-operating-model.md)
    + [掌握循序邏輯](2025/mastering-sequential-logic.md)
    + [最佳化AEM效能](2025/optimize-aem-performance.md)
-+ 2024 {#2024}
+   + [更聰明的行銷從這裡開始 — 整合Google和Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
++ 2024 版 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Target的AI導向Personalization](2024/ai-personalization.md)
    + [Adobe Workfront — 精益團隊](2024/workfront-lean-teams.md)
@@ -36,7 +37,7 @@ ht-degree: 0%
    + [AEM編寫重要概念](2024/aem-authoring-concepts.md)
    + [AEM Sites效率](2024/aem-sites-efficiencies.md)
    + [針對客戶使用案例的AEP應用程式服務整合](2024/aep-apps-services-integrations.md)
-   + [AEP使用案例計畫](2024/aep-use-case-planning.md)
+   + [AEP使用案例規劃](2024/aep-use-case-planning.md)
    + [AI賦權文字撰寫](2024/ai-copywriting.md)
    + [基本至中繼分析功能](2024/basic-to-intermediate-analysis-capabilities.md)
    + [資料流優先順序](2024/data-stream-prioritization.md)
@@ -65,7 +66,7 @@ ht-degree: 0%
    + [將使用案例對應至解決方案功能](2024/use-case-mapping.md)
    + [Web SDK移轉要點](2024/web-sdk-migration.md)
 
-+ 2023 {#2023}
++ 2023 版 {#2023}
    + [大規模建立Personalization的基礎](2023/personalization-at-scale.md)
    + [變更管理](2023/change-management.md)
    + [內容與體驗 — Personalization](2023/content-experiences-personalization.md)
