@@ -77,7 +77,7 @@ ht-degree: 6%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-1-0.md" title="2025.01.0 AEM版本總覽影片" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg&nocache=1746727545511" alt="2025.01.0 AEM版本總覽影片"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456085/?format=jpeg&nocache=1746727545511&captions=chi_hant" alt="2025.01.0 AEM版本總覽影片"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -100,7 +100,7 @@ ht-degree: 6%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-11-0.md" title="2024.11.0 AEM版本總覽影片" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440920/?format=jpeg&nocache=1746727545546" alt="2024.11.0 AEM版本總覽影片"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440931/?format=jpeg&nocache=1746727545546&captions=chi_hant" alt="2024.11.0 AEM版本總覽影片"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -192,7 +192,7 @@ ht-degree: 6%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-7-0.md" title="2024.7.0 AEM版本總覽影片" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431707/?format=jpeg&nocache=1746727545554" alt="2024.7.0 AEM版本總覽影片"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432547/?format=jpeg&nocache=1746727545554&captions=chi_hant" alt="2024.7.0 AEM版本總覽影片"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -238,7 +238,7 @@ ht-degree: 6%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-5-0.md" title="2024.5.0 AEM版本總覽影片" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429503/?format=jpeg&nocache=1746727545523" alt="2024.5.0 AEM版本總覽影片"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448073/?format=jpeg&nocache=1746727545523&captions=chi_hant" alt="2024.5.0 AEM版本總覽影片"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -261,7 +261,7 @@ ht-degree: 6%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-4-0.md" title="2024.4.0 AEM版本總覽影片" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429111/?format=jpeg&nocache=1746727545588" alt="2024.4.0 AEM版本總覽影片"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3446320/?format=jpeg&nocache=1746727545588&captions=chi_hant" alt="2024.4.0 AEM版本總覽影片"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -284,7 +284,7 @@ ht-degree: 6%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-3-0.md" title="2024.3.0 AEM版本總覽影片" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428344/?format=jpeg&nocache=1746727545571" alt="2024.3.0 AEM版本總覽影片"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3450618/?format=jpeg&nocache=1746727545571&captions=chi_hant" alt="2024.3.0 AEM版本總覽影片"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -307,7 +307,7 @@ ht-degree: 6%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-1-0.md" title="2024.1.0 AEM版本總覽影片" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427041/?format=jpeg&nocache=1746727545596" alt="2024.1.0 AEM版本總覽影片"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448940/?format=jpeg&nocache=1746727545596&captions=chi_hant" alt="2024.1.0 AEM版本總覽影片"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
