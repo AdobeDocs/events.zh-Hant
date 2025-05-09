@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: e1d87cd15d45ea0c9ea94bfe8063e7a5ace97214
+source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '89'
 ht-degree: 3%
 
 ---
@@ -36,5 +36,6 @@ ht-degree: 3%
    + [儘可能提高電子郵件傳遞能力](maximize-email-deliverability.md)
    + [透過小型團隊最大化您的執行個體](small-team-instance.md)
    + [在活動記錄檔中記錄複雜程式](activity-log.md)
+   + [Salesforce背景同步升級與使用監控](salesforce-background-sync.md)
    + [解鎖全球行銷](global-marketing.md)
    + [使用Webhook傳輸資料](webhooks.md)
