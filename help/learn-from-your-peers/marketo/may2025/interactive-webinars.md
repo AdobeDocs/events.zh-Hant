@@ -9,13 +9,13 @@ doc-type: Event
 duration: 2559
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18062
-source-git-commit: a12db1c83c836f71c5b0dfe8649596eaf7b90065
+exl-id: 896d90d0-5db1-4c10-88ea-88562929c31d
+source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
-
 
 # 革新您的網路研討會體驗：探索互動式網路研討會的影響
 
@@ -34,3 +34,10 @@ Adobe Marketo Engage Champion Maria Cruz運用全球直銷和數位行銷機構M
 * **自動化程式可節省時間**&#x200B;轉換至互動式網路研討會，可讓銷售機會路由、銷售警示和後續追蹤等程式自動化，減少手動工作並加快工作流程。
 
 * **建立可重複的教戰手冊**&#x200B;根據網路研討會的見解和學習內容建立可重複的教戰手冊，有助於自信地擴展工作規模，並改善未來的網路研討會策略。
+
+## 其他資源
+
+* 加入發表問答的行銷國家社群上的[討論對話串](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260)。
+* [在互動式網路研討會中進一步瞭解GenAI功能](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
+* [探索互動式網路研討會基本知識](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
+* [瞭解如何使用互動式網路研討會Pod （投票、問答、CTA）](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)

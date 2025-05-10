@@ -2,9 +2,9 @@
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
 user-guide-description: Adobe客戶成功引導的網路研討會，旨在協助您最佳化Adobe Experience Cloud投資。 獲得有價值的深入分析，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: 26c495842dbfdc6db8b81fd61ed84a3e3593b396
+source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 0%
    + [掌握循序邏輯 — 視覺化架構](2025/mastering-sequential-logic.md)
    + [掌握循序邏輯 — 開始停止](2025/sequential-logic-start-stop.md)
    + [最佳化AEM效能](2025/optimize-aem-performance.md)
+   + [個人化數位通訊](2025/personalize-digital-communications.md)
    + [贏得AEP專案的執行贊助](2025/exec-sponsorship-aep-projects.md)
    + [Workfront Fusion基本概念與最佳作法](2025/adobe-workfront-fusion-best-practices.md)
    + [更聰明的行銷從這裡開始 — 整合Google和Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
