@@ -8,13 +8,13 @@ doc-type: Event
 duration: 2971
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18065
-source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
+exl-id: d8814206-7a6d-42a5-845f-232839f9a05c
+source-git-commit: 59fbdc672cf8faee7d18d0922eb90268e7202490
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
-
 
 # 使用AEM Forms在Financial Services中個人化數位通訊
 
@@ -32,7 +32,7 @@ ht-degree: 0%
    * 面對面處理的成本是數位的42倍。
    * 親自入門客戶的費用比線上高出55美元。
 
-* **AMForms Capabilities** AMForms是端對端解決方案，可提升營運效率及卓越的使用者體驗。 主要功能包括全通道表單、自動化工作流程、個人化客戶通訊，以及與Adobe Experience Cloud和AMSight整合。 這些功能可協助組織減少63%的表單放棄率、增加113%的自助服務率，並將表單完成速度提升58%。
+* **AEM Forms功能** AEM Forms是端對端解決方案，可提升營運效率及卓越的使用者體驗。 主要功能包括全通道表單、自動化工作流程、個人化客戶通訊，以及與Adobe Experience Cloud和AEM Sights整合。 這些功能可協助組織減少63%的表單放棄率、增加113%的自助服務率，並將表單完成速度提升58%。
 
 * **表單設計創新**&#x200B;引入雲端設計工具後，透過拖放功能、可重複使用內容的片段，以及與資料模型的整合，簡化了表單建立流程。 這款現代化工具減少對IT的依賴，並可加快更新速度，因應某些組織表單變更的八週周周週轉時間。
 
