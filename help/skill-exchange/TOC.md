@@ -3,9 +3,9 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers與技能交流的錄製集合
 event-series: The Skill Exchange
-source-git-commit: 974518ee6e9955f64cfbbd1ac0b4d45a5bf1aebe
+source-git-commit: 3df61129609f91640357ef9346f0e82fe0fff7b3
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '663'
 ht-degree: 9%
 
 ---
@@ -186,6 +186,7 @@ ht-degree: 9%
       + [Adobe Workfront Proof的未來](workfront/apr2022/workfront-proof.md)
       + [增長追蹤體驗製作者焦點](workfront/apr2022/grow-track-spotlight.md)
       + [瞭解追蹤體驗製作者焦點](workfront/apr2022/learn-track-spotlight.md)
+      + [掌握專案日期和時間表](workfront/apr2022/projects-dates-timelines.md)
       + [瞭解Workfront中的物件](workfront/apr2022/understanding-objects.md)
 + 數位訪客 {#digital-bites}
    + [以同級最佳的營運模型釋放營運效率](digital-bites/operational-model.md)
