@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 724a3fce46a1adc8bfd422a8ed52bd4f14faa82f
+source-git-commit: f7a4b6f56c7edcb895773f2e377f96f710b5c29b
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '532'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [概觀](overview.md)
 + 集數 {#episodes}
+   + [Ep. 47：大規模個人化內容的敏捷工作流程](episodes/exl-live-episode-47-2025-06-05.md)
    + [Ep. 46： Content Analytics：使用AI深入分析最佳化效能](episodes/exl-live-episode-05-22-25.md)
    + [Ep. 45：請勿等候……共同作業！ Real-Time CDP Collaboration簡介](episodes/exl-live-episode-04-10-25.md)
    + [Ep. 44：使用Adobe Experience Platform中的AI Assistant解鎖營運深入分析](episodes/exl-live-episode-02-27-25.md)
