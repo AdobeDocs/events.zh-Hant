@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 724a3fce46a1adc8bfd422a8ed52bd4f14faa82f
+source-git-commit: a5ee0817798a0acba48c48191128c5f0b913213d
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '193'
 ht-degree: 3%
 
 ---
@@ -34,6 +34,19 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
               </a>
               <br/><em>與Shay O'Reilly、Jennifer Werkmeister和Doug Moore</em>
               <br/><em>2025年5月22日</em>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-47-2025-06-05.md">
+              <img alt="Experience League LIVE 5月22日" src="assets/WebBannerExLLive-June05-2025.png">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-47-2025-06-05.md">
+                <strong>大規模個人化內容的敏捷工作流程</strong>
+              </a>
+              <br/><em>與Amarnath Vannarath、Chris Ivory和Rohan Bhatt</em>
+              <br/><em>2025年6月5日</em>
             </div>
         </td>
     </tr>
@@ -101,5 +114,5 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
 
 >[!TIP]
 >
->如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/zh-hant#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
+>如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
 
