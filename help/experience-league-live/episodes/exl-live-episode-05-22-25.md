@@ -8,9 +8,9 @@ event-cta-url-live: https://www.youtube.com/live/0ApnRRtZxeY
 event-start-time: 2025-05-22 09:00-8
 event-guests: Doug Moore, Shay O'Reilly, Jennifer Werkmeister
 exl-id: a0a3c7dd-e060-4be8-ac9a-02a3bcf12614
-source-git-commit: d4bc02599900c0daea2fca4f19c4c68bf52ec410
+source-git-commit: 3fb60f3db95b4e760287da7c538cce7f559e0181
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,6 @@ ht-degree: 0%
 
 * 探索新的Adobe工具，例如資產縮圖和詳細檢視，以視覺化方式處理內容深入分析。
 
-[![ExL LIVE 2025年5月22日](assets/May-22-2025-WebBanner.jpg)](https://engage.adobe.com/ExpLeagueLive-250522.html)
+[![ExL LIVE 2025年5月22日](assets/ExL-LIVE-May-28-2025-WebBanner.jpg)](https://www.youtube.com/live/FSlE6HeCWyQ)
 
-[**立即註冊！**](https://engage.adobe.com/ExpLeagueLive-250522.html)
+**按一下上方影像以設定YouTube提醒！**
