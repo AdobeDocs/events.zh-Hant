@@ -1,20 +1,20 @@
 ---
 title: 詢問我任何事
 description: 與Kate Kolbert和James Letham一起參加Adobe年度最後一次互動式網路研討會，內容涵蓋網路研討會最佳化、計畫更新、未充分利用的Marketo功能、電子郵件行銷最佳作法、資料庫管理、使用者許可權、Marketo-Salesforce同步、動態聊天參與和生命週期階段。
-solution: Marketo
+solution: Marketo Engage
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3438
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16502
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+exl-id: a842ed22-c6db-4de3-af02-c7363207d00c
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 0%
 
 ---
-
 
 # 詢問我任何事
 

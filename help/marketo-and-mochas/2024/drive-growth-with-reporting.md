@@ -1,7 +1,7 @@
 ---
 title: Marketo與Mochas — 透過報告推動成長（成熟度Pt 3）
-description: 加入Adobe的業務顧問Cynthia Chang和Carly Gaver，參加Marketo成熟度網路研討會系列的第3部分，透過即時問答，探索如何運用Marketo的報告工具來推動業務增長、監控績效並提供具影響力的量度。
-solution: Marketo
+description: 加入Adobe的業務顧問Cynthia Chang和Carly Gaver，一同參加Marketo成熟度網路研討會系列的第3部分，透過即時問答，探索如何運用Marketo的報告工具來推動業務增長、監控績效並提供具影響力的量度。
+solution: Marketo Engage
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +9,7 @@ duration: 3505
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16392
 exl-id: 4ad37a4b-8544-4000-8e21-062e3f93909e
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 0%
@@ -33,8 +33,8 @@ ht-degree: 0%
 ## 主持人
 
 * 張柏芝和卡莉·加弗是主持人。
-* Cynthia在Adobe工作了兩年，之前曾在諮詢業工作，並曾是Marketo客戶。
-* Carly已執業Adobe三年，擁有數位行銷和行銷自動化背景。
+* Cynthia已在Adobe工作兩年，之前曾在諮詢業工作並身為Marketo客戶。
+* Carly已在Adobe工作三年，具有數位行銷和行銷自動化背景。
 
 ## 重要技巧
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 ### 工具和最佳實務
 
 * **電子郵件效能報告**&#x200B;監控電子郵件量度，例如傳遞能力、開啟率和取消訂閱率。
-* **電子郵件深入分析** **用於電子郵件效能的視覺化儀表板，可匯出至Excel、PDF或PowerPoint。
+* **電子郵件深入分析** **用於電子郵件效能的視覺儀表板，可匯出至Excel、PDF或PowerPoint。
 * **方案績效報表**&#x200B;追蹤方案狀態和績效。
 * **行銷活動檢視窗**&#x200B;正在監視作用中的觸發程式和批次行銷活動，以避免積壓。
 * **人員效能報表**&#x200B;分析資料庫成長趨勢和資料變化。

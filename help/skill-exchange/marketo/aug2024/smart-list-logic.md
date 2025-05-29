@@ -1,20 +1,20 @@
 ---
 title: 克服智慧清單邏輯以觸及行銷活動對象
 description: Smart Campaigns的概觀，以及它們如何適應Marketo Engage的整體架構深入探究四種邏輯層級，以設定和自訂您的對象疑難排解您的邏輯，並確認您已正確鎖定目標對象
-solution: Marketo
+solution: Marketo Engage
 role: User
 level: Beginner
 doc-type: Event
 duration: 2250
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16000
-source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
+exl-id: f9ebb3f5-6389-42af-995b-a33eb9024bbe
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
 
 ---
-
 
 # 克服智慧清單邏輯以觸及行銷活動對象
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 重要技巧
 
-* Smart Campaigns的概觀，以及它們如何融入Marketo Engage的整體架構
+* Smart Campaigns及其如何融入Marketo Engage整體架構的概觀
 * 深入分析邏輯的四個層級，以設定和自訂您的對象
 * 疑難排解邏輯並確認您已正確鎖定目標對象的秘訣
 
