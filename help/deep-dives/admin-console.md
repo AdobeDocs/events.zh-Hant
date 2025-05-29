@@ -22,7 +22,7 @@ ht-degree: 0%
 這是有關[Adobe Marketo Engage訂閱與Adobe Identity Management系統整合的移轉訓練](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)。 內容最適合Marketo Engage管理員。 本訓練課程將協助您掌握基本知識，讓貴組織做好跨職能準備，並教育內部使用者瞭解此即將進行的變更。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432367/?learn=on&captions=chi_hant)
 
 ## 概觀
 

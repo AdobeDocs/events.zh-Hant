@@ -20,4 +20,4 @@ ht-degree: 0%
 
 主講Raj Patel的開幕主題演講
 
->[!VIDEO](https://video.tv.adobe.com/v/3432957/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453066/?learn=on&captions=chi_hant)
