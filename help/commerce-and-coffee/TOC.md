@@ -2,9 +2,9 @@
 user-guide-title: Commerce與咖啡活動
 breadcrumb-title: Commerce與咖啡活動
 user-guide-description: Adobe Commerce和Coffee是一個影片庫，專家和同行可以在其中分享他們有關如何使用Adobe Commerce的想法和想法。
-source-git-commit: 93f42aa274bbe58b7996eb09582cb353b1b347f4
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '99'
 ht-degree: 6%
 
 ---
@@ -13,21 +13,22 @@ ht-degree: 6%
 # Commerce和咖啡 {#commerce-and-coffee-recordings}
 
 + [概觀](overview.md)
-+ 2025 年{#2025}
++ 2025 版 {#2025}
+   + [使用SEO推動成長](2025/seo-growth.md)
    + [B2B中的自助服務](2025/self-service-b2b.md)
-+ 2024 年{#2024}
++ 2024 版 {#2024}
    + [詢問我任何事](2024/ask-me-anything.md)
    + [Ecommerce Essentials](2024/ecommerce-essentials.md)
    + [旺季準備](2024/peak-season-prep.md)
    + [使用AI個人化電子商務體驗](2024/personalize-ecommerce.md)
    + [B2B電子商務的策略](2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md)
-+ 2023 年{#2023}
++ 2023 版 {#2023}
    + [詢問我任何事](2023/ask-me-anything.md)
    + [旺季準備](2023/peak-season-prep.md)
    + [自然成長](2023/organic-growth.md)
    + [建立客戶忠誠度和客戶保留率的7種方式](2023/loyalty-retention.md)
    + [強化B2B成功](2023/b2b.md)
-+ 2022 年{#2022}
++ 2022 版 {#2022}
    + [AI和自動化](2022/ai-and-automation.md)
    + [E-Commerce趨勢](2022/ecommerce-trends.md)
    + [假日回顧](2022/holiday.md)
