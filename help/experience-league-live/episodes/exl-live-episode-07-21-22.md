@@ -5,7 +5,7 @@ solution: Data Collection,Experience Platform
 feature: Datastreams, Data Prep, Data Collection
 kt: 10528
 event-cta-text: Watch the replay
-event-cta-url: https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en
+event-cta-url: https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=zh-Hant
 event-start-time: 2022-07-21 09:00-7
 event-guests: Rudi Shumpert, Jeff Chasin, Eric Matisoff
 exl-id: ab5121f7-3e92-48a7-8bcc-a4456a4eab6e
