@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 389135f15fe353f4cc3e1100f65ae3fabaee141a
+source-git-commit: 65bbb2d2658a343005abfc597bf13aa814b8cc82
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 3%
@@ -25,11 +25,11 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-18-25.md">
-              <img alt="Experience League LIVE 6月18日" src="episodes/assets/exl-live-web-banner-20250618_v2.jpg">
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-31-25.md">
+              <img alt="Experience League LIVE 7月31日" src="episodes/assets/WebBanner-31July2025.png">
             </a>
             <div>
-              <a href="episodes/exl-live-episode-06-18-25.md">
+              <a href="episodes/exl-live-episode-07-31-25.md">
                 <strong>主頻率上限和衝突優先順序</strong>
               </a>
               <br/><em>與Sandra Hausmann、Ariel Sultan、Aaron Forrest和Keara Fausett</em>
@@ -102,5 +102,5 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
 
 >[!TIP]
 >
->如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/zh-hant#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
+>如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
 
