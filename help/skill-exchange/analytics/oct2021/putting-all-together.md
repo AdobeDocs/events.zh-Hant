@@ -3,7 +3,7 @@ title: 整合所有內容
 description: Adobe Analytics如何追蹤網站資料、如何儲存、共用及共同作業。
 solution: Analytics
 feature-set: Analytics
-feature: Analytics Basics, Traffic Management, Data Governance, Data Sources, Data Configuration and Collection
+feature: Analytics Basics, Data Governance, Data Sources, Data Configuration and Collection
 doc-type: Event
 role: User
 level: Beginner
@@ -11,7 +11,7 @@ kt: 10477
 thumbnail: 343350.jpeg
 exl-id: 8fbf324f-9931-4b05-b1ca-d39038592d71
 duration: 2445
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 99590e8a936f3011f52c1fc2627c5b8370755df2
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
