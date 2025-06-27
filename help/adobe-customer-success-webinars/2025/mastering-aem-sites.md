@@ -1,5 +1,5 @@
 ---
-title: 精通AEM Sites：範本、導覽和SEO的新手指南
+title: 精通AEM Sites — 範本、導覽和SEO
 description: 瞭解AEM Sites基礎知識 — 如何使用頁面範本、設計直覺式導覽，以及套用重要的SEO實務來提升可見度和網站效能。
 solution: Experience Manager
 version: Experience Manager as a Cloud Service
@@ -9,9 +9,9 @@ doc-type: Event
 duration: 2025
 last-substantial-update: 2025-06-27T00:00:00Z
 jira: KT-18431
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: f9e38f359b801bc6abc7a108f1da755922e43c65
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,4 @@ ht-degree: 0%
 * 打造方便使用的導覽，提供最佳網站體驗
 * 在AEM Sites中建立SEO基礎
 
->[!VIDEO](https://video.tv.adobe.com/v/3464326/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3464298/?learn=on&enablevpops)
