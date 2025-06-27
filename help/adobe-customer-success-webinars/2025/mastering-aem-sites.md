@@ -27,4 +27,4 @@ ht-degree: 0%
 * 打造方便使用的導覽，提供最佳網站體驗
 * 在AEM Sites中建立SEO基礎
 
->[!VIDEO](https://video.tv.adobe.com/v/3464298/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464326/?learn=on&enablevpops&captions=chi_hant)
