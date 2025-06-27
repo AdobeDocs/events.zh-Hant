@@ -2,69 +2,70 @@
 user-guide-title: Adobe Experience Manager GEMS活動
 user-guide-description: 瞭解AEM Gems，這是Adobe Experience Manager專家提供的一系列技術深入探討。
 breadcrumb-title: AEM GEMs活動
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '770'
 ht-degree: 1%
 
 ---
 
 
-# Experience ManagerGEMS活動 {#experience-manager-gems-recordings}
+# Experience Manager GEMS活動 {#experience-manager-gems-recordings}
 
 + [概觀](overview.md)
-+ 2025 {#gems2025}
-   + [開始使用Adobe Managed CDN](gems2025/getting-started-adobe-managed-cdn.md)
-+ 2024 {#gems2024}
++ 2025 版 {#gems2025}
+   + [使用AEM Sites Optimizer將您網頁體驗的影響最大化](gems2025/maximize-impact-with-sites-optimizer.md)
+   + [Adobe Managed CDN快速入門](gems2025/getting-started-adobe-managed-cdn.md)
++ 2024 版 {#gems2024}
    + [解鎖AEM Sites的強大功能 — 掌握內容管理API](gems2024/content-management-apis.md)
    + [AEM快速開發環境的新增功能](gems2024/rapid-development-environment-news.md)
    + [將AEM Assets與Edge Delivery Services整合](gems2024/edge-delivery-for-aem-assets.md)
    + [在AEM Cloud Manager中整合私人GitHub存放庫](gems2024/private-github-for-aem-cloud-manager.md)
    + [使用我們新的API和事件改善AEM Assets的開發人員體驗](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
-   + [AEM FormsEdge Delivery Services快速入門](gems2024/edge-delivery-for-aem-forms.md)
-   + [開始使用AEM編寫和Edge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
-   + [在Adobe Commerce的Edge Delivery Services上建置店面](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
-+ 2023 {#gems2023}
+   + [開始使用適用於AEM Forms的Edge Delivery Services](gems2024/edge-delivery-for-aem-forms.md)
+   + [開始使用AEM Authoring和Edge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
+   + [在Adobe Commerce上的Edge Delivery Services上建立店面](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
++ 2023 版 {#gems2023}
    + [適用於AEM as a Cloud Service的New Relic APM](gems2023/newrelic-apm-for-aem-cloud-service.md)
    + [AEM認證 — 技術](gems2023/aem-certification-technical.md)
-   + [透過快速開發環境加速Experience Manageras a Cloud Service開發](/help/experience-manager-gems/gems2023/rapid-development-environments.md)
+   + [透過快速開發環境加速Experience Manager as a Cloud Service開發](/help/experience-manager-gems/gems2023/rapid-development-environments.md)
    + [適用於內部部署和AMS環境的AEM Best Practices Analyzer](gems2023/aem-best-practices-analyzer.md)
-+ 2022 年{#gems2022}
-   + [客戶使用案例與使用中AEM Headless的實作](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
++ 2022 版 {#gems2022}
+   + [客戶使用案例與實施使用中的AEM Headless](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [深入瞭解 — Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
    + [整合AEM和CIF框架，建置豐富的沈浸式電子商務體驗](gems2022/aem-and-cif-framework-integration.md)
    + [使用AEM Headless和App Builder更快建立網站](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
    + [Adobe Experience Manager as a Cloud Service： 2021年回顧和2022年展望](gems2022/aemcloudservice-2021-review-and-outlook.md)
-+ 2020 年 {#gems2020}
-   + [AEM 6.5走向世界 — 翻譯整合與最佳實務](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
++ 2020 {#gems2020}
+   + [AEM 6.5為世界做好準備 — 翻譯整合和最佳實踐](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
 + 2019 年 {#gems2019}
-   + [Experience Manager6.5 [!DNL Sites]的新增功能](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
+   + [Experience Manager 6.5 [!DNL Sites]的新增功能](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
    + [AEM RTF編輯器(RTE)深入探討](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
    + [深入探討ContextHub中存放區、模組和區段的實作詳細資料](gems2019/contexthub-deep-dive.md)
    + [使用AEM 6.5建立Headless全通路體驗](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)
    + [AEM現代化套裝簡介](gems2019/introducing-the-aem-modernization-suite.md)
    + [善用適用於AEM Screens的author-publish](gems2019/leveraging-author-publish-for-aem-screens.md)
-+ 2018 年 {#gems2018}
++ 2018 {#gems2018}
    + [深入探討Adobe Experience Manager 6.4](gems2018/aem-6-4-technical-sneak-peek.md)
-   + [Adobe Experience Platform -Experience Cloud的核心](gems2018/aem-acp.md)
+   + [Adobe Experience Platform - Experience Cloud的核心](gems2018/aem-acp.md)
    + [即時且輕量：使用Adobe I/O Events建立事件導向與AEM的整合](gems2018/aem-adobe-io.md)
    + [Adobe Developer (IO)事件 — Analytics觸發器](gems2018/aem-analytics-triggers.md)
    + [AEM作者擴充性中的實驗](gems2018/aem-author-scalability1.md)
    + [AEM核心元件](gems2018/aem-core-components.md)
    + [數位資產爆炸&amp; [!DNL AEM Assets]](gems2018/aem-digital-asset-explosion.md)
    + [AEM 6.4中的ContextHub簡介](gems2018/aem-intro-to-contexthub.md)
-   + [AEM中的機器學習：增強的智慧標籤、智慧版面配置等](gems2018/aem-machine-learning.md)
+   + [AEM中的機器學習：增強智慧標籤、智慧版面配置等](gems2018/aem-machine-learning.md)
    + [維護開放原始碼，同時維持您的健全狀態](gems2018/aem-maintaining-open-source.md)
    + [AEM查詢和索引疑難排解（續）](gems2018/aem-query-and-index-troubleshooting2.md)
-   + [AEM SPA編輯器](gems2018/aem-spa-editor.md)
-   + [Solr作為AEM的Oak索引](gems2018/solr-as-an-oak-index-for-aem.md)
+   + [AEM SPA Editor](gems2018/aem-spa-editor.md)
+   + [Solr as a Oak index for AEM](gems2018/solr-as-an-oak-index-for-aem.md)
    + [SPA Editor SDK深入探討 — 第1部分 — react](gems2018/spa-editor-sdk-deep-dive-react.md)
    + [SPA Editor SDK深入探討 — 第2部分 — angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
    + [在AEM中使用OSGi R7](gems2018/using-osgi-r7-in-aem.md)
-+ 2017 年 {#gems2017}
++ 2017 {#gems2017}
    + [Asset Share的主要品牌入口網站版本和新參考實作](gems2017/aem-brand-portal.md)
-   + [建立AEM的健康狀態檢查](gems2017/aem-building-health-checks-for-aem.md)
-   + [針對AEM開發OSGi套件組合和服務](gems2017/aem-developing-osgi-bundles-services-for-aem.md)
+   + [為AEM建立健康狀態檢查](gems2017/aem-building-health-checks-for-aem.md)
+   + [開發AEM的OSGi套件組合和服務](gems2017/aem-developing-osgi-bundles-services-for-aem.md)
    + [AEM Dynamic Media 6.3架構](gems2017/aem-dynamic-media-architecture.md)
    + [無領導者使用案例的AEM流暢體驗](gems2017/aem-headless-usecases.md)
    + [AEM索引和JCR查詢](gems2017/aem-indexing-jcr-query.md)
@@ -77,7 +78,7 @@ ht-degree: 1%
    + [AEM 6.3為世界做好準備 — 翻譯整合和最佳實踐](gems2017/aem-translation-best-practices.md)
    + [疑難排解AEM復寫](gems2017/aem-troubleshooting-aem-replication.md)
    + [Sling內容發佈疑難排解](gems2017/aem-troubleshooting-sling.md)
-+ 2016 年 {#gems2016}
++ 2016 {#gems2016}
    + [為企業設定DAM](gems2016/aem-configuring-dam-for-enterprise.md)
    + [AEM Screens簡介](gems2016/aem-introduction-to-aem-screens.md)
    + [使用Adobe Experience Manager的範本編輯器管理您的內容](gems2016/aem-managing-content-with-template-editor.md)
@@ -87,27 +88,27 @@ ht-degree: 1%
    + [技術偷偷窺視](gems2016/aem-technical-sneak-peek.md)
    + [用於測試Adobe Experience Manager應用程式的工具](gems2016/aem-testing-tools-for-aem-apps.md)
    + [在Adobe Experience Manager部署中利用SAML](gems2016/aem-utilizing-saml-in-aem-deployments.md)
-   + [AEM網站效能](gems2016/aem-web-performance.md)
-+ 2015 年 {#gems2015}
+   + [AEM網頁效能](gems2016/aem-web-performance.md)
++ 2015 {#gems2015}
    + [AEM 6.1翻譯整合與最佳實務](gems2015/aem-6-1-translation-integration-and-best-practices.md)
    + [使用AEM 6.1建立線上社群](gems2015/aem-creating-online-communities-with-aem-6-1.md)
    + [在觸控式UI中自訂對話方塊欄位](gems2015/aem-customizing-dialog-fields-in-touch-ui.md)
-   + [深入探討AEM升級流程](gems2015/aem-deep-dive-into-aem-upgrade-process.md)
+   + [深入探討AEM升級程式](gems2015/aem-deep-dive-into-aem-upgrade-process.md)
    + [Dispatcher快取 — 新功能和最佳化](gems2015/aem-dispatcher-caching-new-features-and-optimizations.md)
    + [AEM [!DNL Forms] feature pack 1簡介與技術範例](gems2015/aem-forms-feature-pack-1-introduction-and-technical-samples.md)
    + [適用於AEM的IBM WebSphere Commerce整合](gems2015/aem-ibm-websphere-commerce-integration-for-aem.md)
-   + [ACS AEM Commons &amp; tools內容](gems2015/aem-inside-acs-aem-commons-and-tools.md)
+   + [ACS AEM公域與工具內容](gems2015/aem-inside-acs-aem-commons-and-tools.md)
    + [Oak的外部登入模組](gems2015/aem-oak-external-login-module-authenticating-with-ldap-and-beyond.md)
    + [Sonar — 改善產品品質的關鍵元素](gems2015/aem-sonar-a-key-element-to-improve-product-quality.md)
    + [AEM技術搶先一步](gems2015/aem-tech-sneak-peek.md)
    + [ [!DNL AEM Sites] 觸控式UI的秘訣與技巧](gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
    + [追蹤JavaScript專案的品品質度](gems2015/aem-track-quality-metrics-of-your-javascript-project.md)
-+ 2014年{#gems2014}
++ 2014 {#gems2014}
    + [透過DTM雲端服務在本機AEM執行個體上部署Adobe Analytics](gems2014/aem-adobe-analytics-dynamic-tag-management.md)
    + [如何充份運用DAM Feature Pack](gems2014/aem-dam-feature-pack.md)
    + [將受管理的內容傳送至您的原生應用程式](gems2014/aem-delivering-managed-content-to-your-native-apps.md)
    + [AEM 6.0開發人員模式](gems2014/aem-developer-mode.md)
-   + [Eclipse適用的AEM開發人員工具](gems2014/aem-developer-tools-for-eclipse.md)
+   + [適用於Eclipse的AEM開發人員工具](gems2014/aem-developer-tools-for-eclipse.md)
    + [Dispatcher — 新功能和最佳作法](gems2014/aem-dispatcher.md)
    + [有效率地建置可重複使用的元件](gems2014/aem-efficiently-build-reusable-components.md)
    + [HTL簡介](gems2014/aem-introduction-to-htl.md)
@@ -117,7 +118,7 @@ ht-degree: 1%
    + [SharePoint Connector — 設定與設定](gems2014/aem-sharepoint-connector-setup-and-configuration.md)
    + [AEM 6中的社交元件架構](gems2014/aem-social-component-framework-in-aem-6.md)
    + [AEM 6平台技術深入探討](gems2014/aem-technical-deep-dive-into-the-aem-6-platform.md)
-   + [AEM 6平台的技術概覽](gems2014/aem-technical-overview-of-the-aem-6-platform.md)
+   + [AEM 6平台技術概覽](gems2014/aem-technical-overview-of-the-aem-6-platform.md)
    + [AEM 6的使用者介面自訂](gems2014/aem-user-interface-customization-for-aem6.md)
 + 2013 {#gems2013}
    + [AEM 5.6平台的架構](gems2013/aem-architecture-of-the-aem-5-6-platform.md)
