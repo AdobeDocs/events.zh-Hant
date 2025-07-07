@@ -3,10 +3,10 @@ title: Experience Cloud技術研討會
 description: 透過Adobe專家主持的即時和隨選技術研討會，提升您的Adobe Experience Cloud技能。 隨時取得可操作的提示和策略，以提供順暢的學習體驗。
 exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
 duration: 53
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: 52e39cd07f1ccc8cea2fc6f628cce1c84161f491
 workflow-type: tm+mt
 source-wordcount: '1523'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 透過即時和隨選技術研討會，充分發揮Adobe Experience Cloud的潛力。 這些網路研討會經過精心設計，超越了傳統支援的範疇。 這些會議由經驗豐富的Adobe專家帶領，提供寶貴的秘訣、技巧和策略，協助您滿懷信心地瀏覽技術解決方案，避免常見陷阱。 Adobe專家是技術支援工程師，可解決熱門問題，並積極處理日常案例。 即時和隨選選項可讓您隨時彈性存取資訊，確保順暢的學習體驗。
 
-## 2054年工作階段
+## 2025年工作階段
 
 <!-- CARDS
 {cta = Watch}
