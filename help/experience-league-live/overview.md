@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 0ee7c933d4278a09b3c69373c4bbc21274279ec8
+source-git-commit: 1617cde0fc7e455a4cf9dfb3d1082d9abe79620d
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '156'
 ht-degree: 3%
 
 ---
@@ -28,10 +28,6 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-31-25.md">
               <img alt="Experience League LIVE 7月31日" src="episodes/assets/WebBanner-31July2025.png">
             </a>
-            <div>
-              <a href="episodes/exl-live-episode-07-31-25.md">
-                <strong>主頻率上限和衝突優先順序</strong>
-              </a>
             </div>
         </td>
     </tr>
@@ -100,5 +96,5 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
 
 >[!TIP]
 >
->如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/zh-hant#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
+>如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
 
