@@ -9,14 +9,14 @@ duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
 exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: a36ab2aa1a741baae0e23a4b8ad8f8418fcdbe59
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 0%
 
 ---
 
-# Adobe Analytics與CJA：基本至中繼分析功能的快速入門
+# Adobe Analytics與CJA：基本至中繼分析功能快速入門
 
 瞭解如何快速開始使用Adobe Analytics和Customer Journey Analytics (CJA)，以資料導向式決策支援您的行銷活動：瞭解如何設定您的組織以進行健全的分析功能、瞭解何時以最佳方式使用哪個分析解決方案，以及將Analytics和CJA功能對應至分析成熟度等級，以建立關鍵行銷報告。
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 * **演講者簡介**
    * Adobe資深客戶成功經理Frederick介紹了此次會議。
-   * Adobe首席客戶成功經理Kirsten Schaffer博士為簡報者。
+   * Adobe主要客戶成功策略師Kerstin Schafer博士為簡報者。
 
 * **工作階段內容**
    * 課程內容涵蓋建立組織以提供強大的分析功能、控管方面，以及Analytics和Customer Journey分析的執行路徑。
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 * **討論的關鍵主題**
    * **外部和內部力量**&#x200B;影響數位分析，包括市場轉變、隱私權和治理、資料民主化和資料複雜性。
-   * **建立強大的分析基礎**&#x200B;測量策略、資料收集、深入分析和分析、學習、資料控管。
+   * **建立強大的分析基礎**&#x200B;測量策略、資料收集、insight和分析、學習、資料控管。
    * **設定數位分析團隊**&#x200B;角色和責任、建立混合式團隊，以及有效率地管理分析請求。
    * **Adobe的啟用選項** Experience League、隨選課程、訓練課程、社群支援。
 
