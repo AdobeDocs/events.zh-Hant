@@ -20,4 +20,4 @@ ht-degree: 0%
 
 在[!DNL Adobe Analytics]建立資料導向文化網路研討會期間，全球[!DNL Adobe Analytics]位使用者問了超過35個問題。 由於我們的[!DNL Adobe Analytics]冠軍在即時問答中無法回答所有這些問題，我們帶他們回來並主持後續問答課程，以回答您的問題並分享更多專業知識。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415614/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455134/?quality=12&learn=on&captions=chi_hant)
