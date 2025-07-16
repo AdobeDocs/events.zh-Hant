@@ -2,19 +2,20 @@
 title: 人員配備您的Workfront系統管理員實務網路研討會
 description: 在隨選網路研討會中，向Dell和Adobe Workfront專家瞭解系統管理員的戰略重要性。 探索在Adobe Workfront中保護全職人數、運用群組管理員角色及定義角色設定檔以有效設定和擴充能力的秘訣。
 topic: Administration
+solution: Workfront
 role: Admin, Leader
 level: Beginner
 doc-type: Event
 duration: 3638
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15827
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 51619ec3-f5d5-48a9-aa29-fbaa2289a576
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
-
 
 # 人員配備您的Workfront系統管理員實務
 

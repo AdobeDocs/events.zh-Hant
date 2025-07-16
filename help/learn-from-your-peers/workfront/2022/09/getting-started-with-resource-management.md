@@ -5,22 +5,23 @@ feature: Get Started with Workfront
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3629
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15816
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 8d1b25a6-1224-4158-9f67-7997b6cf2e67
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
 
 ---
 
-
 # 資源管理快速入門
 
-使用Adobe Workfront管理您的資源是非常理想的選擇 — 您可瞭解需要完成的工作、可存取哪些資源，並（準確！）進行指派。 視其可用性而定。 這絕對是事實！ 每天都有數百位Workfront客戶這麼做。
+使用Adobe Workfront管理您的資源是非常理想的選擇 — 您可瞭解需要完成的工作、可存取哪些資源，並根據它們的可用性進行（準確！）。 這絕對是事實！ 每天都有數百位Workfront客戶這麼做。
 
-在這個隨選網路研討會中，Adobe Workfront資深客戶成功架構師Corinna Jevons和Big Red Rooster運營Director的Elliot Leson將分享：
+在這個隨選網路研討會中，Adobe Workfront資深客戶成功架構師Corinna Jevons和Big Red Rooster營運總監Elliot Leson將分享：
 
 * 資源規劃工具和工作負載平衡器的基本綜覽
 * 開始使用前需要必要的預先作業

@@ -4,16 +4,17 @@ description: 向同業瞭解Workfront系統維護。 在我們的隨選網路研
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3639
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15815
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 454c5870-84f5-4a77-bb99-717ff47e4090
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
-
 
 # 系統維護和清理
 

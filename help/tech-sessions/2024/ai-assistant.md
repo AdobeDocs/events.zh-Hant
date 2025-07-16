@@ -1,14 +1,15 @@
 ---
 title: 使用Adobe Experience Platform中的AI助理快速啟動您的生產力
-description: 加入Rachel Hanessian和Ariel Sultan的深入網路研討會，瞭解如何透過AI Assistant設定、開始使用及探索使用案例，以提高Real-Time CDP、Journey Optimizer和Customer Journey Analytics的生產力。
+description: 加入Rachel Hanessian和Ariel Sultan的深入網路研討會，瞭解如何設定、開始使用並探索AI Assistant的使用案例，以提升Real-Time CDP、Journey Optimizer和Customer Journey Analytics的生產力。
 role: Admin
 level: Beginner
 doc-type: Event
+solution: Experience Platform, Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics
 duration: 2813
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16367
 exl-id: 29400794-7b24-41e8-a3b5-e15337ecb62f
-source-git-commit: 745121bd9c9a88634a54c0bff67d913035378e83
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%

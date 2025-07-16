@@ -1,19 +1,20 @@
 ---
 title: 瞭解使用者管理網路研討會
 description: 參加我們的隨選網路研討會，以掌握Workfront使用者設定和組織。 向Thermo Fisher科學和Adobe Workfront專家學習有關授權、存取層級、群組、團隊、物件階層、共用許可權和有效使用者管理的最佳實務。
+solution: Workfront
 role: Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3686
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15808
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 3f7e6991-5e18-4637-9ab4-d1deca267040
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
-
 
 # 瞭解使用者管理
 

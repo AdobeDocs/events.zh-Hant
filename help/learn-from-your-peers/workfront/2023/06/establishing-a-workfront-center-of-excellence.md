@@ -2,18 +2,19 @@
 title: 建立Workfront卓越中心網路研討會
 description: 向美泰和Adobe Workfront專家學習如何透過我們的隨選網路研討會建立Workfront Center of Excellence (CoE)。 探索關鍵元件、促進因素和漸進步驟，以實現可持續且可擴充的管理、改善使用者採用，並增強產品使用情況和資料完整性。
 role: Admin, Leader
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3715
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15824
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 02d88c39-f53c-4529-ab0e-aebf0f2dff42
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
 
 ---
-
 
 # 建立Workfront卓越中心
 

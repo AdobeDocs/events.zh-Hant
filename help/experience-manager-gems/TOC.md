@@ -2,7 +2,8 @@
 user-guide-title: Adobe Experience Manager GEMS活動
 user-guide-description: 瞭解AEM Gems，這是Adobe Experience Manager專家提供的一系列技術深入探討。
 breadcrumb-title: AEM GEMs活動
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+solution: Experience Manager
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '770'
 ht-degree: 1%

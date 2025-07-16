@@ -1,6 +1,7 @@
 ---
 title: 濃縮咖啡和Experience Manager - AEM Forms
 description: AEM Forms透過全通路表單、AI支援的個人化和雲端原生擴充能力大幅提升效能，轉換率高達2.5倍，編輯速度加快85%，錯誤減少50%。
+solution: Experience Manager Forms
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,7 +9,7 @@ duration: 3297
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17535
 exl-id: cb810398-5e62-4128-8338-71ea1bccc6f9
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%

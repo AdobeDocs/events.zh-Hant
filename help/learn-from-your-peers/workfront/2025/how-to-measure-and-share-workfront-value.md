@@ -2,13 +2,15 @@
 title: 清楚說明影響 — 如何測量和共用Workfront值
 description: 在此隨選網路研討會中，Synchrony的James Hill和Ellen Saltmarsh以及EMMsphere的Daniel Clarke將分享他們的策略，說明採用Workfront的「原因」，定義可衡量的結果，如時間和成本節約，傳達成功故事以獲得利害關係人的認可，以及使用逐步行動手冊實現價值。
 topic: Administration
+solution: Workfront
 role: Admin, Leader
 level: Beginner
 doc-type: Event
 duration: 3534
 last-substantial-update: 2025-02-27T00:00:00Z
 jira: KT-17413
-source-git-commit: b93f940bfbd028349af2df86992a9e0655b7480d
+exl-id: 9b7a9bc0-6444-40e5-9e3c-3926ac761e31
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%

@@ -2,18 +2,19 @@
 title: 使用Workfront進行培訓和賦權網路研討會
 description: 在我們的隨選網路研討會中瞭解Workfront如何強化員工培訓。 從JPMorgan Chase、IBM和Adobe Workfront專家獲得有關建立量身打造的路徑、組織材料以及利用Workfront進行有效上線和長期採納的深入見解。
 role: Admin
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3574
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15826
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 8300b149-1e69-4a29-b0ab-8134d46df4a4
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
-
 
 # 使用Workfront進行培訓和賦能
 

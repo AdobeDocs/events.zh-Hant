@@ -5,16 +5,17 @@ feature: Smart Campaigns, Reporting
 role: Admin, Developer, User
 level: Intermediate, Experienced
 doc-type: Event
+solution: Marketo Engage
 duration: 2740
 last-substantial-update: 2024-08-05T00:00:00Z
 jira: KT-15890
-source-git-commit: d2954c2c4ed7b83ca6084395e3d414f76109acb9
+exl-id: 9fb78dbe-e2ab-4f4b-93fe-013426a30114
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
 
 ---
-
 
 # 行銷人員地圖：策略化、建立和分析Marketo行銷活動的完整指南
 

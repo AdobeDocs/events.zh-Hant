@@ -5,13 +5,14 @@ feature-set: Experience Manager
 feature: Tagging
 role: Leader, Architect, Developer, Admin, User
 level: Beginner, Intermediate
+solution: Experience Manager
 doc-type: Event
 last-substantial-update: 2023-10-06T00:00:00Z
 jira: KT-14118
 thumbnail: 3424735.jpeg
 exl-id: 337a19c3-2959-492a-b0c6-87d5a7731797
 duration: 2640
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%

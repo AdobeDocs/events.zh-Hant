@@ -3,18 +3,19 @@ title: 透過自動化網路研討會瞭解Workfront的效率
 description: 在我們的隨選網路研討會中瞭解Adobe Workfront的有效維護策略。 探索Stanley Black & Decker和Workfront專家關於自動化重複工作、利用Fusion範本和進化工作流程以獲得最佳效率的秘訣。
 feature: Workfront Fusion
 role: Admin
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3682
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15822
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: a3fc6790-7ae6-4d6e-b2ee-6d2dcb6129f6
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # 透過自動化在Workfront中尋找效率
 
