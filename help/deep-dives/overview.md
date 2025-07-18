@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # 深入分析事件
 
-歡迎觀看Deep Dives隨選活動錄影。 若將這些資源與Adobe Marketo [檔案](https://experienceleague.adobe.com/docs/marketo-engage.html)和[教學課程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)搭配使用，您將能更妥善地瞭解如何使用Adobe Marketo支援您的業務。
+歡迎觀看Deep Dives隨選活動錄影。 若將這些資源與Adobe Marketo [檔案](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=zh-Hant)和[教學課程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hant)搭配使用，您將能更妥善地瞭解如何使用Adobe Marketo支援您的業務。
 
 <!-- CARDS
 
