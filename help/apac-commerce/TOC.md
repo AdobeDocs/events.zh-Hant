@@ -2,7 +2,9 @@
 user-guide-title: APAC Commerce活動
 breadcrumb-title: APAC Commerce活動
 user-guide-description: Adobe Commerce活動是影片庫，專家和同業可在其中分享如何使用Adobe Commerce的想法和創意。
-source-git-commit: 0019364eaad86248349d31290f25f758d762eaf4
+solution: Commerce
+type: Event
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 4%

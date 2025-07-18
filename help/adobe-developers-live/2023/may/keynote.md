@@ -1,7 +1,8 @@
 ---
 title: 開啟主題演講
-description: 主題演講 — 使用AdobeExperience Manager建立新一代可撰寫服務深入瞭解我們如何建構在不斷演變的Web平台上，為我們的開發人員社群帶來新一代可撰寫服務、通用編輯器、邊緣交付和創作AI等新創新。 我們也會預覽當天的研討會，協助您開始有效率的Adobe Developers Live！
+description: 主題演講 — 使用Adobe Experience Manager建立新一代可撰寫服務深入瞭解我們如何建構在不斷演變的Web平台上，為我們的開發人員社群帶來新一代可撰寫服務、通用編輯器、邊緣交付和創作AI等新創新。 我們也會預覽當天的研討會，協助您開始有效率的Adobe Developers Live！
 product: experience manager
+feature: Edge Delivery Services
 sub-product: sites
 topic: Development
 role: Developer
@@ -12,7 +13,7 @@ jira: KT-13353
 thumbnail: 3419949.jpeg
 exl-id: 1d0fde08-1f0f-492b-a2c3-b6e1c53bd130
 duration: 3634
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%

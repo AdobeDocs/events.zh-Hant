@@ -1,6 +1,7 @@
 ---
 title: 現代Adobe Experience Manager API與事件
 description: 擴充應用程式並將AMS服務與現代API整合(由專屬團隊和developer.adobe.com上的完整資源支援)，與新的內容片段API、事件整合和早期採用者的機會API整合。
+solution: Experience Manager as a Cloud Service, Experience Manager
 feature: APIs, Integrations
 topic: Integrations
 role: Developer
@@ -9,17 +10,17 @@ doc-type: Event
 duration: 1310
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16549
-source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
+exl-id: 3cb11b21-d673-4373-82bb-72a6a1e73161
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
-
 # 現代Adobe Experience Manager API與事件
 
-瞭解Adobe Experience Manager的雲端原生事件系統如何與外部系統緊密整合，以現代化工作流程。 首席產品經理Mathias Siegel和Adobe資深電腦科學家Ian Reasor分享最新的API、事件和現實世界使用案例。
+瞭解Adobe Experience Manager的雲端原生事件系統如何與外部系統緊密整合，以現代化工作流程。 主要產品經理Mathias Siegel和Adobe資深電腦科學家Ian Reasor分享最新的API、事件和真實世界使用案例。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440203/?learn=on&enablevpops)
@@ -40,4 +41,3 @@ ht-degree: 0%
 * **鼓勵使用新API**&#x200B;建議使用者切換至這些新API，因為它們代表AMS API開發的未來方向。
 * **驗證與存取權杖**&#x200B;產生存取權杖的程式即將完成，並將在即將發行的版本中提供。
 * **參與和支援**&#x200B;團隊對於早期採用者的機會和有關API使用案例的進一步討論，都持開放態度。
-

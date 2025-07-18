@@ -1,25 +1,26 @@
 ---
-title: AEM GEM — 開始使用Adobe Managed CDN
+title: AEM GEM - Adobe Managed CDN快速入門
 description: 瞭解如何在AEM Cloud Service中設定Adobe Managed CDN，以透過新的CDN設定功能增強效能和安全性。
 role: Developer, User
 level: Intermediate
+feature: Edge Delivery Services
 doc-type: Event
 duration: 3438
 last-substantial-update: 2025-01-30T00:00:00Z
 jira: KT-17227
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+exl-id: 4cd0332f-95bf-45f4-a765-aba020c0d7b0
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '437'
 ht-degree: 0%
 
 ---
 
-
-# AEM GEM — 開始使用Adobe Managed CDN
+# AEM GEM - Adobe Managed CDN快速入門
 
 瞭解AEM Cloud Service中的Adobe Managed CDN以及如何進行設定。 加入我們，探索可用來增強AEM as a Cloud Service應用程式效能和安全的新CDN設定功能。 在此工作階段中，您將探索
 
-* 什麼是AdobeCDN
+* 什麼是Adobe CDN
 * AEMaaCS和Edge Delivery Services的相關拓撲
 * 可透過CDN規則實施的典型使用案例
 * 如何使用RDE快速測試和部署CDN設定
@@ -50,11 +51,11 @@ ht-degree: 0%
 
 * **設定管道**&#x200B;部署YAML檔案以設定CDN規則。
 * **流量保護**&#x200B;使用流量篩選規則來根據模式封鎖、記錄及警示流量。
-* **限制** Protect對每個IP的請求數量進行限制，以防止DDoS攻擊。
+* **速率限制**&#x200B;藉由限制每個IP的請求數目，防止DDoS攻擊。
 
 ### 工具與分析
 
-* **ElasticsearchKibana棧疊**&#x200B;使用提供的儀表板分析使用情況和流量。
+* **Elasticsearch Kibana棧疊**&#x200B;使用提供的儀表板分析使用情況和流量。
 * **記錄檔轉送**&#x200B;將記錄檔轉送至Splunk執行個體以供分析。
 
 ### 示範重點專案
