@@ -20,7 +20,7 @@ ht-degree: 0%
 
 嘿，Workfronters，這是您的「隨選Workfront CSM」！ 在這與！ 集，我分享一些使用群組與團隊的想法和建議。
 
->[!VIDEO](https://video.tv.adobe.com/v/3465273/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3467364/?learn=on&enablevpops&captions=chi_hant)
 
 想要進一步瞭解群組和團隊？
 
