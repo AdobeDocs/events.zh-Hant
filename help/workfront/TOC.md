@@ -20,7 +20,7 @@ ht-degree: 1%
 + 與！ {#versus}
    + [群組與團隊](versus/groups-vs-teams.md)
 + 專家深入分析 {#expert-insights}
-+[個具有Lyndsy Denk](expert-insights/request-queues.md)的請求佇列
++[個具有Lyndsy Denk的請求佇列](expert-insights/request-queues.md)
 + 車間倒帶 {#workshop-rewind}
    + 工作流程 {#workflow}
       + [Creative管理資源的方法](classics/creative-ways-of-managing-resources.md)
