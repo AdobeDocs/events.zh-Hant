@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3492
 last-substantial-update: 2025-08-01T00:00:00Z
 jira: KT-18677
-source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
+exl-id: b0344cef-66f3-4882-b0d8-eb2e298a08d2
+source-git-commit: 64d09d3316d604d92d1186e3785e64ac1bbaa800
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
-
 
 # 探索Experience Cloud中的Adobe使用者群組
 
@@ -26,11 +26,7 @@ ht-degree: 0%
 
 ## 工作階段概述
 
-本課程涵蓋：
-
 * 瞭解什麼是使用者群組，以及他們如何支援共同作業、解決問題和建立技能。
 * 取得有關如何加入或組建使用者群組的實用指引，包括Adobe提供的可用資源、工具和支援。
 * 直接聆聽AEM、Analytics、Marketo Engage和Workfront中活躍的使用者群組負責人分享他們對於端對端學習如何達成專業成長並解決實際挑戰。
 * 探索成為使用者群組領導或作為使用者群組成員參與等領導機會。
-
-
