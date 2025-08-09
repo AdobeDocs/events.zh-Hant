@@ -1,19 +1,20 @@
 ---
 title: Adobe數位深入分析 — 揭露2024年假期結果和2025年初趨勢
 description: 加入Adobe的網路研討會，深入瞭解2024年節日購物趨勢和2025年初市場預測、探索高成長產品類別，並學習使用AI和進階技術建立個人化購物體驗的最佳實務。
+solution: General
 role: Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3049
 last-substantial-update: 2025-02-20T00:00:00Z
 jira: KT-17395
-source-git-commit: f63e6bcb608eb6d03fa2f8b43babf0cb13909f4b
+exl-id: bf20e43a-efc6-4d54-af79-15f89d4fd02b
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 0%
 
 ---
-
 
 # Adobe數位深入分析：揭開2024年假期結果和2025年初趨勢
 

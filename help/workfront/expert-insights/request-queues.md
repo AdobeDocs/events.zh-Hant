@@ -4,17 +4,20 @@ description: 使用Lyndsy Denk建立服務檯佇列、路由請求和控制面�
 feature: Requests
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
+speaker-name-1: Lyndsy Dent
+speaker-title-1: Marketing Training and Enablement Manager
+speaker-company-1: IDEXX
 doc-type: Event
 duration: 1228
 last-substantial-update: 2025-07-17T00:00:00Z
 jira: KT-18551
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+exl-id: 370e6388-2dc3-4c12-8500-510dac32e867
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
-
 
 # 專家深入分析 — 與Lyndsy Denk的請求佇列
 
@@ -33,9 +36,9 @@ Lyndsy在聊天中分享，
 
 誠如承諾，以下是我們討論的資源，以及幾個請求佇列和佇列主題的額外連結：
 
-* 有關如何[管理繼承的執行個體](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance)的資源，包括網路研討會的連結以及[藍圖教學課程](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)的詳細資訊
+* 有關如何[管理繼承的執行個體](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance)的資源，包括網路研討會的連結以及[藍圖教學課程](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)的詳細資訊
 
-* 瞭解請求佇列檔案： [建立佇列主題](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
+* 瞭解請求佇列檔案： [建立佇列主題](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
 * Lyndsy針對[System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096)的網路研討會簡報：與一般使用者通訊（此頁面也包含[一般使用者Comms逐步指南](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439)的連結）
 
@@ -43,7 +46,7 @@ Lyndsy在聊天中分享，
 
 * 還有，別忘了檢視[Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798) 「詢問我有關Workfront Proof的任何事情」，Lyndsy以及Monique Evans和Richard Carlson回答了關於校訂的問題！
 
-### 關於Lyndsy
+## 關於喇叭 
 
 Lyndsy是IDEXX的行銷培訓與賦能經理。 除了Workfront之外，她還管理他們的DAM並領導行銷部門的內部通訊。 彼擁有技術寫作、教學設計、高等教育以及中學競爭演說與辯論教練之背景。
 
@@ -54,5 +57,3 @@ Lyndsy是IDEXX的行銷培訓與賦能經理。 除了Workfront之外，她還�
 ## 有什麼要分享的嗎？
 
 在活動期間或Expert Insights影片中，您是否有精彩的故事可以分享？ 請透過[CSatScale@adobe.com](mailto:CSatScale@adobe.com)聯絡我們的團隊。
-
-

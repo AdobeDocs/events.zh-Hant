@@ -1,19 +1,20 @@
 ---
 title: 有影響力的深入分析 — 有效測量的製作策略
 description: 實施良好的測量策略可提升營運效率、促進資料導向式決策，以及改善客戶體驗，為組織提供競爭優勢。
+solution: General
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 2814
 last-substantial-update: 2025-02-18T00:00:00Z
 jira: KT-17378
-source-git-commit: 5d4308bd92d8285e2380725ad72e341319347cc4
+exl-id: f40c7d75-1b2e-43d5-80dd-99f87c003cac
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
 
 ---
-
 
 # 有影響力的深入分析：打造有效測量的策略
 

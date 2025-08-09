@@ -3,9 +3,9 @@ title: Adobe Workfront隨選研討會
 description: Workfront活動是影片庫，專家和同業可在此分享他們的想法和想法，瞭解如何使用Workfront來增強為組織完成的工作。
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
-source-wordcount: '531'
+source-wordcount: '693'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="releases/25-7-release-webinar.md" title="Adobe Workfront 25.7版本網路研討會" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1752859088580" alt="Adobe Workfront 25.7版本網路研討會"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1754697926098" alt="Adobe Workfront 25.7版本網路研討會"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -64,6 +64,7 @@ Explore the latest from your Adobe Workfront community through our curated selec
 <!-- CARDS
 
 * top3/blueprints.md
+* top3/office-hours.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -73,7 +74,7 @@ Explore the latest from your Adobe Workfront community through our curated selec
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/blueprints.md" title="前3名 — Creative使用Blueprint的方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465324/?format=jpeg&nocache=1752859088922&captions=chi_hant" alt="前3名 — Creative使用Blueprint的方法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1754697926485" alt="前3名 — Creative使用Blueprint的方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,6 +87,29 @@ Explore the latest from your Adobe Workfront community through our curated selec
                     <p class="is-size-6">探索Workfront藍圖如何使用新範本、儀表板和沙箱測試提示快速進行設定。</p>
                 </div>
                 <a href="top3/blueprints.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Top 3 Approaches to Office Hours">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="top3/office-hours.md" title="前3大辦公時間方法" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1754697926468" alt="前3大辦公時間方法"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="top3/office-hours.md" target="_blank" rel="referrer" title="前3大辦公時間方法">前3個營業時間的方法</a>
+                    </p>
+                    <p class="is-size-6">探索執行有效Adobe Workfront辦公時間的秘訣、資源和社群最佳實務，以提升採用率和參與度。</p>
+                </div>
+                <a href="top3/office-hours.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
                 </a>
             </div>
@@ -112,7 +136,7 @@ Explore the latest from your Adobe Workfront community through our curated selec
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="與！  — 群組與團隊" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467364/?format=jpeg&nocache=1752859089086&captions=chi_hant" alt="與！  — 群組與團隊"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1754697926685" alt="與！  — 群組與團隊"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,17 +164,42 @@ Workfront Expert Insights系列是您解鎖Workfront資深從業人員實用策�
 
 <!-- CARDS 
 
+* expert-insights/non-traditional-workfront-workflows.md
 * expert-insights/request-queues.md
+* expert-insights/sla-reporting.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights - Non-Traditional Workfront Workflows with Kiersten Kollins">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="expert-insights/non-traditional-workfront-workflows.md" title="專家深入分析 — 非傳統Workfront工作流程與Kiersten Kollins" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469900/?format=jpeg&nocache=1754697926938" alt="專家深入分析 — 非傳統Workfront工作流程與Kiersten Kollins"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="expert-insights/non-traditional-workfront-workflows.md" target="_blank" rel="referrer" title="專家深入分析 — 非傳統Workfront工作流程與Kiersten Kollins">專家深入分析 — 非傳統Workfront工作流程與Kiersten Kollins</a>
+                    </p>
+                    <p class="is-size-6">瞭解DSW的Kiersten Kollins如何使用非傳統Adobe Workfront工作流程、自訂報告和Fusion自動化，以最佳化行銷作業並提高團隊效率。</p>
+                </div>
+                <a href="expert-insights/non-traditional-workfront-workflows.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights - Request Queues with Lyndsy Denk">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/request-queues.md" title="專家深入分析 — 與Lyndsy Denk的請求佇列" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465272/?format=jpeg&nocache=1752859089318" alt="專家深入分析 — 與Lyndsy Denk的請求佇列"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465272/?format=jpeg&nocache=1754697926951" alt="專家深入分析 — 與Lyndsy Denk的請求佇列"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,6 +212,29 @@ Workfront Expert Insights系列是您解鎖Workfront資深從業人員實用策�
                     <p class="is-size-6">使用Lyndsy Denk建立服務檯佇列、路由請求和控制面板深入解析的Workfront專家秘訣。</p>
                 </div>
                 <a href="expert-insights/request-queues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="SLA Reporting in Workfront with Madalyn Destafney">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="expert-insights/sla-reporting.md" title="使用Madalyn Destafney在Workfront中進行SLA報告" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1754697926919" alt="使用Madalyn Destafney在Workfront中進行SLA報告"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        使用Madalyn Destafney在Workfront中進行<a href="expert-insights/sla-reporting.md" target="_blank" rel="referrer" title="使用Madalyn Destafney在Workfront中進行SLA報告">SLA報告</a>
+                    </p>
+                    <p class="is-size-6">瞭解如何透過Madalyn Destafney的專家提示在Adobe Workfront中實作和測量服務等級協定(SLA)，包括逐步指南、計算欄位範例和自訂表單最佳實務。</p>
+                </div>
+                <a href="expert-insights/sla-reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
                 </a>
             </div>

@@ -1,6 +1,7 @@
 ---
 title: 建立XDM結構描述模型的最佳實務和深入分析
 description: 在AEP中建立主要資料模型，運用XDM結構描述、身分管理和最佳作法，以實現可擴充、即時個人化和細分。
+solution: Experience Platform
 topic: Personalization
 role: Developer
 level: Intermediate
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3488
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18019
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 3327dc51-b5e4-49bd-884a-4defea8664eb
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
 
 ---
-
 
 # 建立XDM結構描述模型的最佳實務和深入分析
 

@@ -2,10 +2,10 @@
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
 user-guide-description: Adobe客戶成功引導的網路研討會，旨在協助您最佳化Adobe Experience Cloud投資。 獲得有價值的深入分析，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
+source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 0%
+source-wordcount: '475'
+ht-degree: 4%
 
 ---
 
@@ -14,44 +14,58 @@ ht-degree: 0%
 
 + [Adobe客戶成功網路研討會](overview.md)
 + 2025 版 {#2025}
-   + [AEM的新興技術](2025/personalized-experiences-aem.md)
-   + [AEM與GenAI](2025/aem-genai.md)
-   + [AEM與Workfront整合](2025/aem-workfront-integration.md)
-   + [AI與Adobe Target](2025/ai-adobe-target.md)
-   + [AI — 超越基本知識](2025/ai-beyond-basics.md)
-   + [Workfront中的AI-Drive Automation](2025/unlock-efficiency-ai-drive-automation-workfront.md)
-   + [建立XDM結構描述模型的最佳實務和深入分析](2025/model-xdm-schemas.md)
-   + [建立有效網頁](2025/build-effective-web-pages.md)
-   + [內容供應鏈基本需知](2025/content-supply-chain-basics.md)
-   + [有效測量的製作策略](2025/impactful-insights.md)
-   + [培養敏捷行銷組織](2025/agile-marketing-organization.md)
-   + [資料Distiller 101](2025/data-distiller-101.md)
-   + [使用AI Insights最佳化數位體驗](2025/accelerating-digital-experience-optimization.md)
-   + [數位趨勢與為未來做好準備](2025/digital-trends-preparing-future.md)
-   + [促進客戶參與](2025/driving-customer-engagement.md)
-   + [透過Personalization和資料增強忠誠度計畫](2025/enhance-loyalty-programs.md)
-   + [增強Personalization](2025/enhancing-personalization.md)
-   + [基礎架構](2025/cja-vision.md)
-   + [GenAI實驗](2025/gen-ai-experimentation.md)
-   + [GenStudio for Performance Marketing作業模型](2025/genstudio-for-performance-marketing-operating-model.md)
-   + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
-   + [掌握AEM Sites](2025/mastering-aem-sites.md)
-   + [在AEM Content Hub中精通Digital Asset Manager](2025/mastering-dam-aem-content-hub.md)
-   + [掌握循序邏輯 — 視覺化架構](2025/mastering-sequential-logic.md)
-   + [掌握循序邏輯 — 開始停止](2025/sequential-logic-start-stop.md)
-   + [從Adobe Analytics移轉至CJA](2025/analytics-to-cja-migration.md)
-   + [適用於AEM雲端的New Relic Essentials](2025/new-relic-essentials-aem-cloud.md)
-   + [Northstar架構](2025/northstar-architecture.md)
-   + [最佳化AEM效能](2025/optimize-aem-performance.md)
-   + [個人化數位通訊](2025/personalize-digital-communications.md)
-   + [使用CJA實現價值的藍圖](2025/roadmap-to-value-cja.md)
-   + [贏得AEP專案的執行贊助](2025/exec-sponsorship-aep-projects.md)
-   + [Workfront Fusion基本概念與最佳作法](2025/adobe-workfront-fusion-best-practices.md)
-   + [Workfront和JIRA](2025/workfront-and-jira.md)
-   + [更聰明的行銷從這裡開始 — 整合Google和Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
-   + [數位和GenAI採用狀況](2025/state-of-digital-and-genai-adoption-webinar.md)
-   + [轉換B2B和B2B2C Commerce](2025/transforming-b2b-commerce.md)
-   + [2024年假期結果和2025年趨勢](2025/adobe-digital-insights.md)
+   + Commerce {#commerce2025}
+      + [轉換B2B和B2B2C Commerce](2025/transforming-b2b-commerce.md)
+   + Customer Journey Analytics {#cja2025}
+      + [為CJA成功設計作業模型](2025/cja-operating-model.md)
+      + [基礎架構](2025/cja-vision.md)
+      + [從Adobe Analytics移轉至CJA](2025/analytics-to-cja-migration.md)
+      + [使用CJA實現價值的藍圖](2025/roadmap-to-value-cja.md)
+      + [更聰明的行銷從這裡開始 — 整合Google和Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
+   + Experience Manager {#aem2025}
+      + [AEM的新興技術](2025/personalized-experiences-aem.md)
+      + [AEM與GenAI](2025/aem-genai.md)
+      + [AEM與Workfront整合](2025/aem-workfront-integration.md)
+      + [建立有效網頁](2025/build-effective-web-pages.md)
+      + [促進客戶參與](2025/driving-customer-engagement.md)
+      + [AEM Forms註冊歷程](2025/payer-enrollment-journey.md)
+      + [掌握AEM Sites](2025/mastering-aem-sites.md)
+      + [在AEM Content Hub中精通Digital Asset Manager](2025/mastering-dam-aem-content-hub.md)
+      + [使用Open API掌握Dynamic Media](2025/dynamic-media-open-ai.md)
+      + [適用於AEM雲端的New Relic Essentials](2025/new-relic-essentials-aem-cloud.md)
+      + [最佳化AEM效能](2025/optimize-aem-performance.md)
+      + [個人化數位通訊](2025/personalize-digital-communications.md)
+   + Experience Platform {#aep2025}
+      + [AI — 超越基本知識](2025/ai-beyond-basics.md)
+      + [建立XDM結構描述模型的最佳實務和深入分析](2025/model-xdm-schemas.md)
+      + [資料Distiller 101](2025/data-distiller-101.md)
+      + [贏得AEP專案的執行贊助](2025/exec-sponsorship-aep-projects.md)
+   + GenStudio for Performance Marketing {#genstudio2025}
+      + [GenStudio for Performance Marketing作業模型](2025/genstudio-for-performance-marketing-operating-model.md)
+   + Journey Optimizer {#ajo2025}
+      + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
+   + 多解決方案 {#multisolution2025}
+      + [內容供應鏈基本需知](2025/content-supply-chain-basics.md)
+      + [使用AI Insights最佳化數位體驗](2025/accelerating-digital-experience-optimization.md)
+      + [透過Personalization和資料增強忠誠度計畫](2025/enhance-loyalty-programs.md)
+      + [增強Personalization](2025/enhancing-personalization.md)
+      + [GenAI實驗](2025/gen-ai-experimentation.md)
+      + [掌握循序邏輯 — 視覺化架構](2025/mastering-sequential-logic.md)
+      + [掌握循序邏輯 — 開始停止](2025/sequential-logic-start-stop.md)
+   + Target {#target2025}
+      + [AI與Adobe Target](2025/ai-adobe-target.md)
+   + 一般 {#general2025}
+      + [2024年假期結果和2025年趨勢](2025/adobe-digital-insights.md)
+      + [有效測量的製作策略](2025/impactful-insights.md)
+      + [培養敏捷行銷組織](2025/agile-marketing-organization.md)
+      + [數位趨勢與為未來做好準備](2025/digital-trends-preparing-future.md)
+      + [Northstar架構](2025/northstar-architecture.md)
+      + [數位和GenAI採用狀況](2025/state-of-digital-and-genai-adoption-webinar.md)
+   + Workfront {#workfront2025}
+      + [Workfront中的AI-Drive Automation](2025/unlock-efficiency-ai-drive-automation-workfront.md)
+      + [Workfront Fusion基本概念與最佳作法](2025/adobe-workfront-fusion-best-practices.md)
+      + [Workfront和JIRA](2025/workfront-and-jira.md)
+
 + 2024 版 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Target的AI導向Personalization](2024/ai-personalization.md)

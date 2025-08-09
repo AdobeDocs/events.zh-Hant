@@ -1,19 +1,20 @@
 ---
 title: 培養敏捷行銷組織
 description: 有關培養敏捷行銷組織的座談會強調敏捷行銷的原則、它的好處、傳統瀑布方法的挑戰、文化轉變和變更管理的需要，以及成功的敏捷行銷所必須的角色和結構。
+solution: General
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3333
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17371
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: c4cce472-9730-41d8-8292-663d5a2e03a5
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
 
 ---
-
 
 # 培養敏捷行銷組織
 
