@@ -33,11 +33,11 @@ ht-degree: 0%
 
 在簡報期間，Madalyn分享她的自訂表單和計算欄位，因此如果您剛開始使用這些功能，以下提供一些連結，可將您引導至正確的方向。 
 
-* 教學課程播放清單 — [建立和共用自訂Forms](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
+* 教學課程播放清單 — [建立和共用自訂Forms](https://experienceleague.adobe.com/zh-hant/playlists/workfront-create-and-manage-custom-forms)
 
-* 文章 — [開始使用計算欄位和運算式](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* 文章 — [開始使用計算欄位和運算式](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* 提示與秘訣 — [每個人都應知道的計算欄位 — 以及如何報告！](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* 提示與秘訣 — [每個人都應知道的計算欄位 — 以及如何報告！](https://experienceleague.adobe.com/zh-hant/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 想聽聽Madalyn的更多秘訣嗎？ 在Workfront社群中瞭解她的一系列秘訣和技巧！ 
 

@@ -36,9 +36,9 @@ Lyndsy在聊天中分享，
 
 誠如承諾，以下是我們討論的資源，以及幾個請求佇列和佇列主題的額外連結：
 
-* 有關如何[管理繼承的執行個體](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance)的資源，包括網路研討會的連結以及[藍圖教學課程](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)的詳細資訊
+* 有關如何[管理繼承的執行個體](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance)的資源，包括網路研討會的連結以及[藍圖教學課程](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)的詳細資訊
 
-* 瞭解請求佇列檔案： [建立佇列主題](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
+* 瞭解請求佇列檔案： [建立佇列主題](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
 * Lyndsy針對[System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096)的網路研討會簡報：與一般使用者通訊（此頁面也包含[一般使用者Comms逐步指南](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439)的連結）
 

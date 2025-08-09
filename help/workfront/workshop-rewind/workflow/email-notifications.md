@@ -36,4 +36,4 @@ ht-degree: 0%
 * 如果使用者沒有收到（電子郵件）通知，您始終可以選擇以他們的身分登入，以確認通知在其設定檔中開啟。 如果卡住了，請聯絡客戶支援！   
 * 請考慮關閉與狀態變更相關的電子郵件 — 這些變更是否造成雜訊多於資訊動作？  
 
-我們希望在未來的客戶成功工作坊中見到您！  請務必檢視Experience League上的[Workfront活動](https://experienceleague.adobe.com/events/?filters=Workfront)以取得完整清單並註冊。
+我們希望在未來的客戶成功工作坊中見到您！  請務必檢視Experience League上的[Workfront活動](https://experienceleague.adobe.com/events/?lang=zh-Hant&filters=Workfront)以取得完整清單並註冊。
