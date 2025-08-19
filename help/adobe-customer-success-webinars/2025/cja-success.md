@@ -20,7 +20,7 @@ ht-degree: 0%
 
 在第四場會議中，我們深入探討缺乏強大的執行贊助會如何延遲決策、預算配置和變更管理。 在此網路研討會中，我們探討高階主管在倡導Adobe Customer Journey Analytics計畫、協調跨職能團隊及推動可衡量的業務成果方面所扮演的關鍵角色。 學習實用策略，與資深利害關係人互動，有效溝通價值，並建立資料導向式決策文化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470853/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470865/?learn=on&enablevpops&captions=chi_hant)
 
 ## 製作業務案例
 
