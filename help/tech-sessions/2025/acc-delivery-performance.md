@@ -1,7 +1,6 @@
 ---
 title: Adobe Campaign Classic傳遞效能 — 疑難排解
 description: 本課程涵蓋使用Adobe Campaign改善電子郵件和簡訊傳遞效能的主要策略。 它解決了傳送延遲、低吞吐量和異動緩慢等常見挑戰，提供批次最佳化、SQL記錄和伺服器效能監控等解決方案。 傳遞能力最佳實務包括正確的電子郵件驗證(SPF、DKIM、DMARC)、黑名單監控和垃圾郵件檢查。 為提升效能，專家建議使用簡潔的工作流程、節流規則和避免共用容器。 簡訊傳遞秘訣，重點是正確的外部帳戶設定和記錄分析。 會議也強調追蹤驗證、使用膨脹報表進行資料庫維護，以及套用壓力/疲勞規則以提升參與度。 將會透過電子郵件分享工作階段影片，並張貼在Adobe Experience網站上。
-version: Classic v7
 solution: Campaign Classic v7
 product: Adobe Campaign
 feature: SMS, Deliverability, Troubleshooting
@@ -11,13 +10,13 @@ doc-type: Event
 duration: 2257
 last-substantial-update: 2025-04-25T00:00:00Z
 jira: KT-17869
-source-git-commit: 373605f79b3122382e221252232a26535ff3109b
+exl-id: a7e1e198-b63b-4a2a-9ffc-7f72bf4c61c1
+source-git-commit: 3b54c46988da18248024d115997704d9881f5e68
 workflow-type: tm+mt
 source-wordcount: '442'
 ht-degree: 0%
 
 ---
-
 
 # 技術研討會：Adobe Campaign Classic傳遞效能 — 疑難排解
 
