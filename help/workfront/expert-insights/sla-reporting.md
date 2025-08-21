@@ -23,7 +23,7 @@ ht-degree: 0%
 
 歡迎使用另一期Expert Insights！  我是Cynthia Boon，您所謂的「隨選」Workfront CSM，很高興與大家分享我們唯一有的Madalyn Destafney分享她的部分豐富經驗，以協助客戶使用Workfront實作和測量服務等級協定(SLA)。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469901/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469989/?learn=on&enablevpops&captions=chi_hant)
 
 如同影片中的承諾，我們將Madalyn的簡報與其步驟、計算運算式和報表範例連結。 
 

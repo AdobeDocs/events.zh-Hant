@@ -25,7 +25,7 @@ ht-degree: 0%
 
 這是您的隨選Workfront CSM，現在我要播放新影片！  這一次，我們有一個來自絕佳客戶的簡報，來自Cognizant的Jaime Davidson！  在11月的Connect活動中，她樂於提供時間和專業知識，分享實作Workfront採用率調查的經驗和資源。 *額外優惠！*&#x200B;我們自己的Workfront CSM，Danielle Johnston也分享她的見解和推薦！
 
->[!VIDEO](https://video.tv.adobe.com/v/3469895/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469961/?learn=on&enablevpops&captions=chi_hant)
 
 ## 資源
 

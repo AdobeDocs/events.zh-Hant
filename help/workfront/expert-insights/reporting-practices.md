@@ -27,7 +27,7 @@ ht-degree: 0%
 
 和我一起加入您的On-Demand Workfront CSM，與Nichole聊天，瞭解她如何成為我們的報告大師、她最喜歡的功能與秘訣，以及我們如何「更像Nichole」！ 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469976/?learn=on&enablevpops&captions=chi_hant)
 
 ## 提示
 

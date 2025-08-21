@@ -25,7 +25,7 @@ ht-degree: 0%
 
 歡迎光臨您的On-Demand Workfront CSM，我與Leslie討論為什麼採用是如此重要的主題，還有我們最喜歡的一些策略。
 
->[!VIDEO](https://video.tv.adobe.com/v/3469893/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469938/?learn=on&enablevpops&captions=chi_hant)
 
 ## 提示、建議等
 
