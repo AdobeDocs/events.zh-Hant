@@ -11,13 +11,13 @@ doc-type: Event
 duration: 1458
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18618
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+exl-id: ab61b492-a391-497b-af45-f2d468e3f24f
+source-git-commit: ed7e2914147dbdc2012186c88e50d7313ef8bf7d
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
 
 ---
-
 
 # 專家深入分析 — 與Ewan Hruska融合
 
@@ -38,8 +38,8 @@ Ewan在影片中提到，他正在製作Fusion最佳實務指南，他很樂意�
 
 ## 資源
 
-* [可用的Fusion範本清單](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=zh-Hant)
-* [Adobe Workfront Fusion影片概述](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=zh-Hant)
+* [可用的Fusion範本清單](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=en)
+* [Adobe Workfront Fusion影片概述](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=en)
 
 ## 關於喇叭
 
