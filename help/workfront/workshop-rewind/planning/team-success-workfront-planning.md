@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3470
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18628
-source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+exl-id: 79a28ff0-7f89-4d71-80e4-6f9cd5c07380
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 1%
 
 ---
-
 
 # 快速開始，靈活擴展：透過Workfront規劃啟動團隊層級的成功
 
@@ -44,9 +44,7 @@ ht-degree: 1%
 * [建立Workspace （開始使用Planning的基礎）](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)
 * [建立和管理記錄型別](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)
 * [建立和管理資料表檢視](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views)
-* [檔案： Adobe Workfront規劃概觀](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
-* [Adobe Workfront Planning發行活動](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
+* [檔案： Adobe Workfront規劃概觀](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
+* [Adobe Workfront Planning發行活動](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
 
-我們即將推出更多Workfront規劃活動，請務必定期檢視Experience League[上的](https://experienceleague.adobe.com/events/?lang=zh-Hant&filters=Workfront)活動頁面，以免錯過！
-
-
+我們即將推出更多Workfront規劃活動，請務必定期檢視Experience League[上的](https://experienceleague.adobe.com/events/?filters=Workfront)活動頁面，以免錯過！

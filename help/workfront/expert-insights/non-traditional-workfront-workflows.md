@@ -11,13 +11,13 @@ doc-type: Event
 duration: 1129
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18622
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+exl-id: a67e7d79-fbfa-4268-9418-98fe977e13f3
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
-
 
 # 專家深入分析：非傳統Workfront工作流程與Kiersten Kollins
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 * 起始Creative簡短稽核，以符合使用者和專案的需求。 
 * *額外優惠！*&#x200B;她還分享她最愛的Fusion使用案例範例！
 
->[!VIDEO](https://video.tv.adobe.com/v/3469950/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
 
 ## 資源
 
@@ -49,6 +49,4 @@ Kiersten在行銷創意與營運團隊中擁有超過十年的工作經驗，曾
 
 ## 有什麼要分享的嗎？
 
-在活動期間或Expert Insights影片中，您是否有精彩的故事可以分享？ 請透過[CSatScale@adobe.com|mailto:CSatScale@adobe.com]聯絡我們的團隊。
-
-
+在活動期間或Expert Insights影片中，您是否有精彩的故事可以分享？ 請透過[CSatScale@adobe.com](mailto:CSatScale@adobe.com)聯絡我們的團隊。

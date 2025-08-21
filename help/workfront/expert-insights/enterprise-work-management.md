@@ -11,13 +11,13 @@ doc-type: Event
 duration: 2547
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18620
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: db16e693-cd95-4e67-858b-b57829d1e704
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
-
 
 # 專家深入分析 — 與Daniel Clarke一同管理企業工作
 
@@ -44,6 +44,4 @@ ht-degree: 0%
 
 ## 有什麼要分享的嗎？
 
-在活動期間或Expert Insights影片中，您是否有精彩的故事可以分享？ 請透過[CSatScale@adobe.com|mailto:CSatScale@adobe.com]聯絡我們的團隊。
-
-
+在活動期間或Expert Insights影片中，您是否有精彩的故事可以分享？ 請透過[CSatScale@adobe.com](mailto:CSatScale@adobe.com)聯絡我們的團隊。

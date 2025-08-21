@@ -3,9 +3,9 @@ title: Adobe Workfront隨選研討會
 description: Workfront活動是影片庫，專家和同業可在此分享他們的想法和想法，瞭解如何使用Workfront來增強為組織完成的工作。
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
 workflow-type: tm+mt
-source-wordcount: '800'
+source-wordcount: '1004'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="releases/25-7-release-webinar.md" title="Adobe Workfront 25.7版本網路研討會" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1755644848870" alt="Adobe Workfront 25.7版本網路研討會"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464843/?format=jpeg&nocache=1755738322564" alt="Adobe Workfront 25.7版本網路研討會"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -74,7 +74,7 @@ Explore the latest from your Adobe Workfront community through our curated selec
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/blueprints.md" title="前3名 — Creative使用Blueprint的方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465324/?format=jpeg&nocache=1755644849276&captions=chi_hant" alt="前3名 — Creative使用Blueprint的方法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1755738322896" alt="前3名 — Creative使用Blueprint的方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,7 +97,7 @@ Explore the latest from your Adobe Workfront community through our curated selec
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/office-hours.md" title="前3大辦公時間方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470153/?format=jpeg&nocache=1755644849259&captions=chi_hant" alt="前3大辦公時間方法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1755738322911" alt="前3大辦公時間方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -136,7 +136,7 @@ Explore the latest from your Adobe Workfront community through our curated selec
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="與！  — 群組與團隊" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467364/?format=jpeg&nocache=1755644849574&captions=chi_hant" alt="與！  — 群組與團隊"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1755738323112" alt="與！  — 群組與團隊"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -164,8 +164,13 @@ Workfront Expert Insights系列是您解鎖Workfront資深從業人員實用策�
 
 <!-- CARDS 
 
+* expert-insights/adoption.md
+* expert-insights/adoption-surveys.md
 * expert-insights/content-supply-chain.md
+* expert-insights/centers-of-excellence.md
+* expert-insights/fusion.md
 * expert-insights/non-traditional-workfront-workflows.md
+* expert-insights/reporting-practices.md
 * expert-insights/request-queues.md
 * expert-insights/sla-reporting.md
 * expert-insights/enterprise-work-management.md
@@ -173,12 +178,58 @@ Workfront Expert Insights系列是您解鎖Workfront資深從業人員實用策�
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights - Adoption with Leslie Spier">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="expert-insights/adoption.md" title="專家深入分析 — 採用Leslie Spier" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469893/?format=jpeg&nocache=1755738323318" alt="專家深入分析 — 採用Leslie Spier"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="expert-insights/adoption.md" target="_blank" rel="referrer" title="專家深入分析 — 採用Leslie Spier">專家深入分析 — 採用Leslie Spier</a>
+                    </p>
+                    <p class="is-size-6">向Leslie Spier學習採用策略，以提升Workfront參與度、改善流程並認可使用者貢獻。</p>
+                </div>
+                <a href="expert-insights/adoption.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="undefined">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="expert-insights/adoption-surveys.md" title="未定義" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469895/?format=jpeg&nocache=1755738323302" alt="未定義"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="expert-insights/adoption-surveys.md" target="_blank" rel="referrer" title="未定義">未定義</a>
+                    </p>
+                    <p class="is-size-6">未定義</p>
+                </div>
+                <a href="expert-insights/adoption-surveys.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights – Content Supply Chain with Corre Kombol">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/content-supply-chain.md" title="專家深入分析 — 內容供應鏈與Core Kombol" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1755644850018" alt="專家深入分析 — 內容供應鏈與Core Kombol"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1755738323330" alt="專家深入分析 — 內容供應鏈與Core Kombol"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -196,12 +247,58 @@ Workfront Expert Insights系列是您解鎖Workfront資深從業人員實用策�
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights – Governance & Centers of Excellence with Danielle Johnston">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="expert-insights/centers-of-excellence.md" title="專家深入分析 — 與Danielle Johnston一起管理及卓越中心" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469897/?format=jpeg&nocache=1755738323349" alt="專家深入分析 — 與Danielle Johnston一起管理及卓越中心"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="expert-insights/centers-of-excellence.md" target="_blank" rel="referrer" title="專家深入分析 — 與Danielle Johnston一起管理及卓越中心">專家深入分析 — 與Danielle Johnston合作管理及卓越中心</a>
+                    </p>
+                    <p class="is-size-6">探索Danielle Johnston關於使用Workfront建立治理和卓越中心的策略，以推動採用和積極變革。</p>
+                </div>
+                <a href="expert-insights/centers-of-excellence.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights – Fusion with Ewan Hruska">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="expert-insights/fusion.md" title="專家深入分析 — 與Ewan Hruska融合" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469896/?format=jpeg&nocache=1755738323340" alt="專家深入分析 — 與Ewan Hruska融合"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="expert-insights/fusion.md" target="_blank" rel="referrer" title="專家深入分析 — 與Ewan Hruska融合">專家深入分析 — 與Ewan Hruska融合</a>
+                    </p>
+                    <p class="is-size-6">向Ewan Hruska學習Fusion最佳實務。 瞭解如何使用Adobe Workfront Fusion記錄、最佳化和擴展工作流程以提高效率。</p>
+                </div>
+                <a href="expert-insights/fusion.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights - Non-Traditional Workfront Workflows with Kiersten Kollins">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/non-traditional-workfront-workflows.md" title="專家深入分析 — 非傳統Workfront工作流程與Kiersten Kollins" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469950/?format=jpeg&nocache=1755644850008&captions=chi_hant" alt="專家深入分析 — 非傳統Workfront工作流程與Kiersten Kollins"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469900/?format=jpeg&nocache=1755738323368" alt="專家深入分析 — 非傳統Workfront工作流程與Kiersten Kollins"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -219,12 +316,35 @@ Workfront Expert Insights系列是您解鎖Workfront資深從業人員實用策�
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights – Reporting Practices with Nichole Vargas">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="expert-insights/reporting-practices.md" title="專家深入分析 — 使用Nichole Vargas的報告實務" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469894/?format=jpeg&nocache=1755738323359" alt="專家深入分析 — 使用Nichole Vargas的報告實務"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="expert-insights/reporting-practices.md" target="_blank" rel="referrer" title="專家深入分析 — 使用Nichole Vargas的報告實務">專家深入分析 — 使用Nichole Vargas的報告實務</a>
+                    </p>
+                    <p class="is-size-6">從Nichole Vargas學習最佳報告實務 — 利用計算欄位、故事講述提示和社群導向的資源來提升您的Workfront報告技能。</p>
+                </div>
+                <a href="expert-insights/reporting-practices.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights - Request Queues with Lyndsy Denk">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/request-queues.md" title="專家深入分析 — 與Lyndsy Denk的請求佇列" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465272/?format=jpeg&nocache=1755644850056" alt="專家深入分析 — 與Lyndsy Denk的請求佇列"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465272/?format=jpeg&nocache=1755738323377" alt="專家深入分析 — 與Lyndsy Denk的請求佇列"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -247,7 +367,7 @@ Workfront Expert Insights系列是您解鎖Workfront資深從業人員實用策�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/sla-reporting.md" title="使用Madalyn Destafney在Workfront中進行SLA報告" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469989/?format=jpeg&nocache=1755644850045&captions=chi_hant" alt="使用Madalyn Destafney在Workfront中進行SLA報告"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1755738323385" alt="使用Madalyn Destafney在Workfront中進行SLA報告"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -270,7 +390,7 @@ Workfront Expert Insights系列是您解鎖Workfront資深從業人員實用策�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/enterprise-work-management.md" title="專家深入分析 — 與Daniel Clarke一同管理企業工作" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469898/?format=jpeg&nocache=1755644850032" alt="專家深入分析 — 與Daniel Clarke一同管理企業工作"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469898/?format=jpeg&nocache=1755738323393" alt="專家深入分析 — 與Daniel Clarke一同管理企業工作"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
