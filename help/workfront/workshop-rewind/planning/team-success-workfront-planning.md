@@ -44,7 +44,7 @@ ht-degree: 1%
 * [建立Workspace （開始使用Planning的基礎）](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)
 * [建立和管理記錄型別](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)
 * [建立和管理資料表檢視](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views)
-* [檔案： Adobe Workfront規劃概觀](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
-* [Adobe Workfront Planning發行活動](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
+* [檔案： Adobe Workfront規劃概觀](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/adobe-workfront-planning/adobe-workfront-planning-general-information/planning-overview)
+* [Adobe Workfront Planning發行活動](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)
 
-我們即將推出更多Workfront規劃活動，請務必定期檢視Experience League[上的](https://experienceleague.adobe.com/events/?filters=Workfront)活動頁面，以免錯過！
+我們即將推出更多Workfront規劃活動，請務必定期檢視Experience League[上的](https://experienceleague.adobe.com/events/?lang=zh-Hant&filters=Workfront)活動頁面，以免錯過！

@@ -42,14 +42,14 @@ ht-degree: 0%
 ## 資源
 
 * **部落格** - [使用計算自訂欄位節省時間](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237)
-* **Article** - [計算的資料運算式]&#x200B;(https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=en#:~:text=您可以使用產生新欄位的資料運算式。&amp;text=如需建立、資料至自訂表單的詳細資訊。)
+* **Article** - [計算的資料運算式]&#x200B;(https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=zh-Hant#:~:text=您可以使用產生新欄位的資料運算式。&amp;text=如需建立、資料至自訂表單的詳細資訊。)
 * **事件後續追蹤** - [計算自訂欄位研討會](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725)
 * **社群** - [報表逐步指南](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
 * **部落格** - [使用Workfront藍圖來最佳化您的工作管理環境！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
    * *快速入門* — 此部落格提供系統維護儀表板及使用儀表板報告套裝的詳細資訊。 
    * *額外提示！* — 訂閱部落格以在發行新Blueprint時收到通知。 
-* **文章** - [萬用字元篩選器變數](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=en)
-* **文章** - [新增基本條件式格式至檢視](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
+* **文章** - [萬用字元篩選器變數](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=zh-Hant)
+* **文章** - [新增基本條件式格式至檢視](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=zh-Hant)
 
 ## 關於喇叭
 
