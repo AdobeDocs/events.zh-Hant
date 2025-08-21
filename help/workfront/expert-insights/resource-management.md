@@ -35,13 +35,13 @@ ht-degree: 0%
 
 在尋找資源規劃工具和工作負載平衡器之間的差異？ 以下是一些短片：
 
-* [什麼是資源規劃工具？](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=en)
-* [在工作負載平衡器](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=en)中指派工作
+* [什麼是資源規劃工具？](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=zh-Hant)
+* [在工作負載平衡器](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=zh-Hant)中指派工作
 
 由於資源規劃工具和工作負載平衡器是資源管理功能中的兩個不同工具，因此瞭解兩個工具中的篩選是關鍵。 如需詳細資訊，請前往這裡：
 
-* [在資源規劃工具中篩選資訊](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=en)
-* [在工作負載平衡器](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=en)中篩選資訊
+* [在資源規劃工具中篩選資訊](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=zh-Hant)
+* [在工作負載平衡器](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=zh-Hant)中篩選資訊
 
 ## 關於喇叭
 

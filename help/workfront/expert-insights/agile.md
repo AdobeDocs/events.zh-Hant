@@ -34,9 +34,9 @@ Natalie在面試中分享了她最愛的Agile資源，因此我們承諾會提�
 
 正在尋找簡單的入門方法嗎？ 請檢視下列文章和短片示範：
 
-* [Adobe Workfront展示板的早期功能選擇加入](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
-* [建立或編輯面板 — 包含每個面板範本的說明](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
-* [Adobe Workfront主機板 — 短片示範](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)
+* [Adobe Workfront展示板的早期功能選擇加入](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=zh-Hant)
+* [建立或編輯面板 — 包含每個面板範本的說明](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=zh-Hant)
+* [Adobe Workfront主機板 — 短片示範](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=zh-Hant)
 
 ## 關於喇叭
 

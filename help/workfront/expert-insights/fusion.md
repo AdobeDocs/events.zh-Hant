@@ -38,8 +38,8 @@ Ewan在影片中提到，他正在製作Fusion最佳實務指南，他很樂意�
 
 ## 資源
 
-* [可用的Fusion範本清單](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=en)
-* [Adobe Workfront Fusion影片概述](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=en)
+* [可用的Fusion範本清單](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=zh-Hant)
+* [Adobe Workfront Fusion影片概述](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=zh-Hant)
 
 ## 關於喇叭
 
