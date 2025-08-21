@@ -74,7 +74,7 @@ Explore the latest from your Adobe Workfront community through our curated selec
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/blueprints.md" title="前3名 — Creative使用Blueprint的方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1755810021557" alt="前3名 — Creative使用Blueprint的方法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465324/?format=jpeg&nocache=1755810021557&captions=chi_hant" alt="前3名 — Creative使用Blueprint的方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,7 +97,7 @@ Explore the latest from your Adobe Workfront community through our curated selec
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="top3/office-hours.md" title="前3大辦公時間方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1755810021545" alt="前3大辦公時間方法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470153/?format=jpeg&nocache=1755810021545&captions=chi_hant" alt="前3大辦公時間方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -136,7 +136,7 @@ Explore the latest from your Adobe Workfront community through our curated selec
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="versus/groups-vs-teams.md" title="與！  — 群組與團隊" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1755810021828" alt="與！  — 群組與團隊"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467364/?format=jpeg&nocache=1755810021828&captions=chi_hant" alt="與！  — 群組與團隊"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -185,7 +185,7 @@ Workfront Expert Insights系列是您解鎖Workfront資深從業人員實用策�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption.md" title="專家深入分析 — 採用Leslie Spier" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469893/?format=jpeg&nocache=1755810022202" alt="專家深入分析 — 採用Leslie Spier"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469938/?format=jpeg&nocache=1755810022202&captions=chi_hant" alt="專家深入分析 — 採用Leslie Spier"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -208,7 +208,7 @@ Workfront Expert Insights系列是您解鎖Workfront資深從業人員實用策�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption-surveys.md" title="專家深入分析 — 與Jaime Davidson進行採用率調查" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469895/?format=jpeg&nocache=1755810022164" alt="專家深入分析 — 與Jaime Davidson進行採用率調查"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469961/?format=jpeg&nocache=1755810022164&captions=chi_hant" alt="專家深入分析 — 與Jaime Davidson進行採用率調查"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -231,7 +231,7 @@ Workfront Expert Insights系列是您解鎖Workfront資深從業人員實用策�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/agile.md" title="專家深入分析 — 與Natalie Mitchell敏捷合作" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469891/?format=jpeg&nocache=1755810022193" alt="專家深入分析 — 與Natalie Mitchell敏捷合作"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469927/?format=jpeg&nocache=1755810022193&captions=chi_hant" alt="專家深入分析 — 與Natalie Mitchell敏捷合作"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -323,7 +323,7 @@ Workfront Expert Insights系列是您解鎖Workfront資深從業人員實用策�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/non-traditional-workfront-workflows.md" title="專家深入分析 — 非傳統Workfront工作流程與Kiersten Kollins" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469900/?format=jpeg&nocache=1755810022175" alt="專家深入分析 — 非傳統Workfront工作流程與Kiersten Kollins"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469950/?format=jpeg&nocache=1755810022175&captions=chi_hant" alt="專家深入分析 — 非傳統Workfront工作流程與Kiersten Kollins"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -346,7 +346,7 @@ Workfront Expert Insights系列是您解鎖Workfront資深從業人員實用策�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/reporting-practices.md" title="專家深入分析 — 使用Nichole Vargas的報告實務" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469894/?format=jpeg&nocache=1755810022226" alt="專家深入分析 — 使用Nichole Vargas的報告實務"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469976/?format=jpeg&nocache=1755810022226&captions=chi_hant" alt="專家深入分析 — 使用Nichole Vargas的報告實務"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -392,7 +392,7 @@ Workfront Expert Insights系列是您解鎖Workfront資深從業人員實用策�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/resource-management.md" title="未定義" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469890/?format=jpeg&nocache=1755810022210" alt="未定義"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469914/?format=jpeg&nocache=1755810022210&captions=chi_hant" alt="未定義"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -415,7 +415,7 @@ Workfront Expert Insights系列是您解鎖Workfront資深從業人員實用策�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/sla-reporting.md" title="使用Madalyn Destafney在Workfront中進行SLA報告" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1755810022242" alt="使用Madalyn Destafney在Workfront中進行SLA報告"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469989/?format=jpeg&nocache=1755810022242&captions=chi_hant" alt="使用Madalyn Destafney在Workfront中進行SLA報告"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
