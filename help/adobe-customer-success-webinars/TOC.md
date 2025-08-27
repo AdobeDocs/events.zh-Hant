@@ -2,9 +2,9 @@
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
 user-guide-description: Adobe客戶成功引導的網路研討會，旨在協助您最佳化Adobe Experience Cloud投資。 獲得有價值的深入分析，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+source-git-commit: c3e2710187832f1f67a1e73c11b7262b32ed1f8a
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '490'
 ht-degree: 4%
 
 ---
@@ -63,6 +63,7 @@ ht-degree: 4%
       + [培養敏捷行銷組織](2025/agile-marketing-organization.md)
       + [數位趨勢與為未來做好準備](2025/digital-trends-preparing-future.md)
       + [Northstar架構](2025/northstar-architecture.md)
+      + [AI驅動的增長與最佳績效手冊](2025/ai-driven-growth.md)
       + [數位和GenAI採用狀況](2025/state-of-digital-and-genai-adoption-webinar.md)
    + Workfront {#workfront2025}
       + [Workfront中的AI-Drive Automation](2025/unlock-efficiency-ai-drive-automation-workfront.md)
