@@ -3,9 +3,9 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: d14aa66f5c09a280d56b9d857fcc64379e83677f
+source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 2%
 
 ---
@@ -20,11 +20,12 @@ ht-degree: 2%
    + [25.4版](releases/25-4-release-webinar.md)
    + [25.1版](releases/25-1-release-webinar.md)
    + [24.1版](releases/24-1-release-webinar.md)
-+ 前3名 {#top3}
-   + [使用Blueprint的Creative方法](top3/blueprints.md)
-   + [前3大辦公時間方法](top3/office-hours.md)
-+ 與！ {#versus}
-   + [群組與團隊](versus/groups-vs-teams.md)
++ 快速取得 {#quicktakes}
+   + 前3名 {#top3}
+      + [使用Blueprint的Creative方法](top3/blueprints.md)
+      + [前3大辦公時間方法](top3/office-hours.md)
+   + 與！ {#versus}
+      + [群組與團隊](versus/groups-vs-teams.md)
 + 專家深入分析 {#expert-insights}
    + [採用](expert-insights/adoption.md)
    + [採用調查](expert-insights/adoption-surveys.md)

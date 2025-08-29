@@ -3,9 +3,9 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers與技能交流的錄製集合
 event-series: The Skill Exchange
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
 workflow-type: tm+mt
-source-wordcount: '695'
+source-wordcount: '722'
 ht-degree: 9%
 
 ---
@@ -133,6 +133,9 @@ ht-degree: 9%
       + [在Adobe Journey Optimizer中處理複雜歷程的秘訣](aep-apps/2025/aug/tips-for-tackling-journeys.md)
       + [電子郵件以外的歷程](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
+   + 2025 年 8 月 {#aug2025}
+      + [改善資料分類](marketo/2025/aug/data-categorization-with-ai.md)
+      + [簡化後續追蹤](marketo/2025/aug/follow-ups-customer-lifecycle.md)
    + 2024 年 8 月 {#aug2024}
       + [開啟主題演講](marketo/aug2024/keynote.md)
       + [參與計畫的進階應用程式](marketo/aug2024/advanced-applications-engagment-programs.md)
@@ -166,6 +169,12 @@ ht-degree: 9%
       + [在 [!DNL Marketo Engage]內報告](marketo/feb2021/reporting-within-marketo.md)
       + [適用於Forms的Ultimate提示與秘訣](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+   + 2025 年 8 月 {#aug2025}
+      + [開啟主題演講](workfront/2025/aug/keynote.md)
+      + [進階文字模式](workfront/2025/aug/advanced-text-mode.md)
+      + [使用Fusion自動建立使用者帳戶](workfront/2025/aug/fusion-user-account-creation.md)
+      + [卓越中心](workfront/2025/aug/center-of-excellence.md)
+      + [掌握Workfront的AI工具](workfront/2025/aug/workfront-ai-tools.md)
    + 2024 年 8 月 {#aug2024}
       + [開啟主題演講](workfront/aug2024/keynote.md)
       + [自訂工作負載平衡器](workfront/aug2024/workload-balancer.md)
