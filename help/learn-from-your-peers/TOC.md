@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: 從 [!DNL Experience Makers Learn from your peers]的錄製集合
-source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
+source-git-commit: fd99debc943f21bd6454e8cce91b8cf3e0770738
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '338'
 ht-degree: 20%
 
 ---
@@ -36,6 +36,8 @@ ht-degree: 20%
    + 2 月 {#feb2024}
       + [Agile SDLC中的通訊、需求和測試](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
+   + 8 月 {#aug2025}
+      + [AEM智慧標籤](experience-manager/aug2025/smart-tags.md)
    + 7 月 {#jul2024}
       + [大規模解除鎖定成功](experience-manager/july2024/global-digital-presence.md)
    + 11 月 {#nov2023}
@@ -43,7 +45,7 @@ ht-degree: 20%
    + 9 月 {#sept2023}
       + [深入探討AEM Sites的工具](experience-manager/sept2023/aem-sites-tools.md)
    + 7 月 {#july2023}
-      + [在Cloud Service中有效的安全性策略](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+      + 在Cloud Service中[有效的安全性策略](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + 5 月 {#may2023}
       + [掌握內容與體驗片段](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
