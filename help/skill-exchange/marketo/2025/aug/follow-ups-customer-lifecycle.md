@@ -28,7 +28,7 @@ ht-degree: 1%
 
 ## 其他資源
 
-* [可執行的行銷活動](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
+* [可執行的行銷活動](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
 * [您需要瞭解有關Marketo Engage中新的可執行檔行銷活動型別的一切](https://mugs.marketo.com/events/details/marketo-houston-mug-presents-everything-you-need-to-know-about-the-new-executable-campaign-type-in-marketo/)
 * [可執行行銷活動：瞭解可執行檔如何提高效率及影響力](https://www.youtube.com/watch?v=QGC4Bhn5BpU)
 
@@ -40,6 +40,6 @@ ht-degree: 1%
 
 * [深入探究電子郵件：具有應用程式通知、Dynamic Chat和傳訊應用程式的多通道行銷](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-beyond-emails-multi-channel-marketing-with-app-notifications-dynamic-chat-and-messaging-apps/)
 * [全通路參與](https://business.adobe.com/sg/products/marketo/omnichannel-engagement.html)
-* [如何建立應用程式內訊息](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
-* [如何建立推播通知](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
+* [如何建立應用程式內訊息](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
+* [如何建立推播通知](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
 * [如何建立WhatsApp範本](https://community.sinch.com/t5/Settings/Create-a-WhatsApp-message-template-new-experience/ta-p/11599)
