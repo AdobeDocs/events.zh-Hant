@@ -31,7 +31,7 @@ ht-degree: 0%
 * 透過Fusion在Admin Console中自動建立帳戶
 * 透過Fusion更新Workfront設定檔的其他詳細資料
 
->[!VIDEO](https://video.tv.adobe.com/v/3471496/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471582/?learn=on&enablevpops&captions=chi_hant)
 
 ## 管理員和調整規模的最佳實務
 

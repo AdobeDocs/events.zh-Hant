@@ -27,7 +27,7 @@ ht-degree: 0%
 * **人員配置考量事項**&#x200B;藉由識別管理員實務的主要角色和職責，探索人員配置您的CoE的重要層面。 瞭解如何建立團隊以有效支援並推動CoE的計畫。
 * **秘訣與技巧**&#x200B;獲得管理及維持您的CoE的實用深入分析和最佳實務。 探索克服共同挑戰、促進共同作業並確保持續改善的策略。 加入我們，為您自己提供在Workfront組織中建立茁壯成長的卓越中心所需的知識與工具。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471495/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471595/?learn=on&enablevpops&captions=chi_hant)
 
 ## 啟動COE的關鍵步驟
 

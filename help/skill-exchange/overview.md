@@ -183,7 +183,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/opening-keynote.md" title="開啟主題演講" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1756848632015" alt="開啟主題演講"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471486/?format=jpeg&nocache=1756848632015&captions=chi_hant" alt="開啟主題演講"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -229,7 +229,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/design-studio.md" title="充分發揮Design Studio的全球行銷運作功能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471389/?format=jpeg&nocache=1756848632006" alt="充分發揮Design Studio的全球行銷運作功能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471441/?format=jpeg&nocache=1756848632006&captions=chi_hant" alt="充分發揮Design Studio的全球行銷運作功能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -365,7 +365,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="讓您的Workfront組織做好準備，邁向卓越中心" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1756848632522" alt="讓您的Workfront組織做好準備，邁向卓越中心"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471595/?format=jpeg&nocache=1756848632522&captions=chi_hant" alt="讓您的Workfront組織做好準備，邁向卓越中心"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -411,7 +411,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/fusion-user-account-creation.md" title="使用Fusion自動建立Workfront使用者帳戶" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1756848632510" alt="使用Fusion自動建立Workfront使用者帳戶"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471582/?format=jpeg&nocache=1756848632510&captions=chi_hant" alt="使用Fusion自動建立Workfront使用者帳戶"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -434,7 +434,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/review-approval.md" title="開始使用檢閱和核准" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1756848632551" alt="開始使用檢閱和核准"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471571/?format=jpeg&nocache=1756848632551&captions=chi_hant" alt="開始使用檢閱和核准"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

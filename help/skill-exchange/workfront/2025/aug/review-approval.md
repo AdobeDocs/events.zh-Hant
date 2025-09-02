@@ -21,7 +21,7 @@ ht-degree: 0%
 
 您嘗試核准資產時，是否厭倦了電子郵件回饋迴路？ Workfront的稽核和核准功能是縮短週期時間、獲得利益相關者的一致性並確保符合合規性標準的寶貴工具。 瞭解如何開始使用Workfront中的新檢閱和核准功能。 我們也會談談將現有校訂流程轉換為新檢閱和核准功能的建議。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471493/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471571/?learn=on&enablevpops&captions=chi_hant)
 
 ## 使用Workfront轉換檢閱和核准
 

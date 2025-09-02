@@ -29,7 +29,7 @@ ht-degree: 0%
 * 運用Design Studio中的智慧型編碼做法，可讓您的行銷營運和品牌合規性符合未來需求。
 * Adobe Experience Manager (AEM)整合如何填補Design Studio的空白，以擴充Marketo Engage的功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471389/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471441/?learn=on&enablevpops&captions=chi_hant)
 
 ## 釋放高效率的Marketo作業
 
