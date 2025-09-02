@@ -1,6 +1,7 @@
 ---
 title: 使用Fusion自動建立Workfront使用者帳戶
 description: 瞭解如何使用Adobe Workfront Fusion和API來自動化使用者帳戶的建立、將設定時間從22分鐘縮短到60秒以下，並提高效率。
+solution: Workfront
 feature: Workfront Fusion, Workfront API
 speaker-name-1: Kurt Jones
 speaker-company-1: J.P. Morgan
@@ -11,13 +12,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18876
-source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
+exl-id: e8ac62c5-75e5-41d2-94c8-25bcaacd5668
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 0%
 
 ---
-
 
 # 使用Fusion自動建立Workfront使用者帳戶
 
