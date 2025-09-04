@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Experience Makers技能交流 {#overview}
 
-<img alt="Experience Makers技能交流" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
+<img alt="Experience Makers技能交流" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png?lang=zh-Hant" />
 
 Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重點放在深入瞭解Adobe Experience Cloud解決方案。 此計畫提供機會，透過分享最佳實務和提示與秘訣，向Adobe產品專家和專家同行學習。
 
