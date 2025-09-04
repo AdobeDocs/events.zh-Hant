@@ -3,9 +3,9 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers與技能交流的錄製集合
 event-series: The Skill Exchange
-source-git-commit: 85cd991ce4cce6e25f31df39400b21702c2a43cf
+source-git-commit: d942871683ff1319d5f7b16e6f114c23825530b4
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '797'
 ht-degree: 9%
 
 ---
@@ -21,7 +21,21 @@ ht-degree: 9%
       + [有效的擴充性](commerce/aug2024/extensibility.md)
       + [在移轉工作流程中最佳化SEO](commerce/aug2024/seo-migration-workflows.md)
       + [個人化客戶體驗](commerce/aug2024/personalization.md)
++ Adobe Experience Platform {#aep}
+   + 2025 年 8 月 {#aug2025}
+      + [開啟主題演講](aep-apps/2025/aug/opening-keynote.md)
+      + [平衡Personalization、隱私權與資料安全性](aep-apps/2025/aug/personalization-privacy-data-security.md)
+      + [讓通用量度變得神秘](analytics/2025/aug/demystifying-common-metrics.md)
+      + [媒體投資與Adobe的Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
+      + [在Adobe Journey Optimizer中處理複雜歷程的秘訣](aep-apps/2025/aug/tips-for-tackling-journeys.md)
+      + [電子郵件以外的歷程](aep-apps/2025/aug/journeys-beyond-email.md)
 + Analytics {#analytics}
+   + 2025年8月 {#aug2025}
+      + [Adobe Analytics Workspace中的自訂](analytics/2025/aug/analysis-workspace-customizations.md)
+      + [儀表板未提供深入分析](analytics/2025/aug/dashboards-insights.md)
+      + [可擴充的分析工作流程](analytics/2025/aug/scalable-workflows.md)
+      + [細分和個人化](analytics/2025/aug/segmentation-personalization.md)
+      + [您應使用的Workspace功能](analytics/2025/aug/workspace-features.md)
    + 2024年8月 {#aug2024}
       + [開啟主題演講](analytics/aug2024/keynote.md)
       + [警報和註解](analytics/aug2024/alerts-annotations.md)
@@ -129,13 +143,9 @@ ht-degree: 9%
          + [可重複使用的功能](aem/aug2022/reusability.md)
          + [透過AEM中的內容個人化推動業務價值](aem/aug2022/personalization.md)
          + [讓AEM實作發揮最大效用](aem/aug2022/implementation.md)
-+ Adobe Experience Platform {#aep}
++ Customer Journey Analytics {#cja}
    + 2025 年 8 月 {#aug2025}
-      + [開啟主題演講](aep-apps/2025/aug/opening-keynote.md)
-      + [平衡Personalization、隱私權與資料安全性](aep-apps/2025/aug/personalization-privacy-data-security.md)
-      + [媒體投資與Adobe的Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
-      + [在Adobe Journey Optimizer中處理複雜歷程的秘訣](aep-apps/2025/aug/tips-for-tackling-journeys.md)
-      + [電子郵件以外的歷程](aep-apps/2025/aug/journeys-beyond-email.md)
+      + [Modern採用傳統AA配方](cja/2025/aug/modern-takes-classic-aa.md)
 + Marketo {#marketo}
    + 2025 年 8 月 {#aug2025}
       + [開啟主題演講](marketo/2025/aug/opening-keynote.md)
