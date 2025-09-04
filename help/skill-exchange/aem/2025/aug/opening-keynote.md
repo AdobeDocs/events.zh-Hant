@@ -29,7 +29,7 @@ ht-degree: 0%
 * Sites Optimizer和Content Advisor等全新最佳化工具，提供更出色的參與度和轉換率。
 * 如何安全有效地擴充一對一個人化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471386/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471407/?learn=on&enablevpops&captions=chi_hant)
 
 
 ## 開啟內容體驗的未來
