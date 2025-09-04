@@ -3,16 +3,16 @@ title: Experience Makers技能交流
 description: Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重點放在深入瞭解Adobe Experience Cloud解決方案。
 exl-id: 6d0f26c7-d5d2-4993-b2a1-58d5880f8f96
 duration: 57
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
 workflow-type: tm+mt
-source-wordcount: '1643'
+source-wordcount: '2127'
 ht-degree: 0%
 
 ---
 
 # Experience Makers技能交流 {#overview}
 
-<img alt="Experience Makers技能交流" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png?lang=zh-Hant" />
+<img alt="Experience Makers技能交流" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
 
 Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重點放在深入瞭解Adobe Experience Cloud解決方案。 此計畫提供機會，透過分享最佳實務和提示與秘訣，向Adobe產品專家和專家同行學習。
 
@@ -30,30 +30,54 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
 
 ## 2025年活動
 
-### Analytics與Customer Journey Analytics
+### Analytics
 
 <!-- CARDS
 
 {cta  = Watch event}
 
+* analytics/2025/aug/opening-keynote.md
 * analytics/2025/aug/dashboards-insights.md
+* analytics/2025/aug/data-storytelling.md
 * analytics/2025/aug/demystifying-common-metrics.md
-* cja/2025/aug/modern-takes-classic-aa.md
+* analytics/2025/aug/data-to-powerpoint.md
 * analytics/2025/aug/analysis-workspace-customizations.md
 * analytics/2025/aug/scalable-workflows.md
 * analytics/2025/aug/segmentation-personalization.md
 * analytics/2025/aug/workspace-features.md
 
-
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Analytics Opening Keynote">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="analytics/2025/aug/opening-keynote.md" title="Adobe Analytics開幕主題演講" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471124/?format=jpeg&nocache=1757028842727" alt="Adobe Analytics開幕主題演講"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="analytics/2025/aug/opening-keynote.md" target="_blank" rel="referrer" title="Adobe Analytics開幕主題演講">Adobe Analytics正在開啟主題演講</a>
+                    </p>
+                    <p class="is-size-6">探索重要的分析人員技能 — 敘事、道德和同理心 — 以及AI和人類insight如何結合以產生有意義的業務成果。</p>
+                </div>
+                <a href="analytics/2025/aug/opening-keynote.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Why Dashboards Don’t Deliver Insights (And What Actually Does)">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/dashboards-insights.md" title="為什麼儀表板無法提供深入分析（以及實際會提供哪些深入分析）" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471120/?format=jpeg&nocache=1757003827094" alt="為什麼儀表板無法提供深入分析（以及實際會提供哪些深入分析）"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471120/?format=jpeg&nocache=1757028842778" alt="為什麼儀表板無法提供深入分析（以及實際會提供哪些深入分析）"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -71,12 +95,35 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Data Storytelling With Analysis Workspace">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="analytics/2025/aug/data-storytelling.md" title="使用Analysis Workspace述說資料故事" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471116/?format=jpeg&nocache=1757028842732" alt="使用Analysis Workspace述說資料故事"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="analytics/2025/aug/data-storytelling.md" target="_blank" rel="referrer" title="使用Analysis Workspace述說資料故事">使用Analysis Workspace訴說資料</a>
+                    </p>
+                    <p class="is-size-6">瞭解5項將Adobe Analysis Workspace儀表板轉換為極具吸引力資料故事，進而推動影響、insight和利害關係人動作的策略。</p>
+                </div>
+                <a href="analytics/2025/aug/data-storytelling.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Demystifying Common Metrics">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/demystifying-common-metrics.md" title="讓通用量度變得神秘" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471114/?format=jpeg&nocache=1757003827064" alt="讓通用量度變得神秘"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471114/?format=jpeg&nocache=1757028842766" alt="讓通用量度變得神秘"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,12 +141,12 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Cooking with CJA - Modern Takes on Classic AA Recipes">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Shortcut Across the Data-Verse - Get Your Data to PowerPoint at Warp Speed">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="cja/2025/aug/modern-takes-classic-aa.md" title="CJA烹飪 — 現代烹製傳統AA食譜" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471110/?format=jpeg&nocache=1757003827084" alt="CJA烹飪 — 現代烹製傳統AA食譜"
+                    <a href="analytics/2025/aug/data-to-powerpoint.md" title="跨資料的捷徑 — 以彎曲的速度將資料送到PowerPoint" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471119/?format=jpeg&nocache=1757028842737" alt="跨資料的捷徑 — 以彎曲的速度將資料送到PowerPoint"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -107,11 +154,11 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="cja/2025/aug/modern-takes-classic-aa.md" target="_blank" rel="referrer" title="CJA烹飪 — 現代烹製傳統AA食譜">使用CJA烹飪 — 現代使用傳統AA食譜</a>
+                        <a href="analytics/2025/aug/data-to-powerpoint.md" target="_blank" rel="referrer" title="跨資料的捷徑 — 以彎曲的速度將資料送到PowerPoint">跨資料方向的捷徑 — 以彎曲速度將您的資料傳送到PowerPoint</a>
                     </p>
-                    <p class="is-size-6">瞭解如何在Customer Journey Analytics中使用衍生欄位、分類和已啟用清單的維度，以解鎖彈性、可回溯的深入分析。</p>
+                    <p class="is-size-6">透過清理元件、提升效能和簡化Adobe Workspace資料匯出的秘訣，加速PowerPoint報告。</p>
                 </div>
-                <a href="cja/2025/aug/modern-takes-classic-aa.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="analytics/2025/aug/data-to-powerpoint.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
@@ -122,7 +169,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/analysis-workspace-customizations.md" title="Adobe Analytics Workspace中的三個改變遊戲規則的自訂" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471123/?format=jpeg&nocache=1757003827039" alt="Adobe Analytics Workspace中的三個改變遊戲規則的自訂"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471123/?format=jpeg&nocache=1757028842745" alt="Adobe Analytics Workspace中的三個改變遊戲規則的自訂"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -145,7 +192,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/scalable-workflows.md" title="Data in Motion — 為Insight導向的團隊提供可擴充的分析工作流程" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471118/?format=jpeg&nocache=1757003827053" alt="Data in Motion — 為Insight導向的團隊提供可擴充的分析工作流程"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471118/?format=jpeg&nocache=1757028842826" alt="Data in Motion — 為Insight導向的團隊提供可擴充的分析工作流程"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -168,7 +215,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/segmentation-personalization.md" title="在Adobe Analytics中利用細分和個人化促進影響" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471113/?format=jpeg&nocache=1757003827103" alt="在Adobe Analytics中利用細分和個人化促進影響"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471113/?format=jpeg&nocache=1757028842791" alt="在Adobe Analytics中利用細分和個人化促進影響"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -191,7 +238,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/workspace-features.md" title="您應使用的Workspace功能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471117/?format=jpeg&nocache=1757003827074" alt="您應使用的Workspace功能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471117/?format=jpeg&nocache=1757028842803" alt="您應使用的Workspace功能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -212,6 +259,139 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+### Customer Journey Analytics
+
+<!-- CARDS
+
+{cta  = Watch event}
+
+* cja/2025/aug/opening-keynote.md
+* cja/2025/aug/modern-takes-classic-aa.md
+* cja/2025/aug/cja-data-model.md
+* cja/2025/aug/journey-canvas.md
+* cja/2025/aug/story-behind-journey.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Customer Journey Analytics Opening Keynote">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="cja/2025/aug/opening-keynote.md" title="Customer Journey Analytics開幕主題演講" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471108/?format=jpeg&nocache=1757028843735" alt="Customer Journey Analytics開幕主題演講"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="cja/2025/aug/opening-keynote.md" target="_blank" rel="referrer" title="Customer Journey Analytics開幕主題演講">Customer Journey Analytics正在開啟主題演講</a>
+                    </p>
+                    <p class="is-size-6">探索情境流暢、同理心和講故事等基本技能，利用Adobe Customer Journey Analytics提升您的影響力。</p>
+                </div>
+                <a href="cja/2025/aug/opening-keynote.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Cooking with CJA - Modern Takes on Classic AA Recipes">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="cja/2025/aug/modern-takes-classic-aa.md" title="CJA烹飪 — 現代烹製傳統AA食譜" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471110/?format=jpeg&nocache=1757028843755" alt="CJA烹飪 — 現代烹製傳統AA食譜"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="cja/2025/aug/modern-takes-classic-aa.md" target="_blank" rel="referrer" title="CJA烹飪 — 現代烹製傳統AA食譜">使用CJA烹飪 — 現代使用傳統AA食譜</a>
+                    </p>
+                    <p class="is-size-6">瞭解如何在Customer Journey Analytics中使用衍生欄位、分類和已啟用清單的維度，以解鎖彈性、可回溯的深入分析。</p>
+                </div>
+                <a href="cja/2025/aug/modern-takes-classic-aa.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="The Architecture of Analysis - How to Approach Your Customer Journey Analytics Data Model">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="cja/2025/aug/cja-data-model.md" title="分析的架構 — 如何接近您的Customer Journey Analytics資料模型" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471111/?format=jpeg&nocache=1757028843714" alt="分析的架構 — 如何接近您的Customer Journey Analytics資料模型"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="cja/2025/aug/cja-data-model.md" target="_blank" rel="referrer" title="分析的架構 — 如何接近您的Customer Journey Analytics資料模型">分析的架構 — 如何接近您的Customer Journey Analytics資料模型</a>
+                    </p>
+                    <p class="is-size-6">瞭解如何使用事件階層、歸因和KPI來建構CJA資料模型，以解鎖更深入的客戶歷程深入分析。</p>
+                </div>
+                <a href="cja/2025/aug/cja-data-model.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Driving CX Success with Adobe Customer Journey Analytics Journey Canvas">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="cja/2025/aug/journey-canvas.md" title="使用Adobe Customer Journey Analytics Journey Canvas推動CX成功" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471112/?format=jpeg&nocache=1757028843744" alt="使用Adobe Customer Journey Analytics Journey Canvas推動CX成功"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="cja/2025/aug/journey-canvas.md" target="_blank" rel="referrer" title="使用Adobe Customer Journey Analytics Journey Canvas推動CX成功">使用Adobe Customer Journey Analytics Journey Canvas推動CX成功</a>
+                    </p>
+                    <p class="is-size-6">瞭解Journey Canvas如何協助描繪理想與真實使用者路徑、揭示摩擦，並透過Adobe Customer Journey Analytics推動可衡量的CX改進</p>
+                </div>
+                <a href="cja/2025/aug/journey-canvas.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Lights, Data, Insight - Uncovering the Story Behind Every Journey">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="cja/2025/aug/story-behind-journey.md" title="光明，資料， Insight — 揭開每個歷程背後的故事" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471109/?format=jpeg&nocache=1757028843726" alt="光明，資料， Insight — 揭開每個歷程背後的故事"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="cja/2025/aug/story-behind-journey.md" target="_blank" rel="referrer" title="光明，資料， Insight — 揭開每個歷程背後的故事">燈光，資料， Insight — 揭開每個歷程背後的故事</a>
+                    </p>
+                    <p class="is-size-6">瞭解AEP和CJA如何整合資料、拼接身分並啟用深入分析，以即時個人化和更聰明的客戶歷程。</p>
+                </div>
+                <a href="cja/2025/aug/story-behind-journey.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
 ### Experience Manager
 
 <!-- CARDS
@@ -219,6 +399,8 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
 {cta  = Watch event}
 
 * aem/2025/aug/opening-keynote.md
+* aem/2025/aug/asset-workflows-permissions-integration.md
+* aem/2025/aug/reports-roi-metrics.md
 * aem/2025/aug/content-framework.md
 * aem/2025/aug/scalable-asset-management.md
 
@@ -230,7 +412,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/opening-keynote.md" title="Adobe Experience Manager開幕主題演講" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1757003827758" alt="Adobe Experience Manager開幕主題演講"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1757028844199" alt="Adobe Experience Manager開幕主題演講"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -248,12 +430,58 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AEM Masterclass - Asset Workflows, Permissions & Integration">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="aem/2025/aug/asset-workflows-permissions-integration.md" title="AEM Masterclass — 資產工作流程、許可權和整合" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471383/?format=jpeg&nocache=1757028844177" alt="AEM Masterclass — 資產工作流程、許可權和整合"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="aem/2025/aug/asset-workflows-permissions-integration.md" target="_blank" rel="referrer" title="AEM Masterclass — 資產工作流程、許可權和整合">AEM Masterclass — 資產工作流程、許可權和整合</a>
+                    </p>
+                    <p class="is-size-6">瞭解AEM資產工作流程、DAM許可權和整合策略。 管理員和DAM程式庫管理員若想取得最佳實務和自動化秘訣，這個模型非常理想。</p>
+                </div>
+                <a href="aem/2025/aug/asset-workflows-permissions-integration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Developing Reports and ROI Metrics for AEM Assets">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="aem/2025/aug/reports-roi-metrics.md" title="為AEM Assets開發報表和ROI量度" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471384/?format=jpeg&nocache=1757028844162" alt="為AEM Assets開發報表和ROI量度"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="aem/2025/aug/reports-roi-metrics.md" target="_blank" rel="referrer" title="為AEM Assets開發報表和ROI量度">為AEM Assets開發報告和ROI度量</a>
+                    </p>
+                    <p class="is-size-6">瞭解如何在AEM Assets中建立自訂報告和ROI量度。 探索追蹤資產效能和業務影響的最佳實務。</p>
+                </div>
+                <a href="aem/2025/aug/reports-roi-metrics.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Smart, Scalable, and Structured - Building a Future-Ready Content Framework">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/content-framework.md" title="聰明、可擴充且結構化 — 建立適合未來的內容架構" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471382/?format=jpeg&nocache=1757003827742" alt="聰明、可擴充且結構化 — 建立適合未來的內容架構"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471382/?format=jpeg&nocache=1757028844189" alt="聰明、可擴充且結構化 — 建立適合未來的內容架構"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -276,7 +504,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/scalable-asset-management.md" title="分類法和結構 — AEM可擴充資產管理的秘密" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471385/?format=jpeg&nocache=1757003827770" alt="分類法和結構 — AEM可擴充資產管理的秘密"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471385/?format=jpeg&nocache=1757028844208" alt="分類法和結構 — AEM可擴充資產管理的秘密"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -317,7 +545,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="技能交流主題演講 — 使用AI、Adobe Experience Platform創造體驗的未來" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1757003828090" alt="技能交流主題演講 — 使用AI、Adobe Experience Platform創造體驗的未來"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1757028844632" alt="技能交流主題演講 — 使用AI、Adobe Experience Platform創造體驗的未來"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -340,7 +568,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/personalization-privacy-data-security.md" title="瀏覽新標準 — 平衡Personalization、隱私權和資料安全性" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471328/?format=jpeg&nocache=1757003828063" alt="瀏覽新標準 — 平衡Personalization、隱私權和資料安全性"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471328/?format=jpeg&nocache=1757028844666" alt="瀏覽新標準 — 平衡Personalization、隱私權和資料安全性"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -363,7 +591,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/real-time-cdp-collaboration.md" title="使用Adobe的Real-Time CDP Collaboration，充分運用您的媒體投資" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471329/?format=jpeg&nocache=1757003828079" alt="使用Adobe的Real-Time CDP Collaboration，充分運用您的媒體投資"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471329/?format=jpeg&nocache=1757028844656" alt="使用Adobe的Real-Time CDP Collaboration，充分運用您的媒體投資"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -386,7 +614,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/tips-for-tackling-journeys.md" title="穩定客戶混亂 — 在Adobe Journey Optimizer中處理複雜歷程的秘訣" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471330/?format=jpeg&nocache=1757003828102" alt="穩定客戶混亂 — 在Adobe Journey Optimizer中處理複雜歷程的秘訣"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471330/?format=jpeg&nocache=1757028844676" alt="穩定客戶混亂 — 在Adobe Journey Optimizer中處理複雜歷程的秘訣"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -409,7 +637,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/journeys-beyond-email.md" title="解決電子郵件以外的Adobe歷程" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471331/?format=jpeg&nocache=1757003828112" alt="解決電子郵件以外的Adobe歷程"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471331/?format=jpeg&nocache=1757028844646" alt="解決電子郵件以外的Adobe歷程"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -450,7 +678,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/opening-keynote.md" title="開啟主題演講" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1757003828494" alt="開啟主題演講"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1757028844943" alt="開啟主題演講"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -473,7 +701,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/ai-lifecycle-engine.md" title="從MQL到AIQL — 在Marketo Engage中建立AI支援的生命週期引擎" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471387/?format=jpeg&nocache=1757003828462" alt="從MQL到AIQL — 在Marketo Engage中建立AI支援的生命週期引擎"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471387/?format=jpeg&nocache=1757028844931" alt="從MQL到AIQL — 在Marketo Engage中建立AI支援的生命週期引擎"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -496,7 +724,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/design-studio.md" title="充分發揮Design Studio的全球行銷運作功能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471389/?format=jpeg&nocache=1757003828474" alt="充分發揮Design Studio的全球行銷運作功能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471389/?format=jpeg&nocache=1757028844920" alt="充分發揮Design Studio的全球行銷運作功能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -519,7 +747,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/data-categorization-with-ai.md" title="使用微調的AI模型改善Marketo Engage中的資料分類" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471388/?format=jpeg&nocache=1757003828484" alt="使用微調的AI模型改善Marketo Engage中的資料分類"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471388/?format=jpeg&nocache=1757028844957" alt="使用微調的AI模型改善Marketo Engage中的資料分類"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -542,7 +770,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/follow-ups-customer-lifecycle.md" title="Experience Makers焦點 — 簡化客戶生命週期中的後續追蹤" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471390/?format=jpeg&nocache=1757003828446" alt="Experience Makers焦點 — 簡化客戶生命週期中的後續追蹤"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471390/?format=jpeg&nocache=1757028844967" alt="Experience Makers焦點 — 簡化客戶生命週期中的後續追蹤"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -586,7 +814,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/keynote.md" title="開啟主題演講" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471499/?format=jpeg&nocache=1757003828856" alt="開啟主題演講"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471499/?format=jpeg&nocache=1757028845205" alt="開啟主題演講"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -609,7 +837,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/advanced-text-mode.md" title="使用進階文字模式提升Workfront報表" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471498/?format=jpeg&nocache=1757003828871" alt="使用進階文字模式提升Workfront報表"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471498/?format=jpeg&nocache=1757028845221" alt="使用進階文字模式提升Workfront報表"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -632,7 +860,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="讓您的Workfront組織做好準備，邁向卓越中心" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1757003828883" alt="讓您的Workfront組織做好準備，邁向卓越中心"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1757028845242" alt="讓您的Workfront組織做好準備，邁向卓越中心"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -655,7 +883,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/enable-users-new-features.md" title="讓使用者使用新功能 — 攪動就是生命" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471494/?format=jpeg&nocache=1757003828924" alt="讓使用者使用新功能 — 攪動就是生命"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471494/?format=jpeg&nocache=1757028845277" alt="讓使用者使用新功能 — 攪動就是生命"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -678,7 +906,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/fusion-user-account-creation.md" title="使用Fusion自動建立Workfront使用者帳戶" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1757003828895" alt="使用Fusion自動建立Workfront使用者帳戶"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1757028845252" alt="使用Fusion自動建立Workfront使用者帳戶"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -701,7 +929,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/review-approval.md" title="開始使用檢閱和核准" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1757003828916" alt="開始使用檢閱和核准"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471493/?format=jpeg&nocache=1757028845232" alt="開始使用檢閱和核准"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -724,7 +952,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/workfront-ai-tools.md" title="使用AI將效率最大化 — 掌握Workfront的AI工具" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471393/?format=jpeg&nocache=1757003828904" alt="使用AI將效率最大化 — 掌握Workfront的AI工具"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471393/?format=jpeg&nocache=1757028845261" alt="使用AI將效率最大化 — 掌握Workfront的AI工具"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -747,7 +975,7 @@ Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/workflows-workfront-aem.md" title="使用Workfront + Adobe Experience Manager簡化Creative工作流程" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471497/?format=jpeg&nocache=1757003828932" alt="使用Workfront + Adobe Experience Manager簡化Creative工作流程"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471497/?format=jpeg&nocache=1757028845269" alt="使用Workfront + Adobe Experience Manager簡化Creative工作流程"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

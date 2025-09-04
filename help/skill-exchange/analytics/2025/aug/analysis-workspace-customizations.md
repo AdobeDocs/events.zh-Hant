@@ -1,6 +1,7 @@
 ---
 title: Adobe Analytics Workspace中的三個改變遊戲規則的自訂
 description: 透過Champions Isha Gupta和Deb William的深入分析，瞭解如何在Adobe Analytics中建立儀表板的品牌、設定不重複訪客ID和對抗機器人流量。
+solution: Analytics
 feature: Analysis Workspace, Workspace Basics
 role: User
 level: Intermediate, Experienced
@@ -8,7 +9,7 @@ doc-type: Event
 duration: 2408
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18827
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 0%
