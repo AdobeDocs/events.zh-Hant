@@ -3,9 +3,9 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers與技能交流的錄製集合
 event-series: The Skill Exchange
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 85cd991ce4cce6e25f31df39400b21702c2a43cf
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '760'
 ht-degree: 9%
 
 ---
@@ -94,6 +94,10 @@ ht-degree: 9%
       + [行銷管道，請負責任地使用](analytics/jun2021/marketing-channels.md)
       + [整合所有內容](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
+   + 2025 年 8 月 {#aug2025}
+      + [開啟主題演講](aem/2025/aug/opening-keynote.md)
+      + [未來適用的內容架構](aem/2025/aug/content-framework.md)
+      + [可擴充的資產管理](aem/2025/aug/scalable-asset-management.md)
    + 2024 年 8 月 {#aug2024}
       + [開啟主題演講](aem/aug2024/keynote.md)
       + [使用通用編輯器的AEM Sites](aem/aug2024/universal-editor.md)
