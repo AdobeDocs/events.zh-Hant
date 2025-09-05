@@ -23,7 +23,7 @@ ht-degree: 0%
 
 此網路研討會提供現代內容供應鏈的整體概觀，說明組織如何跨每個管道和受眾加速、簡化及控管內容建立和交付。 檢視者將瞭解Adobe GenStudio作為產品套裝的整合功能(包括AEM Sites、AEM Assets、Workfront和Creative Cloud)，以解鎖即時共同作業、自動化工作流程，並啟用可擴充的品牌上創意執行。 此研討會旨在教育企業與IT主管，讓他們瞭解統一的內容供應鏈平台如何推動行銷靈敏度、創意影響和可衡量的業務成長。
 
->[!VIDEO](https://video.tv.adobe.com/v/3472978/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3472990/?learn=on&enablevpops&captions=chi_hant)
 
 ## 使用Adobe解鎖無縫的內容建立
 
