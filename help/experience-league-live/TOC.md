@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 65bbb2d2658a343005abfc597bf13aa814b8cc82
+source-git-commit: 685c6dde3c7c79dd852742720a258fbae903ccc7
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '565'
 ht-degree: 3%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 3%
 
 + [概觀](overview.md)
 + 集數 {#episodes}
+   + [EP.50：在Journey Optimizer中使用RCS和WhatsApp擴大您的行動範圍](/help/experience-league-live/episodes/exl-live-episode-09-30-25.md)
    + [EP.49：使用AEM內容片段和Dynamic Media在Journey Optimizer中推動個人化內容](episodes/exl-live-episode-07-31-25.md)
    + [Ep. 48：主頻率限定和衝突優先順序](episodes/exl-live-episode-06-18-25.md)
    + [Ep. 47：大規模個人化內容的敏捷工作流程](episodes/exl-live-episode-47-2025-06-05.md)
