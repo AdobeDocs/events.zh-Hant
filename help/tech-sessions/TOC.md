@@ -2,9 +2,9 @@
 user-guide-title: Experience Cloud技術研討會
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud技術研討會是主動式案例轉換方法，為客戶提供解決方案專屬的網路研討會。
-source-git-commit: 7db60ca1557fb99ae5fb8bd7181317710ed5f90f
+source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '171'
 ht-degree: 13%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 13%
 + [Experience Cloud技術研討會](overview.md)
 + 2025 版 {#2025}
    + [Adobe Campaign Classic傳遞效能疑難排解](2025/acc-delivery-performance.md)
+   + [Adobe Campaign子網域和SSL管理](2025/subdomain-ssl-management.md)
    + [AEM as a Cloud Service中的Dispatcher設定](2025/dispatcher-configurations.md)
    + [充份運用Marketo Measure](2025/getting-most-marketo-measure.md)
    + [Fastly和Adobe Commerce](2025/fastly-and-adobe-commerce.md)
