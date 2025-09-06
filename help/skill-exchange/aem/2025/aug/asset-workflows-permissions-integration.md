@@ -26,7 +26,7 @@ ht-degree: 0%
 * 瞭解並套用DAM內的許可權和存取控制
 * DAM的功能、最佳實務和與DAM的整合策略
 
->[!VIDEO](https://video.tv.adobe.com/v/3471383/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471463/?learn=on&enablevpops&captions=chi_hant)
 
 ## 釋放高效率的數位資產管理
 

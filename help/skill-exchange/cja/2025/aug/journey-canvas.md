@@ -24,7 +24,7 @@ ht-degree: 0%
 
 最後，我們將深入探討在整個組織中擴充這些深入分析的策略，方法是將Journey Canvas發現連結至精細儀表板，讓每個接觸點都能持續最佳化。 無論您是CJA的新手還是經驗豐富的從業人員，此課程都能為您提供清晰的方法，讓您使用Journey Canvas提升CX計畫並取得實際成果。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471112/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471225/?learn=on&enablevpops&captions=chi_hant)
 
 ## 歷程畫布：從分析到啟用
 

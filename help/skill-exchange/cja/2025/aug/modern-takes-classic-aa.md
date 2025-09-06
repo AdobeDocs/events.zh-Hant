@@ -25,7 +25,7 @@ ht-degree: 0%
 無論您是缺少處理規則，還是試圖尋找適合下一次分析的完美計畫（資料檢視），此工作階段將逐步引導您瞭解現代分析的秘訣。
 渴望深入分析 — 離開時可享有CJA就緒技術的完整選單
 
->[!VIDEO](https://video.tv.adobe.com/v/3471110/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471251/?learn=on&enablevpops&captions=chi_hant)
 
 ## 使用CJA轉型Analytics：關鍵要點
 

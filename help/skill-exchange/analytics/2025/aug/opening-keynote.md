@@ -23,7 +23,7 @@ ht-degree: 0%
 研究方法與敘事技巧：將資料發現轉換為利害關係人的引人入勝的敘述。
 技術能力與情商：提供支援與解決方案，展現同理心，而不只是技術技能。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471124/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471203/?learn=on&enablevpops&captions=chi_hant)
 
 ## 解鎖Analytics以獲得人為影響
 

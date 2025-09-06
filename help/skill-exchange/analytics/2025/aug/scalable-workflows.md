@@ -21,7 +21,7 @@ ht-degree: 0%
 
 加入Adobe Champion Ioana Maftei，IBM資深分析經理，分享如何建立可擴充、控管的分析工作流程，讓內容供應鏈可供測量。 瞭解如何在適當的時間向適當的人員提供適當的見解、啟用跨團隊共同作業，以及量身打造適合不同角色和需求的Analysis Workspace專案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471118/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471240/?learn=on&enablevpops&captions=chi_hant)
 
 ## 將角色對應至Analytics階段
 

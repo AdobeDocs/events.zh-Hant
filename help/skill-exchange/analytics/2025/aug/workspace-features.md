@@ -21,7 +21,7 @@ ht-degree: 0%
 
 探索Adobe Analytics Workspace中往往被忽略的強大功能，這些功能可提高您的分析能力並帶來實際影響。 在這場會議中，我們將探討實用的使用案例和簡單技術，這些將日常工具轉變為insight的引擎，協助您發掘對業務真正重要的東西。 無論您是經驗豐富的分析師，還是剛開始使用，在離開時會留下可行的構想，以將您的資料價值最大化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471117/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471262/?learn=on&enablevpops&captions=chi_hant)
 
 ## 解鎖進階分析技術
 
