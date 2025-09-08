@@ -3,7 +3,7 @@ user-guide-title: 技能交流
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Experience Makers與技能交流的錄製集合
 event-series: The Skill Exchange
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+source-git-commit: b28e983603f63980fa53b9311d54244c0ee5228a
 workflow-type: tm+mt
 source-wordcount: '837'
 ht-degree: 9%
@@ -25,7 +25,6 @@ ht-degree: 9%
    + 2025 年 8 月 {#aug2025}
       + [開啟主題演講](aep-apps/2025/aug/opening-keynote.md)
       + [平衡Personalization、隱私權與資料安全性](aep-apps/2025/aug/personalization-privacy-data-security.md)
-      + [讓通用量度變得神秘](analytics/2025/aug/demystifying-common-metrics.md)
       + [媒體投資與Adobe的Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
       + [在Adobe Journey Optimizer中處理複雜歷程的秘訣](aep-apps/2025/aug/tips-for-tackling-journeys.md)
       + [電子郵件以外的歷程](aep-apps/2025/aug/journeys-beyond-email.md)
@@ -36,6 +35,7 @@ ht-degree: 9%
       + [儀表板未提供深入分析](analytics/2025/aug/dashboards-insights.md)
       + [使用Analysis Workspace述說資料故事](analytics/2025/aug/data-storytelling.md)
       + [資料到PowerPoint](analytics/2025/aug/data-to-powerpoint.md)
+      + [讓通用量度變得神秘](analytics/2025/aug/demystifying-common-metrics.md)
       + [可擴充的分析工作流程](analytics/2025/aug/scalable-workflows.md)
       + [細分和個人化](analytics/2025/aug/segmentation-personalization.md)
       + [您應使用的Workspace功能](analytics/2025/aug/workspace-features.md)
