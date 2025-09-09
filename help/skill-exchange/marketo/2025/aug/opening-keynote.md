@@ -9,9 +9,9 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02T00:00:00Z
 jira: KT-18868
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 6c9493a52200986d77efba0737b03d15db539845
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # 開啟主題演講
 
-Adobe Experience Makers：技能交流(Marketo Engage路線)活動邀請了Adobe產品經理Bhatstra Mukherjee出席，討論B2B行銷向「B2B 3.0」的演變。 此新階段專注於AI導向的客戶體驗，強調個人化參與並以帳戶內的購買群組為目標。 Mukherjee強調AI代理程式在自動化任務、提高效率和讓行銷人員專注於策略角色方面的變革性作用。 強調了Human-AI共同作業的重要性，AI擴增而不是取代創造力。 在此環境中取得成功的關鍵技能包括即時工程、資料流暢和代理程式設定。 Adobe正在將AI代理程式整合到Marketo Engage等工具中，以自動化客戶生命週期協調，確保接受AI的行銷人員在B2B行銷的未來中茁壯成長。
+Adobe Experience Makers：技能交流(Marketo Engage路線)活動邀請了Adobe資深集團產品經理Badsah Mukherji一起討論B2B行銷向「B2B 3.0」的演化。 此新階段專注於AI導向的客戶體驗，強調個人化參與並以帳戶內的購買群組為目標。 Mukherjee強調AI代理程式在自動化任務、提高效率和讓行銷人員專注於策略角色方面的變革性作用。 強調了Human-AI共同作業的重要性，AI擴增而不是取代創造力。 在此環境中取得成功的關鍵技能包括即時工程、資料流暢和代理程式設定。 Adobe正在將AI代理程式整合到Marketo Engage等工具中，以自動化客戶生命週期協調，確保接受AI的行銷人員在B2B行銷的未來中茁壯成長。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471486/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3471392/?learn=on&enablevpops)
 
 ## 瀏覽B2B行銷的未來
 
