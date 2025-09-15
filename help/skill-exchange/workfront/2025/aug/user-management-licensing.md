@@ -22,4 +22,4 @@ ht-degree: 0%
 
 瞭解Monique如何確保合適人員擁有合適的存取權 — 使用角色、群組、團隊和自訂表單來簡化規模並降低管理負荷。 此會議將為您提供清除執行個體、改善控管和最佳化Workfront設定的實用方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3473945/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3473969/?learn=on&enablevpops&captions=chi_hant)
