@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: aac0d6689d2911380fa548f5fe31a5665f120084
+source-git-commit: d8a0caa950896397a6f8f4bd572959e8fbc3e842
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 19%
+source-wordcount: '231'
+ht-degree: 13%
 
 ---
 
@@ -28,6 +28,34 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-30-25.md">
               <img alt="Experience League LIVE 2025年9月30日" src="../experience-league-live/assets/30Sept2025_WebBanner.png">
             </a>
+            <div>
+              <a href="episodes/exl-live-episode-09-30-25.md">
+                <strong>在Journey Optimizer中使用RCS和WhatsApp擴大您的行動範圍</strong>
+              </a>
+              <br/><em>與Sandra Hausmann、Travis Jordan和Nikhil Sharma</em>
+              <br/><em>2025年9月30日</em>
+            </div>
+        </td>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-16-25.md">
+              <img alt="Experience League LIVE 2025年10月16日" src="assets/exl-live-episode-10-16-25-web-banner.png">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-10-16-25.md">
+                <strong>解鎖Customer Journey Analytics B2B edition的強大功能</strong>
+              </a>
+              <br/><em>與Doug Moore、Kari Olson、Caitlin Baunach</em>
+              <br/><em>2025年10月16日</em>
+            </div>
+        </td>
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-22-25.md">
+              <img alt="Experience League LIVE 2025年10月22日" src="episodes/assets/WebBanner-Oct22-2025.jpg">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-10-22-25.md">
+                使用Adobe Experience Platform Agent Orchestrator <strong>新一代客戶體驗與效率</strong>
+              </a>
+              <br/><em>與Daniel Wright、Namita Krishnan和Huong Vu</em>
+              <br/><em>2025年10月22日</em>
             </div>
         </td>
     </tr>
@@ -96,5 +124,5 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
 
 >[!TIP]
 >
->如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/zh-hant#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
+>如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
 
