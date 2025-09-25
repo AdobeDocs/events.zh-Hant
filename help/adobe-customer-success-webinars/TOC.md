@@ -2,10 +2,10 @@
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
 user-guide-description: Adobe客戶成功引導的網路研討會，旨在協助您最佳化Adobe Experience Cloud投資。 獲得有價值的深入分析，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
 workflow-type: tm+mt
-source-wordcount: '496'
-ht-degree: 4%
+source-wordcount: '502'
+ht-degree: 3%
 
 ---
 
@@ -42,6 +42,7 @@ ht-degree: 4%
       + [AI — 超越基本知識](2025/ai-beyond-basics.md)
       + [建立XDM結構描述模型的最佳實務和深入分析](2025/model-xdm-schemas.md)
       + [資料Distiller 101](2025/data-distiller-101.md)
+      + [身分圖表使用案例和疑難排解](2025/identity-graph.md)
       + [贏得AEP專案的執行贊助](2025/exec-sponsorship-aep-projects.md)
    + GenStudio for Performance Marketing {#genstudio2025}
       + [內容供應鏈與Adobe GenStudio](2025/csc-gen-studio.md)
