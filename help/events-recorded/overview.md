@@ -24,12 +24,12 @@ ht-degree: 5%
 * https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html?lang=zh-Hant
   {title = Adobe Workfront}  
   {description = A library of recorded Workfront events where experts and peers share thoughts on how to use Workfront.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png?lang=zh-Hant}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=zh-Hant
   {title = Acrobat Sign Webinars}
   {description = Learn from Adobe experts how to master new e-signature workflows in Acrobat Sign.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png?lang=zh-Hant}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html?lang=zh-Hant
   {title = Adobe Campaign Insider Series}
@@ -165,7 +165,7 @@ ht-degree: 5%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html?lang=zh-Hant" title="Adobe Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png" alt="Adobe Workfront"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png?lang=zh-Hant" alt="Adobe Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -188,7 +188,7 @@ ht-degree: 5%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=zh-Hant" title="Acrobat Sign網路研討會" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png" alt="Acrobat Sign網路研討會"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png?lang=zh-Hant" alt="Acrobat Sign網路研討會"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
