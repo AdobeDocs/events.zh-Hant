@@ -103,7 +103,7 @@ ht-degree: 1%
    + [Oak的外部登入模組](gems2015/aem-oak-external-login-module-authenticating-with-ldap-and-beyond.md)
    + [Sonar — 改善產品品質的關鍵元素](gems2015/aem-sonar-a-key-element-to-improve-product-quality.md)
    + [AEM技術搶先一步](gems2015/aem-tech-sneak-peek.md)
-   + [ [!DNL AEM Sites] 觸控式UI的秘訣與技巧](gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
+   + [&#x200B; [!DNL AEM Sites] 觸控式UI的秘訣與技巧](gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
    + [追蹤JavaScript專案的品品質度](gems2015/aem-track-quality-metrics-of-your-javascript-project.md)
 + 2014 {#gems2014}
    + [透過DTM雲端服務在本機AEM執行個體上部署Adobe Analytics](gems2014/aem-adobe-analytics-dynamic-tag-management.md)
