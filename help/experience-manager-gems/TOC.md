@@ -3,9 +3,9 @@ user-guide-title: Adobe Experience Manager GEMS活動
 user-guide-description: 瞭解AEM Gems，這是Adobe Experience Manager專家提供的一系列技術深入探討。
 breadcrumb-title: AEM GEMs活動
 solution: Experience Manager
-source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
+source-git-commit: f0179cfd595c2d1ced94c230141428430ed9abfb
 workflow-type: tm+mt
-source-wordcount: '770'
+source-wordcount: '777'
 ht-degree: 1%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 1%
 
 + [概觀](overview.md)
 + 2025 版 {#gems2025}
+   + [掌握快取效率以獲得最佳頁面效能](gems2025/mastering-cache-efficiency-for-optimal-page-performance.md)
    + [使用AEM Sites Optimizer將您網頁體驗的影響最大化](gems2025/maximize-impact-with-sites-optimizer.md)
    + [Adobe Managed CDN快速入門](gems2025/getting-started-adobe-managed-cdn.md)
 + 2024 版 {#gems2024}
