@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: d8a0caa950896397a6f8f4bd572959e8fbc3e842
+source-git-commit: c548ffe15a8b19f9ad8790ef23219ad0376bf946
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 13%
+source-wordcount: '203'
+ht-degree: 15%
 
 ---
 
@@ -25,17 +25,6 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-30-25.md">
-              <img alt="Experience League LIVE 2025年9月30日" src="../experience-league-live/assets/30Sept2025_WebBanner.png">
-            </a>
-            <div>
-              <a href="episodes/exl-live-episode-09-30-25.md">
-                <strong>在Journey Optimizer中使用RCS和WhatsApp擴大您的行動範圍</strong>
-              </a>
-              <br/><em>與Sandra Hausmann、Travis Jordan和Nikhil Sharma</em>
-              <br/><em>2025年9月30日</em>
-            </div>
-        </td>
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-16-25.md">
               <img alt="Experience League LIVE 2025年10月16日" src="assets/exl-live-episode-10-16-25-web-banner.png">
             </a>
@@ -124,5 +113,5 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
 
 >[!TIP]
 >
->如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/zh-hant#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
+>如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
 
