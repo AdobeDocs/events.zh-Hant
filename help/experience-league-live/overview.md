@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: d0059bf86d27b492e8a5eef175977d3be49738d0
+source-git-commit: a3f2daa37a2fb1896ed4e3b1d640b82715319178
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 13%
@@ -51,7 +51,7 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
               <img alt="Experience League LIVE 2025年10月30日" src="assets/exl-live-episode-10-30-25-web-banner.png">
             </a>
             <div>
-              <a href="episodes/exl-live-episode-10-22-25.md">
+              <a href="episodes/exl-live-episode-10-30-25.md">
                 <strong>下一個實驗時代：Agentic AI如何推動更聰明的測試和成長</strong>
               </a>
               <br/><em>與Sandra Hausmann、Brent Kostak、Justin Grover和David Arbor</em>
@@ -124,5 +124,5 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
 
 >[!TIP]
 >
->如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/zh-hant#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
+>如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
 
