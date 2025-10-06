@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: d8a0caa950896397a6f8f4bd572959e8fbc3e842
+source-git-commit: d0059bf86d27b492e8a5eef175977d3be49738d0
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '601'
 ht-degree: 3%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 3%
 
 + [概觀](overview.md)
 + 集數 {#episodes}
+   + [ep. 53：下一個實驗時代：Agentic AI如何推動更聰明的測試和成長](episodes/exl-live-episode-10-30-25.md)
    + [ep. 52：Adobe Experience Platform Agent Orchestrator](episodes/exl-live-episode-10-22-25.md)
    + [ep. 51：解鎖Customer Journey Analytics B2B edition的強大功能](episodes/exl-live-episode-10-16-25.md)
    + [ep. 50：在Journey Optimizer中使用RCS和WhatsApp擴大您的行動範圍](episodes/exl-live-episode-09-30-25.md)

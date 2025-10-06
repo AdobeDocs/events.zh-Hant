@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: c548ffe15a8b19f9ad8790ef23219ad0376bf946
+source-git-commit: d0059bf86d27b492e8a5eef175977d3be49738d0
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 15%
+source-wordcount: '236'
+ht-degree: 13%
 
 ---
 
@@ -45,6 +45,17 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
               </a>
               <br/><em>與Daniel Wright、Namita Krishnan和Huong Vu</em>
               <br/><em>2025年10月22日</em>
+            </div>
+        </td>
+         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-25.md">
+              <img alt="Experience League LIVE 2025年10月30日" src="assets/exl-live-episode-10-30-25-web-banner.png">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-10-22-25.md">
+                <strong>下一個實驗時代：Agentic AI如何推動更聰明的測試和成長</strong>
+              </a>
+              <br/><em>與Sandra Hausmann、Brent Kostak、Justin Grover和David Arbor</em>
+              <br/><em>2025年10月30日</em>
             </div>
         </td>
     </tr>
@@ -113,5 +124,5 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
 
 >[!TIP]
 >
->如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/zh-hant#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
+>如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
 
