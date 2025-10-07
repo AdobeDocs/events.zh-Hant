@@ -122,7 +122,7 @@ Adobe客戶成功引導的網路研討會，旨在協助您最佳化Adobe Experi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-success.md" title="建立高階主管贊助以支援Adobe Customer Journey Analytics成功" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470853/?format=jpeg&nocache=1759852565033" alt="建立高階主管贊助以支援Adobe Customer Journey Analytics成功"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470865/?format=jpeg&nocache=1759852565033&captions=chi_hant" alt="建立高階主管贊助以支援Adobe Customer Journey Analytics成功"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -424,7 +424,7 @@ Adobe客戶成功引導的網路研討會，旨在協助您最佳化Adobe Experi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/mastering-aem-sites.md" title="精通AEM Sites — 範本、導覽和SEO" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464298/?format=jpeg&nocache=1759852569521" alt="精通AEM Sites — 範本、導覽和SEO"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464326/?format=jpeg&nocache=1759852569521&captions=chi_hant" alt="精通AEM Sites — 範本、導覽和SEO"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -627,7 +627,7 @@ Adobe客戶成功引導的網路研討會，旨在協助您最佳化Adobe Experi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-beyond-basics.md" title="AI助理 — 超越基本知識" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463357/?format=jpeg&nocache=1759852573402" alt="AI助理 — 超越基本知識"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463369/?format=jpeg&nocache=1759852573402&captions=chi_hant" alt="AI助理 — 超越基本知識"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -756,7 +756,7 @@ Adobe客戶成功引導的網路研討會，旨在協助您最佳化Adobe Experi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/csc-gen-studio.md" title="揭開內容供應鏈神秘面紗，將Adobe GenStudio打造成產品套裝" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472978/?format=jpeg&nocache=1759852576825" alt="揭開內容供應鏈神秘面紗，將Adobe GenStudio打造成產品套裝"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472990/?format=jpeg&nocache=1759852576825&captions=chi_hant" alt="揭開內容供應鏈神秘面紗，將Adobe GenStudio打造成產品套裝"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -951,7 +951,7 @@ Adobe客戶成功引導的網路研討會，旨在協助您最佳化Adobe Experi
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/gen-ai-experimentation.md" title="AJO中的GenAI實驗及其與Adobe Target的關係" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444453/?format=jpeg&nocache=1759852580906" alt="AJO中的GenAI實驗及其與Adobe Target的關係"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444470/?format=jpeg&nocache=1759852580906&captions=chi_hant" alt="AJO中的GenAI實驗及其與Adobe Target的關係"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
