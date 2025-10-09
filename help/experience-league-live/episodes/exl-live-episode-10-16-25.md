@@ -7,7 +7,8 @@ feature: Basics
 event-cta-url-live: https://youtube.com/live/kiJfaedHSVw
 event-start-time: 2025-10-16 09:00-7
 event-guests: Doug Moore, Kari Olson, Caitlin Baunach
-source-git-commit: a536d27a3c3a57bc51ca768ded7d05e8b1eb44f4
+exl-id: 7d497f07-0dfd-4501-8fc2-bbac213603ec
+source-git-commit: 048b2cbe3ed5e6027217e56a2b2369bcb7920bb2
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -22,8 +23,6 @@ ht-degree: 0%
 
 無論您是專注於最佳化客戶體驗、擴大銷售管道，還是推動買家歷程中的可衡量成長，本次研討會都能提供您所需的工具和策略，讓資料為您的企業帶來更優異的工作表現。
 
-> ![顯示橫幅](../assets/exl-live-episode-10-16-25-web-banner.png)
+[![ExL LIVE 2025年10月16日](../assets/exl-live-episode-10-16-25-web-banner.png)](https://engage.adobe.com/ExpLeagueLive-251016.html)
 
-[設定節目提醒！](https://youtube.com/live/kiJfaedHSVw)
-
-
+[立即註冊！](https://engage.adobe.com/ExpLeagueLive-251016.html)
