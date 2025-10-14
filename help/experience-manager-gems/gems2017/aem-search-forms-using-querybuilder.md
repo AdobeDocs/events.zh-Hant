@@ -30,7 +30,7 @@ ht-degree: 0%
 
 示範
 
-* [AEM Querybuilder](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave)，由Alexander Klimetschek傳遞
+* [AEM Querybuilder](https://www.youtube.com/watch?v=yR9mcp9_MtY&list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave)，由Alexander Klimetschek傳遞
 
 AEM檔案
 
