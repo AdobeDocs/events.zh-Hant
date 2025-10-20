@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: 從 [!DNL Experience Makers Learn from your peers]的錄製集合
-source-git-commit: 513f1b0d3fee0d3db6db9104a5153a42d354b446
+source-git-commit: 92e2db2c13888d036dce70e07cd0ac0b6bdc111b
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '354'
 ht-degree: 20%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 20%
    + 9 月 {#sept2023}
       + [深入探討AEM Sites的工具](experience-manager/sept2023/aem-sites-tools.md)
    + 7 月 {#july2023}
-      + [在Cloud Service中有效的安全性策略](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+      + 在Cloud Service中[有效的安全性策略](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + 5 月 {#may2023}
       + [掌握內容與體驗片段](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + GenAi {#genai}
@@ -78,6 +78,8 @@ ht-degree: 20%
    + 2025 版 {#2025}
       + 2 月 {#february2025}
          + [清楚說明影響 — 如何測量和共用Workfront值](workfront/2025/how-to-measure-and-share-workfront-value.md)
+      + 10 月 {#october2025}
+         + [利用自動化簡化資源規劃](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 版 {#2024}
       + 4 月 {#april2024}
          + [人員配備您的Workfront系統管理員實務](workfront/2024/04/staffing-your-workfront-system-admin-practice.md)
