@@ -2,9 +2,9 @@
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
 user-guide-description: Adobe客戶成功引導的網路研討會，旨在協助您最佳化Adobe Experience Cloud投資。 獲得有價值的深入分析，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: 513f1b0d3fee0d3db6db9104a5153a42d354b446
+source-git-commit: 049b74b1b3e2ef9c511cba258c6d98bb60eca152
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '518'
 ht-degree: 3%
 
 ---
@@ -51,6 +51,7 @@ ht-degree: 3%
       + [GenStudio for Performance Marketing作業模型](2025/genstudio-for-performance-marketing-operating-model.md)
    + Journey Optimizer {#ajo2025}
       + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
+      + [使用Adobe Journey Optimizer實現價值的藍圖](2025/ajo-roadmap-to-value.md)
    + 多解決方案 {#multisolution2025}
       + [內容供應鏈基本需知](2025/content-supply-chain-basics.md)
       + [使用AI Insights最佳化數位體驗](2025/accelerating-digital-experience-optimization.md)
