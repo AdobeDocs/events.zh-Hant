@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 1a45f3ef18803495f5bc77b0eb0d626ff7e558fe
+source-git-commit: f88fa329951a93f53cbbf47e55d51f02d1fc5877
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 14%
+source-wordcount: '184'
+ht-degree: 16%
 
 ---
 
@@ -25,17 +25,6 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-22-25.md">
-              <img alt="Experience League LIVE 2025年10月22日" src="episodes/assets/WebBanner-v2-Oct22-2025.jpg">
-            </a>
-            <div>
-              <a href="episodes/exl-live-episode-10-22-25.md">
-                使用Adobe Experience Platform Agent Orchestrator <strong>新一代客戶體驗與效率</strong>
-              </a>
-              <br/><em>與Daniel Wright、Namita Krishnan、Huong Vu和Cole Connelly</em>
-              <br/><em>2025年10月22日</em>
-            </div>
-        </td>
          <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-25.md">
               <img alt="Experience League LIVE 2025年10月30日" src="assets/exl-live-episode-10-30-25-web-banner-v2.png">
             </a>
@@ -113,5 +102,5 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
 
 >[!TIP]
 >
->如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/zh-hant#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
+>如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
 
