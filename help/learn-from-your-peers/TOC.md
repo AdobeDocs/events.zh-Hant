@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: 從 [!DNL Experience Makers Learn from your peers]的錄製集合
-source-git-commit: 92e2db2c13888d036dce70e07cd0ac0b6bdc111b
+source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '361'
 ht-degree: 20%
 
 ---
@@ -45,13 +45,15 @@ ht-degree: 20%
    + 9 月 {#sept2023}
       + [深入探討AEM Sites的工具](experience-manager/sept2023/aem-sites-tools.md)
    + 7 月 {#july2023}
-      + [在Cloud Service中有效的安全性策略](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+      + 在Cloud Service中[有效的安全性策略](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + 5 月 {#may2023}
       + [掌握內容與體驗片段](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + GenAi {#genai}
    + 2025 年 9 月 {#sept2025}
       + [擴展AI採用 — 供核准的行動手冊](genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md)
 + Marketo {#marketo}
+   + 2025 年 10 月 {#oct2025}
+      + [建立資料衛生策略](marketo/oct2025/data-hygiene-strategy.md)
    + 2025 年 5 月 {#may2025}
       + [探索互動式網路研討會的影響](marketo/may2025/interactive-webinars.md)
    + 2024 年 11 月 {#nov2024}

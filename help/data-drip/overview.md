@@ -1,11 +1,11 @@
 ---
 title: 資料滴落
-description: 加入Data Drip系列的Adobe專家，探索Adobe Analytics和Target的最新功能和最佳實務，並透過即時示範確保客戶最大化產品潛力並保持競爭力。
+description: 加入Adobe專家的Data Drip系列，探索Adobe Analytics和Target的最新功能和最佳實務，並透過即時示範確保客戶最大化產品潛力並保持競爭力。
 duration: 15
 exl-id: dd36b140-d53a-41fd-9c26-4d97ab7740a1
-source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
+source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,7 @@ Data Drip系列擁有Adobe專家，並歡迎所有技能級別的現有Adobe Ana
 
 * 2025/adobe-analytics-basics-beyond.md
 * 2025/marketing-channel-attribution-modeling.md
+* 2025/migrating-to-web-sdk.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -29,7 +30,7 @@ Data Drip系列擁有Adobe專家，並歡迎所有技能級別的現有Adobe Ana
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/adobe-analytics-basics-beyond.md" title="Adobe Analytics基本概念及更多內容" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443028/?format=jpeg&nocache=1737763602579" alt="Adobe Analytics基本概念及更多內容"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443028/?format=jpeg&nocache=1761687728532" alt="Adobe Analytics基本概念及更多內容"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -39,7 +40,7 @@ Data Drip系列擁有Adobe專家，並歡迎所有技能級別的現有Adobe Ana
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2025/adobe-analytics-basics-beyond.md" target="_blank" rel="referrer" title="Adobe Analytics基本概念及更多內容">Adobe Analytics基本概念及更多內容</a>
                     </p>
-                    <p class="is-size-6">透過Adobe Analytics將效率和價值最大化 — 基本的最佳實務和報告功能</p>
+                    <p class="is-size-6">加入Taylor Walker和Vishnu Pillai的網路研討會，以掌握Adobe Analytics、最佳化工作區、匯出資料及整合工具。 立即觀賞專家深入分析</p>
                 </div>
                 <a href="2025/adobe-analytics-basics-beyond.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
@@ -52,7 +53,7 @@ Data Drip系列擁有Adobe專家，並歡迎所有技能級別的現有Adobe Ana
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/marketing-channel-attribution-modeling.md" title="行銷管道和歸因模型" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443020/?format=jpeg&nocache=1737763602565" alt="行銷管道和歸因模型"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443020/?format=jpeg&nocache=1761687728525" alt="行銷管道和歸因模型"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
