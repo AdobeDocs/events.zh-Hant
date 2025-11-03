@@ -7,9 +7,9 @@ feature: AI Assistant, Experimentation
 event-cta-url-live: https://youtube.com/live/w8eWsKuwyzI
 event-start-time: 2025-10-30 08:30-8
 event-guests: Sandra Hausmann, Brent Kostak, Justin Grover, David Arbour
-source-git-commit: ab402c86aadd5c2b22f632c31d085e90e05f96c7
+source-git-commit: c4c2753455d476d08ab1a5c76a08ed296397705d
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -35,3 +35,8 @@ ht-degree: 0%
 加入我們，參加[Adobe Journey Optimizer社群問我任何事！](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252)太平洋時間11月12日星期三上午8點至上午9點。 Adobe Journey Optimizer專家將加入我們：Cole Connelly (@coleconnelly) — 資深產品經理、Huong Vu (@HuongVu) — 產品行銷經理、Namita Krishnan (@Namita_Krishnan) — 產品經理、Brent Kostak (@bkostak) — 資深產品行銷經理、David Arbor (@user03474) — 資深研究科學家、Justin Grover (@justin_grover) — 首席產品經理、Sandra Hausmann (@SHausmann) — 資深技術行銷工程師和Daniel Wright (@dwright) — 資深技術行銷工程師。
 
 我們將會在此即時聊天中回答您的問題。
+
+## 其他資源
+
+* [在Adobe的AI實驗加速器內 — Podcast](https://conversion.com/podcast/the-conversion-podcast-adobe-ai/)
+
