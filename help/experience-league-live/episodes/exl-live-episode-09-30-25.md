@@ -8,18 +8,18 @@ event-cta-url-live: https://www.youtube.com/live/Pf5O5b0Ehig
 event-start-time: 2025-09-30 09:00-7
 event-guests: Sandra Hausmann, Travis Jordan, Nikhil Sharma
 exl-id: 963b69d7-8ffa-4bb4-9b1b-980d6d94821f
-source-git-commit: 8b4b83630e23a9deeaef97c12a5e0850b2347c3e
+source-git-commit: 2e29cfdaa955fbbcac1b82bafdc4b4b04a227362
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
 
 # 在Journey Optimizer中使用RCS和WhatsApp擴大您的行動範圍
 
-Travis Jordan和Nikhil Sharma展示了Adobe Journey Optimizer最近如何透過強大的新頻道新增和功能（包括WhatsApp、RCS和自訂SMS提供者）擴大行動參與。
+在這部影片中，Travis Jordan和Nikhil Sharma展示Adobe Journey Optimizer最近如何透過強大的新頻道新增和功能（包括WhatsApp、RCS和自訂SMS提供者）來擴展行動參與。
 
-他們展示您如何提供豐富的個人化行動體驗，不僅限於純文字、互動式按鈕、輪播、快速回覆等，這些全都是在Journey Optimizer中透過新頻道直接協調。 他們介紹了RCS和WhatsApp之間的優勢和差異、如何設定這些新管道（包括API憑證和Webhook），並展示如何將這些管道合併到您現有的全管道參與策略中。
+影片說明您如何提供豐富、個人化的行動體驗，不僅限於純文字、互動式按鈕、輪播、快速回覆等，這些全都是在Journey Optimizer中透過新頻道直接協調。 他們逐一介紹RCS和WhatsApp之間的優勢和差異、如何設定這些新的管道（包括API憑證和Webhook），並顯示如何將這些管道合併到您現有的全管道參與策略中。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475370/?quality=12&learn=on)
 
