@@ -2,10 +2,10 @@
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
 user-guide-description: Adobe客戶成功引導的網路研討會，旨在協助您最佳化Adobe Experience Cloud投資。 獲得有價值的深入分析，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
 workflow-type: tm+mt
-source-wordcount: '522'
-ht-degree: 3%
+source-wordcount: '547'
+ht-degree: 4%
 
 ---
 
@@ -27,8 +27,10 @@ ht-degree: 3%
       + [更聰明的行銷從這裡開始 — 整合Google和Adobe](2025/smarter-marketing-starts-here-integrating-google-and-adobe.md)
    + Experience Manager {#aem2025}
       + [AEM的新興技術](2025/personalized-experiences-aem.md)
+      + [AEM Lucene搜尋的重要提示和最佳實務](2025/aem-lucene-search.md)
       + [AEM與GenAI](2025/aem-genai.md)
       + [AEM與Workfront整合](2025/aem-workfront-integration.md)
+      + [AEM 中的 AI 助理](2025/ai-assistant-in-aem.md)
       + [建立有效網頁](2025/build-effective-web-pages.md)
       + [促進客戶參與](2025/driving-customer-engagement.md)
       + [AEM Forms註冊歷程](2025/payer-enrollment-journey.md)
@@ -50,6 +52,9 @@ ht-degree: 3%
       + [內容供應鏈與Adobe GenStudio](2025/csc-gen-studio.md)
       + [GenStudio for Performance Marketing作業模型](2025/genstudio-for-performance-marketing-operating-model.md)
    + Journey Optimizer {#ajo2025}
+      + [建立高階主管贊助](2025/build-executive-sponsorship-ajo.md)
+      + [針對採用的變更管理策略](2025/change-management-strategies.md)
+      + [設計作業模型](2025/design-an-operating-model-ajo.md)
       + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
       + [善用NorthStar架構](2025/northstar-architecture-enable-adobe-journey-optimzier.md)
       + [使用Adobe Journey Optimizer實現價值的藍圖](2025/ajo-roadmap-to-value.md)
