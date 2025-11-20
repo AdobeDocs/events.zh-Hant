@@ -37,6 +37,6 @@ ht-degree: 0%
 * 行銷國家社群網路研討會對話串 — [討論](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
 * 使用當地影響練習來評分個人/銷售機會 — [下載工作表](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
 * 潛在客戶評分規則的大型清單 — [檢視工作表](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
-* Marketo Engage程式匯入程式庫 — [檔案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
-* 在程式之前、期間和之後引導評分要瞭解的所有相關資訊 — [隨選網路研討會](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
+* Marketo Engage程式匯入程式庫 — [檔案](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html?lang=zh-Hant){target="_blank"}
+* 在程式之前、期間和之後引導評分要瞭解的所有相關資訊 — [隨選網路研討會](https://business.adobe.com/tw/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
 * 冠軍取得潛在客戶評分 — [部落格](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}

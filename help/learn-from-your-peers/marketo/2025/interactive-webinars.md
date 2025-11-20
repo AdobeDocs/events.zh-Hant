@@ -39,5 +39,5 @@ Adobe Marketo Engage Champion Maria Cruz運用全球直銷和數位行銷機構M
 
 * 加入發表問答的行銷國家社群上的[討論對話串](https://nation.marketo.com/t5/product-blogs/on-demand-learn-from-your-peers-revolutionizing-your-webinar/ba-p/356260)。
 * [在互動式網路研討會中進一步瞭解GenAI功能](https://nation.marketo.com/t5/latest-product-innovations/discover-how-genai-can-elevate-your-upcoming-webinars/ba-p/355055)
-* [探索互動式網路研討會基本知識](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
-* [瞭解如何使用互動式網路研討會Pod （投票、問答、CTA）](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
+* [探索互動式網路研討會基本知識](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview)
+* [瞭解如何使用互動式網路研討會Pod （投票、問答、CTA）](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars)
