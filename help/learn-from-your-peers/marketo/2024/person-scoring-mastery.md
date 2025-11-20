@@ -30,7 +30,7 @@ ht-degree: 0%
 * 如何設定透明且可擴充的人員評分模型
 * 在Marketo Engage中實作的最佳方式，可在保持模式邏輯一致的同時，提供當地市場的彈性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457450/?captions=chi_hant&learn=on)
 
 ## 網路研討會中分享的資源
 
