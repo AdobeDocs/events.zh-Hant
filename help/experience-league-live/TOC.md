@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: d0059bf86d27b492e8a5eef175977d3be49738d0
+source-git-commit: 304550e7c5eef8956dccef1ca9951d3091092e8d
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '613'
 ht-degree: 3%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 3%
 
 + [概觀](overview.md)
 + 集數 {#episodes}
+   + [ep. 54：透過產品支援代理簡化疑難排解和支援案例管理](episodes/exl-live-episode-12-16-25.md)
    + [ep. 53：下一個實驗時代：Agentic AI如何推動更聰明的測試和成長](episodes/exl-live-episode-10-30-25.md)
    + [ep. 52：Adobe Experience Platform Agent Orchestrator](episodes/exl-live-episode-10-22-25.md)
    + [ep. 51：解鎖Customer Journey Analytics B2B edition的強大功能](episodes/exl-live-episode-10-16-25.md)

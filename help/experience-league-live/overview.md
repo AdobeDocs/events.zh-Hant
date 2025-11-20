@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 7f05dd98e19fd3e88ca3af32bfbef89fda2d4b39
+source-git-commit: 021cc00ce8c98b238c75254332f518bc5eb51c2c
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 21%
@@ -26,15 +26,15 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
 
 <table>
     <tr>
-         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-25.md">
-              <img alt="Experience League LIVE 30 October 2025" src="assets/exl-live-episode-10-30-25-web-banner-v2.png">
+         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-12-16-25.md">
+              <img alt="Experience League LIVE 16 December 2025" src="episodes/assets/WebBanner_Dec16_2025.jpg">
             </a>
             <div>
-              <a href="episodes/exl-live-episode-10-30-25.md">
-                <strong>The Next Era of Experimentation: How Agentic AI is Fueling Smarter Testing and Growth</strong>
+              <a href="episodes/exl-live-episode-12-16-25.md">
+                <strong>Simplify troubleshooting and support case management with Product Support Agent</strong>
               </a>
-              <br/><em>with Sandra Hausmann, Brent Kostak, Justin Grover and David Arbour</em>
-              <br/><em>Oct 30, 2025</em>
+              <br/><em>with Daniel Wright, Huong Vu, and Shreya Anantha Raman</em>
+              <br/><em>Dec 16, 2025</em>
             </div>
         </td>
     </tr>
@@ -103,5 +103,5 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
 
 >[!TIP]
 >
->如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/zh-hant#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
+>如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
 

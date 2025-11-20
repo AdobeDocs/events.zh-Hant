@@ -1,0 +1,31 @@
+---
+title: 透過產品支援代理簡化疑難排解和支援案例管理
+description: 產品支援代理程式採用Adobe Experience Platform Agent Orchestrator技術，專為執行Adobe Experience Platform應用程式的團隊所設計，提供互動式方式來疑難排解、診斷及上報問題，進而加快解決速度並提升營運效率。
+kt: KT-18493
+solution: Journey Optimizer, Target
+feature: AI Assistant, Experimentation
+event-cta-url-live: https://youtube.com/live/w8eWsKuwyzI
+event-start-time: 2025-10-30 08:30-8
+event-guests: Sandra Hausmann, Brent Kostak, Justin Grover, David Arbour
+source-git-commit: 304550e7c5eef8956dccef1ca9951d3091092e8d
+workflow-type: tm+mt
+source-wordcount: '250'
+ht-degree: 0%
+
+---
+
+
+# 透過產品支援代理簡化疑難排解和支援案例管理
+
+此研討會是重點介紹Adobe Experience Platform Agent Orchestrator和專門建置的Adobe Experience Platform代理程式系列的一部分。 每一集都會深入探討AI如何改變行銷工作流程、簡化作業，以及提供更聰明的客戶體驗。
+
+行銷和客戶體驗團隊面臨巨大壓力，需要以較少的資源和較短的時間表，提供高度個人化的多管道行銷活動。 但通常情況下，他們的時間會耗盡疑難排解和支援管理等營運負擔，阻礙他們專注於策略性、高影響力的客戶體驗工作。 產品支援代理程式採用Adobe Experience Platform Agent Orchestrator技術，專為執行Adobe Experience Platform應用程式的團隊所設計，提供互動式方式來疑難排解、診斷及上報問題，進而加快解決速度並提升營運效率。
+
+請參加此即時會議，產品支援代理程式的產品團隊將在此會議中探索：
+* 產品支援代理概述
+* 產品支援代理程式如何讓使用者擁有主動式與自助式支援，以及自動化案例建立和追蹤
+* Horizon中的創新與功能，可進一步簡化使用者的支援管理
+
+[![ExL LIVE 2024年1月17日](assets/WebBanner_Dec16_2025.jpg)](https://www.youtube.com/live/MW2Ba7HJNbA)
+
+[按一下以在YouTube上設定提醒！](https://www.youtube.com/live/MW2Ba7HJNbA)
