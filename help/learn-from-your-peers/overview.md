@@ -3,7 +3,7 @@ title: '[!DNL Experience Makers - Learn from your peers]'
 description: 向Adobe專家和同行學習如何從Adobe解決方案中獲得最大效益。 [!DNL Experience Makers - Learn from your peers] 是虛擬客戶學習活動的全球系列，著重於深入探討 [!DNL Adobe Experience Cloud] 解決方案。
 exl-id: 006da2ec-77f0-43fb-a653-1b5f4942d692
 duration: 20
-source-git-commit: a2880622b706440262b91279a69eadda493cbe81
+source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
 workflow-type: tm+mt
 source-wordcount: '1320'
 ht-degree: 0%
@@ -30,7 +30,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./adobe-user-groups.md" title="探索Experience Cloud中的Adobe使用者群組" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470396/?format=jpeg&nocache=1763133801665" alt="探索Experience Cloud中的Adobe使用者群組"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470396/?format=jpeg&nocache=1763596773702" alt="探索Experience Cloud中的Adobe使用者群組"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -53,7 +53,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./adobe-champion-application.md" title="瞭解如何申請並脫穎而出，成為冠軍" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458989/?format=jpeg&nocache=1763133801673" alt="瞭解如何申請並脫穎而出，成為冠軍"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458989/?format=jpeg&nocache=1763596773709" alt="瞭解如何申請並脫穎而出，成為冠軍"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -79,7 +79,7 @@ ht-degree: 0%
 <!-- CARDS
 {cta  = Watch event}
 
-* genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md
+* genai/2025/scale-ai-adoption-a-playbook-for-approvals.md
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -87,8 +87,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md" title="擴展AI採用 — 供核准的行動手冊" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475270/?format=jpeg&nocache=1763133802421" alt="擴展AI採用 — 供核准的行動手冊"
+                    <a href="genai/2025/scale-ai-adoption-a-playbook-for-approvals.md" title="擴展AI採用 — 供核准的行動手冊" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475270/?format=jpeg&nocache=1763596774047" alt="擴展AI採用 — 供核准的行動手冊"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -96,11 +96,11 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md" target="_blank" rel="referrer" title="擴展AI採用 — 供核准的行動手冊">擴展AI採用 — 供核准的行動手冊</a>
+                        <a href="genai/2025/scale-ai-adoption-a-playbook-for-approvals.md" target="_blank" rel="referrer" title="擴展AI採用 — 供核准的行動手冊">擴展AI採用 — 供核准的行動手冊</a>
                     </p>
                     <p class="is-size-6">探索Adobe Experience Maker獎獲得者Anish Raul的實證策略，瞭解在受規管企業中安全使用AI而不會減緩創新。</p>
                 </div>
-                <a href="genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="genai/2025/scale-ai-adoption-a-playbook-for-approvals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
@@ -124,7 +124,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="commerce/2025/commerce-and-app-builder.md" title="Adobe Commerce與App Builder Essentials — 從基礎知識到影響力" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476691/?format=jpeg&nocache=1763133802656" alt="Adobe Commerce與App Builder Essentials — 從基礎知識到影響力"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476691/?format=jpeg&nocache=1763596774316" alt="Adobe Commerce與App Builder Essentials — 從基礎知識到影響力"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -147,7 +147,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="commerce/2024/agile-sdlc.md" title="在Agile SDLC中著重於通訊、需求和測試的方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1763133802665" alt="在Agile SDLC中著重於通訊、需求和測試的方法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1763596774312" alt="在Agile SDLC中著重於通訊、需求和測試的方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -174,9 +174,9 @@ ht-degree: 0%
 
 {cta  = Watch event}
 
-* experience-manager/nov2025/metadata-mayhem.md
-* experience-manager/aug2025/smart-tags.md
-* experience-manager/july2024/global-digital-presence.md
+* experience-manager/2025/metadata-mayhem.md
+* experience-manager/2025/smart-tags.md
+* experience-manager/2024/global-digital-presence.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -185,8 +185,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="experience-manager/nov2025/metadata-mayhem.md" title="中繼資料混亂到精通" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476712/?format=jpeg&nocache=1763133802913" alt="中繼資料混亂到精通"
+                    <a href="experience-manager/2025/metadata-mayhem.md" title="中繼資料混亂到精通" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476712/?format=jpeg&nocache=1763596774528" alt="中繼資料混亂到精通"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -194,11 +194,11 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="experience-manager/nov2025/metadata-mayhem.md" target="_blank" rel="referrer" title="中繼資料混亂到精通">中繼資料雜湊到Mastery</a>
+                        <a href="experience-manager/2025/metadata-mayhem.md" target="_blank" rel="referrer" title="中繼資料混亂到精通">中繼資料雜湊到Mastery</a>
                     </p>
                     <p class="is-size-6">瞭解實作AEM Assets和Workfront聯結器、對應中繼資料和調整角色以成功轉出的專家提示。</p>
                 </div>
-                <a href="experience-manager/nov2025/metadata-mayhem.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="experience-manager/2025/metadata-mayhem.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
@@ -208,8 +208,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="experience-manager/aug2025/smart-tags.md" title="AEM智慧標籤 — 簡化內容及增強可發現性" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471511/?format=jpeg&nocache=1763133802919" alt="AEM智慧標籤 — 簡化內容及增強可發現性"
+                    <a href="experience-manager/2025/smart-tags.md" title="AEM智慧標籤 — 簡化內容及增強可發現性" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471511/?format=jpeg&nocache=1763596774526" alt="AEM智慧標籤 — 簡化內容及增強可發現性"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -217,11 +217,11 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="experience-manager/aug2025/smart-tags.md" target="_blank" rel="referrer" title="AEM智慧標籤 — 簡化內容及增強可發現性">AEM智慧標籤 — 簡化內容並增強可發現性</a>
+                        <a href="experience-manager/2025/smart-tags.md" target="_blank" rel="referrer" title="AEM智慧標籤 — 簡化內容及增強可發現性">AEM智慧標籤 — 簡化內容並增強可發現性</a>
                     </p>
                     <p class="is-size-6">在此AEM網路研討會中，瞭解智慧標籤如何運用AI驅動的標籤策略來改善內容可發現性、中繼資料和DAM擴充性。</p>
                 </div>
-                <a href="experience-manager/aug2025/smart-tags.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="experience-manager/2025/smart-tags.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
@@ -231,8 +231,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="experience-manager/july2024/global-digital-presence.md" title="使用全域組合大規模釋放成功" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457918/?format=jpeg&nocache=1763133802923" alt="使用全域組合大規模釋放成功"
+                    <a href="experience-manager/2024/global-digital-presence.md" title="使用全域組合大規模釋放成功" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457918/?format=jpeg&nocache=1763596774524" alt="使用全域組合大規模釋放成功"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -240,11 +240,11 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        使用全域組合<a href="experience-manager/july2024/global-digital-presence.md" target="_blank" rel="referrer" title="使用全域組合大規模釋放成功">大規模解除鎖定成功</a>
+                        使用全域組合<a href="experience-manager/2024/global-digital-presence.md" target="_blank" rel="referrer" title="使用全域組合大規模釋放成功">大規模解除鎖定成功</a>
                     </p>
                     <p class="is-size-6">使用AEM擴充全域內容，使用自訂元件、藍圖、工作流程和片段，以有效控制、核准和區域彈性。</p>
                 </div>
-                <a href="experience-manager/july2024/global-digital-presence.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="experience-manager/2024/global-digital-presence.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
@@ -259,13 +259,13 @@ ht-degree: 0%
 
 {cta  = Watch event}
 
-* marketo/oct2025/data-hygiene-strategy.md
-* marketo/may2025/interactive-webinars.md
-* marketo/nov2024/advanced-segmentation.md
-* marketo/sept2024/multi-stream-engagement-programs.md
-* marketo/july2024/marketers-map-marketo-campaigns.md
-* marketo/april2024/practical-applications-of-marketo-engage-rest-api.md
-* marketo/jan2024/person-scoring-mastery.md
+* marketo/2025/data-hygiene-strategy.md
+* marketo/2025/interactive-webinars.md
+* marketo/2024/advanced-segmentation.md
+* marketo/2024/multi-stream-engagement-programs.md
+* marketo/2024/marketers-map-marketo-campaigns.md
+* marketo/2024/practical-applications-of-marketo-engage-rest-api.md
+* marketo/2024/person-scoring-mastery.md
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -273,8 +273,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="marketo/oct2025/data-hygiene-strategy.md" title="為Marketo Engage和CRM Sync建置資料衛生策略" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476321/?format=jpeg&nocache=1763133803497" alt="為Marketo Engage和CRM Sync建置資料衛生策略"
+                    <a href="marketo/2025/data-hygiene-strategy.md" title="為Marketo Engage和CRM Sync建置資料衛生策略" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476321/?format=jpeg&nocache=1763596774782" alt="為Marketo Engage和CRM Sync建置資料衛生策略"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -282,11 +282,11 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="marketo/oct2025/data-hygiene-strategy.md" target="_blank" rel="referrer" title="為Marketo Engage和CRM Sync建置資料衛生策略">正在建立Marketo Engage和CRM Sync的資料衛生策略</a>
+                        <a href="marketo/2025/data-hygiene-strategy.md" target="_blank" rel="referrer" title="為Marketo Engage和CRM Sync建置資料衛生策略">正在建立Marketo Engage和CRM Sync的資料衛生策略</a>
                     </p>
                     <p class="is-size-6">學習Marketo Champion Miray Vu行之有效的資料衛生策略，確保獲得乾淨的CRM資料、加快管道速度，並推動可靠的收入增長。</p>
                 </div>
-                <a href="marketo/oct2025/data-hygiene-strategy.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="marketo/2025/data-hygiene-strategy.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
@@ -296,8 +296,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="marketo/may2025/interactive-webinars.md" title="革新您的網路研討會體驗 — 探索互動式網路研討會的影響" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458099/?format=jpeg&nocache=1763133803505" alt="革新您的網路研討會體驗 — 探索互動式網路研討會的影響"
+                    <a href="marketo/2025/interactive-webinars.md" title="革新您的網路研討會體驗 — 探索互動式網路研討會的影響" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458099/?format=jpeg&nocache=1763596774788" alt="革新您的網路研討會體驗 — 探索互動式網路研討會的影響"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -305,11 +305,11 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="marketo/may2025/interactive-webinars.md" target="_blank" rel="referrer" title="革新您的網路研討會體驗 — 探索互動式網路研討會的影響">革新您的網路研討會體驗 — 探索互動式網路研討會的影響</a>
+                        <a href="marketo/2025/interactive-webinars.md" target="_blank" rel="referrer" title="革新您的網路研討會體驗 — 探索互動式網路研討會的影響">革新您的網路研討會體驗 — 探索互動式網路研討會的影響</a>
                     </p>
                     <p class="is-size-6">瞭解Marketo Champion Maria Cruz如何使用互動式網路研討會，在MRM促進參與、獲得見解及增強行銷。 立即觀看on-demand！</p>
                 </div>
-                <a href="marketo/may2025/interactive-webinars.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="marketo/2025/interactive-webinars.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
@@ -319,8 +319,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="marketo/nov2024/advanced-segmentation.md" title="進階區段稽核 — 確保Marketo Engage的精確度和效能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439383/?format=jpeg&nocache=1763133803531" alt="進階區段稽核 — 確保Marketo Engage的精確度和效能"
+                    <a href="marketo/2024/advanced-segmentation.md" title="進階區段稽核 — 確保Marketo Engage的精確度和效能" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439383/?format=jpeg&nocache=1763596774793" alt="進階區段稽核 — 確保Marketo Engage的精確度和效能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -328,11 +328,11 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="marketo/nov2024/advanced-segmentation.md" target="_blank" rel="referrer" title="進階區段稽核 — 確保Marketo Engage的精確度和效能">進階分段稽核 — 確保Marketo Engage的精確度和效能</a>
+                        <a href="marketo/2024/advanced-segmentation.md" target="_blank" rel="referrer" title="進階區段稽核 — 確保Marketo Engage的精確度和效能">進階分段稽核 — 確保Marketo Engage的精確度和效能</a>
                     </p>
                     <p class="is-size-6">加入Adobe Marketo Engage Champion Darshil Shah，掌握進階分段稽核、瞭解如何最佳化分段策略、與客戶行為一致、維持GDPR法規遵循，並透過最佳實務和即時更新提升行銷績效。</p>
                 </div>
-                <a href="marketo/nov2024/advanced-segmentation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="marketo/2024/advanced-segmentation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
@@ -342,8 +342,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="marketo/sept2024/multi-stream-engagement-programs.md" title="使用多串流參與計畫掌握複雜的客戶歷程" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1763133803499" alt="使用多串流參與計畫掌握複雜的客戶歷程"
+                    <a href="marketo/2024/multi-stream-engagement-programs.md" title="使用多串流參與計畫掌握複雜的客戶歷程" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1763596774808" alt="使用多串流參與計畫掌握複雜的客戶歷程"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -351,11 +351,11 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="marketo/sept2024/multi-stream-engagement-programs.md" target="_blank" rel="referrer" title="使用多串流參與計畫掌握複雜的客戶歷程">使用多串流參與計畫來掌握複雜的客戶歷程</a>
+                        <a href="marketo/2024/multi-stream-engagement-programs.md" target="_blank" rel="referrer" title="使用多串流參與計畫掌握複雜的客戶歷程">使用多串流參與計畫來掌握複雜的客戶歷程</a>
                     </p>
                     <p class="is-size-6">探索如何在客戶歷程的每個步驟中，透過多重接觸、多資料流參與計畫來系統地與客戶互動及培養客戶關係。 參與計畫讓您能夠傾聽客戶的需求和行為，並提供他們相關的歷程和必要內容。</p>
                 </div>
-                <a href="marketo/sept2024/multi-stream-engagement-programs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="marketo/2024/multi-stream-engagement-programs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
@@ -365,8 +365,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="marketo/july2024/marketers-map-marketo-campaigns.md" title="行銷人員地圖 — 策略化、建立和分析Marketo行銷活動的完整指南" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1763133803501" alt="行銷人員地圖 — 策略化、建立和分析Marketo行銷活動的完整指南"
+                    <a href="marketo/2024/marketers-map-marketo-campaigns.md" title="行銷人員地圖 — 策略化、建立和分析Marketo行銷活動的完整指南" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1763596774797" alt="行銷人員地圖 — 策略化、建立和分析Marketo行銷活動的完整指南"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -374,11 +374,11 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="marketo/july2024/marketers-map-marketo-campaigns.md" target="_blank" rel="referrer" title="行銷人員地圖 — 策略化、建立和分析Marketo行銷活動的完整指南">行銷人員地圖 — 策略化、建立和分析Marketo行銷活動的完整指南</a>
+                        <a href="marketo/2024/marketers-map-marketo-campaigns.md" target="_blank" rel="referrer" title="行銷人員地圖 — 策略化、建立和分析Marketo行銷活動的完整指南">行銷人員地圖 — 策略化、建立和分析Marketo行銷活動的完整指南</a>
                     </p>
                     <p class="is-size-6">瞭解建立Marketo Engage計畫的有效方法，包括匯入、複製和從頭開始建立。 自訂Marketo Engage範本以符合品牌標準並管理資產和期間成本。</p>
                 </div>
-                <a href="marketo/july2024/marketers-map-marketo-campaigns.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="marketo/2024/marketers-map-marketo-campaigns.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
@@ -388,8 +388,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="marketo/april2024/practical-applications-of-marketo-engage-rest-api.md" title="解鎖強大的工作流程自動化 — Marketo Engage REST API的實際應用" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1763133803513" alt="解鎖強大的工作流程自動化 — Marketo Engage REST API的實際應用"
+                    <a href="marketo/2024/practical-applications-of-marketo-engage-rest-api.md" title="解鎖強大的工作流程自動化 — Marketo Engage REST API的實際應用" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1763596774818" alt="解鎖強大的工作流程自動化 — Marketo Engage REST API的實際應用"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -397,11 +397,11 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="marketo/april2024/practical-applications-of-marketo-engage-rest-api.md" target="_blank" rel="referrer" title="解鎖強大的工作流程自動化 — Marketo Engage REST API的實際應用">解除鎖定強大的工作流程自動化 — Marketo Engage REST API的實際應用</a>
+                        <a href="marketo/2024/practical-applications-of-marketo-engage-rest-api.md" target="_blank" rel="referrer" title="解鎖強大的工作流程自動化 — Marketo Engage REST API的實際應用">解除鎖定強大的工作流程自動化 — Marketo Engage REST API的實際應用</a>
                     </p>
                     <p class="is-size-6">解鎖Marketo Engage REST API自動化行銷工作流程的潛力、整合Zapier之類的工具、運用Python進行大量動作，並簡化潛在客戶合併、UTM追蹤和活動資料擷取等工作。</p>
                 </div>
-                <a href="marketo/april2024/practical-applications-of-marketo-engage-rest-api.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="marketo/2024/practical-applications-of-marketo-engage-rest-api.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
@@ -411,8 +411,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="marketo/jan2024/person-scoring-mastery.md" title="使用Marketo Engage的個人得分掌握 — 全球框架中的本地化細微差別" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457450/?captions=chi_hant&format=jpeg&nocache=1763133803522" alt="使用Marketo Engage的個人得分掌握 — 全球框架中的本地化細微差別"
+                    <a href="marketo/2024/person-scoring-mastery.md" title="使用Marketo Engage的個人得分掌握 — 全球框架中的本地化細微差別" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1763596774826" alt="使用Marketo Engage的個人得分掌握 — 全球框架中的本地化細微差別"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -420,11 +420,11 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="marketo/jan2024/person-scoring-mastery.md" target="_blank" rel="referrer" title="使用Marketo Engage的個人得分掌握 — 全球框架中的本地化細微差別">使用Marketo Engage的個人分數精通 — 全球架構中的當地語系化細微差別</a>
+                        <a href="marketo/2024/person-scoring-mastery.md" target="_blank" rel="referrer" title="使用Marketo Engage的個人得分掌握 — 全球框架中的本地化細微差別">使用Marketo Engage的個人分數精通 — 全球架構中的當地語系化細微差別</a>
                     </p>
                     <p class="is-size-6">作為管理員，您可以根據評分元素相互比較的真實商業價值，來開發Marketo Engage人員評分模型。 但如果這個商業價值在不同市場有所差異呢？ 您如何允許本地影響力，而不會失去整個組織的一致性？ 瞭解如何在評分模型中建立本機彈性，以找到平衡。</p>
                 </div>
-                <a href="marketo/jan2024/person-scoring-mastery.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="marketo/2024/person-scoring-mastery.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
@@ -439,10 +439,10 @@ ht-degree: 0%
 
 {cta  = Watch event}
 
-* experience-manager/nov2025/metadata-mayhem.md
+* experience-manager/2025/metadata-mayhem.md
 * workfront/2025/simplify-resource-planning-with-automation.md
 * workfront/2025/how-to-measure-and-share-workfront-value.md
-* workfront/2024/04/staffing-your-workfront-system-admin-practice.md
+* workfront/2024/staffing-your-workfront-system-admin-practice.md
  
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -451,8 +451,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="experience-manager/nov2025/metadata-mayhem.md" title="中繼資料混亂到精通" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476712/?format=jpeg&nocache=1763133804163" alt="中繼資料混亂到精通"
+                    <a href="experience-manager/2025/metadata-mayhem.md" title="中繼資料混亂到精通" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476712/?format=jpeg&nocache=1763596775287" alt="中繼資料混亂到精通"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -460,11 +460,11 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="experience-manager/nov2025/metadata-mayhem.md" target="_blank" rel="referrer" title="中繼資料混亂到精通">中繼資料雜湊到Mastery</a>
+                        <a href="experience-manager/2025/metadata-mayhem.md" target="_blank" rel="referrer" title="中繼資料混亂到精通">中繼資料雜湊到Mastery</a>
                     </p>
                     <p class="is-size-6">瞭解實作AEM Assets和Workfront聯結器、對應中繼資料和調整角色以成功轉出的專家提示。</p>
                 </div>
-                <a href="experience-manager/nov2025/metadata-mayhem.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="experience-manager/2025/metadata-mayhem.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
@@ -475,7 +475,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/simplify-resource-planning-with-automation.md" title="利用自動化簡化資源規劃" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475907/?format=jpeg&nocache=1763133804169" alt="利用自動化簡化資源規劃"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475907/?format=jpeg&nocache=1763596775293" alt="利用自動化簡化資源規劃"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -498,7 +498,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/how-to-measure-and-share-workfront-value.md" title="清楚說明影響 — 如何測量和共用Workfront值" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447501/?format=jpeg&nocache=1763133804176" alt="清楚說明影響 — 如何測量和共用Workfront值"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447501/?format=jpeg&nocache=1763596775297" alt="清楚說明影響 — 如何測量和共用Workfront值"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -520,8 +520,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="workfront/2024/04/staffing-your-workfront-system-admin-practice.md" title="人員配備您的Workfront系統管理員實務網路研討會" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1763133804173" alt="人員配備您的Workfront系統管理員實務網路研討會"
+                    <a href="workfront/2024/staffing-your-workfront-system-admin-practice.md" title="人員配備您的Workfront系統管理員實務網路研討會" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1763596775302" alt="人員配備您的Workfront系統管理員實務網路研討會"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -529,11 +529,11 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="workfront/2024/04/staffing-your-workfront-system-admin-practice.md" target="_blank" rel="referrer" title="人員配備您的Workfront系統管理員實務網路研討會">您的Workfront系統管理員實務網路研討會人員配備</a>
+                        <a href="workfront/2024/staffing-your-workfront-system-admin-practice.md" target="_blank" rel="referrer" title="人員配備您的Workfront系統管理員實務網路研討會">您的Workfront系統管理員實務網路研討會人員配備</a>
                     </p>
                     <p class="is-size-6">在隨選網路研討會中，向Dell和Adobe Workfront專家瞭解系統管理員的戰略重要性。 探索在Adobe Workfront中保護全職人數、運用群組管理員角色及定義角色設定檔以有效設定和擴充能力的秘訣。</p>
                 </div>
-                <a href="workfront/2024/04/staffing-your-workfront-system-admin-practice.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="workfront/2024/staffing-your-workfront-system-admin-practice.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
                 </a>
             </div>
