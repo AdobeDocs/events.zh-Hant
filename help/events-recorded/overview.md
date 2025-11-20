@@ -21,125 +21,125 @@ ht-degree: 6%
 
 <!-- CARDS
 
-* https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html
+* https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html?lang=zh-Hant
   {title = Adobe Workfront}  
   {description = A library of recorded Workfront events where experts and peers share thoughts on how to use Workfront.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png?lang=zh-Hant}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html
+* https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=zh-Hant
   {title = Acrobat Sign Webinars}
   {description = Learn from Adobe experts how to master new e-signature workflows in Acrobat Sign.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png?lang=zh-Hant}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html
+* https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html?lang=zh-Hant
   {title = Adobe Commerce Product Updates}
   {description = The latest product innovations in Adobe Commerce, presented by the Adobe Commerce product team.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png?lang=zh-Hant}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html
+* https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html?lang=zh-Hant
   {title = Adobe Developers Live}
   {description = Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose - to create incredible end-to-end experiences.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png?lang=zh-Hant}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html
+* https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html?lang=zh-Hant
   {title = APAC Adobe Commerce Webinars}
   {description = The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Commerce customers that covers a wide range of topics from best practices to product roadmap and industry trends.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png?lang=zh-Hant}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html
+* https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=zh-Hant
   {title = Adobe Customer Success Webinars}
   {description = Adobe Customer Success-led webinars designed to empower you in optimizing your investment in Adobe's Experience Cloud. Gain valuable insights to maximize the value and increase the adoption of Adobe solutions.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png?lang=zh-Hant}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html
+* https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html?lang=zh-Hant
   {title = Behind the Brew}
   {description = Behind the Brew, the companion series to Commerce & Coffee, is tailored for technically inclined customers seeking to master back-end best practices, integrations, and advanced functionalities to enhance their eCommerce experiences.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png?lang=zh-Hant}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html
+* https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html?lang=zh-Hant
   {title = Commerce and Coffee}
   {description = The Commerce & Coffee series is for existing Adobe Commerce customers of all skill levels and features Sr. Commerce Strategy Consultant, Corey Gelato. The series focuses on Commerce strategies and tactics, supported by statistics reflective of the event topic.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png?lang=zh-Hant}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html
+* https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=zh-Hant
   {title = Customer Data Management Voices}
   {description = Your destination as a customer data management technical and marketing practice leader and specialist. A one stop shop to hear from your peers, get inspired and learn about developments in martech.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png?lang=zh-Hant}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html
+* https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html?lang=zh-Hant
   {title = Data Drip}
   {description = Join Adobe experts in the Data Drip series to explore the latest features and best practices in Adobe Analytics & Target, with live demonstrations ensuring customers maximize product potential and stay competitive.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png?lang=zh-Hant}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html 
+* https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html?lang=zh-Hant 
   {title = Deep Dives}
   {description = Deep Dive on-demand events recordings help you gain a better understanding how to use Adobe Marketo to support your business.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png?lang=zh-Hant}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html
+* https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html?lang=zh-Hant
   {title = Experience League LIVE}
   {description = Experience League LIVE is a live streaming show produced by the Experience League team. It's a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png?lang=zh-Hant}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html
+* https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=zh-Hant
   {title = Experience Manager GEMS}
   {description = Technical Adobe Experience Manager deep dives delivered by Adobe experts. This series is a compliment of the product documentation and of all other technical channels regarding Adobe Experience Manager, allowing developers to get in touch and go deep on a specific topic.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png?lang=zh-Hant}
   {cta  = View recordings}Experience Manager GEMS>
-* https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html
+* https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=zh-Hant
   {title = Experience Manager Release Overview}
   {description = Get a quick overview of the latest features on Adobe Experience Manager as a Cloud Service. These are short, roughly 10 minutes videos delivered by the AEM product team that share highlights of the latest release.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png?lang=zh-Hant}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html
+* https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html?lang=zh-Hant
   {title = Learn from your Peers}  
   {description = Learn from Adobe experts and peers how to get the most from your Adobe solutions. With topics selected for practitioners, by practitioners, these interactive sessions share art of the possible use cases, best practices, and tips &amp; tricks.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png?lang=zh-Hant}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview
+* https://experienceleague.adobe.com/zh-hant/docs/events/genstudio-for-performance-marketing-events/overview
   {title = GenStudio for Performance Marketing Events}  
   {description = Discover upcoming and past webinars and events designed to help you master GenStudio for Performance Marketing.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-genstudio-for-performance-marketing-events.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-genstudio-for-performance-marketing-events.png?lang=zh-Hant}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html
+* https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html?lang=zh-Hant
   {title = Marketo and Mochas}  
   {description = Marketo and Mochas will help you to gain a better understanding how to use Adobe Marketo to support your business.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png?lang=zh-Hant}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html
+* https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html?lang=zh-Hant
   {title = Espressos and Experience Manager}  
   {description = The Espressos & Experience Manager series, featuring Adobe experts, offers AEM (Sites & Assets) customers of all skill levels insights into common use cases, best practices, live demonstrations, and concludes with a Q&A session.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-espressos-and-experience-manager.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-espressos-and-experience-manager.png?lang=zh-Hant}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html
+* https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html?lang=zh-Hant
   {title = Experience Cloud Tech Sessions}  
   {description = Unlock Adobe Experience Cloud with Adobe expert-led Tech Sessions, available live and on-demand for seamless learning.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-cloud-tech-sessions.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-cloud-tech-sessions.png?lang=zh-Hant}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html
+* https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html?lang=zh-Hant
   {title = Adobe Commerce Intelligence}  
   {description = The Adobe Commerce Intelligence (aka MBI) webinar series is a periodic event for Adobe Commerce Intelligence customers. The webinars cover a wide range of topics and best practices for using Adobe Commerce Intelligence to its fullest potential.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-intelligence-webinars.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-intelligence-webinars.png?lang=zh-Hant}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/en/docs/events/the-perfect-blend/overview
+* https://experienceleague.adobe.com/zh-hant/docs/events/the-perfect-blend/overview
   {title = The Perfect Blend}  
   {description = Discover how Adobe DX products integrate to streamline workflows, boost efficiency, and deliver smarter business outcomes with live demos and Q&A.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-the-perfect-blend.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-the-perfect-blend.png?lang=zh-Hant}
   {cta  = View recordings}  
-* https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html
+* https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html?lang=zh-Hant
   {title = Skill Builder}  
   {description = Skill Builder is a webinar series designed to build your knowledge base and maximize your investment in Adobe Experience Cloud.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png?lang=zh-Hant}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html
+* https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html?lang=zh-Hant
   {title = Skill Exchange}  
   {description = Experience Makers The Skill Exchange is a global series of virtual customer learning events, focusing on diving deeper into Adobe Experience Cloud solutions. This program provides opportunity to learn from Adobe product experts and expert peers through sharing of best practices and tips &amp; tricks.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png?lang=zh-Hant}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html
+* https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html?lang=zh-Hant
   {title = Wake up with Workfront}  
   {description = The Wake Up with Workfront series showcases project management and workflow best practices for all skill levels, featuring actionable strategies, live demonstrations of Workfront's key features, and a concluding Q&A session.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-wake-up-with-workfront.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-wake-up-with-workfront.png?lang=zh-Hant}
   {cta  = View recordings}
 
 -->
@@ -149,8 +149,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html" title="Adobe Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png" alt="Adobe Workfront"
+                    <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html?lang=zh-Hant" title="Adobe Workfront" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png?lang=zh-Hant" alt="Adobe Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -158,11 +158,11 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html" target="_blank" rel="referrer" title="Adobe Workfront">Adobe Workfront</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" title="Adobe Workfront">Adobe Workfront</a>
                     </p>
                     <p class="is-size-6">Workfront活動錄音庫，專家和同行可在此分享如何使用Workfront的想法。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
@@ -172,8 +172,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" title="Acrobat Sign網路研討會" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png" alt="Acrobat Sign網路研討會"
+                    <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=zh-Hant" title="Acrobat Sign網路研討會" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png?lang=zh-Hant" alt="Acrobat Sign網路研討會"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -181,11 +181,11 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" target="_blank" rel="referrer" title="Acrobat Sign網路研討會">Acrobat Sign網路研討會</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=zh-Hant" target="_blank" rel="referrer" title="Acrobat Sign網路研討會">Acrobat Sign網路研討會</a>
                     </p>
                     <p class="is-size-6">向Adobe專家學習如何在Acrobat Sign中掌握新的電子簽章工作流程。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
@@ -195,8 +195,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" title="Adobe Commerce產品更新" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png" alt="Adobe Commerce產品更新"
+                    <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html?lang=zh-Hant" title="Adobe Commerce產品更新" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png?lang=zh-Hant" alt="Adobe Commerce產品更新"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -204,11 +204,11 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" target="_blank" rel="referrer" title="Adobe Commerce產品更新">Adobe Commerce產品更新</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" title="Adobe Commerce產品更新">Adobe Commerce產品更新</a>
                     </p>
                     <p class="is-size-6">Adobe Commerce的最新產品創新，由Adobe Commerce產品團隊提供。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
@@ -218,8 +218,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html" title="Adobe Developers Live" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png" alt="Adobe Developers Live"
+                    <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html?lang=zh-Hant" title="Adobe Developers Live" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png?lang=zh-Hant" alt="Adobe Developers Live"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -227,11 +227,11 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html" target="_blank" rel="referrer" title="Adobe Developers Live">Adobe Developers Live</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" title="Adobe Developers Live">Adobe Developers Live</a>
                     </p>
                     <p class="is-size-6">Adobe Developers Live彙集多元背景的Adobe開發人員和有經驗的建置者，其目的只有一個，就是創造令人驚豔的端對端體驗。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
@@ -241,8 +241,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" title="APAC Adobe Commerce網路研討會" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png" alt="APAC Adobe Commerce網路研討會"
+                    <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html?lang=zh-Hant" title="APAC Adobe Commerce網路研討會" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png?lang=zh-Hant" alt="APAC Adobe Commerce網路研討會"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -250,11 +250,11 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" target="_blank" rel="referrer" title="APAC Adobe Commerce網路研討會">APAC Adobe Commerce網路研討會</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" title="APAC Adobe Commerce網路研討會">APAC Adobe Commerce網路研討會</a>
                     </p>
                     <p class="is-size-6">亞太地區Commerce網路研討會系列是每月為Adobe Commerce客戶舉辦的一系列研討會，涵蓋從最佳作法、產品藍圖和行業趨勢等廣泛主題。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
@@ -264,8 +264,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html" title="Adobe客戶成功網路研討會" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png" alt="Adobe客戶成功網路研討會"
+                    <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=zh-Hant" title="Adobe客戶成功網路研討會" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png?lang=zh-Hant" alt="Adobe客戶成功網路研討會"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -273,11 +273,11 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html" target="_blank" rel="referrer" title="Adobe客戶成功網路研討會">Adobe客戶成功網路研討會</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" title="Adobe客戶成功網路研討會">Adobe客戶成功網路研討會</a>
                     </p>
                     <p class="is-size-6">Adobe客戶成功引導的網路研討會，旨在協助您最佳化Adobe Experience Cloud投資。 獲得有價值的深入分析，以最大化價值並提高Adobe解決方案的採用率。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
@@ -287,8 +287,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html" title="在釀造物之後" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png" alt="在釀造物之後"
+                    <a href="https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html?lang=zh-Hant" title="在釀造物之後" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png?lang=zh-Hant" alt="在釀造物之後"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -296,11 +296,11 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html" target="_blank" rel="referrer" title="在釀造物之後">在釀造之後</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" title="在釀造物之後">在釀造之後</a>
                     </p>
                     <p class="is-size-6">Brew是Commerce &amp; Coffee的配套系列，專為具有技術傾向的客戶量身打造，協助他們掌握後端最佳實務、整合和進階功能，以提升電子商務體驗。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
@@ -310,8 +310,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Commerce和咖啡" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png" alt="Commerce和咖啡"
+                    <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html?lang=zh-Hant" title="Commerce和咖啡" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png?lang=zh-Hant" alt="Commerce和咖啡"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -319,11 +319,11 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" target="_blank" rel="referrer" title="Commerce和咖啡">Commerce和咖啡</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" title="Commerce和咖啡">Commerce和咖啡</a>
                     </p>
                     <p class="is-size-6">Commerce &amp; Coffee系列適用於所有技能等級和功能的現有Adobe Commerce客戶。Commerce策略顧問Corey Gelato。 此系列重點介紹Commerce的策略和戰術，並提供反映事件主題的統計資料。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
@@ -334,7 +334,7 @@ ht-degree: 6%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=zh-Hant" title="客戶資料管理對話" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png" alt="客戶資料管理對話"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png?lang=zh-Hant" alt="客戶資料管理對話"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -356,8 +356,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html" title="資料滴落" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png" alt="資料滴落"
+                    <a href="https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html?lang=zh-Hant" title="資料滴落" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png?lang=zh-Hant" alt="資料滴落"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -365,11 +365,11 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html" target="_blank" rel="referrer" title="資料滴落">資料滴注</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" title="資料滴落">資料滴注</a>
                     </p>
                     <p class="is-size-6">加入Adobe專家的Data Drip系列，探索Adobe Analytics和Target的最新功能和最佳實務，並透過即時示範確保客戶最大化產品潛力並保持競爭力。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
@@ -379,8 +379,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" title="深入探討" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png" alt="深入探討"
+                    <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html?lang=zh-Hant" title="深入探討" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png?lang=zh-Hant" alt="深入探討"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -388,11 +388,11 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" target="_blank" rel="referrer" title="深入探討">深度剖析</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" title="深入探討">深度剖析</a>
                     </p>
                     <p class="is-size-6">Deep Dive隨選活動錄製可幫助您更好地瞭解如何使用Adobe Marketo來支援您的業務。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
@@ -402,8 +402,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html" title="Experience League LIVE" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png" alt="Experience League LIVE"
+                    <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html?lang=zh-Hant" title="Experience League LIVE" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png?lang=zh-Hant" alt="Experience League LIVE"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -411,11 +411,11 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html" target="_blank" rel="referrer" title="Experience League LIVE">Experience League LIVE</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" title="Experience League LIVE">Experience League LIVE</a>
                     </p>
                     <p class="is-size-6">Experience League LIVE 是 Experience League 團隊製作的直播串流節目。您可以藉此機會與 Adobe 產品專家交流，並學到您可以透過 Adobe Experience Cloud 應用程式套用的可落實秘訣、技巧和策略。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
@@ -425,8 +425,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="EXPERIENCE MANAGER GEMS" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png" alt="EXPERIENCE MANAGER GEMS"
+                    <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=zh-Hant" title="EXPERIENCE MANAGER GEMS" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png?lang=zh-Hant" alt="EXPERIENCE MANAGER GEMS"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -434,11 +434,11 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" target="_blank" rel="referrer" title="EXPERIENCE MANAGER GEMS">Experience Manager GEMS</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" title="EXPERIENCE MANAGER GEMS">Experience Manager GEMS</a>
                     </p>
                     <p class="is-size-6">Adobe專家提供技術性Adobe Experience Manager深入探討。 此系列是產品檔案以及所有其他有關Adobe Experience Manager技術管道的補充，讓開發人員可以聯絡並深入瞭解特定主題。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
@@ -449,7 +449,7 @@ ht-degree: 6%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=zh-Hant" title="Experience Manager版本總覽" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png" alt="Experience Manager版本總覽"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png?lang=zh-Hant" alt="Experience Manager版本總覽"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -471,8 +471,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" title="向同儕學習" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png" alt="向同儕學習"
+                    <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html?lang=zh-Hant" title="向同儕學習" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png?lang=zh-Hant" alt="向同儕學習"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -480,11 +480,11 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" target="_blank" rel="referrer" title="向同儕學習">向同儕學習</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" title="向同儕學習">向同儕學習</a>
                     </p>
                     <p class="is-size-6">向Adobe專家和同行學習如何從您的Adobe解決方案中獲得最大效益。 透過為從業人員選取的主題，這些互動式會議分享了可能使用案例、最佳實務和提示與技巧的藝術。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
@@ -494,8 +494,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview" title="GenStudio for Performance Marketing事件" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-genstudio-for-performance-marketing-events.png" alt="GenStudio for Performance Marketing事件"
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/events/genstudio-for-performance-marketing-events/overview" title="GenStudio for Performance Marketing事件" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-genstudio-for-performance-marketing-events.png?lang=zh-Hant" alt="GenStudio for Performance Marketing事件"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -503,11 +503,11 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview" target="_blank" rel="referrer" title="GenStudio for Performance Marketing事件">GenStudio for Performance Marketing活動</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/events/genstudio-for-performance-marketing-events/overview" target="_blank" rel="referrer" title="GenStudio for Performance Marketing事件">GenStudio for Performance Marketing活動</a>
                     </p>
                     <p class="is-size-6">探索即將舉辦和過去的網路研討會及活動，協助您掌握GenStudio for Performance Marketing。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/zh-hant/docs/events/genstudio-for-performance-marketing-events/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
@@ -517,8 +517,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html" title="Marketo和Mochas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png" alt="Marketo和Mochas"
+                    <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html?lang=zh-Hant" title="Marketo和Mochas" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png?lang=zh-Hant" alt="Marketo和Mochas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -526,11 +526,11 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html" target="_blank" rel="referrer" title="Marketo和Mochas">Marketo和Mochas</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" title="Marketo和Mochas">Marketo和Mochas</a>
                     </p>
                     <p class="is-size-6">Marketo和Mochas可協助您更進一步瞭解如何使用Adobe Marketo支援您的業務。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
@@ -540,8 +540,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html" title="濃縮咖啡和Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-espressos-and-experience-manager.png" alt="濃縮咖啡和Experience Manager"
+                    <a href="https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html?lang=zh-Hant" title="濃縮咖啡和Experience Manager" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-espressos-and-experience-manager.png?lang=zh-Hant" alt="濃縮咖啡和Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -549,11 +549,11 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html" target="_blank" rel="referrer" title="濃縮咖啡和Experience Manager">濃縮咖啡和Experience Manager</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" title="濃縮咖啡和Experience Manager">濃縮咖啡和Experience Manager</a>
                     </p>
                     <p class="is-size-6">Espressos &amp; Experience Manager系列擁有Adobe專家，可為所有技能等級的AEM (Sites和Assets)客戶提供常見使用案例、最佳實務、即時示範的深入分析，並會以問答環節結束。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
@@ -563,8 +563,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html" title="Experience Cloud技術研討會" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-cloud-tech-sessions.png" alt="Experience Cloud技術研討會"
+                    <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html?lang=zh-Hant" title="Experience Cloud技術研討會" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-cloud-tech-sessions.png?lang=zh-Hant" alt="Experience Cloud技術研討會"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -572,11 +572,11 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html" target="_blank" rel="referrer" title="Experience Cloud技術研討會">Experience Cloud技術研討會</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html?lang=zh-Hant" target="_blank" rel="referrer" title="Experience Cloud技術研討會">Experience Cloud技術研討會</a>
                     </p>
                     <p class="is-size-6">透過Adobe專家主導的技術講座，即時和隨選提供Adobe Experience Cloud，讓您順暢學習。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
@@ -586,8 +586,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" title="Adobe Commerce Intelligence" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-intelligence-webinars.png" alt="Adobe Commerce Intelligence"
+                    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html?lang=zh-Hant" title="Adobe Commerce Intelligence" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-intelligence-webinars.png?lang=zh-Hant" alt="Adobe Commerce Intelligence"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -595,11 +595,11 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" target="_blank" rel="referrer" title="Adobe Commerce Intelligence">Adobe Commerce Intelligence</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" title="Adobe Commerce Intelligence">Adobe Commerce Intelligence</a>
                     </p>
                     <p class="is-size-6">Adobe Commerce Intelligence （亦稱為MBI）網路研討會系列，是供Adobe Commerce Intelligence客戶定期觀看的活動。 這些網路研討會涵蓋廣泛的主題和最佳實務，以便充份運用Adobe Commerce Intelligence。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
@@ -609,8 +609,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/events/the-perfect-blend/overview" title="完美混合" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-the-perfect-blend.png" alt="完美混合"
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/events/the-perfect-blend/overview" title="完美混合" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-the-perfect-blend.png?lang=zh-Hant" alt="完美混合"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -618,11 +618,11 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/the-perfect-blend/overview" target="_blank" rel="referrer" title="完美混合">完美混合</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/events/the-perfect-blend/overview" target="_blank" rel="referrer" title="完美混合">完美混合</a>
                     </p>
                     <p class="is-size-6">瞭解如何整合Adobe DX產品，透過即時示範和問答來簡化工作流程、提升效率，並提供更聰明的商業成果。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/events/the-perfect-blend/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/zh-hant/docs/events/the-perfect-blend/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
@@ -632,8 +632,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" title="技能培養" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png" alt="技能培養"
+                    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html?lang=zh-Hant" title="技能培養" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png?lang=zh-Hant" alt="技能培養"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -641,11 +641,11 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" target="_blank" rel="referrer" title="技能培養">技能培養</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" title="技能培養">技能培養</a>
                     </p>
                     <p class="is-size-6">Skill Builder是網路研討會系列，旨在建立您的知識庫，並將Adobe Experience Cloud投資效益最大化。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
@@ -655,8 +655,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" title="技能交流" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png" alt="技能交流"
+                    <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html?lang=zh-Hant" title="技能交流" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png?lang=zh-Hant" alt="技能交流"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -664,11 +664,11 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" target="_blank" rel="referrer" title="技能交流">技能交流</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" title="技能交流">技能交流</a>
                     </p>
                     <p class="is-size-6">Experience Makers技能交流是全球性的虛擬客戶學習活動系列，重點放在深入瞭解Adobe Experience Cloud解決方案。 此計畫提供機會，透過分享最佳實務和提示與秘訣，向Adobe產品專家和專家同行學習。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
@@ -678,8 +678,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html" title="使用Workfront喚醒" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-wake-up-with-workfront.png" alt="使用Workfront喚醒"
+                    <a href="https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html?lang=zh-Hant" title="使用Workfront喚醒" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-wake-up-with-workfront.png?lang=zh-Hant" alt="使用Workfront喚醒"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -687,11 +687,11 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html" target="_blank" rel="referrer" title="使用Workfront喚醒">使用Workfront喚醒</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" title="使用Workfront喚醒">使用Workfront喚醒</a>
                     </p>
                     <p class="is-size-6">「透過Workfront醒來」系列會展示所有技能層級的專案管理和工作流程最佳實務，其中包括可執行的策略、Workfront重要功能的即時示範，以及總結性問答會。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
