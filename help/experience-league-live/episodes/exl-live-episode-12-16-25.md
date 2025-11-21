@@ -7,7 +7,7 @@ feature: AI Assistant
 event-cta-url-live: https://www.youtube.com/live/MW2Ba7HJNbA
 event-start-time: 2025-12-16 09:00-8
 event-guests: Daniel Wright, Huong Vu, Shreya Anantha Raman
-source-git-commit: 9f35248b235fbc25b964ba70daa1f14eb4bbecef
+source-git-commit: b875b460b7226e625b65e11588cd9e01d11cac7f
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
@@ -26,6 +26,6 @@ ht-degree: 0%
 * 產品支援代理程式如何讓使用者擁有主動式與自助式支援，以及自動化案例建立和追蹤
 * Horizon中的創新與功能，可進一步簡化使用者的支援管理
 
-[![ExL LIVE 2024年1月17日](assets/WebBanner_Dec16_2025.jpg)](https://www.youtube.com/live/MW2Ba7HJNbA)
+[![ExL LIVE 2024年1月17日](assets/WebBanner_Dec16_2025.jpg)](https://www.youtube.com/live/MW2Ba7HJNbA){target="_blank"}
 
-[按一下以在YouTube上設定提醒！](https://www.youtube.com/live/MW2Ba7HJNbA)
+[按一下以在YouTube上設定提醒！](https://www.youtube.com/live/MW2Ba7HJNbA){target="_blank"}
