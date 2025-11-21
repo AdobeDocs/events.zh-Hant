@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 021cc00ce8c98b238c75254332f518bc5eb51c2c
+source-git-commit: 45be7126bdcf2ae97d812dc3aa708efa7c173c98
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 21%
+source-wordcount: '179'
+ht-degree: 17%
 
 ---
 
@@ -19,30 +19,28 @@ ht-degree: 21%
 
 Experience League LIVE是Experience League團隊製作的直播串流節目。  您可以藉此機會與 Adobe 產品專家交流，並學到您可以透過 Adobe Experience Cloud 應用程式套用的可落實秘訣、技巧和策略。
 
-<!--
-<div id="upcoming-events">
 
-## Upcoming Experience League LIVE events
+
+## 即將推出的Experience League LIVE活動
 
 <table>
     <tr>
          <td style="vertical-align: top;"><a href="episodes/exl-live-episode-12-16-25.md">
-              <img alt="Experience League LIVE 16 December 2025" src="episodes/assets/WebBanner_Dec16_2025.jpg">
+              <img alt="Experience League LIVE 2025年12月16日" src="episodes/assets/WebBanner_Dec16_2025.jpg">
             </a>
             <div>
               <a href="episodes/exl-live-episode-12-16-25.md">
-                <strong>Simplify troubleshooting and support case management with Product Support Agent</strong>
+                <strong>透過產品支援代理程式，簡化疑難排解和支援案例管理</strong>
               </a>
-              <br/><em>with Daniel Wright, Huong Vu, and Shreya Anantha Raman</em>
-              <br/><em>Dec 16, 2025</em>
+              <br/><em>與Daniel Wright、Huong Vu和Shreya Anantha Raman</em>
+              <br/><em>2025年12月16日</em>
             </div>
         </td>
     </tr>
-    
-</table>    
-  
-</div>
--->
+
+</table>
+
+
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -103,5 +101,5 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
 
 >[!TIP]
 >
->如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/zh-hant#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
+>如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
 
