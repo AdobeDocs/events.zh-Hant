@@ -2,9 +2,9 @@
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
 user-guide-description: Adobe客戶成功引導的網路研討會，旨在協助您最佳化Adobe Experience Cloud投資。 獲得有價值的深入分析，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+source-git-commit: 1db369887a1c09c774ef07d73ece2d890f36d98f
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '551'
 ht-degree: 4%
 
 ---
@@ -20,6 +20,7 @@ ht-degree: 4%
    + Customer Journey Analytics {#cja2025}
       + [建立高階主管贊助](2025/cja-success.md)
       + [變更管理策略](2025/cja-adoption.md)
+      + [CJA Data Insights Agent](2025/cja-data-insights-agent.md)
       + [為CJA成功設計作業模型](2025/cja-operating-model.md)
       + [基礎架構](2025/cja-vision.md)
       + [從Adobe Analytics移轉至CJA](2025/analytics-to-cja-migration.md)
