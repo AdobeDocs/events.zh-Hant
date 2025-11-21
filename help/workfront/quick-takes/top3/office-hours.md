@@ -20,7 +20,7 @@ ht-degree: 0%
 
 同樣也是我，您的「隨選Workfront CSM」Cynthia Boon和我有一個主題經常在活動期間出現。  如果您正開始建立辦公時間，或只是想重新整理時間，請檢視下面的影片！ 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470053/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470153/?captions=chi_hant&learn=on&enablevpops)
 
 「諮詢時間」只是您整體Workfront溝通計畫的另一個重要部分。 正在尋找更多有關與使用者溝通的想法？ 檢視[使用者通訊逐步指南](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439)！
 

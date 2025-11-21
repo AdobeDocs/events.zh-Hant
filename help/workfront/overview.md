@@ -155,7 +155,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/blueprints.md" title="前3名 — Creative使用Blueprint的方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1763675712911" alt="前3名 — Creative使用Blueprint的方法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465324/?captions=chi_hant&format=jpeg&nocache=1763675712911" alt="前3名 — Creative使用Blueprint的方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +178,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/versus/groups-vs-teams.md" title="與！  — 群組與團隊" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1763675712903" alt="與！  — 群組與團隊"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467364/?captions=chi_hant&format=jpeg&nocache=1763675712903" alt="與！  — 群組與團隊"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -219,7 +219,7 @@ Workfront Expert Insights系列是您解鎖Workfront資深從業人員實用策�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption.md" title="專家深入分析 — 採用Leslie Spier" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469893/?format=jpeg&nocache=1763675713371" alt="專家深入分析 — 採用Leslie Spier"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469938/?captions=chi_hant&format=jpeg&nocache=1763675713371" alt="專家深入分析 — 採用Leslie Spier"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -242,7 +242,7 @@ Workfront Expert Insights系列是您解鎖Workfront資深從業人員實用策�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/adoption-surveys.md" title="專家深入分析 — 與Jaime Davidson進行採用率調查" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469895/?format=jpeg&nocache=1763675713377" alt="專家深入分析 — 與Jaime Davidson進行採用率調查"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469961/?captions=chi_hant&format=jpeg&nocache=1763675713377" alt="專家深入分析 — 與Jaime Davidson進行採用率調查"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -265,7 +265,7 @@ Workfront Expert Insights系列是您解鎖Workfront資深從業人員實用策�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/agile.md" title="專家深入分析 — 與Natalie Mitchell敏捷合作" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469891/?format=jpeg&nocache=1763675713389" alt="專家深入分析 — 與Natalie Mitchell敏捷合作"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469927/?captions=chi_hant&format=jpeg&nocache=1763675713389" alt="專家深入分析 — 與Natalie Mitchell敏捷合作"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
