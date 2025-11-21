@@ -35,10 +35,10 @@ ht-degree: 0%
 * 正在引入事件訂閱版本設定 — 版本2將一律傳回多選欄位作為陣列，而版本1則維持目前的不一致行為
 * 新事件訂閱會自動預設為版本2，而所有訂閱將會在2026年1月中旬自動升級為版本2
 * 新的Workfront聯結器版本將於今年晚些時候發行，其中包含手動升級程式，以保留模組對應並防止重大變更
-* Fusion AI助理目前可用，但需要簽署的AI合約和適當的授權設定。 如有疑問或想進一步瞭解，請洽詢您的客戶經理。 [在Fusion中使用AI的詳細資訊](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/manage-scenarios/fusion-ai-assistant)
-* [目前可用的Workfront Fusion範本](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
+* Fusion AI助理目前可用，但需要簽署的AI合約和適當的授權設定。 如有疑問或想進一步瞭解，請洽詢您的客戶經理。 [在Fusion中使用AI的詳細資訊](https://experienceleague.adobe.com/zh-hant/docs/workfront-fusion/using/manage-scenarios/fusion-ai-assistant)
+* [目前可用的Workfront Fusion範本](https://experienceleague.adobe.com/zh-hant/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
 * [呼叫Fusion範本](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/call-for-fusion-template-ideas/m-p/732085#M3686) — 如果您有新Fusion範本的建議，請在此處新增這些建議！ 團隊可以從這裡提取想法  
 
 如果您有任何後續問題，請回覆此[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-navigating-the-workfront-api-and-fusion-changes/td-p/761253)！ 
 
-我們希望在未來的客戶成功工作坊中見到您！  請務必檢視Experience League上的[Workfront活動](https://experienceleague.adobe.com/events/?filters=Workfront)以取得完整清單並註冊。
+我們希望在未來的客戶成功工作坊中見到您！  請務必檢視Experience League上的[Workfront活動](https://experienceleague.adobe.com/events/?lang=zh-Hant&filters=Workfront)以取得完整清單並註冊。

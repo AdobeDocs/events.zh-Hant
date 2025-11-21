@@ -29,8 +29,8 @@ ht-degree: 0%
 * [Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-the-workfront-fusion-fix-ericsson-s-smarter-way/td-p/759188)
 
 您正開始使用Fusion嗎？ 檢視這些資源！ 
-* [Experience League上的Workfront Fusion訓練](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)
-* [在這裡檢視可用的Fusion範本清單](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) — 最近已發佈幾個新範本！  
+* [Experience League上的Workfront Fusion訓練](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)
+* [在這裡檢視可用的Fusion範本清單](https://experienceleague.adobe.com/zh-hant/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) — 最近已發佈幾個新範本！  
 * **聊天中客戶的專業提示**&#x200B;學習Fusion時，先從Workfront到Workfront的自動化開始 
 
-我們希望在未來的客戶成功工作坊中見到您！  請務必檢視Experience League上的[Workfront活動](https://experienceleague.adobe.com/events/?filters=Workfront)以取得完整清單並註冊。
+我們希望在未來的客戶成功工作坊中見到您！  請務必檢視Experience League上的[Workfront活動](https://experienceleague.adobe.com/events/?lang=zh-Hant&filters=Workfront)以取得完整清單並註冊。

@@ -51,7 +51,7 @@ ht-degree: 2%
 
 ## 車間倒帶
 
-透過我們精心挑選的精選活動，從您的Adobe Workfront社群探索最新消息。 我們每個月會舉辦免費的即時課程，涵蓋各種主題，協助您充份運用Workfront。 錯過直播活動？ 沒問題！ 趕上隨選錄影，展示客戶故事、證實的最佳實務和寶貴的經驗教訓。 想要即時連線嗎？ 加入即將舉辦的即時活動，以提出問題、分享見解並與同業共同作業。 請定期造訪[Experience League Workfront活動頁面](https://experienceleague.adobe.com/en/events?filters=Workfront)，瞭解後續活動！
+透過我們精心挑選的精選活動，從您的Adobe Workfront社群探索最新消息。 我們每個月會舉辦免費的即時課程，涵蓋各種主題，協助您充份運用Workfront。 錯過直播活動？ 沒問題！ 趕上隨選錄影，展示客戶故事、證實的最佳實務和寶貴的經驗教訓。 想要即時連線嗎？ 加入即將舉辦的即時活動，以提出問題、分享見解並與同業共同作業。 請定期造訪[Experience League Workfront活動頁面](https://experienceleague.adobe.com/zh-hant/events?filters=Workfront)，瞭解後續活動！
 
 <!-- CARDS 
 
