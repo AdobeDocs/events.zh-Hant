@@ -3,9 +3,9 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: 42c0401d1ef307fd4e4d93245f472f75259d6d21
+source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '280'
 ht-degree: 1%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 1%
 + [Workfront隨選研討會](overview.md)
 
 + 發行網路研討會 {#releases}
+   + [2025年第四季版本網路研討會](releases/25-q4-release-webinar.md)
    + [25.7版](releases/25-7-release-webinar.md)
    + [25.4版](releases/25-4-release-webinar.md)
    + [25.1版](releases/25-1-release-webinar.md)
@@ -23,18 +24,28 @@ ht-degree: 1%
 + 車間倒帶 {#workshop-rewind}
    + Fusion {#fusion}
       + [自動化命名慣例](workshop-rewind/fusion/automating-naming-conventions.md)
+      + [資料匯入](workshop-rewind/fusion/data-imports.md)
+      + [Fusion已解碼](workshop-rewind/fusion/fusion-decoded.md)
+      + [Workfront Fusion如何協助人類](workshop-rewind/fusion/inside-mayo-clinic.md)
       + [輕鬆導覽多選欄位的變更](workshop-rewind/fusion/mulit-select-fields.md)
       + [解除鎖定真實事件成本](workshop-rewind/fusion/event-costs.md)
+      + [Workfront Fusion + JSONata](workshop-rewind/fusion/jsonata.md)
    + 規劃 {#planning}
       + [Workfront Planning最新消息](workshop-rewind/planning/workfront-planning.md)
+      + [SNHU的Creative使用案例](workshop-rewind/planning/planning-reimagined.md)
       + [使用Workfront Planning取得團隊層級的成功](workshop-rewind/planning/team-success-workfront-planning.md)
       + [Workfront規劃版本與藍圖](workshop-rewind/planning/planning-release-roadmap.md)
    + 工作流程 {#workflow}
-      + [Creative管理資源的方法](classics/creative-ways-of-managing-resources.md)
+      + [藍圖](workshop-rewind/workflow/blueprints.md)
+      + [定義與溝通Workfront值](workshop-rewind/workflow/workfront-value.md)
+      + [治理、執行和採用秘訣](workshop-rewind/workflow/governance-execution-adoption.md)
       + [掌握電子郵件通知](workshop-rewind/workflow/email-notifications.md)
+      + [主控EXISTS陳述式](workshop-rewind/workflow/master-exists-statements.md)
+      + [電源範本](workshop-rewind/workflow/power-templates.md)
       + [專案範本](workshop-rewind/workflow/project-templates.md)
       + [自學走向成功](workshop-rewind/workflow/self-taught-to-success.md)
       + [解鎖Workfront Data Connect的強大功能](workshop-rewind/workflow/data-connect.md)
+      + [Workfront + AEM原生整合](workshop-rewind/workflow/aem-native-integration.md)
 + 快速取得 {#quicktakes}
    + 前3名 {#top3}
       + [使用Blueprint的Creative方法](quick-takes/top3/blueprints.md)
@@ -73,6 +84,7 @@ ht-degree: 1%
       + [使用API Explorer製作超充基本文字模式報表](classics/supercharge-basic-text-mode-reporting-using-the-api-explorer.md)
       + [瞭解混合與容量](classics/understanding-mix-and-capacity.md)
    + 資源管理 {#resource-management}
+      + [Creative管理資源的方法](classics/creative-ways-of-managing-resources.md)
       + [資源與容量規劃](user-groups/resource-and-capacity-planning.md)
       + [資源管理](user-groups/resource-management.md)
    + 檢閱和核准工作 {#review-and-approve-work}
@@ -87,10 +99,3 @@ ht-degree: 1%
       + [善用Workfront Proof](user-groups/leveraging-workfront-proof.md)
    + 請求佇列和輸入 {#request-queues-and-intake}
       + [請求佇列和輸入Forms](user-groups/request-queues-and-intake-forms.md)
-
-
-
-
-<!--  + Planning {#planning}
-  + Integrations {#integrations}
--->
