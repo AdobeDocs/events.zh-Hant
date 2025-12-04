@@ -25,7 +25,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477159/?learn=on&enablevpops)
 
-檢視目前可用的Adobe Workfront [Fusion範本](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)。
+檢視目前可用的Adobe Workfront [Fusion範本](https://experienceleague.adobe.com/zh-hant/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)。
 
 [Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958)上有更多資源連結可用！
 

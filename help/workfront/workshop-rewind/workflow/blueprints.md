@@ -17,9 +17,9 @@ ht-degree: 0%
 
 # 快速且實用的藍圖：Adobe Workfront中的藍圖
 
-Adobe Workfront中的[Blueprint資料庫](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)會隨著隨時可用的新範本和儀表板持續成長。 透過快速安裝程式，您可以減少安裝時間，將更多時間用於完成工作。
+Adobe Workfront中的[Blueprint資料庫](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)會隨著隨時可用的新範本和儀表板持續成長。 透過快速安裝程式，您可以減少安裝時間，將更多時間用於完成工作。
 
-Workfront客戶成功團隊分享了您需要瞭解有關[藍圖](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview)的一切 — 它們是什麼、如何運作，以及您如何立即開始使用它們，以將整個組織的價值最大化。
+Workfront客戶成功團隊分享了您需要瞭解有關[藍圖](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview)的一切 — 它們是什麼、如何運作，以及您如何立即開始使用它們，以將整個組織的價值最大化。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477130/?learn=on&enablevpops)
 

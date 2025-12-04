@@ -24,7 +24,7 @@ ht-degree: 0%
 如果您錯過了即時課程，請檢閱[HMac的SNHU投影片](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/SNHU_Adobe+Planning_0825.pdf)，並觀看隨選錄製。
 * （注意：本投影片中的所有專案都只是範例）
 
-如需Workfront Planning後續功能的詳細資訊，請務必將Experience League上的[Adobe Workfront Planning發行活動頁面](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)加入書籤。
+如需Workfront Planning後續功能的詳細資訊，請務必將Experience League上的[Adobe Workfront Planning發行活動頁面](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)加入書籤。
 
 您是否有想法的分享或活動中的後續問題？ 歡迎在[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-reimagined-snhu-s-creative/td-p/771019)的註解中捨棄這些註解！
 
