@@ -43,7 +43,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/getting-started.md" title="Acrobat Sign 101 — 快速入門" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428183/?format=jpeg&nocache=1765301576330" alt="Acrobat Sign 101 — 快速入門"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455476/?captions=chi_hant&format=jpeg&nocache=1765301576330" alt="Acrobat Sign 101 — 快速入門"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -112,7 +112,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/advanced-reporting.md" title="Acrobat Sign的進階報告" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428191/?format=jpeg&nocache=1765301576345" alt="Acrobat Sign的進階報告"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454416/?captions=chi_hant&format=jpeg&nocache=1765301576345" alt="Acrobat Sign的進階報告"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -135,7 +135,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/advanced-sending-documents-signature.md" title="傳送檔案以索取簽名的進階秘訣" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428186/?format=jpeg&nocache=1765301576348" alt="傳送檔案以索取簽名的進階秘訣"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454891/?captions=chi_hant&format=jpeg&nocache=1765301576348" alt="傳送檔案以索取簽名的進階秘訣"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -158,7 +158,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/collect-signatures.md" title="按一下即可收集許多簽名" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428188/?format=jpeg&nocache=1765301576366" alt="按一下即可收集許多簽名"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454906/?captions=chi_hant&format=jpeg&nocache=1765301576366" alt="按一下即可收集許多簽名"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -181,7 +181,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/create-use-workflows.md" title="從頭到尾建立和使用工作流程" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428192/?format=jpeg&nocache=1765301576357" alt="從頭到尾建立和使用工作流程"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454913/?captions=chi_hant&format=jpeg&nocache=1765301576357" alt="從頭到尾建立和使用工作流程"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -204,7 +204,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/document-builder.md" title="適用於Adobe Acrobat Sign的Document Builder" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428193/?format=jpeg&nocache=1765301576361" alt="適用於Adobe Acrobat Sign的Document Builder"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454924/?captions=chi_hant&format=jpeg&nocache=1765301576361" alt="適用於Adobe Acrobat Sign的Document Builder"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -227,7 +227,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/notarize.md" title="公證整合" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428195/?format=jpeg&nocache=1765301576370" alt="公證整合"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454383/?captions=chi_hant&format=jpeg&nocache=1765301576370" alt="公證整合"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -250,7 +250,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/mobile-e-signing.md" title="使用Acrobat Sign最佳化行動電子簽章" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477532/?format=jpeg&nocache=1765301576352" alt="使用Acrobat Sign最佳化行動電子簽章"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477543/?captions=chi_hant&format=jpeg&nocache=1765301576352" alt="使用Acrobat Sign最佳化行動電子簽章"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -273,7 +273,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/fillable-signable-web-form.md" title="張貼可填寫、可簽署的網頁表單" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428187/?format=jpeg&nocache=1765301576375" alt="張貼可填寫、可簽署的網頁表單"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455461/?captions=chi_hant&format=jpeg&nocache=1765301576375" alt="張貼可填寫、可簽署的網頁表單"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -319,7 +319,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/e-signature-setup.md" title="準備您的合約以進行電子簽章" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428184/?format=jpeg&nocache=1765301576408" alt="準備您的合約以進行電子簽章"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455967/?captions=chi_hant&format=jpeg&nocache=1765301576408" alt="準備您的合約以進行電子簽章"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -342,7 +342,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/agreement-status.md" title="管理合約 — 即時掌握合約狀態" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428190/?format=jpeg&nocache=1765301576428" alt="管理合約 — 即時掌握合約狀態"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455012/?captions=chi_hant&format=jpeg&nocache=1765301576428" alt="管理合約 — 即時掌握合約狀態"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -365,7 +365,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/e-signature-microsoft.md" title="在Microsoft應用程式中使用電子簽章" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428185/?format=jpeg&nocache=1765301576448" alt="在Microsoft應用程式中使用電子簽章"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455061/?captions=chi_hant&format=jpeg&nocache=1765301576448" alt="在Microsoft應用程式中使用電子簽章"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -388,7 +388,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./skill-builders/workflow-automations.md" title="由Microsoft Power Automate支援的工作流程自動化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428194/?format=jpeg&nocache=1765301576457" alt="由Microsoft Power Automate支援的工作流程自動化"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454935/?captions=chi_hant&format=jpeg&nocache=1765301576457" alt="由Microsoft Power Automate支援的工作流程自動化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Acrobat Sign的Mobile Focus將行動電子簽章轉變為順暢的體驗。 它提供行動裝置最佳化的檢視，可消除夾捏和縮放的挫敗感，確保收件者可以在任何裝置上輕鬆簽署合約。 這提高了完成率，減少了延誤，使企業能夠迅速敲定協定。 無程式碼設定簡化了傳送者的程式，無需自訂開發。 透過Acrobat Sign創新的行動解決方案，接受效率並改善業務成果。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477532/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477543/?captions=chi_hant&learn=on&enablevpops)
