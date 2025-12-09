@@ -3,9 +3,9 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+source-git-commit: 8762eada888ea3ed55ddefe70d587c76ae6bfa16
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '283'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 1%
       + [Workfront規劃版本與藍圖](workshop-rewind/planning/planning-release-roadmap.md)
    + 工作流程 {#workflow}
       + [藍圖](workshop-rewind/workflow/blueprints.md)
+      + [重新想像Creative簡介](workshop-rewind/workflow/creative-briefs.md)
       + [定義與溝通Workfront值](workshop-rewind/workflow/workfront-value.md)
       + [治理、執行和採用秘訣](workshop-rewind/workflow/governance-execution-adoption.md)
       + [掌握電子郵件通知](workshop-rewind/workflow/email-notifications.md)
