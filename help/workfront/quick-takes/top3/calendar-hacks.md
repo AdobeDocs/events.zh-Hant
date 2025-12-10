@@ -24,7 +24,7 @@ ht-degree: 1%
 * 直接顯示在行事曆上的請求（新員工上線範例）
 * 還有額外秘訣！
 
->[!VIDEO](https://video.tv.adobe.com/v/3477039/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477074/?captions=chi_hant&learn=on&enablevpops)
 
 如需更多資源，請參閱[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-fave-calendar-hacks/td-p/591047)！
 

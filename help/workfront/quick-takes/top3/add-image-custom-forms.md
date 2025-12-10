@@ -21,7 +21,7 @@ ht-degree: 0%
 
 這包括有趣和功能性的提示，以改進溝通並使填寫請求對您的使用者更感興趣。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477027/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477063/?captions=chi_hant&learn=on&enablevpops)
 
 如需更多資源，請參閱[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-add-an-image-to-custom-forms/m-p/576903#M374)！
 

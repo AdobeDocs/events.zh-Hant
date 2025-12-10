@@ -21,7 +21,7 @@ ht-degree: 0%
 
 這次我分享我最愛的方法，以充分利用排程報告。 在影片中，我舉例說明如何使用此功能，以從您建立的所有精彩報表中獲得更多成果。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477040/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477086/?captions=chi_hant&learn=on&enablevpops)
 
 如需更多資源，請參閱[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285)！
 
