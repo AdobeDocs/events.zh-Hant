@@ -36,10 +36,10 @@ ht-degree: 0%
 
 正在尋找其他資源嗎？ 我們準備好了！
 * [客戶面板：從資深Workfront管理員那裡學到的課程](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861#M3487) - Katherine分享了更多深入見解！
-* [報表中的參考集合](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
-* [API 總管](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
+* [報表中的參考集合](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
+* [API 總管](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
 * [報告逐步指南](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
-* 如果您是初次接觸報告，請從Nichole的Perspective文章開始，[8個步驟，在Adobe Workfront中建立簡單、有效的報告](https://experienceleague.adobe.com/en/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront)。
+* 如果您是初次接觸報告，請從Nichole的Perspective文章開始，[8個步驟，在Adobe Workfront中建立簡單、有效的報告](https://experienceleague.adobe.com/zh-hant/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront)。
 
 如需更多資源（包括複製/貼上文字模式），請檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717#M4848)！
 
