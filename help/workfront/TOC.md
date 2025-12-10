@@ -3,9 +3,9 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: 8762eada888ea3ed55ddefe70d587c76ae6bfa16
+source-git-commit: df552b4f2b2fa1d8e4e8941aa9d58acecc60dd2b
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '312'
 ht-degree: 1%
 
 ---
@@ -51,6 +51,11 @@ ht-degree: 1%
    + 前3名 {#top3}
       + [使用Blueprint的Creative方法](quick-takes/top3/blueprints.md)
       + [前3大辦公時間方法](quick-takes/top3/office-hours.md)
+      + [3大行事曆攻略](quick-takes/top3/calendar-hacks.md)
+      + [在自訂Forms中使用影像](quick-takes/top3/add-image-custom-forms.md)
+      + [使用版面配置範本的幾大理由](quick-takes/top3/layout-templates.md)
+      + [參加Workfront研討會的重要原因](quick-takes/top3/reason-attend-workshop.md)
+      + [在Workfront中將報表排程最大化](quick-takes/top3/report-scheduling.md)
    + 與！ {#versus}
       + [群組與團隊](quick-takes/versus/groups-vs-teams.md)
 + 專家深入分析 {#expert-insights}
@@ -60,6 +65,7 @@ ht-degree: 1%
    + [內容供應鏈](expert-insights/content-supply-chain.md)
    + [Fusion](expert-insights/fusion.md)
    + [治理與卓越中心](expert-insights/centers-of-excellence.md)
+   + [主文字模式](expert-insights/text-mode.md)
    + [非傳統Workfront工作流程](expert-insights/non-traditional-workfront-workflows.md)
    + [報告實務](expert-insights/reporting-practices.md)
    + [資源管理](expert-insights/resource-management.md)
