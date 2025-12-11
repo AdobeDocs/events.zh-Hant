@@ -2,9 +2,9 @@
 user-guide-title: Adobe Developers Live 活動
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Adobe Developers Live Content 活動錄影集合
-source-git-commit: c069bbf422ed534b7459bf740c3c4df5f1f8cc3a
+source-git-commit: ea82ddf49a9cddc4292b46a1070200083135ca3d
 workflow-type: tm+mt
-source-wordcount: '906'
+source-wordcount: '929'
 ht-degree: 6%
 
 ---
@@ -13,6 +13,12 @@ ht-degree: 6%
 # Adobe Developers Live 活動 {#adobe-developers-live-recordings}
 
 + [概觀](overview.md)
++ 2025 版 {#2025}
+   + [主題演講 — 建立代理網路主題演講](2025/keynote.md)
+   + [AEM的代理進化](2025/agentic-evolution-aem.md)
+   + [Adobe專案中的AI](2025/ai-in-projects.md)
+   + [AI程式碼展示](2025/coding-agent.md)
+   + [探索Adobe Experience Manager代理程式](2025/aem-agents.md)
 + 2024 版 {#2024}
    + 11 月 {#nov2024}
       + [主旨](2024/nov/keynote.md)
