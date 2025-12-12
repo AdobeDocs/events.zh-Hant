@@ -2,10 +2,10 @@
 user-guide-title: Adobe Developers Live 活動
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Adobe Developers Live Content 活動錄影集合
-source-git-commit: ea82ddf49a9cddc4292b46a1070200083135ca3d
+source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
 workflow-type: tm+mt
-source-wordcount: '929'
-ht-degree: 6%
+source-wordcount: '984'
+ht-degree: 5%
 
 ---
 
@@ -16,9 +16,22 @@ ht-degree: 6%
 + 2025 版 {#2025}
    + [主題演講 — 建立代理網路主題演講](2025/keynote.md)
    + [AEM的代理進化](2025/agentic-evolution-aem.md)
+   + [具有LLM Optimizer的AI代理](2025/llm-optimizer.md)
    + [Adobe專案中的AI](2025/ai-in-projects.md)
    + [AI程式碼展示](2025/coding-agent.md)
+   + [AI Commerce開發創新](2025/app-builder-extensions.md)
+   + [使用AEM進行AI內容探索](2025/ai-content-discovery.md)
+   + [Brand Concierge](2025/brand-concierge.md)
+   + [AEM中的Content AI](2025/content-ai.md)
+   + [大規模檔案製作](2025/document-authoring-at-scale.md)
+   + [動態發佈](2025/dynamic-publishing.md)
    + [探索Adobe Experience Manager代理程式](2025/aem-agents.md)
+   + [移轉體驗並使其現代化](2025/modernize-experiences.md)
+   + [使用Edge Delivery Services將澳航現代化](2025/modernizing-qantas.md)
+   + [使用AEM Sites Optimizer最佳化程式碼](2025/code-optimization.md)
+   + [快速開發環境快照](2025/rapid-development-snapshots.md)
+   + [利用AI簡化政府服務](2025/government-digital-services.md)
+   + [在AEM中解鎖AI](2025/transform-aem-with-agents.md)
 + 2024 版 {#2024}
    + 11 月 {#nov2024}
       + [主旨](2024/nov/keynote.md)
