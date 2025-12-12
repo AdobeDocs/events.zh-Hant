@@ -19,7 +19,7 @@ ht-degree: 1%
 
 探索AI如何透過真實世界的應用程式改變Adobe專案中的數位體驗。 瞭解AI如何增強內容建立、網站驗證和專案規劃，從而提高效率並降低成本。 深入瞭解在Adobe Experience Manager、Adobe Commerce和Edge Delivery Services中展示AI工具創新用途的故事。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477606/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477636/?captions=chi_hant&learn=on&enablevpops)
 
 這個會議 — 真愛三個Adobe專案中使用AI的實用故事 — 特別推薦了Mark McConnell (Ensemble)，他分享了三個真實世界的應用程式：使用Generative AI Services加速原型和Content Supply chain、適用於AEM Edge Delivery Services的AI支援移轉驗證器，以及自動化網站評估和報告的代理方法。 從聖荷西現場錄製。
 
