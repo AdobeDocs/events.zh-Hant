@@ -21,7 +21,7 @@ Adobe Developers Live 2025：建立Agentic Web將聖荷西、雪梨、班加羅�
 
 此研討會從聖荷西現場錄製，介紹Adobe Experience Manager Agents，這是一種AI支援的功能，可轉換網站移轉。 透過順暢的GitHub整合，AEM代理程式可自動進行區塊對應、內容匯入，以及將樣式設定為簡潔的最佳實務程式碼，從而加快Edge Delivery Services上線速度。 瞭解開發人員如何簡化移轉、縮短交付時間，以及針對搜尋和產生式引擎最佳化的啟動網站。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477620/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477671/?captions=chi_hant&learn=on&enablevpops)
 
 特別感謝我們的贊助商Algolia和Ensemble對Adobe Developers Live 2025的支援。
 

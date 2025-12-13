@@ -19,7 +19,7 @@ ht-degree: 0%
 
 探索Adobe Experience Manager如何在全球企業生態系統中實現可擴充、支援AI的檔案撰寫。 瞭解整合AEM Assets、Workfront和翻譯工作流程如何建立市場和語言的內容變異，為語意擴充和AI最佳化奠定基礎。 此會議主要探討Cognizant Netcentric首席解決方案架構師Andreas Haller的深入分析，並從Basel現場錄製影片。 探索Adobe的生態系統如何支援智慧體驗，確保與公司治理法保持一致，並強化數位轉型策略。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477753/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477819/?captions=chi_hant&learn=on&enablevpops)
 
 此會議 — 大規模檔案製作：智慧型AI最佳化體驗的基礎 — 採用Congnizant Netcentric首席解決方案架構師Andreas Haller的功能，現場錄製於巴塞爾。 探索Adobe Experience Manager檔案製作如何支援跨企業生態系統的全域AI就緒體驗。 瞭解可擴充、以檔案為基礎的基礎如何與AEM Assets、Workfront支援的supply chain流程和翻譯工作流程整合，以建立各市場和語言之間的內容變異，進而形成語意擴充和AI驅動的最佳化基礎。
 

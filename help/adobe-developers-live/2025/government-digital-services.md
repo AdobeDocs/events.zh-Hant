@@ -19,7 +19,7 @@ ht-degree: 1%
 
 探索AI如何透過整合Adobe Experience Manager和Microsoft SharePoint來轉換政府數位服務。 了解調適型表單如何簡化提交、驗證和服務傳送作業，進而提升市民體驗和效率。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477752/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477808/?captions=chi_hant&learn=on&enablevpops)
 
 此會議 — 運用AI和Adobe-Microsoft整合來簡化政府數位服務 — 由Ensemble資深軟體工程師Cristian Bota提供，現場錄製於巴塞爾。 瞭解育空政府如何透過整合的Adobe Experience Manager Forms、Sites和適用於政府的Acrobat Sign與Microsoft SharePoint Lists，將公開方案的存取權轉型。 探索AI如何透過Automated Forms Generator解讀使用者端需求，啟用可簡化整個Adobe-Microsoft生態系統提交、驗證和服務交付的最適化表單。
 

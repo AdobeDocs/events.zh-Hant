@@ -19,7 +19,7 @@ ht-degree: 1%
 
 探索AI如何使用Adobe Experience Manager來轉換內容探索。 瞭解如何使用內容建議程式進行語意搜尋和AI支援的資產建議。 本課程涵蓋行銷活動摘要式探索及快速存取Dynamic Media轉譯，透過OpenAPI棧疊簡化內容重複使用和傳遞。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477673/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477751/?captions=chi_hant&learn=on&enablevpops)
 
 此研討會 — AI導向的內容探索與通道就緒型轉譯 — 提供Matt Briscoe、Deepa Gupta和Mathias Siegel功能，說明開發人員如何使用內容警告器，透過語意搜尋和AI支援的建議來探索資產和內容片段。 瞭解如何透過OpenAPI棧疊，透過Scene7和DM以Campaign簡介為基礎的探索和快速存取Dynamic Media轉譯，來簡化內容重複使用和傳遞。 從聖荷西現場錄製。
 

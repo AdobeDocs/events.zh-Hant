@@ -19,7 +19,7 @@ ht-degree: 1%
 
 探索Adobe的Brand Concierge，利用AI驅動的個人化互動來轉換數位體驗。 瞭解這款創新的解決方案如何將對話式體驗緊密整合至您的網站，進而促進參與度及促進轉換。 探索如何透過智慧型禮賓功能、豐富使用者歷程及增強客戶連線，與網站訪客交流。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477680/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477777/?captions=chi_hant&learn=on&enablevpops)
 
 此會議 — 透過Brand Concierge增強現場體驗 — 提供Nina Ciocanu探索Adobe創新的網頁整合解決方案，協助企業透過智慧服務人員功能與網站訪客連結。 瞭解如何直接在您的網站新增個人化、AI導向的體驗，以提高參與度和客戶連線。 從聖荷西現場錄製。
 

@@ -140,7 +140,7 @@ Adobe Developers Live 匯集多元背景的 Adobe 開發人員和有經驗的建
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/brand-concierge.md" title="增強現場體驗" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477680/?format=jpeg&nocache=1765499677605" alt="增強現場體驗"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477777/?captions=chi_hant&format=jpeg&nocache=1765499677605" alt="增強現場體驗"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +186,7 @@ Adobe Developers Live 匯集多元背景的 Adobe 開發人員和有經驗的建
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-content-discovery.md" title="使用Adobe Experience Manager進行AI內容探索" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477673/?format=jpeg&nocache=1765499677611" alt="使用Adobe Experience Manager進行AI內容探索"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477751/?captions=chi_hant&format=jpeg&nocache=1765499677611" alt="使用Adobe Experience Manager進行AI內容探索"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +209,7 @@ Adobe Developers Live 匯集多元背景的 Adobe 開發人員和有經驗的建
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/content-ai.md" title="Adobe Experience Manager中的Content AI" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477729/?format=jpeg&nocache=1765499677634" alt="Adobe Experience Manager中的Content AI"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477830/?captions=chi_hant&format=jpeg&nocache=1765499677634" alt="Adobe Experience Manager中的Content AI"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -232,7 +232,7 @@ Adobe Developers Live 匯集多元背景的 Adobe 開發人員和有經驗的建
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/document-authoring-at-scale.md" title="大規模檔案製作 — 智慧型、AI最佳化體驗的基礎" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477753/?format=jpeg&nocache=1765499677631" alt="大規模檔案製作 — 智慧型、AI最佳化體驗的基礎"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477819/?captions=chi_hant&format=jpeg&nocache=1765499677631" alt="大規模檔案製作 — 智慧型、AI最佳化體驗的基礎"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
