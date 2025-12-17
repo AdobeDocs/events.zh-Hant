@@ -1,10 +1,10 @@
 ---
 user-guide-title: Acrobat Sign網路研討會
 user-guide-description: 向Adobe專家學習如何在Acrobat Sign中掌握新的電子簽章工作流程。
-source-git-commit: d17c517cdcdeddb2ba8d7db4c244f16d678bab96
+source-git-commit: d0f48c3f308badf6e06e17e369765aa4a53ceb27
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 1%
+source-wordcount: '113'
+ht-degree: 0%
 
 ---
 
@@ -12,20 +12,25 @@ ht-degree: 1%
 # Acrobat Sign網路研討會 {#acrobat-sign-webinars}
 
 + [概觀](overview.md)
-+ [Acrobat Sign 101](./skill-builders/getting-started.md)
-+ [Adobe Acrobat Sign 2025年7月版](skill-builders/acrobat-july-release.md)
-+ [Adobe Acrobat Sign 2025年10月發行版本](skill-builders/acrobat-sign-october-2025-release.md)
-+ [進階報告](./skill-builders/advanced-reporting.md)
-+ [傳送檔案以索取簽名的進階秘訣](./skill-builders/advanced-sending-documents-signature.md)
-+ [製作環境](./skill-builders/authoring-environment.md)
-+ [按一下即可收集許多簽名](./skill-builders/collect-signatures.md)
-+ [建立及使用工作流程](./skill-builders/create-use-workflows.md)
-+ [Document Builder](./skill-builders/document-builder.md)
-+ [公證整合](./skill-builders/notarize.md)
-+ [最佳化行動電子簽章](./skill-builders/mobile-e-signing.md)
-+ [張貼可填寫、可簽署的網頁表單](./skill-builders/fillable-signable-web-form.md)
-+ [提升Acrobat Sign管理體驗的效能](./skill-builders/acrobat-sign-admin-experience.md)
-+ [準備您的合約以進行電子簽章](./skill-builders/e-signature-setup.md)
-+ [協定狀態的可見性](./skill-builders/agreement-status.md)
-+ [在Microsoft應用程式中使用電子簽章](./skill-builders/e-signature-microsoft.md)
-+ [工作流程自動化](./skill-builders/workflow-automations.md)
++ 發行網路研討會 {#releases}
+   + [Adobe Acrobat Sign 2025年10月發行版本](skill-builders/acrobat-sign-october-2025-release.md)
+   + [Adobe Acrobat Sign 2025年7月版](skill-builders/acrobat-july-release.md)
++ 創新 — 新功能亮點 {#newfeatures}
+   + [最佳化行動電子簽章](./skill-builders/mobile-e-signing.md)
++ 101 — 使用者快速入門 {#getstartedusers}
+   + [Acrobat Sign 101](./skill-builders/getting-started.md)
+   + [製作環境](./skill-builders/authoring-environment.md)
+   + [準備您的合約以進行電子簽章](./skill-builders/e-signature-setup.md)
+   + [協定狀態的可見性](./skill-builders/agreement-status.md)
+   + [在Microsoft應用程式中使用電子簽章](./skill-builders/e-signature-microsoft.md)
+   + [建立及使用工作流程](./skill-builders/create-use-workflows.md)
++ 101 — 管理員快速入門 {#getstartedadmins}
+   + [提升Acrobat Sign管理體驗的效能](./skill-builders/acrobat-sign-admin-experience.md)
+   + [進階報告](./skill-builders/advanced-reporting.md)
++ 102 — 進階工作 {#advancedtasks}
+   + [傳送檔案以索取簽名的進階秘訣](./skill-builders/advanced-sending-documents-signature.md)
+   + [按一下即可收集許多簽名](./skill-builders/collect-signatures.md)
+   + [Document Builder](./skill-builders/document-builder.md)
+   + [公證整合](./skill-builders/notarize.md)
+   + [張貼可填寫、可簽署的網頁表單](./skill-builders/fillable-signable-web-form.md)
+   + [工作流程自動化](./skill-builders/workflow-automations.md)
