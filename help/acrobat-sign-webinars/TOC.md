@@ -1,10 +1,10 @@
 ---
 user-guide-title: Acrobat Sign網路研討會
 user-guide-description: 向Adobe專家學習如何在Acrobat Sign中掌握新的電子簽章工作流程。
-source-git-commit: d0f48c3f308badf6e06e17e369765aa4a53ceb27
+source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 0%
+source-wordcount: '105'
+ht-degree: 4%
 
 ---
 
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 + [概觀](overview.md)
 + 發行網路研討會 {#releases}
-   + [Adobe Acrobat Sign 2025年10月發行版本](skill-builders/acrobat-sign-october-2025-release.md)
-   + [Adobe Acrobat Sign 2025年7月版](skill-builders/acrobat-july-release.md)
+   + [2025 年 10 月](skill-builders/acrobat-sign-october-2025-release.md)
+   + [2025 年 7 月](skill-builders/acrobat-july-release.md)
 + 創新 — 新功能亮點 {#newfeatures}
    + [最佳化行動電子簽章](./skill-builders/mobile-e-signing.md)
 + 101 — 使用者快速入門 {#getstartedusers}
