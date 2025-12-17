@@ -23,7 +23,7 @@ ht-degree: 0%
 * 專案管理員/計畫者
 * 工作者/請求者
 
->[!VIDEO](https://video.tv.adobe.com/v/3470072/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470187/?captions=chi_hant&learn=on&enablevpops)
 
 ## 其他資源
 

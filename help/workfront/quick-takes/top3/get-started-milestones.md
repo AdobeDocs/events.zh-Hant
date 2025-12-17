@@ -23,7 +23,7 @@ ht-degree: 4%
 
 在您的專案控制面板上加入「里程碑報告」或共用此報告（更好，自動排程定期傳送）是讓相關各方(甚至非Workfront使用者)持續參與專案進度的好方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470066/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470165/?captions=chi_hant&learn=on&enablevpops)
 
 ## 其他資源
 

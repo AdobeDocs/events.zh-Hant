@@ -19,7 +19,7 @@ ht-degree: 0%
 
 歡迎光臨「On-Demand Workfront CSM」Cynthia Boon！ 對使用Workfront面板感興趣，但不確定從哪裡開始？ 最簡單的入門方法是使用預先建立的範本！
 
->[!VIDEO](https://video.tv.adobe.com/v/3470067/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470142/?captions=chi_hant&learn=on&enablevpops)
 
 本文提供逐步指示。
 

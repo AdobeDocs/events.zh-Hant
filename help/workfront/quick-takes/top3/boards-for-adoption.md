@@ -23,7 +23,7 @@ ht-degree: 0%
 
 如果您沒有機會嘗試使用面板功能，別擔心！ 在影片中，我分享如何為使用者提供存取權，以及他們快速入門的幾種方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470075/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470109/?captions=chi_hant&learn=on&enablevpops)
 
 ## 其他資源
 

@@ -19,7 +19,7 @@ ht-degree: 0%
 
 又是我，就是您的「隨選Workfront CSM」 Cynthia Boon，我想透過使用Workfront展示板的創意點子，啟發您。  現在，我在影片中提到，但為了以防萬一，這裡有一個快速提醒，您不需要在敏捷團隊中工作就能使用面板功能。  如果專案任務清單對您的團隊無效，請嘗試使用「面板」！  
 
->[!VIDEO](https://video.tv.adobe.com/v/3470068/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470176/?captions=chi_hant&learn=on&enablevpops)
 
 正在尋找客戶如何使用面板的範例嗎？ 只要看看美泰團隊在2024 Adobe Summit上的展示板簡報！  
 
