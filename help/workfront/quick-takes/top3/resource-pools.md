@@ -29,7 +29,7 @@ ht-degree: 1%
 
 ## 其他資源
 
-* 如需詳細資訊，請檢視[資源集區概觀文章](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools)。
+* 如需詳細資訊，請檢視[資源集區概觀文章](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools)。
 * 正在尋找更多嗎？ 檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866)！
 
 

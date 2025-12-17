@@ -23,6 +23,6 @@ ht-degree: 0%
 
 正在尋找客戶如何使用面板的範例嗎？ 只要看看美泰團隊在2024 Adobe Summit上的展示板簡報！  
 
-[2024年高峰會會議：美泰如何運用Workfront主機板](https://business.adobe.com/summit/2024/sessions/skill-exchange-how-mattel-is-leveraging-workfront-s956.html)
+[2024年高峰會會議：美泰如何運用Workfront主機板](https://business.adobe.com/tw/summit/2024/sessions/skill-exchange-how-mattel-is-leveraging-workfront-s956.html)
 
 

@@ -29,8 +29,8 @@ ht-degree: 4%
 
 如需里程碑的詳細資訊，請參閱以下免費資源：
 
-* [建立里程碑路徑和里程碑步驟](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
-* [使用里程碑檢視](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
+* [建立里程碑路徑和里程碑步驟](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
+* [使用里程碑檢視](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
 * [傳送和共用報告](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports)
 
 
