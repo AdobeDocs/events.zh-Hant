@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: 從 [!DNL Experience Makers Learn from your peers]的錄製集合
-source-git-commit: 48d93e64b075db84d164a743db97fa0202b3e26c
+source-git-commit: ca4fbba56990285c87dd1dfc9b2c30b35ab99561
 workflow-type: tm+mt
-source-wordcount: '326'
-ht-degree: 6%
+source-wordcount: '334'
+ht-degree: 7%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 6%
       + [建立資料導向文化](analytics/2023/data-driven-culture.md)
       + [建立資料導向文化後續問答](analytics/2023/data-driven-culture-q-and-a.md)
    + 2022 版 {#2022}
-      + [提示與秘訣](analytics/2022/tips-and-tricks.md)
+      + [提示與祕訣](analytics/2022/tips-and-tricks.md)
       + [Champion提示與秘訣後續問答](analytics/2022/tips-and-tricks-q-and-a.md)
       + [資料品質和採用](analytics/2022/data-quality.md)
       + [可能的說明檔案任務](analytics/2022/mission-possible.md)
@@ -28,27 +28,29 @@ ht-degree: 6%
 + Commerce {#commerce}
    + 2025 版 {#2025}
       + [Adobe Commerce和App Builder Essentials — 從基礎知識到影響力](commerce/2025/commerce-and-app-builder.md)
-   + 2024 版 {#2024}
+   + 2024 年 {#2024}
       + [Agile SDLC中的通訊、需求和測試](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
    + 2025 版 {#2025}
       + [中繼資料混亂到精通](experience-manager/2025/metadata-mayhem.md)
       + [AEM智慧標籤](experience-manager/2025/smart-tags.md)
-   + 2024 版 {#2024}
+   + 2024 年 {#2024}
       + [大規模解除鎖定成功](experience-manager/2024/global-digital-presence.md)
    + 2023 版 {#2023}
       + [使用AEM核心元件提供卓越的開發人員](experience-manager/2023/core-components.md)
       + [深入探討AEM Sites的工具](experience-manager/2023/aem-sites-tools.md)
-      + [在Cloud Service中有效的安全性策略](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
+      + 在Cloud Service中[有效的安全性策略](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
       + [掌握內容與體驗片段](experience-manager/2023/mastering-content-and-experience-fragments.md)
 + GenAi {#genai}
    + 2025 版 {#2025}
       + [擴展AI採用 — 供核准的行動手冊](genai/2025/scale-ai-adoption-a-playbook-for-approvals.md)
 + Marketo {#marketo}
+   + 2026 {#2026}
+      + [Marketo Engage的電子郵件Designer如何演化](marketo/2026/email-designer-evolved.md)
    + 2025 版 {#2025}
       + [建立資料衛生策略](marketo/2025/data-hygiene-strategy.md)
       + [探索互動式網路研討會的影響](marketo/2025/interactive-webinars.md)
-   + 2024 版 {#2024}
+   + 2024 年 {#2024}
       + [進階區段稽核](marketo/2024/advanced-segmentation.md)
       + [多串流參與計畫](marketo/2024/multi-stream-engagement-programs.md)
       + [行銷人員的對應：策略化、建立和分析Marketo行銷活動](marketo/2024/marketers-map-marketo-campaigns.md)
@@ -62,10 +64,10 @@ ht-degree: 6%
       + [如何讓您的 [!DNL Adobe Marketo Engage] 內容可擴充](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 版 {#2025}
-      + [中繼資料混亂](https://experienceleague.adobe.com/zh-hant/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [中繼資料混亂](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [清楚說明影響 — 如何測量和共用Workfront值](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [利用自動化簡化資源規劃](workfront/2025/simplify-resource-planning-with-automation.md)
-   + 2024 版 {#2024}
+   + 2024 年 {#2024}
       + [人員配備您的Workfront系統管理員實務](workfront/2024/staffing-your-workfront-system-admin-practice.md)
    + 2023 版 {#2023}
       + [使用Workfront進行培訓和賦能](workfront/2023/using-workfront-for-training-and-enablement.md)
