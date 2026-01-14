@@ -19,4 +19,4 @@ ht-degree: 0%
 
 在今天的數位世界中，跨頻道和區域提供高效能體驗至關重要。 探索組織為何要採用現代化的傳遞模型來提升速度和彈性。 瞭解Headful、Headless、混合和Edge傳遞服務之間的差異。 探索核心元件和本地化架構如何支援多品牌和多區域策略。
 
->[!VIDEO](https://video.tv.adobe.com/v/3478775/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478786/?captions=chi_hant&learn=on&enablevpops)
