@@ -32,7 +32,7 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
       <a href="episodes/exl-live-episode-01-28-26.md"><strong>參閱Audience Agent，在幾分鐘內發掘對象深入分析，並建立現成的對象。 </strong></a>
       <br/><em>與Shelby Mansuri、Keara Fausett和Alyssa Espiritu</em>
       <br/><em>2026年1月28日8:30 PT</em>
-      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&amp;mv=other">立即報名！</a></b>
+      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&mv=other">立即報名！</a></b>
     </div>
   </td>
 </tr>
