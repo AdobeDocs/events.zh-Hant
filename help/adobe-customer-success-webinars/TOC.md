@@ -2,10 +2,10 @@
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
 user-guide-description: Adobe客戶成功引導的網路研討會，旨在協助您最佳化Adobe Experience Cloud投資。 獲得有價值的深入分析，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: fa067dfc5293d58cbd73c5d1a87be0ccf82b8f3e
+source-git-commit: 3adfd7af432caffaf2142c5a97b9a4c5279ee483
 workflow-type: tm+mt
-source-wordcount: '569'
-ht-degree: 4%
+source-wordcount: '595'
+ht-degree: 5%
 
 ---
 
@@ -13,6 +13,14 @@ ht-degree: 4%
 # Adobe客戶成功網路研討會 {#adobe-customer-success-webinar-recordings}
 
 + [Adobe客戶成功網路研討會](overview.md)
++ 2026 {#2026}
+   + Experience Manager {#aem2026}
+      + [AEM Sites的現代化傳遞模型](2026/modern-delivery-model-aem.md)
+      + [AEM Cloud Service的戰略優點](2026/moving-to-aemcs.md)
+   + Experience Platform {#aep2026}
+      + [內嵌式智慧轉換](2026/embedded-intelligence.md)
+   + 一般 {#general2025}
+      + [假期成功的AI策略](2026/2025-holiday-results.md)
 + 2025 版 {#2025}
    + Commerce {#commerce2025}
       + [使用Adobe Experience Platform豐富Adobe Commerce](2025/enriching-adobe-commerce.md)
@@ -87,7 +95,7 @@ ht-degree: 4%
       + [Workfront Fusion基本概念與最佳作法](2025/adobe-workfront-fusion-best-practices.md)
       + [Workfront和JIRA](2025/workfront-and-jira.md)
 
-+ 2024 版 {#2024}
++ 2024 年 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Target的AI導向Personalization](2024/ai-personalization.md)
    + [Adobe Workfront — 精益團隊](2024/workfront-lean-teams.md)
