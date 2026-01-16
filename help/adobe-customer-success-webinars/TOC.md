@@ -2,9 +2,9 @@
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
 user-guide-description: Adobe客戶成功引導的網路研討會，旨在協助您最佳化Adobe Experience Cloud投資。 獲得有價值的深入分析，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: 06cdd6f126950841403d201f22394a9834524fc6
+source-git-commit: b64778a37558a91bb44bd3573d6d6fb6e7e5fee9
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '599'
 ht-degree: 5%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 5%
 + [Adobe客戶成功網路研討會](overview.md)
 + 2026 {#2026}
    + Experience Manager {#aem2026}
+      + [最大化內容供應鏈](2026/value-with-content-supply-chain.md)
       + [AEM Sites的現代化傳遞模型](2026/modern-delivery-model-aem.md)
       + [AEM Cloud Service的戰略優點](2026/moving-to-aemcs.md)
    + Experience Platform {#aep2026}
