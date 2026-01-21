@@ -1,9 +1,9 @@
 ---
 user-guide-title: Acrobat Sign網路研討會
 user-guide-description: 向Adobe專家學習如何在Acrobat Sign中掌握新的電子簽章工作流程。
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 4%
 
 ---
@@ -31,6 +31,5 @@ ht-degree: 4%
    + [傳送檔案以索取簽名的進階秘訣](./skill-builders/advanced-sending-documents-signature.md)
    + [按一下即可收集許多簽名](./skill-builders/collect-signatures.md)
    + [Document Builder](./skill-builders/document-builder.md)
-   + [公證整合](./skill-builders/notarize.md)
    + [張貼可填寫、可簽署的網頁表單](./skill-builders/fillable-signable-web-form.md)
    + [工作流程自動化](./skill-builders/workflow-automations.md)
