@@ -25,6 +25,6 @@ ht-degree: 0%
 
 + 由Adobe企業Commerce專員Mike Lynch主演
 
->[!VIDEO](https://video.tv.adobe.com/v/3429266/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454449/?captions=chi_hant&learn=on)
 
 [&lt;返回Adobe Commerce加速器日](./overview.md)

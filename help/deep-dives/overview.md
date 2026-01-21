@@ -69,7 +69,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="admin-console.md" title="在Adobe Identity上準備Marketo Engage" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1752782691676" alt="在Adobe Identity上準備Marketo Engage"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432367/?captions=chi_hant&format=jpeg&nocache=1752782691676" alt="在Adobe Identity上準備Marketo Engage"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -92,7 +92,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="api.md" title="API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1752782691708" alt="API"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430735/?captions=chi_hant&format=jpeg&nocache=1752782691708" alt="API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

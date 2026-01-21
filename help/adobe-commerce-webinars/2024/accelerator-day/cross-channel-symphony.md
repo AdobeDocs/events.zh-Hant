@@ -28,6 +28,6 @@ ht-degree: 0%
 + Matt Palmer，Adobe資深合作夥伴銷售經理
 + Graham Bell，ANZ Sales - DotDigital負責人
 
->[!VIDEO](https://video.tv.adobe.com/v/3429273/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455522/?captions=chi_hant&learn=on)
 
 [&lt;返回Adobe Commerce加速器日](./overview.md)

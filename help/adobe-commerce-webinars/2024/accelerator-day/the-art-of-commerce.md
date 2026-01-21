@@ -24,6 +24,6 @@ ht-degree: 0%
 
 + 由Adobe資深解決方案工程師Carl Screwvala介紹
 
->[!VIDEO](https://video.tv.adobe.com/v/3429274/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455499/?captions=chi_hant&learn=on)
 
 [&lt;返回Adobe Commerce加速器日](./overview.md)

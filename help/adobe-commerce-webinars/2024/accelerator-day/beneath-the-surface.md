@@ -28,6 +28,6 @@ Commonwealth Bank的Powerboard付款協調平台及其線上業務使用案例�
 + Omaya Robinson，PowerBoard創始團隊負責人，產品主管 — CBA
 + Luke Jericho，組長，電子商務負責人 — CBA
 
->[!VIDEO](https://video.tv.adobe.com/v/3429270/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455487/?captions=chi_hant&learn=on)
 
 [&lt;返回Adobe Commerce加速器日](./overview.md)

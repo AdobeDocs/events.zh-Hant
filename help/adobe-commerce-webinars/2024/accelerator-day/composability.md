@@ -25,6 +25,6 @@ ht-degree: 0%
 
 + 由ANZ解決方案工程 — Adobe負責人Jason Ford介紹
 
->[!VIDEO](https://video.tv.adobe.com/v/3429272/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455465/?captions=chi_hant&learn=on)
 
 [&lt;返回Adobe Commerce加速器日](./overview.md)
