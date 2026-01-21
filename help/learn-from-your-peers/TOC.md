@@ -64,7 +64,7 @@ ht-degree: 7%
       + [如何讓您的 [!DNL Adobe Marketo Engage] 內容可擴充](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 版 {#2025}
-      + [中繼資料混亂](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [中繼資料混亂](https://experienceleague.adobe.com/zh-hant/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [清楚說明影響 — 如何測量和共用Workfront值](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [利用自動化簡化資源規劃](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 年 {#2024}
