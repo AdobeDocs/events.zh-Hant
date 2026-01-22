@@ -15,7 +15,7 @@ ht-degree: 6%
 
 ## 有了體驗聯盟，學習就是一個活動。
 
-持續關注獨家活動與網路研討會，拓展您的學習空間。 請經常造訪此區，觀看過去活動的錄影，如 Experience League LIVE、Skill Builders、Developers Live 等。 如果你想報名即將舉辦的活動，可以先看看 Experience League 上的即將舉辦活動[](https：//%65xperienceleague.adobe.com/events/？lang=en)。
+持續關注獨家活動與網路研討會，拓展您的學習空間。 請經常造訪此區，觀看過去活動的錄影，如 Experience League LIVE、Skill Builders、Developers Live 等。 如果你想報名即將舉辦的活動，可以先看看 Experience League 上的即將舉辦活動[] (https：//%65xperienceleague.adobe.com/events/？lang=en)。
 
 ## 活動系列
 
