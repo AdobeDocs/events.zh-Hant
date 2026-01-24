@@ -20,4 +20,4 @@ ht-degree: 0%
 
 探索最佳化內容供應鏈的實用藍圖。 瞭解整合工作流程與規劃、建立與生產、資產管理、交付與啟用以及報告與深入分析如何推動可衡量的結果。 探索常見的產業模式、將目標對應至Adobe解決方案，並使用藍圖來指導您的後續步驟並評估影響。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479086/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479097/?captions=chi_hant&learn=on&enablevpops)
