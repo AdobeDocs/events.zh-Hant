@@ -30,7 +30,7 @@ ht-degree: 1%
 
 >[!BEGINSHADEBOX 「有問題嗎？」]
 
-繼續討論[Experience League社群論壇討論](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741#M4712)。
+繼續討論[Experience League社群論壇討論](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741?profile.language=zh-Hant#M4712)。
 
 >[!ENDSHADEBOX]
 

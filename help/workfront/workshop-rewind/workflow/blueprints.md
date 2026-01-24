@@ -25,7 +25,7 @@ Workfront客戶成功團隊分享了您需要瞭解有關[藍圖](https://experi
 
 檢閱[投影片](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+Template+-+Blueprints.pdf)並觀看隨選錄製。
 
-您是否有想法的分享或活動中的後續問題？ 歡迎在[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-and-functional-blueprints-in-adobe/td-p/777939)的註解中捨棄這些註解！
+您是否有想法的分享或活動中的後續問題？ 歡迎在[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-and-functional-blueprints-in-adobe/td-p/777939?profile.language=zh-Hant)的註解中捨棄這些註解！
 
 每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/zh-hant/events)以瞭解最新工作階段。
 

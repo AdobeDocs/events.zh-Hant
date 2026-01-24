@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## 資源
 
-在活動期間，Kiersten提到了我們附加至[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315)的兩個資源。
+在活動期間，Kiersten提到了我們附加至[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315?profile.language=zh-Hant)的兩個資源。
 * **範例報表** — 營業時間後的任務報表 
 * **DSW意見路由護欄**&#x200B;這是如何教導您的使用者如何在Workfront中提供更新的絕佳範例！ 
 

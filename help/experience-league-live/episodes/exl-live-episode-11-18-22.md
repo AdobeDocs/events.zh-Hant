@@ -27,5 +27,5 @@ ht-degree: 0%
 
 觀看上方影片以檢視此即時資料流活動，Adobe[!DNL Analytics]專家提供一些在Analysis Workspace和[!DNL Analytics]儀表板應用程式中自訂和存取見解的絕佳秘訣。
 
-有任何問題嗎？ 繼續在Adobe Experience League [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037)上討論此主題。
+有任何問題嗎？ 繼續在Adobe Experience League [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787?profile.language=zh-Hant#M3037)上討論此主題。
 

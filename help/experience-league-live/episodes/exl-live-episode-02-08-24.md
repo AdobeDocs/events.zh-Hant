@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!BEGINSHADEBOX 「有問題嗎？」]
 
-繼續在Adobe Experience League [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488)上討論此主題。
+繼續在Adobe Experience League [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643?profile.language=zh-Hant#M488)上討論此主題。
 
 >[!ENDSHADEBOX]
 

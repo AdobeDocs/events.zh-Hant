@@ -27,5 +27,5 @@ ht-degree: 24%
 
 開始播放上述視訊以檢視此即時資料流事件的重播。
 
-有任何問題嗎？ 繼續在Adobe Experience League [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476)上討論此主題。
+有任何問題嗎？ 繼續在Adobe Experience League [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754?profile.language=zh-Hant#M476)上討論此主題。
 

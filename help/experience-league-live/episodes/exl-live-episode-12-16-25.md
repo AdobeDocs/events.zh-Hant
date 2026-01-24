@@ -28,4 +28,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477984/?learn=on)
 
-[讓討論在社群討論中繼續進行！](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172#M1909){target="_blank"}
+[讓討論在社群討論中繼續進行！](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172?profile.language=zh-Hant#M1909){target="_blank"}

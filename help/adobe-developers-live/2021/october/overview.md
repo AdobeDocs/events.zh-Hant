@@ -20,8 +20,8 @@ ht-degree: 9%
 橫跨Adobe Experience Cloud、Document Cloud和Creative Cloud的Adobe產品團隊展示了跨產業推動設計、內容創作工作流程、檔案服務和客戶體驗管理的最新技術進步和開發人員工具。
 
 與其他開發人員連絡並加入Experience League社群中的工作階段交談。
-* [Adobe Developer App Builder完成工作階段清單](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
-* [AEM完成工作階段清單](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041#M120517)
+* [Adobe Developer App Builder完成工作階段清單](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779?profile.language=zh-Hant)
+* [AEM完成工作階段清單](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041?profile.language=zh-Hant#M120517)
 
 ## 反白顯示
 

@@ -27,11 +27,11 @@ ht-degree: 0%
 
 ## 資源
 
-功能警示！  檢視[新工作時間欄位](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855#M519)的詳細資料：現在您可以調整使用者容量，並根據使用者的排程計算可用性。
+功能警示！  檢視[新工作時間欄位](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855?profile.language=zh-Hant#M519)的詳細資料：現在您可以調整使用者容量，並根據使用者的排程計算可用性。
 
 正在尋找更好的資料分析方式，以確定您已做好準備？ 請檢視立即可用的藍圖目錄！
 
-[使用Workfront藍圖來最佳化您的工作管理環境！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
+[使用Workfront藍圖來最佳化您的工作管理環境！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=zh-Hant)
 
 在尋找資源規劃工具和工作負載平衡器之間的差異？ 以下是一些短片：
 

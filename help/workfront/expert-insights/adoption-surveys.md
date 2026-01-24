@@ -36,7 +36,7 @@ ht-degree: 0%
 * [Workfront管理員聊天 — 認知](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
 * [Workfront使用者採用調查](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
 
-想瞭解更多關於採用和一般入門的資訊嗎？ 看看我們的部落格！ - [新Workfront客戶！ 歡迎使用Adobe Workfront客戶成功入門部落格！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927)
+想瞭解更多關於採用和一般入門的資訊嗎？ 看看我們的部落格！ - [新Workfront客戶！ 歡迎使用Adobe Workfront客戶成功入門部落格！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927?profile.language=zh-Hant)
 
 ## 關於喇叭
 

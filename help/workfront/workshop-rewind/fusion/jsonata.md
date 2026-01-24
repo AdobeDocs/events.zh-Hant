@@ -25,7 +25,7 @@ ht-degree: 0%
 
 如果您無法現場觀看，別擔心 — 請檢閱[投影片組](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+-+JSONata+Fusion+Event+-+September+17%2C+2025.pdf)並觀看隨選錄製。
 
-檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-making-json-sing-with-workfront-fusion-jsonata/td-p/776029)以取得可下載的資訊，請一併關注訓練教材的zip檔案！
+檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-making-json-sing-with-workfront-fusion-jsonata/td-p/776029?profile.language=zh-Hant)以取得可下載的資訊，請一併關注訓練教材的zip檔案！
 
 每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/zh-hant/events)以瞭解最新工作階段。
 

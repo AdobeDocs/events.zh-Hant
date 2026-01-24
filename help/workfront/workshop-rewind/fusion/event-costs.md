@@ -26,7 +26,7 @@ ht-degree: 0%
 除了隨選錄製之外，我們還提供了在聊天中分享的幻燈片平台和提示：  
 * [包含資源的Workfront投影片](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/061225+-+The+Workfront+Fusion+Fix+-+Ericsson's+Smarter+Way+to+Unlocking+True+Event+Costs.pdf)
 * [Lucas&#39; Fusion簡報投影片](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Ericsson+Event+Slides-+Expense+Reporting+with+Fusion.pdf)
-* [Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-the-workfront-fusion-fix-ericsson-s-smarter-way/td-p/759188)
+* [Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-the-workfront-fusion-fix-ericsson-s-smarter-way/td-p/759188?profile.language=zh-Hant)
 
 您正開始使用Fusion嗎？ 檢視這些資源！ 
 * [Experience League上的Workfront Fusion訓練](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)

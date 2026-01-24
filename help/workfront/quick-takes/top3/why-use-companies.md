@@ -21,6 +21,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470070/?learn=on&enablevpops)
 
-正在尋找更多使用公司的資源或想法嗎？ 檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-companies/td-p/670313)以取得更多最佳實務！
+正在尋找更多使用公司的資源或想法嗎？ 檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-companies/td-p/670313?profile.language=zh-Hant)以取得更多最佳實務！
 
 

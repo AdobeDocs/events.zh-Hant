@@ -22,14 +22,14 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470153/?captions=chi_hant&learn=on&enablevpops)
 
-「諮詢時間」只是您整體Workfront溝通計畫的另一個重要部分。 正在尋找更多有關與使用者溝通的想法？ 檢視[使用者通訊逐步指南](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439)！
+「諮詢時間」只是您整體Workfront溝通計畫的另一個重要部分。 正在尋找更多有關與使用者溝通的想法？ 檢視[使用者通訊逐步指南](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=zh-Hant)！
 
 一如承諾，這裡提供Expert Insights連結，說明如何為Workfront採用帶來樂趣。 
 
-[Workfront Expert Insights — 採用Leslie Spier](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/m-p/613314#M2588)
+[Workfront Expert Insights — 採用Leslie Spier](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/m-p/613314?profile.language=zh-Hant#M2588)
 
 額外資源！ 我們舉辦了社群咖啡會，許多優秀的客戶分享了他們最愛的採用秘訣！ 
 
-[採用的Workfront咖啡時間通訊方法](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ev-p/621879)
+[採用的Workfront咖啡時間通訊方法](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ev-p/621879?profile.language=zh-Hant)
 
-您有如何安排Workfront營業時間的範例嗎？ 請在此[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-approaches-to-office-hours/td-p/713391)分享您的最佳實務！
+您有如何安排Workfront營業時間的範例嗎？ 請在此[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-approaches-to-office-hours/td-p/713391?profile.language=zh-Hant)分享您的最佳實務！

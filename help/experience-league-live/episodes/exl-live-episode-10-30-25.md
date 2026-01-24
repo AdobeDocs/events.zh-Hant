@@ -32,7 +32,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476426/?learn=on&enablevpops)
 
-加入我們，參加[Adobe Journey Optimizer社群問我任何事！](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252)太平洋時間11月12日星期三上午8點至上午9點。 Adobe Journey Optimizer專家將加入我們：Cole Connelly (@coleconnelly) — 資深產品經理、Huong Vu (@HuongVu) — 產品行銷經理、Namita Krishnan (@Namita_Krishnan) — 產品經理、Brent Kostak (@bkostak) — 資深產品行銷經理、David Arbor (@user03474) — 資深研究科學家、Justin Grover (@justin_grover) — 首席產品經理、Sandra Hausmann (@SHausmann) — 資深技術行銷工程師和Daniel Wright (@dwright) — 資深技術行銷工程師。
+加入我們，參加[Adobe Journey Optimizer社群問我任何事！](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252?profile.language=zh-Hant)太平洋時間11月12日星期三上午8點至上午9點。 Adobe Journey Optimizer專家將加入我們：Cole Connelly (@coleconnelly) — 資深產品經理、Huong Vu (@HuongVu) — 產品行銷經理、Namita Krishnan (@Namita_Krishnan) — 產品經理、Brent Kostak (@bkostak) — 資深產品行銷經理、David Arbor (@user03474) — 資深研究科學家、Justin Grover (@justin_grover) — 首席產品經理、Sandra Hausmann (@SHausmann) — 資深技術行銷工程師和Daniel Wright (@dwright) — 資深技術行銷工程師。
 
 我們將會在此即時聊天中回答您的問題。
 

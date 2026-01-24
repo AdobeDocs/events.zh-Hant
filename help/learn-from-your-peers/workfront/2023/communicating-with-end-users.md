@@ -26,6 +26,6 @@ ht-degree: 0%
 * 決定使用哪些管道進行通訊的秘訣
 * 如何以反複的方式思考您的溝通策略，從您的位置開始並隨著您的發展而成熟
 
-您也可以在此處下載「通訊逐步指南」，其中包含同事要與使用者分享的想法以及實際通訊範例： https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144
+您也可以在此處下載「通訊逐步指南」，其中包含同事要與使用者分享的想法以及實際通訊範例： https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144?profile.language=zh-Hant
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431019/?learn=on)

@@ -41,7 +41,7 @@ ht-degree: 0%
 
 想聽聽Madalyn的更多秘訣嗎？ 在Workfront社群中瞭解她的一系列秘訣和技巧！ 
 
-* [星期二技術位元組](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742)
+* [星期二技術位元組](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812?profile.language=zh-Hant#M2742)
 
 ## 關於喇叭 
 

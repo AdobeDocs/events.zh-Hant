@@ -23,7 +23,7 @@ ht-degree: 0%
 
 檢閱[投影片組](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+Template+-+Fusion+Event.pdf)並觀看隨選錄製。
 
-如需可下載的CSV檔案範例和Fusion CSV套件組合，請檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-track-efficiency-data-imports-with/td-p/769522)！
+如需可下載的CSV檔案範例和Fusion CSV套件組合，請檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-track-efficiency-data-imports-with/td-p/769522?profile.language=zh-Hant)！
 
 每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/zh-hant/events)以瞭解最新工作階段。
 

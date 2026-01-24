@@ -26,6 +26,6 @@ ht-degree: 0%
 >[!TIP]
 >
 > 自行試用 — [註冊以存取示範環境](https://business.adobe.com/resources/customer-journey-analytics-b2b-edition-sandbox.html)。
-> &#x200B;> 您可以在&#x200B;**[社群論壇](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-unlock-the-power-of-customer-journey/td-p/780513#)**&#x200B;中繼續交談並向Adobe專家提問。
+> &#x200B;> 您可以在&#x200B;**[社群論壇](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-unlock-the-power-of-customer-journey/td-p/780513?profile.language=zh-Hant#)**&#x200B;中繼續交談並向Adobe專家提問。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476010/?learn=on&enablevpops)

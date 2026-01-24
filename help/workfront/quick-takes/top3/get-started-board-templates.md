@@ -25,6 +25,6 @@ ht-degree: 0%
 
 [使用範本建立新展示板](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/agile/boards-in-workfront/create-edit-board#create-a-new-board) 
 
-您是否有要分享的想法，或有關於視訊的後續問題？ 歡迎在[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-getting-started-with-boards-templates/td-p/694307)的註解中捨棄這些註解！
+您是否有要分享的想法，或有關於視訊的後續問題？ 歡迎在[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-getting-started-with-boards-templates/td-p/694307?profile.language=zh-Hant)的註解中捨棄這些註解！
 
 

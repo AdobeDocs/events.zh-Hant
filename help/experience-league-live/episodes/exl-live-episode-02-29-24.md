@@ -26,7 +26,7 @@ Adobe Campaign v8將具有全新的外觀。 重新想像的使用者體驗簡�
 
 >[!BEGINSHADEBOX 「有問題嗎？」]
 
-繼續在Adobe Experience League [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"}上討論此主題。
+繼續在Adobe Experience League [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893?profile.language=zh-Hant#M2671){target="_blank"}上討論此主題。
 
 >[!ENDSHADEBOX]
 

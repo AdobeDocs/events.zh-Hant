@@ -27,13 +27,13 @@ ht-degree: 0%
 
 ## 需要您的協助！
 
-Ewan在影片中提到，他正在製作Fusion最佳實務指南，他很樂意聽到您的消息！  如果您使用Fusion支援您的程式，請在[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114)中分享您的建議、建議和秘訣，他將儘量加入更多內容！
+Ewan在影片中提到，他正在製作Fusion最佳實務指南，他很樂意聽到您的消息！  如果您使用Fusion支援您的程式，請在[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=zh-Hant)中分享您的建議、建議和秘訣，他將儘量加入更多內容！
 
 ## 建議
 
 * Fusion是流程的視覺化表示。 檔案是您的朋友！ 說到檔案，請儲存您如何建立流程的詳細資訊。  更棒的是，您可以視訊瀏覽這些影片！
 * 測量重複工作的工作量及時數
-* Ewan提到的Adobe Workfront ROI計算器已附加至[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114)。
+* Ewan提到的Adobe Workfront ROI計算器已附加至[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=zh-Hant)。
 * 使用Fusion解決跨職能挑戰，節省時間（和金錢）並防止錯誤。
 
 ## 資源

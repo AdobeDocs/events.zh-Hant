@@ -26,8 +26,8 @@ ht-degree: 0%
 
 對最新的藍圖感興趣嗎？
 
-* [已發行Blueprint：新使用者的Workfront培訓](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/blueprint-released-workfront-training-for-new-users/ba-p/739734)
-* [藍圖已發行： People Manager儀表板](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/blueprint-released-people-manager-dashboard/m-p/687545#M3247)
+* [已發行Blueprint：新使用者的Workfront培訓](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/blueprint-released-workfront-training-for-new-users/ba-p/739734?profile.language=zh-Hant)
+* [藍圖已發行： People Manager儀表板](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/blueprint-released-people-manager-dashboard/m-p/687545?profile.language=zh-Hant#M3247)
 * [可用藍圖的完整清單](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
 
 如果您想要瞭解新的想法和創意方法，別忘了註冊我們的[Experience League活動頁面](https://experienceleague.adobe.com/zh-hant/events?filters=Workfront)，參加我們即將舉辦的研討會。 我們希望很快就能見到您！

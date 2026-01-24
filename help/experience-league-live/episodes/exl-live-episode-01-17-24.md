@@ -25,7 +25,7 @@ ht-degree: 0%
 
 >[!BEGINSHADEBOX 「有問題嗎？」]
 
-繼續討論[Experience League社群論壇討論](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582)。
+繼續討論[Experience League社群論壇討論](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093?profile.language=zh-Hant#M3582)。
 
 >[!ENDSHADEBOX]
 

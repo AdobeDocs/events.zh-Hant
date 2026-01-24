@@ -25,7 +25,7 @@ ht-degree: 0%
 如果您錯過了我們的課程，我們會提供投影片組的連結，以及Experience League社群貼文和其他資源。
 
 * [投影片組PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/062625+Summoning+Success+-+Unlocking+the+Latest+in+Workfront+Planning.pdf)
-* [Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-summoning-success-unlocking-the-latest-in/td-p/761676)
+* [Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-summoning-success-unlocking-the-latest-in/td-p/761676?profile.language=zh-Hant)
 
 您剛剛開始嗎？  檢視[指南 — 您的Workfront規劃GPS！](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Planning+Guidebook.pdf)
 

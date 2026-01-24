@@ -24,7 +24,7 @@ Workfront第四季版本於2025年10月16日部署。   此網路研討會與Ado
 
 此外，請務必檢閱Experience League上的[發行說明](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview)，因為並非所有功能都包含在網路研討會中。
 
-正在尋找該工作階段的問答和成績單嗎？ 檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-fourth-quarter-2025-release/td-p/780946)！
+正在尋找該工作階段的問答和成績單嗎？ 檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-fourth-quarter-2025-release/td-p/780946?profile.language=zh-Hant)！
 
 每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/zh-hant/events)以瞭解最新工作階段。
 

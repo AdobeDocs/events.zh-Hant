@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3436457?quality=12&learn=on)
 
-**若要繼續討論，請造訪我們在Experience League社群上的[討論](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976#M636){target="_blank"}。**
+**若要繼續討論，請造訪我們在Experience League社群上的[討論](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976?profile.language=zh-Hant#M636){target="_blank"}。**
 
 **顯示詳細資料**：
 取得對企業資料倉儲的擴充存取權，以組成對象並強化品牌啟動和即時的體驗。

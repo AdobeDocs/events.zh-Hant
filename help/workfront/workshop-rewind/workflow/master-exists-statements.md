@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477158/?learn=on&enablevpops)
 
-您是否錯過即時工作階段？ 沒關係！ 請檢閱Skye &amp; Nathan的[簡報投影片](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-your-dream-workfront-report-exists-two/td-p/783550)，並觀看隨選錄製。
+您是否錯過即時工作階段？ 沒關係！ 請檢閱Skye &amp; Nathan的[簡報投影片](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-your-dream-workfront-report-exists-two/td-p/783550?profile.language=zh-Hant)，並觀看隨選錄製。
 
 您是否有想法的分享或活動中的後續問題？ 歡迎在[Experience League社群貼文](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/10.28.25+EXISTS+Class.pdf)的註解中捨棄這些註解！
 
