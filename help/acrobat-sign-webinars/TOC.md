@@ -1,8 +1,9 @@
 ---
 user-guide-title: Acrobat Sign網路研討會
 user-guide-description: 向Adobe專家學習如何在Acrobat Sign中掌握新的電子簽章工作流程。
+cloud: Document Cloud
 solution: Document Cloud
-source-git-commit: 1f319b1ce03161122a26d569f1d17181b45f983f
+source-git-commit: 149f4c2e962eaecd657d2a17a5938e972464dcac
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 4%
