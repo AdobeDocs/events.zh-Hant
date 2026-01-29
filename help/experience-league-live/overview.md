@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 31397e559777e599a86445841e6b5a134659151f
+source-git-commit: 2ee0d38018d33911249523445375809c82567b59
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 19%
+source-wordcount: '175'
+ht-degree: 17%
 
 ---
 
@@ -25,14 +25,14 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
 
 <table>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-28-26.md">
-      <img alt="Experience League LIVE 2026年1月28日" src="episodes/assets/WebBanner-1-28-26.jpg">
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-03-26.md">
+      <img alt="Experience League LIVE 2026年3月3日" src="episodes/assets/WebBannerExlLive-Mar03-2026.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-01-28-26.md"><strong>參閱Audience Agent，在幾分鐘內發掘對象深入分析，並建立現成的對象。 </strong></a>
-      <br/><em>與Shelby Mansuri、Keara Fausett和Alyssa Espiritu</em>
-      <br/><em>2026年1月28日8:30 PT</em>
-      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&mv=other">立即報名！</a></b>
+      <a href="episodes/exl-live-episode-03-03-26.md"><strong>與Adobe Experience Cloud資深副總裁Anjul Bhambhri一起參加有洞察力的問答會，瞭解Adobe對於創新Agentic AI功能的大膽願景。</strong></a>
+      <br/><em>與Anjul Bhambhri和Daniel Wright</em>
+      <br/><em>2026年3月3日太平洋時間9:00</em>
+      <br/><br/><b><a href="episodes/exl-live-episode-03-03-26.md">進一步瞭解此工作階段！</a></b>
     </div>
   </td>
 </tr>
@@ -87,5 +87,5 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
 
 >[!TIP]
 >
->如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/zh-hant#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
+>如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
 
