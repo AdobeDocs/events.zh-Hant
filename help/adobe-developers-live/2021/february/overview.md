@@ -4,10 +4,10 @@ description: Adobe Experience Manager Sites的影片和教學課程系列，作�
 sub-product: sites, content-services
 exl-id: 6c430d4c-12c1-4d3a-860f-fc3c6bf5803c
 duration: 91
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: e871ea0039b339f0e306ca0c84a7fd63be9b45f1
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 5%
+source-wordcount: '147'
+ht-degree: 11%
 
 ---
 
@@ -21,65 +21,14 @@ ht-degree: 5%
 
 在&#x200B;**[Experience League社群](https://adobe.ly/36Yd3v6)**&#x200B;中與其他開發人員連線並加入工作階段交談。
 
-## 反白顯示
-
-<table>
-  <tr>
-   <td>
-      <a href="headless-graphql-content-fragments.md">
-      <img alt="Headless — 使用內容片段的GraphQL" src="/help/adobe-developers-live/assets/jabran.png"/>
-      </a>
-      <div>
-         <a href="headless-graphql-content-fragments.md"><strong>Headless — 具有內容片段的GraphQL</strong></a>         
-         <br/><em>與Jabran Asghar，資深軟體工程師</em>
-      </div>
-      <p>
-        <br/>
-         瞭解新的Headless功能以及最新的內容片段增強功能。 本課程將著重於AEM Cloud Service的GraphQL API。
-      </p>
-     </td>   
-     <td>
-      <a href="rapid-frontend-devlopment.md">
-      <img alt="前端開發 — 您未來的工作流程，可快速建置和部署網站的前端。" src="/help/adobe-developers-live/assets/gabriel.png"/>
-      </a>
-      <div>
-         <a href="rapid-frontend-devlopment.md"><strong>前端開發 — 您未來的工作流程，可快速建置及部署您網站的前端。</strong></a>
-         <br/><em>與Gabriel Walt，資深產品經理</em>
-      </div>
-      <p>
-        <br/>
-         使用網站範本只要按幾下即可建立新網站，並透過快速部署前端資產（例如CSS&amp;JS）帶回前端開發的樂趣。
-      </p>
-   </td>
-   </td>
-     <td>
-      <a href="get-ready-aem-cloud.md">
-      <img alt="準備Cloud Service — 移轉最佳實務" src="/help/adobe-developers-live/assets/andreea.png"/>
-      </a>
-      <div>
-         <a href="get-ready-aem-cloud.md"><strong>準備Cloud Service — 移轉最佳實務</strong></a>
-         <br/><em>與Andreea Moise，資深軟體工程師</em>
-      </div>
-      <p>
-        <br/>
-         調整您的程式碼基底，使其適合雲端使用並避免未來在幕後處理升級作業，這是發揮AEM Cloud Service最大效益的關鍵。
-      </p>
-   </td>
-  </tr>
-</table>
-
->[!TIP]
->
->**所有工作階段都列在左側導覽中**。
-
 ## 其他資源
 
-* [Experience League — 探索AEM](https://experienceleague.adobe.com/zh-hant#recommended/solutions/experience-manager)
-* [AEM Sites編寫檔案](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=zh-Hant)
-* [AEM Sites開發檔案](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=zh-Hant)
-* [AEM Sites管理檔案](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=zh-Hant)
-* [AEM Sites部署檔案](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=zh-Hant)
-* [AEM as a Cloud ServiceTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=zh-Hant)
-* [AEM Assets 教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=zh-Hant)
-* [AEM Forms 教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=zh-Hant)
-* [AEM Foundation 教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=zh-Hant)
+* [Experience League — 探索AEM](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
+* [AEM Sites編寫檔案](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
+* [AEM Sites開發檔案](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
+* [AEM Sites管理檔案](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
+* [AEM Sites部署檔案](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
+* [AEM as a Cloud Service教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=zh-Hant)
+* [AEM Assets 教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html)
+* [AEM Forms 教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
+* [AEM Foundation 教學課程](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
