@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 2ee0d38018d33911249523445375809c82567b59
+source-git-commit: 220b114c82508f2c97b239c64b33a4e66feb03a7
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '352'
 ht-degree: 13%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 13%
 
 + [概觀](overview.md)
 + 集數 {#episodes}
+   + [瞭解Adobe Journey Optimizer中的Campaign協調流程](episodes/exl-live-episode-03-12-26.md)
    + [Adobe Experience Platform Agents可提升行銷效率和改善業務成果](episodes/exl-live-episode-03-03-26.md)
    + [工作中的代理程式：建立和啟用對象和歷程](episodes/exl-live-episode-01-28-26.md)
    + [透過產品支援代理簡化疑難排解和支援案例管理](episodes/exl-live-episode-12-16-25.md)
