@@ -2,9 +2,9 @@
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
 user-guide-description: Adobe客戶成功引導的網路研討會，旨在協助您最佳化Adobe Experience Cloud投資。 獲得有價值的深入分析，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: b64778a37558a91bb44bd3573d6d6fb6e7e5fee9
+source-git-commit: d158d7a10bd2651a11d54822908bb63315da0a94
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '615'
 ht-degree: 5%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 5%
 
 + [Adobe客戶成功網路研討會](overview.md)
 + 2026 {#2026}
+   + Customer Journey Analytics {#cja2026}
+      + [為Customer Journey Analytics建立BRD-SDR檔案](2026/brd-sdr-file-best-practices.md)
    + Experience Manager {#aem2026}
       + [最大化內容供應鏈](2026/value-with-content-supply-chain.md)
       + [AEM Sites的現代化傳遞模型](2026/modern-delivery-model-aem.md)
@@ -22,6 +24,7 @@ ht-degree: 5%
       + [內嵌式智慧轉換](2026/embedded-intelligence.md)
    + 一般 {#general2026}
       + [假期成功的AI策略](2026/2025-holiday-results.md)
+      + [內容Supply chain的基礎架構](2026/csc-architecture.md)
 + 2025 版 {#2025}
    + Commerce {#commerce2025}
       + [使用Adobe Experience Platform豐富Adobe Commerce](2025/enriching-adobe-commerce.md)
@@ -60,7 +63,7 @@ ht-degree: 5%
       + [身分圖表使用案例和疑難排解](2025/identity-graph.md)
       + [贏得AEP專案的執行贊助](2025/exec-sponsorship-aep-projects.md)
    + GenStudio for Performance Marketing {#genstudio2025}
-      + [內容供應鏈與Adobe GenStudio](2025/csc-gen-studio.md)
+      + [內容Supply chain和Adobe GenStudio](2025/csc-gen-studio.md)
       + [GenStudio for Performance Marketing作業模型](2025/genstudio-for-performance-marketing-operating-model.md)
    + Journey Optimizer {#ajo2025}
       + [建立高階主管贊助](2025/build-executive-sponsorship-ajo.md)
@@ -73,7 +76,7 @@ ht-degree: 5%
    + Marketo {#marketo2025}
       + [新增電子郵件編輯器](2025/marketo-new-email-editor.md)
    + 多解決方案 {#multisolution2025}
-      + [內容供應鏈基本需知](2025/content-supply-chain-basics.md)
+      + [內容Supply chain基本需知](2025/content-supply-chain-basics.md)
       + [使用AI Insights最佳化數位體驗](2025/accelerating-digital-experience-optimization.md)
       + [透過Personalization和資料增強忠誠度計畫](2025/enhance-loyalty-programs.md)
       + [增強Personalization](2025/enhancing-personalization.md)
@@ -122,7 +125,7 @@ ht-degree: 5%
    + [掌握Adobe Admin Console](2024/adobe-admin-console.md)
    + [掌握Cookie和資料隱私權](2024/mastering-cookies-data-privacy.md)
    + [掌握循序邏輯](2024/sequential-logic.md)
-   + [內容供應鏈的組織整備](2024/organizational-readiness-content-supply-chain.md)
+   + [內容Supply chain的組織整備](2024/organizational-readiness-content-supply-chain.md)
    + [Real-Time Customer Data Platform與Marketo整合](2024/aep-marketo-integration.md)
    + [即時客戶資料平台遷移整備](2024/rtcdp-migration-readiness.md)
    + [策略領導力](2024/strategic-leadership.md)
