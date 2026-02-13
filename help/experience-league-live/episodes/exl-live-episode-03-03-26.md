@@ -7,13 +7,13 @@ feature: Agentic AI
 event-cta-url-live: https://www.youtube.com/live/V7n2KuhrhqQ
 event-start-time: 2026-03-03 09:00-8
 event-guests: Daniel Wright, Anjul Bhambhri
-source-git-commit: 2ee0d38018d33911249523445375809c82567b59
+exl-id: 6482125f-0327-4947-bce4-113016b62c18
+source-git-commit: 832697fb6afc563e89041cec13ea2649eaac49e7
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Experience Platform Agents可提升行銷效率和改善業務成果
 
@@ -23,4 +23,4 @@ ht-degree: 0%
 
 <img alt="Experience League LIVE 2026年3月3日" src="./assets/WebBannerExlLive-Mar03-2026.jpg">
 
-[設定提醒](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"}
+[立即註冊！](https://engage.adobe.com/ExpLeagueLive-260303.html){target="_blank"}
