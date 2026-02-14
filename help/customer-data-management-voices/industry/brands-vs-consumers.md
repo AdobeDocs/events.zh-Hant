@@ -26,4 +26,4 @@ ht-degree: 10%
 
 若要補充此影片，您也可以[下載白皮書](./../assets/whitepaper-a-tale-of-two-perceptions.pdf)
 
-*一年後：更新*<a href="https://business.adobe.com/blog/perspectives/a-tale-of-two-perceptions-readiness-for-a-cookieless-future"> business.adobe.com </a>*.*&#x200B;的深入分析
+*一年後：更新*<a href="https://business.adobe.com/tw/blog/perspectives/a-tale-of-two-perceptions-readiness-for-a-cookieless-future"> business.adobe.com </a>*.*&#x200B;的深入分析

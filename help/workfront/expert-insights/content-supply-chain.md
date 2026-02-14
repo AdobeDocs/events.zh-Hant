@@ -43,7 +43,7 @@ Core是真正具有策略性的CSM，他為我們設定了有關如何使用Adob
 ### 產品示範
 
 * [Workfront](https://business.adobe.com/tw/product-demos/workfront/interactive-tour.html) — 因為需要互動式[產品示範]，以說明企業工作管理解決方案中可存在的範圍。  
-* [GenStudio](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) — 我喜歡這項功能有多全面，可讓我們的客戶開始將他們的需求與Adobe現有的解決方案聯絡起來。
+* [GenStudio](https://business.adobe.com/tw/resources/sdk/getting-started-with-adobe-genstudio.html) — 我喜歡這項功能有多全面，可讓我們的客戶開始將他們的需求與Adobe現有的解決方案聯絡起來。
 
 ## 關於喇叭 
 
