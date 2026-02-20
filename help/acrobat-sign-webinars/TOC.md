@@ -3,10 +3,10 @@ user-guide-title: Acrobat Sign網路研討會
 user-guide-description: 向Adobe專家學習如何在Acrobat Sign中掌握新的電子簽章工作流程。
 cloud: Document Cloud
 solution: Document Cloud
-source-git-commit: a9eddbd6554ae26c3ed54c29e6894c9e2d1a63a0
+source-git-commit: 3a45db92bac5030331e3db33fc83c628ae7cfc39
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 4%
+source-wordcount: '108'
+ht-degree: 6%
 
 ---
 
@@ -15,6 +15,7 @@ ht-degree: 4%
 
 + [概觀](overview.md)
 + 發行網路研討會 {#releases}
+   + [2026 年 2 月](skill-builders/acrobat-sign-february-2026-release.md)
    + [2025 年 10 月](skill-builders/acrobat-sign-october-2025-release.md)
    + [2025 年 7 月](skill-builders/acrobat-july-release.md)
 + 創新 — 新功能亮點 {#newfeatures}
