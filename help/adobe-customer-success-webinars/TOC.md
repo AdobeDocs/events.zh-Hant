@@ -2,9 +2,9 @@
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
 user-guide-description: Adobe客戶成功引導的網路研討會，旨在協助您最佳化Adobe Experience Cloud投資。 獲得有價值的深入分析，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: d158d7a10bd2651a11d54822908bb63315da0a94
+source-git-commit: fbfcb7835f5a51aea9a295fa1adb63b61585adb2
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '632'
 ht-degree: 5%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 5%
    + Customer Journey Analytics {#cja2026}
       + [為Customer Journey Analytics建立BRD-SDR檔案](2026/brd-sdr-file-best-practices.md)
    + Experience Manager {#aem2026}
+      + [在Edge Delivery Services中製作](2026/authoring-eds.md)
       + [最大化內容供應鏈](2026/value-with-content-supply-chain.md)
       + [AEM Sites的現代化傳遞模型](2026/modern-delivery-model-aem.md)
       + [AEM Cloud Service的戰略優點](2026/moving-to-aemcs.md)
@@ -24,7 +25,9 @@ ht-degree: 5%
       + [內嵌式智慧轉換](2026/embedded-intelligence.md)
    + 一般 {#general2026}
       + [假期成功的AI策略](2026/2025-holiday-results.md)
+      + [內容Supply chain變更管理策略](2026/csc-change-management.md)
       + [內容Supply chain的基礎架構](2026/csc-architecture.md)
+      + [內容Supply chain的作業模型](2026/csc-operating-model.md)
 + 2025 版 {#2025}
    + Commerce {#commerce2025}
       + [使用Adobe Experience Platform豐富Adobe Commerce](2025/enriching-adobe-commerce.md)
