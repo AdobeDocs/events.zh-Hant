@@ -3,9 +3,9 @@ user-guide-title: Acrobat Sign網路研討會
 user-guide-description: 向Adobe專家學習如何在Acrobat Sign中掌握新的電子簽章工作流程。
 cloud: Document Cloud
 solution: Document Cloud
-source-git-commit: 149f4c2e962eaecd657d2a17a5938e972464dcac
+source-git-commit: a9eddbd6554ae26c3ed54c29e6894c9e2d1a63a0
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '106'
 ht-degree: 4%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 4%
    + [建立及使用工作流程](./skill-builders/create-use-workflows.md)
 + 101 — 管理員快速入門 {#getstartedadmins}
    + [提升Acrobat Sign管理體驗的效能](./skill-builders/acrobat-sign-admin-experience.md)
+   + [ETLA管理員](./skill-builders/acrobat-sign-admin-etla.md)
    + [進階報告](./skill-builders/advanced-reporting.md)
 + 102 — 進階工作 {#advancedtasks}
    + [傳送檔案以索取簽名的進階秘訣](./skill-builders/advanced-sending-documents-signature.md)

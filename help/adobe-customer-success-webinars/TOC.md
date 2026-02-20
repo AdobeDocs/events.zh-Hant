@@ -2,9 +2,9 @@
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
 user-guide-description: Adobe客戶成功引導的網路研討會，旨在協助您最佳化Adobe Experience Cloud投資。 獲得有價值的深入分析，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: fbfcb7835f5a51aea9a295fa1adb63b61585adb2
+source-git-commit: a9eddbd6554ae26c3ed54c29e6894c9e2d1a63a0
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '637'
 ht-degree: 5%
 
 ---
@@ -26,6 +26,7 @@ ht-degree: 5%
    + 一般 {#general2026}
       + [假期成功的AI策略](2026/2025-holiday-results.md)
       + [內容Supply chain變更管理策略](2026/csc-change-management.md)
+      + [內容Supply chain高階主管贊助](2026/csc-executive-sponsorship.md)
       + [內容Supply chain的基礎架構](2026/csc-architecture.md)
       + [內容Supply chain的作業模型](2026/csc-operating-model.md)
 + 2025 版 {#2025}
