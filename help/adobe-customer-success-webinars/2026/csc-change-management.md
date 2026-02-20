@@ -20,7 +20,7 @@ ht-degree: 0%
 
 瞭解如何使用備受肯定的變更管理鏡頭，將您的組織帶入資料導向的內容Supply chain。 此會議將展示如何協調領導者、裝備團隊和硬性佈線的新工作方式，以便團隊、自動化和共用資料實際轉化為更快上市時間、更高的資產重複使用率和更強大的治理。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479816/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479828/?captions=chi_hant&learn=on&enablevpops)
 
 * **領導轉變，而不只是工具**&#x200B;瞭解如何以商業術語來框定向自動化內容Supply chain的轉變，以建立真正的認可 — 澄清「為什麼現在」，結盟高階主管，並將早期的試行方案轉化為更廣泛組織的動力。
 
