@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: ae1e04b960662d9156efafaa3ed09bd0de545397
+source-git-commit: 88f804bf4c61e98f8c96011fb8315b9c4e94f64a
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 14%
@@ -26,7 +26,7 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
 <table>
 <tr>
     <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-03-26.md">
-      <img alt="Experience League LIVE 2026年3月3日" src="episodes/assets/WebBannerExlLive-Mar03-2026.jpg">
+      <img alt="Experience League LIVE 2026年3月3日" src="episodes/assets/WebBanner_Mar03_2026-v2.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-03-03-26.md"><strong>與Adobe Experience Cloud資深副總裁Anjul Bhambhri一起參加有洞察力的問答會，瞭解Adobe對於創新Agentic AI功能的大膽願景。</strong></a>
@@ -102,5 +102,5 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
 
 >[!TIP]
 >
->如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/zh-hant#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
+>如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
 
