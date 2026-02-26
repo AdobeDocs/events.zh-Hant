@@ -21,7 +21,7 @@ ht-degree: 1%
 
 此會議探討Customer Journey Analytics (CJA)如何透過劃分資料獨立單位及啟用跨管道和裝置的身分拼接來開啟統一的客戶深入分析。 建議任何人瞭解連結客戶資料、改善歸因精確度及推動更聰明業務決策的實用策略。
 
->[!VIDEO](https://video.tv.adobe.com/v/3480150/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480163/?captions=chi_hant&learn=on&enablevpops)
 
 ## 重點提要
 
