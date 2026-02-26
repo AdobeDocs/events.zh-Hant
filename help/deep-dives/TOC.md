@@ -10,10 +10,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 3%
+source-wordcount: '102'
+ht-degree: 2%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 3%
    + [Admin Console移轉](admin-console.md)
    + [API](api.md)
    + [在Marketo中套用AI](applying-ai.md)
+   + [Webhook提供更聰明的流程與自助服務流程步驟](building-smarter-flows.md)
    + [使用Marketo API自動化及簡化Campaign作業](campaign-operations.md)
    + [認證](certification.md)
    + [探索Marketo Engage中的全新電子郵件Designer](email-designer.md)
