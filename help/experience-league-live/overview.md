@@ -8,16 +8,16 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 88f804bf4c61e98f8c96011fb8315b9c4e94f64a
+source-git-commit: e9b4e1e5bc05103856aab261638fcf0e739b5d7f
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 14%
+source-wordcount: '192'
+ht-degree: 25%
 
 ---
 
 # Experience League LIVE
 
-Experience League LIVE是Experience League團隊製作的直播串流節目。  您可以藉此機會與 Adobe 產品專家交流，並學到您可以透過 Adobe Experience Cloud 應用程式套用的可落實秘訣、技巧和策略。
+Experience League LIVE 是 Experience League 團隊製作的直播串流節目。  您可以藉此機會與 Adobe 產品專家交流，並學到您可以透過 Adobe Experience Cloud 應用程式套用的可落實秘訣、技巧和策略。
 
 
 
@@ -25,26 +25,11 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
 
 <table>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-03-26.md">
-      <img alt="Experience League LIVE 2026年3月3日" src="episodes/assets/WebBanner_Mar03_2026-v2.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-03-03-26.md"><strong>與Adobe Experience Cloud資深副總裁Anjul Bhambhri一起參加有洞察力的問答會，瞭解Adobe對於創新Agentic AI功能的大膽願景。</strong></a>
-      <br/><em>與Anjul Bhambri、Gina Casagrande和Daniel Wright</em>
-      <br/><em>2026年3月3日太平洋時間9:00</em>
-      <br/><br/><b><a href="episodes/exl-live-episode-03-03-26.md">進一步瞭解此工作階段！</a></b>
-    </div>
-  </td>
-</tr>
-</table>
-
-<table>
-<tr>
     <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-12-26.md">
       <img alt="Experience League LIVE 2026年3月3日" src="episodes/assets/WebBannerExlLive-Mar12-2026.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-03-12-26.md"><strong>瞭解Journey Optimizer中的Campaign Orchestration如何管理您的大型一對多多頻道行銷方案 — 從受眾建立到啟動。</strong></a>
+      <a href="episodes/exl-live-episode-03-12-26.md"><strong>瞭解Journey Optimizer中的Campaign Orchestration如何管理您大型的一對多多頻道行銷方案 — 從受眾建立到啟動。</strong></a>
       <br/><em>與Sandra Hausmann、Bridgette Darling、Chakravarthy Kalva和Lee Henderson</em>
       <br/><em>2026年3月12日8:30 PT</em>
       <br/><br/><b><a href="episodes/exl-live-episode-03-12-26.md">進一步瞭解此工作階段！</a></b>
@@ -102,5 +87,5 @@ Experience League LIVE是Experience League團隊製作的直播串流節目。  
 
 >[!TIP]
 >
->如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/zh-hant#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
+>如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
 
