@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Adobe Experience League活動錄製 {#events}
 
-## 在Experience League中，學習是一項活動。****
+## 在Experience League中，學習是一項活動。**&#x200B;**
 
 在專屬的活動和網路研討會中保持聯絡，擴大您的學習範圍。 請經常造訪此空間，以檢視過去活動(例如Experience League LIVE、Skill Builders、Developers Live等)的錄影。 如果您想要註冊即將舉辦的活動，請在Experience League上檢視[即將舉辦的活動](https://%65xperienceleague.adobe.com/events/?lang=en)。
 
