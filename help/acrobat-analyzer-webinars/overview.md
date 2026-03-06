@@ -1,7 +1,7 @@
 ---
 title: Acrobat Analyzer網路研討會
 description: 探索Adobe Acrobat Analyzer網路研討會，瞭解Generative AI如何從檔案中擷取結構化、可稽核的深入分析，以自動化工作流程、降低風險並大規模加速企業決策。
-source-git-commit: 7f12b01387d93419193a45625633231e1ab6214b
+source-git-commit: 679892dcd193ed2a9529f32a3d4cf2b90c054854
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./intro-acrobat-analyzer.md" title="Acrobat Analyzer簡介" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/documentation.png" alt="Acrobat Analyzer簡介"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480894/?format=jpeg&nocache=1772823134422" alt="Acrobat Analyzer簡介"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
