@@ -21,4 +21,4 @@ ht-degree: 0%
 
 技能交流的「快速入門」區段適用於剛開始使用Adobe Analytics的使用者。 在工作階段結束時，檢視者應該已更瞭解Adobe Analytics術語和工具，並初步瞭解Analysis Workspace的主要功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425985/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480573/?captions=chi_hant&learn=on)
