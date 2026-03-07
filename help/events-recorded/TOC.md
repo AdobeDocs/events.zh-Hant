@@ -14,7 +14,7 @@ ht-degree: 11%
 
 + [概觀](overview.md)
 + 依系列 {#series}
-   + [Acrobat Analyzer網路研討會](https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html)
+   + [Acrobat Analyzer網路研討會](https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html?lang=zh-Hant)
    + [Acrobat Sign網路研討會](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=zh-Hant)
    + [Adobe Commerce Intelligence網路研討會](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html?lang=zh-Hant)
    + [Adobe客戶成功網路研討會](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=zh-Hant)
@@ -41,7 +41,7 @@ ht-degree: 11%
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html?lang=zh-Hant)
 + 依解決方案 {#solution}
    + Acrobat分析器 {#aaa}
-      + [Acrobat Analyzer網路研討會](https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html)
+      + [Acrobat Analyzer網路研討會](https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html?lang=zh-Hant)
    + Acrobat Sign {#as}
       + [Acrobat Sign網路研討會](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=zh-Hant)
    + Adobe Acrobat 服務 {#aas}

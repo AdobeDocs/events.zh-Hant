@@ -26,7 +26,7 @@ ht-degree: 7%
   {description = A library of recorded Workfront events where experts and peers share thoughts on how to use Workfront.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png?lang=zh-Hant}
   {cta  = View recordings}
-* https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html
+* https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html?lang=zh-Hant
   {title = Acrobat Analyzer Webinars}
   {description = Join Adobe Acrobat Analyzer webinars to learn how Generative AI turns documents into structured insights that automate workflows and accelerate decision-making.}
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-analyzer-webinars.png?lang=zh-Hant}
@@ -64,7 +64,7 @@ ht-degree: 7%
 * https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=zh-Hant
   {title = Customer Data Management Voices}
   {description = Your destination as a customer data management technical and marketing practice leader and specialist. A one stop shop to hear from your peers, get inspired and learn about developments in martech.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png?lang=zh-Hant}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html?lang=zh-Hant
   {title = Data Drip}
@@ -79,12 +79,12 @@ ht-degree: 7%
 * https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html?lang=zh-Hant
   {title = Experience League LIVE}
   {description = Experience League LIVE is a live streaming show produced by the Experience League team. It's a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png?lang=zh-Hant}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=zh-Hant
   {title = Experience Manager GEMS}
   {description = Technical Adobe Experience Manager deep dives delivered by Adobe experts. This series is a compliment of the product documentation and of all other technical channels regarding Adobe Experience Manager, allowing developers to get in touch and go deep on a specific topic.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png?lang=zh-Hant}
   {cta  = View recordings}Experience Manager GEMS>
 * https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=zh-Hant
   {title = Experience Manager Release Overview}
@@ -167,7 +167,7 @@ ht-degree: 7%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html" title="Acrobat Analyzer網路研討會" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html?lang=zh-Hant" title="Acrobat Analyzer網路研討會" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-analyzer-webinars.png?lang=zh-Hant" alt="Acrobat Analyzer網路研討會"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -176,11 +176,11 @@ ht-degree: 7%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html" target="_blank" rel="referrer" title="Acrobat Analyzer網路研討會">Acrobat Analyzer網路研討會</a>
+                        <a href="https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html?lang=zh-Hant" target="_blank" rel="referrer" title="Acrobat Analyzer網路研討會">Acrobat Analyzer網路研討會</a>
                     </p>
                     <p class="is-size-6">加入Adobe Acrobat Analyzer網路研討會，瞭解Generative AI如何將檔案轉換為可自動化工作流程並加速決策的結構化前瞻分析。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/docs/events/acrobat-analyzer-webinars/overview.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">檢視錄製</span>
                 </a>
             </div>
@@ -329,7 +329,7 @@ ht-degree: 7%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=zh-Hant" title="客戶資料管理對話" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png" alt="客戶資料管理對話"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png?lang=zh-Hant" alt="客戶資料管理對話"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -398,7 +398,7 @@ ht-degree: 7%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html?lang=zh-Hant" title="Experience League LIVE" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png" alt="Experience League LIVE"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png?lang=zh-Hant" alt="Experience League LIVE"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -421,7 +421,7 @@ ht-degree: 7%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=zh-Hant" title="EXPERIENCE MANAGER GEMS" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png" alt="EXPERIENCE MANAGER GEMS"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png?lang=zh-Hant" alt="EXPERIENCE MANAGER GEMS"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
