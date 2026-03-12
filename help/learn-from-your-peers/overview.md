@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Experience Makers - Learn from your peers]'
-description: 向Adobe專家和同行學習如何從Adobe解決方案中獲得最大效益。 [!DNL Experience Makers - Learn from your peers] 是虛擬客戶學習活動的全球系列，著重於深入探討 [!DNL Adobe Experience Cloud] 解決方案。
+description: 向Adobe專家和同業學習如何充分利用Adobe解決方案。 [!DNL Experience Makers - Learn from your peers] 是虛擬客戶學習活動的全球系列，重點是深入瞭解 [!DNL Adobe Experience Cloud] 解決方案。
 exl-id: 006da2ec-77f0-43fb-a653-1b5f4942d692
 duration: 20
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 584c23cf94997392ef06cab7a1d94323aed06fd1
 workflow-type: tm+mt
-source-wordcount: '1320'
+source-wordcount: '1464'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./adobe-user-groups.md" title="探索Experience Cloud中的Adobe使用者群組" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470396/?format=jpeg&nocache=1763596773702" alt="探索Experience Cloud中的Adobe使用者群組"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470396/?format=jpeg&nocache=1773334467947" alt="探索Experience Cloud中的Adobe使用者群組"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -53,7 +53,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./adobe-champion-application.md" title="瞭解如何申請並脫穎而出，成為冠軍" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458989/?format=jpeg&nocache=1763596773709" alt="瞭解如何申請並脫穎而出，成為冠軍"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458989/?format=jpeg&nocache=1773334467959" alt="瞭解如何申請並脫穎而出，成為冠軍"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -88,7 +88,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="genai/2025/scale-ai-adoption-a-playbook-for-approvals.md" title="擴展AI採用 — 供核准的行動手冊" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475270/?format=jpeg&nocache=1763596774047" alt="擴展AI採用 — 供核准的行動手冊"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475270/?format=jpeg&nocache=1773334468178" alt="擴展AI採用 — 供核准的行動手冊"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -114,17 +114,41 @@ ht-degree: 0%
 
 <!-- CARDS
 
+* commerce/2026/product-recommendations-from-setup-to-strategic-growth.md {cta  = Watch event}
 * commerce/2025/commerce-and-app-builder.md {cta  = Watch event}
 * commerce/2024/agile-sdlc.md {cta  = Watch event}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Commerce Recommendations - From Setup to Strategic Growth">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="commerce/2026/product-recommendations-from-setup-to-strategic-growth.md" title="Adobe Commerce Recommendations — 從設定到策略成長" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481370/?format=jpeg&nocache=1773334468328" alt="Adobe Commerce Recommendations — 從設定到策略成長"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="commerce/2026/product-recommendations-from-setup-to-strategic-growth.md" target="_blank" rel="referrer" title="Adobe Commerce Recommendations — 從設定到策略成長">Adobe Commerce建議 — 從設定到策略成長</a>
+                    </p>
+                    <p class="is-size-6">瞭解如何最佳化Adobe Commerce產品建議，以推動AOV、清查和客戶保留等KPI。</p>
+                </div>
+                <a href="commerce/2026/product-recommendations-from-setup-to-strategic-growth.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Commerce & App Builder Essentials - From Basics to Impact">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="commerce/2025/commerce-and-app-builder.md" title="Adobe Commerce與App Builder Essentials — 從基礎知識到影響力" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476691/?format=jpeg&nocache=1763596774316" alt="Adobe Commerce與App Builder Essentials — 從基礎知識到影響力"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476691/?format=jpeg&nocache=1773334468337" alt="Adobe Commerce與App Builder Essentials — 從基礎知識到影響力"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -147,7 +171,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="commerce/2024/agile-sdlc.md" title="在Agile SDLC中著重於通訊、需求和測試的方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1763596774312" alt="在Agile SDLC中著重於通訊、需求和測試的方法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427501/?format=jpeg&nocache=1773334468347" alt="在Agile SDLC中著重於通訊、需求和測試的方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +210,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="experience-manager/2025/metadata-mayhem.md" title="中繼資料混亂到精通" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476712/?format=jpeg&nocache=1763596774528" alt="中繼資料混亂到精通"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476712/?format=jpeg&nocache=1773334468502" alt="中繼資料混亂到精通"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +233,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="experience-manager/2025/smart-tags.md" title="AEM智慧標籤 — 簡化內容及增強可發現性" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471511/?format=jpeg&nocache=1763596774526" alt="AEM智慧標籤 — 簡化內容及增強可發現性"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471511/?format=jpeg&nocache=1773334468513" alt="AEM智慧標籤 — 簡化內容及增強可發現性"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -232,7 +256,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="experience-manager/2024/global-digital-presence.md" title="使用全域組合大規模釋放成功" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457918/?format=jpeg&nocache=1763596774524" alt="使用全域組合大規模釋放成功"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457918/?format=jpeg&nocache=1773334468538" alt="使用全域組合大規模釋放成功"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -274,7 +298,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/data-hygiene-strategy.md" title="為Marketo Engage和CRM Sync建置資料衛生策略" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476321/?format=jpeg&nocache=1763596774782" alt="為Marketo Engage和CRM Sync建置資料衛生策略"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476321/?format=jpeg&nocache=1773334468773" alt="為Marketo Engage和CRM Sync建置資料衛生策略"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -297,7 +321,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/interactive-webinars.md" title="革新您的網路研討會體驗 — 探索互動式網路研討會的影響" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458099/?format=jpeg&nocache=1763596774788" alt="革新您的網路研討會體驗 — 探索互動式網路研討會的影響"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458099/?format=jpeg&nocache=1773334468762" alt="革新您的網路研討會體驗 — 探索互動式網路研討會的影響"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -320,7 +344,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2024/advanced-segmentation.md" title="進階區段稽核 — 確保Marketo Engage的精確度和效能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439383/?format=jpeg&nocache=1763596774793" alt="進階區段稽核 — 確保Marketo Engage的精確度和效能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439383/?format=jpeg&nocache=1773334468876" alt="進階區段稽核 — 確保Marketo Engage的精確度和效能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -343,7 +367,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2024/multi-stream-engagement-programs.md" title="使用多串流參與計畫掌握複雜的客戶歷程" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1763596774808" alt="使用多串流參與計畫掌握複雜的客戶歷程"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434490/?format=jpeg&nocache=1773334468863" alt="使用多串流參與計畫掌握複雜的客戶歷程"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -366,7 +390,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2024/marketers-map-marketo-campaigns.md" title="行銷人員地圖 — 策略化、建立和分析Marketo行銷活動的完整指南" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1763596774797" alt="行銷人員地圖 — 策略化、建立和分析Marketo行銷活動的完整指南"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432223/?format=jpeg&nocache=1773334468783" alt="行銷人員地圖 — 策略化、建立和分析Marketo行銷活動的完整指南"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -389,7 +413,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2024/practical-applications-of-marketo-engage-rest-api.md" title="解鎖強大的工作流程自動化 — Marketo Engage REST API的實際應用" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1763596774818" alt="解鎖強大的工作流程自動化 — Marketo Engage REST API的實際應用"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428435/?format=jpeg&nocache=1773334468838" alt="解鎖強大的工作流程自動化 — Marketo Engage REST API的實際應用"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -412,7 +436,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2024/person-scoring-mastery.md" title="使用Marketo Engage的個人得分掌握 — 全球框架中的本地化細微差別" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457450/?captions=chi_hant&format=jpeg&nocache=1763596774826" alt="使用Marketo Engage的個人得分掌握 — 全球框架中的本地化細微差別"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1773334468851" alt="使用Marketo Engage的個人得分掌握 — 全球框架中的本地化細微差別"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -452,7 +476,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="experience-manager/2025/metadata-mayhem.md" title="中繼資料混亂到精通" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476712/?format=jpeg&nocache=1763596775287" alt="中繼資料混亂到精通"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476712/?format=jpeg&nocache=1773334469198" alt="中繼資料混亂到精通"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -475,7 +499,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/simplify-resource-planning-with-automation.md" title="利用自動化簡化資源規劃" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475907/?format=jpeg&nocache=1763596775293" alt="利用自動化簡化資源規劃"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475907/?format=jpeg&nocache=1773334469165" alt="利用自動化簡化資源規劃"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -498,7 +522,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/how-to-measure-and-share-workfront-value.md" title="清楚說明影響 — 如何測量和共用Workfront值" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447501/?format=jpeg&nocache=1763596775297" alt="清楚說明影響 — 如何測量和共用Workfront值"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447501/?format=jpeg&nocache=1773334469180" alt="清楚說明影響 — 如何測量和共用Workfront值"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -521,7 +545,32 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2024/staffing-your-workfront-system-admin-practice.md" title="人員配備您的Workfront系統管理員實務網路研討會" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1763596775302" alt="人員配備您的Workfront系統管理員實務網路研討會"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1773334469189" alt="人員配備您的Workfront系統管理員實務網路研討會"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="workfront/2024/staffing-your-workfront-system-admin-practice.md" target="_blank" rel="referrer" title="人員配備您的Workfront系統管理員實務網路研討會">您的Workfront系統管理員實務網路研討會人員配備</a>
+                    </p>
+                    <p class="is-size-6">在隨選網路研討會中，向Dell和Adobe Workfront專家瞭解系統管理員的戰略重要性。 探索在Adobe Workfront中保護全職人數、運用群組管理員角色及定義角色設定檔以有效設定和擴充能力的秘訣。</p>
+                </div>
+                <a href="workfront/2024/staffing-your-workfront-system-admin-practice.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看活動</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+網路研討會」&gt;
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="workfront/2024/staffing-your-workfront-system-admin-practice.md" title="人員配備您的Workfront系統管理員實務網路研討會" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431021/?format=jpeg&nocache=1773334468288" alt="人員配備您的Workfront系統管理員實務網路研討會"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
