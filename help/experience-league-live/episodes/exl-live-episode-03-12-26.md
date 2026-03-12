@@ -23,4 +23,4 @@ We covered the campaign orchestration canvas and relational schemas the foundati
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481409/?quality=12&learn=on)
 
-To continue the conversation about this topic, please visit the [Experience League Community discussion.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161){target="_blank"}
+To continue the conversation about this topic, please visit the [Experience League Community discussion.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161?profile.language=zh-Hant){target="_blank"}
