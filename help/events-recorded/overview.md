@@ -109,7 +109,7 @@ ht-degree: 7%
 * https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html?lang=zh-Hant
   {title = Experience Cloud Tech Sessions}  
   {description = Unlock Adobe Experience Cloud with Adobe expert-led Tech Sessions, available live and on-demand for seamless learning.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-cloud-tech-sessions.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-cloud-tech-sessions.png?lang=zh-Hant}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html?lang=zh-Hant
   {title = Adobe Commerce Intelligence}  
@@ -536,7 +536,7 @@ ht-degree: 7%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html?lang=zh-Hant" title="Experience Cloud技術研討會" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-cloud-tech-sessions.png" alt="Experience Cloud技術研討會"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-cloud-tech-sessions.png?lang=zh-Hant" alt="Experience Cloud技術研討會"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
