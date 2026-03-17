@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 220b114c82508f2c97b239c64b33a4e66feb03a7
+source-git-commit: 906af81ca9bfea0d33221278bd41136ecad48069
 workflow-type: tm+mt
-source-wordcount: '352'
-ht-degree: 13%
+source-wordcount: '371'
+ht-degree: 12%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 13%
 
 + [概觀](overview.md)
 + 集數 {#episodes}
+   + [客戶參與的新使用案例：iOS上線活動、網頁推播和永久訊息](episodes/exl-live-episode-04-08-26.md)
    + [瞭解Adobe Journey Optimizer中的Campaign協調流程](episodes/exl-live-episode-03-12-26.md)
    + [Adobe Experience Platform Agents可提升行銷效率和改善業務成果](episodes/exl-live-episode-03-03-26.md)
    + [工作中的代理程式：建立和啟用對象和歷程](episodes/exl-live-episode-01-28-26.md)
@@ -54,7 +55,7 @@ ht-degree: 13%
    + [詢問專家 — RTCDP Connections](episodes/exl-live-episode-06-23-22.md)
    + [詢問專家 — 網路SDK基礎知識](episodes/exl-live-episode-05-26-22.md)
    + [使用Adobe App Builder擴充AEM](episodes/exl-live-episode-07.md)
-   + [誰按一下該連結？他們還做了什麼？](episodes/exl-live-episode-04.md)
+   + [誰按一下該連結？ 他們還做了什麼？](episodes/exl-live-episode-04.md)
    + [讓您的假日行銷活動脫穎而出的專家秘訣](episodes/exl-live-episode-03.md)
    + [我最愛的三個Adobe [!DNL Analytics] 實作秘訣](episodes/exl-live-episode-01.md)
 + [EXPERIENCE LEAGUE LIVE ASSETS](exl-live-assets.md)
