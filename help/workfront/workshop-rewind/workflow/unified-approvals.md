@@ -19,6 +19,6 @@ ht-degree: 4%
 
 探索統一核准的關鍵層面，包括方向、報告和即將推出的功能。 此工作坊回顧提供寶貴的見解，可幫助您瞭解最新資訊並最佳化您的工作流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481834/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481860/?captions=chi_hant&learn=on&enablevpops)
 
 每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/zh-hant/events)以瞭解最新工作階段。

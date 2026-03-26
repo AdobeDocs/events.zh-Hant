@@ -20,7 +20,7 @@ ht-degree: 3%
 
 深入瞭解Fusion Decoded Part 2，以瞭解Fusion工作流程與系統的基礎建置策略。 此課程是專為想要增強知識並改善Fusion實作的管理員、開發人員和領導者所設計。 觀看工作坊的倒轉過程，以獲得可操作的見解和技巧。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481833/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481849/?captions=chi_hant&learn=on&enablevpops)
 
 每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/zh-hant/events)以瞭解最新工作階段。
 

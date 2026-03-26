@@ -17,6 +17,6 @@ ht-degree: 6%
 
 # Adobe Workfront 2026年第二季版本網路研討會
 
->[!VIDEO](https://video.tv.adobe.com/v/3481835/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481871/?captions=chi_hant&learn=on&enablevpops)
 
 每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/zh-hant/events)以瞭解最新工作階段。
