@@ -21,9 +21,9 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481821/?learn=on&enablevpops)
 
-本會議將討論內容擴充至先前研討會[Workfront Pro管理、執行和採用秘訣](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/workflow/governance-execution-adoption)。
+本會議將討論內容擴充至先前研討會[Workfront Pro管理、執行和採用秘訣](https://experienceleague.adobe.com/zh-hant/docs/events/workfront-recordings/workshop-rewind/workflow/governance-execution-adoption)。
 
 如果您錯過課程，別擔心！ 檢閱[投影片組](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Pro+Tips+Part+2_Dec2025.pdf)，並觀看隨選錄製。
 
-每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/en/events)以瞭解最新工作階段。
+每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/zh-hant/events)以瞭解最新工作階段。
 
