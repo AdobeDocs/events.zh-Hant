@@ -3,9 +3,9 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '534'
 ht-degree: 1%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 1%
 + [Workfront隨選研討會](overview.md)
 
 + 發行網路研討會 {#releases}
+   + [2026年第二季版本網路研討會](releases/26-q2-release-webinar.md)
+   + [2026年第一季版本網路研討會](releases/26-q1-release-webinar.md)
    + [2025年第四季版本網路研討會](releases/25-q4-release-webinar.md)
    + [25.7版](releases/25-7-release-webinar.md)
    + [25.4版](releases/25-4-release-webinar.md)
@@ -23,22 +25,29 @@ ht-degree: 1%
    + [24.1版](releases/24-1-release-webinar.md)
 + 車間倒帶 {#workshop-rewind}
    + Fusion {#fusion}
+      + [使用Workfront Fusion自動化品牌化PDF](workshop-rewind/fusion/automating-branded-pdfs.md)
       + [自動化命名慣例](workshop-rewind/fusion/automating-naming-conventions.md)
       + [自動化工作流程](workshop-rewind/fusion/automate-work-processes.md)
       + [Fusion的好處與最佳實務](workshop-rewind/fusion/benefits-best-practices.md)
       + [資料匯入](workshop-rewind/fusion/data-imports.md)
       + [Fusion的優點和使用案例](workshop-rewind/fusion/case-for-fusion.md)
       + [Fusion已解碼](workshop-rewind/fusion/fusion-decoded.md)
+      + [Fusion解碼的第2部分 — 開始建立](workshop-rewind/fusion/fusion-decoded-part-2.md)
       + [Workfront Fusion如何協助人類](workshop-rewind/fusion/inside-mayo-clinic.md)
       + [輕鬆導覽多選欄位的變更](workshop-rewind/fusion/mulit-select-fields.md)
       + [主動式例外狀況處理](workshop-rewind/fusion/proactive-exception-handling.md)
+      + [施耐德電動硬碟Workfront效率](workshop-rewind/fusion/schneider-electric-efficiency.md)
       + [簡化工作流程](workshop-rewind/fusion/automate-workflows.md)
+      + [秘訣、技巧和發行重點](workshop-rewind/fusion/tips-tricks-release-highlights.md)
       + [解除鎖定真實事件成本](workshop-rewind/fusion/event-costs.md)
       + [升級至事件訂閱V2](workshop-rewind/fusion/event-subscriptions-v2.md)
       + [Workfront Fusion + JSONata](workshop-rewind/fusion/jsonata.md)
    + 規劃 {#planning}
       + [Workfront Planning最新消息](workshop-rewind/planning/workfront-planning.md)
       + [Adobe Workfront規劃示範](workshop-rewind/planning/planning-demo.md)
+      + [建立基礎實作](workshop-rewind/planning/base-implementation.md)
+      + [連線Planning、Workflow和Canvas控制面板](workshop-rewind/planning/planning-workflow-canvas.md)
+      + [Syracuse如何運用Planning](workshop-rewind/planning/syracuse-planning.md)
       + [SNHU的Creative使用案例](workshop-rewind/planning/planning-reimagined.md)
       + [使用Workfront Planning取得團隊層級的成功](workshop-rewind/planning/team-success-workfront-planning.md)
       + [Workfront規劃版本與藍圖](workshop-rewind/planning/planning-release-roadmap.md)
@@ -47,6 +56,7 @@ ht-degree: 1%
       + [提升效率](workshop-rewind/workflow/cognizant-project-excellence.md)
       + [Workfront中的變更管理](workshop-rewind/workflow/change-management.md)
       + [內容Supply chain整合](workshop-rewind/workflow/content-supply-chain.md)
+      + [資料彙集](workshop-rewind/workflow/data-collection.md)
       + [定義與溝通Workfront值](workshop-rewind/workflow/workfront-value.md)
       + [Workfront中的有效溝通技巧](workshop-rewind/workflow/communication-tips.md)
       + [治理、執行和採用秘訣](workshop-rewind/workflow/governance-execution-adoption.md)
@@ -60,13 +70,18 @@ ht-degree: 1%
       + [專案範本](workshop-rewind/workflow/project-templates.md)
       + [重新想像Creative簡介](workshop-rewind/workflow/creative-briefs.md)
       + [資源管理基本知識](workshop-rewind/workflow/resource-management.md)
+      + [加速採用和創造價值的資源](workshop-rewind/workflow/accelerate-adoption.md)
+      + [重新思考資源管理](workshop-rewind/workflow/rethink-resource-management.md)
       + [獲得高階主管的贊助](workshop-rewind/workflow/secure-executive-sponsorship.md)
       + [自學走向成功](workshop-rewind/workflow/self-taught-to-success.md)
       + [使用Workfront報表進行春季清理](workshop-rewind/workflow/workfront-reports-cleanup.md)
+      + [10個溝通秘訣](workshop-rewind/workflow/10-communication-tips.md)
       + [10個文字模式提示](workshop-rewind/workflow/text-mode-tips.md)
       + [其他10個文字模式提示](workshop-rewind/workflow/10-more-text-mode-tips.md)
       + [將使用者混淆轉換為信賴度](workshop-rewind/workflow/avalara-user-transformation.md)
       + [疑難排解Workfront計算欄位](workshop-rewind/workflow/troubleshoot-calculated-expressions.md)
+      + [將藍圖轉換為訓練計畫](workshop-rewind/workflow/blueprints-to-planning.md)
+      + [瞭解整合式核准](workshop-rewind/workflow/unified-approvals.md)
       + [解鎖Workfront展示板](workshop-rewind/workflow/unlock-boards.md)
       + [解鎖Workfront Data Connect的強大功能](workshop-rewind/workflow/data-connect.md)
       + [使用Workfront進行有效重組](workshop-rewind/workflow/effective-reorgs.md)
@@ -98,7 +113,7 @@ ht-degree: 1%
    + [採用](expert-insights/adoption.md)
    + [採用調查](expert-insights/adoption-surveys.md)
    + [敏捷](expert-insights/agile.md)
-   + [內容供應鏈](expert-insights/content-supply-chain.md)
+   + [內容Supply chain](expert-insights/content-supply-chain.md)
    + [Fusion](expert-insights/fusion.md)
    + [治理與卓越中心](expert-insights/centers-of-excellence.md)
    + [主文字模式](expert-insights/text-mode.md)
