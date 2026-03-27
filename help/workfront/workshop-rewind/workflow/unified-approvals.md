@@ -24,6 +24,6 @@ ht-degree: 2%
 
 如果您錯過課程，別擔心！ 檢閱[投影片組](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/032626+-Understanding+Unified+Approvals.pdf)，並觀看隨選錄製。
 
-在尋找更多資源或活動中的問答？ 檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-understanding-unified-approvals-direction-reporting-and-what-s-next-3-26-26-249480)！
+在尋找更多資源或活動中的問答？ 檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-understanding-unified-approvals-direction-reporting-and-what-s-next-3-26-26-249480?profile.language=zh-Hant)！
 
-每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/en/events)以瞭解最新工作階段。
+每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/zh-hant/events)以瞭解最新工作階段。
