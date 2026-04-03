@@ -3,9 +3,9 @@ title: Adobe Workfront隨選研討會
 description: Workfront活動是影片庫，專家和同業可在此分享他們的想法和想法，瞭解如何使用Workfront來增強為組織完成的工作。
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: d7989a42ea790da356538044033d8a4f712f6d06
+source-git-commit: 0cd9d63a55aad1456f83c8b35293ea1705029954
 workflow-type: tm+mt
-source-wordcount: '882'
+source-wordcount: '887'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="releases/26-q1-release-webinar.md" title="Adobe Workfront 2026年第一季版本網路研討會" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481817/?format=jpeg&nocache=1775083620522" alt="Adobe Workfront 2026年第一季版本網路研討會"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481817/?format=jpeg&nocache=1775228743435" alt="Adobe Workfront 2026年第一季版本網路研討會"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ## 車間倒帶
 
-透過我們精心挑選的精選活動，從您的Adobe Workfront社群探索最新消息。 我們每個月會舉辦免費的即時課程，涵蓋各種主題，協助您充份運用Workfront。 錯過直播活動？ 沒問題！ 趕上隨選錄影，展示客戶故事、證實的最佳實務和寶貴的經驗教訓。 想要即時連線嗎？ 加入即將舉辦的即時活動，以提出問題、分享見解並與同業共同作業。 請定期造訪[Experience League Workfront活動頁面](https://experienceleague.adobe.com/zh-hant/events?filters=Workfront)，瞭解後續活動！
+透過我們精心挑選的精選活動，從您的Adobe Workfront社群探索最新消息。 我們每個月會舉辦免費的即時課程，涵蓋各種主題，協助您充份運用Workfront。 錯過直播活動？ 沒問題！ 趕上隨選錄影，展示客戶故事、證實的最佳實務和寶貴的經驗教訓。 想要即時連線嗎？ 加入即將舉辦的即時活動，以提出問題、分享見解並與同業共同作業。 請定期造訪[Experience League Workfront活動頁面](https://experienceleague.adobe.com/en/events?filters=Workfront)，瞭解後續活動！
 
 <!-- CARDS 
 
@@ -67,7 +67,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/planning/planning-workflow-canvas.md" title="Workfront的Power Trio — 連線規劃、工作流程和畫布控制面板" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481830/?format=jpeg&nocache=1775083621240" alt="Workfront的Power Trio — 連線規劃、工作流程和畫布控制面板"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481830/?format=jpeg&nocache=1775228743880" alt="Workfront的Power Trio — 連線規劃、工作流程和畫布控制面板"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -90,7 +90,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/workflow/rethink-resource-management.md" title="在Advisors Excel上反思資源管理的敏捷方式" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481832/?format=jpeg&nocache=1775083621230" alt="在Advisors Excel上反思資源管理的敏捷方式"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481832/?format=jpeg&nocache=1775228743890" alt="在Advisors Excel上反思資源管理的敏捷方式"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -113,7 +113,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/fusion/fusion-decoded.md" title="Fusion已解碼 — 這是什麼，以及每個組織都可以使用它的原因" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477159/?format=jpeg&nocache=1775083621225" alt="Fusion已解碼 — 這是什麼，以及每個組織都可以使用它的原因"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477159/?format=jpeg&nocache=1775228743875" alt="Fusion已解碼 — 這是什麼，以及每個組織都可以使用它的原因"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -155,7 +155,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/blueprints.md" title="前3名 — Creative使用Blueprint的方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465324/?captions=chi_hant&format=jpeg&nocache=1775083621996" alt="前3名 — Creative使用Blueprint的方法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1775228744320" alt="前3名 — Creative使用Blueprint的方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +178,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/versus/groups-vs-teams.md" title="與！  — 群組與團隊" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467364/?captions=chi_hant&format=jpeg&nocache=1775083622002" alt="與！  — 群組與團隊"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1775228744326" alt="與！  — 群組與團隊"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -207,19 +207,19 @@ Workfront Expert Insights系列是您解鎖Workfront資深從業人員實用策�
 
 <!-- CARDS 
 
-* expert-insights/adoption.md
-* expert-insights/adoption-surveys.md
-* expert-insights/agile.md
+* expert-insights/text-mode.md
+* expert-insights/sla-reporting.md
+* expert-insights/evolution-of-an-instance.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights - Adoption with Leslie Spier">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Master Text Mode with Katherine Lanning">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="expert-insights/adoption.md" title="專家深入分析 — 採用Leslie Spier" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469938/?captions=chi_hant&format=jpeg&nocache=1775083622302" alt="專家深入分析 — 採用Leslie Spier"
+                    <a href="expert-insights/text-mode.md" title="使用Katherine Lanning的主文字模式" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477024/?format=jpeg&nocache=1775228744510" alt="使用Katherine Lanning的主文字模式"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -227,22 +227,22 @@ Workfront Expert Insights系列是您解鎖Workfront資深從業人員實用策�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="expert-insights/adoption.md" target="_blank" rel="referrer" title="專家深入分析 — 採用Leslie Spier">專家深入分析 — 採用Leslie Spier</a>
+                        <a href="expert-insights/text-mode.md" target="_blank" rel="referrer" title="使用Katherine Lanning的主文字模式">Katherine Lanning的主文字模式</a>
                     </p>
-                    <p class="is-size-6">向Leslie Spier學習採用策略，以提升Workfront參與度、改善流程並認可使用者貢獻。</p>
+                    <p class="is-size-6">透過Katherine Lanning的專家深入分析，探索Workfront中文字模式的強大功能。</p>
                 </div>
-                <a href="expert-insights/adoption.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="expert-insights/text-mode.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights – Adoption Surveys with Jaime Davidson">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="SLA Reporting in Workfront with Madalyn Destafney">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="expert-insights/adoption-surveys.md" title="專家深入分析 — 與Jaime Davidson進行採用率調查" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469961/?captions=chi_hant&format=jpeg&nocache=1775083622315" alt="專家深入分析 — 與Jaime Davidson進行採用率調查"
+                    <a href="expert-insights/sla-reporting.md" title="使用Madalyn Destafney在Workfront中進行SLA報告" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1775228744500" alt="使用Madalyn Destafney在Workfront中進行SLA報告"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -250,22 +250,22 @@ Workfront Expert Insights系列是您解鎖Workfront資深從業人員實用策�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="expert-insights/adoption-surveys.md" target="_blank" rel="referrer" title="專家深入分析 — 與Jaime Davidson進行採用率調查">專家深入分析 — 與Jaime Davidson進行採用率調查</a>
+                        使用Madalyn Destafney在Workfront中進行<a href="expert-insights/sla-reporting.md" target="_blank" rel="referrer" title="使用Madalyn Destafney在Workfront中進行SLA報告">SLA報告</a>
                     </p>
-                    <p class="is-size-6">採用和變更管理、最佳實務、工作流程自動化(全都適合，因為此次會議的主題是採用調查、最佳化和擴展流程</p>
+                    <p class="is-size-6">瞭解如何透過Madalyn Destafney的專家提示在Adobe Workfront中實作和測量服務等級協定(SLA)，包括逐步指南、計算欄位範例和自訂表單最佳實務。</p>
                 </div>
-                <a href="expert-insights/adoption-surveys.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="expert-insights/sla-reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights - Agile with Natalie Mitchell">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Expert Insights with Jen Desmond">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="expert-insights/agile.md" title="專家深入分析 — 與Natalie Mitchell敏捷合作" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469927/?captions=chi_hant&format=jpeg&nocache=1775083622295" alt="專家深入分析 — 與Natalie Mitchell敏捷合作"
+                    <a href="expert-insights/evolution-of-an-instance.md" title="Jen Desmond的專家深入分析" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483111/?format=jpeg&nocache=1775228744495" alt="Jen Desmond的專家深入分析"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -273,11 +273,11 @@ Workfront Expert Insights系列是您解鎖Workfront資深從業人員實用策�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="expert-insights/agile.md" target="_blank" rel="referrer" title="專家深入分析 — 與Natalie Mitchell敏捷合作">專家深入分析 — 與Natalie Mitchell敏捷合作</a>
+                        <a href="expert-insights/evolution-of-an-instance.md" target="_blank" rel="referrer" title="Jen Desmond的專家深入分析">專家深入分析與Jen Desmond</a>
                     </p>
-                    <p class="is-size-6">加入Natalie Mitchell，她將分享敏捷最佳實務、資源和秘訣，以與您的Workfront團隊成功實作Agile。</p>
+                    <p class="is-size-6">加入Jen Desmond的行列，討論執行個體的演化，並分享有關變更管理和使用者參與的見解。</p>
                 </div>
-                <a href="expert-insights/agile.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="expert-insights/evolution-of-an-instance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
                 </a>
             </div>
