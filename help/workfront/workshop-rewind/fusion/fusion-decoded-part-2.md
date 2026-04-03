@@ -1,27 +1,29 @@
 ---
 title: Fusion解碼的第2部分 — 開始建立
-description: 探索Fusion解碼的第2部分的重要深入分析，並學習基礎建置策略。 管理員、開發人員和領導者的理想選擇。
+description: EDiscover在Fusion Decoded Part 2中的進階功能與情境，包括自動化、專案命名和CSV上傳。
 feature: Workfront Fusion
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
-duration: 13
-last-substantial-update: 2026-03-26T00:00:00Z
-jira: KT-20611
+duration: 3914
+last-substantial-update: 2026-04-03T00:00:00Z
+jira: KT-20754
 exl-id: 4ffc94ab-8e8f-46d4-b1b6-fe47626cd86e
-hide: true
-hidefromtoc: true
-source-git-commit: bc12861cad5ee726f9afe065155e03f4095e647e
+source-git-commit: 042c6c63a6b60c77e51d50a59ae9b5fd6fc5f7ca
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 3%
+source-wordcount: '209'
+ht-degree: 1%
 
 ---
 
-# Fusion解碼的第2部分 — 開始建立
+# Fusion解碼的第2部分 — 讓我們開始建立
 
-深入瞭解Fusion Decoded Part 2，以瞭解Fusion工作流程與系統的基礎建置策略。 此課程是專為想要增強知識並改善Fusion實作的管理員、開發人員和領導者所設計。 觀看工作坊的倒轉過程，以獲得可操作的見解和技巧。
+在[第1](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded)部分，Jen Desmond向我們展示了Fusion的威力，以及它可以為任何組織做些什麼。 觀看此系列的第2部分，她潛入準備就緒的範本，向您展示如何使用它們快速啟動您的自動化歷程。 瞭解範本如何消除猜測、縮短設定時間，以及幫助您自信地啟動真正的自動化，而不用從頭開始。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481849/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483137/?learn=on&enablevpops)
 
-每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/zh-hant/events)以瞭解最新工作階段。
+如果您錯過課程，別擔心！ 檢閱[投影片組](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040226-Fusion-Decoded_Part+2.pdf)，並觀看隨選錄製。
+
+在尋找更多資源或活動中的問答？ 檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-fusion-decoded-part-2-let-s-start-building-4-2-26-249622)！
+
+每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/en/events)以瞭解最新工作階段。
