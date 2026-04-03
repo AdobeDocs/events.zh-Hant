@@ -3,9 +3,9 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
+source-git-commit: 88adf7e72d49b8f8e8cf8199e320152556304d46
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '538'
 ht-degree: 1%
 
 ---
@@ -114,6 +114,7 @@ ht-degree: 1%
    + [採用調查](expert-insights/adoption-surveys.md)
    + [敏捷](expert-insights/agile.md)
    + [內容Supply chain](expert-insights/content-supply-chain.md)
+   + [執行個體的演化](expert-insights/evolution-of-an-instance.md)
    + [Fusion](expert-insights/fusion.md)
    + [治理與卓越中心](expert-insights/centers-of-excellence.md)
    + [主文字模式](expert-insights/text-mode.md)
