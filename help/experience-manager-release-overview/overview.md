@@ -30,7 +30,7 @@ ht-degree: 6%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/2026-3-0.md" title="2026.03.0 AEM版本總覽影片" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483060/?format=jpeg&nocache=1775063376142" alt="2026.03.0 AEM版本總覽影片"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483071/?captions=chi_hant&format=jpeg&nocache=1775063376142" alt="2026.03.0 AEM版本總覽影片"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
