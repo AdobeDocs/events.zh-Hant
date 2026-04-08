@@ -70,7 +70,7 @@ ht-degree: 7%
    + 2026 {#2026}
       + [可持續的Workfront採用](workfront/2026/workfront-adoption.md)
    + 2025 版 {#2025}
-      + [中繼資料混亂](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [中繼資料混亂](https://experienceleague.adobe.com/zh-hant/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [清楚說明影響 — 如何測量和共用Workfront值](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [利用自動化簡化資源規劃](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 年 {#2024}
