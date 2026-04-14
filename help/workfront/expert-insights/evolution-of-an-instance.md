@@ -21,7 +21,7 @@ ht-degree: 0%
 
 在本集中，Adobe技術成功顧問Jen Desmond將加入我們，分享她從首次Workfront使用者到受信任專家的歷程，以及管理變更和有意擴充執行個體的實用建議。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483111/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483122/?captions=chi_hant&learn=on&enablevpops)
 
 您將會獲得一些深思熟慮的見解，包括：
 
