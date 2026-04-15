@@ -21,7 +21,7 @@ ht-degree: 0%
 
 瞭解設定檔案以進行電子簽章的三種簡單方法。 無論是PDF、Microsoft 365檔案，或甚至是簡單的影像檔案，本課程都能提供您所需的工具，讓該檔案經過簽署。 我們將介紹三種方法：Adobe Acrobat Sign簡單的拖放式製作環境在Adobe Acrobat中設定PDF表單使用文字標籤可快速完成檔案製作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428184/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455967/?captions=chi_hant&learn=on)
 
 ## 搭配Microsoft Word使用文字標籤有何優點？
 

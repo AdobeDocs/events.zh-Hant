@@ -21,7 +21,7 @@ ht-degree: 0%
 
 開啟主題演講
 
->[!VIDEO](https://video.tv.adobe.com/v/3471108/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471135/?captions=chi_hant&learn=on&enablevpops)
 
 ## 釋放卓越的分析師：基本技能
 

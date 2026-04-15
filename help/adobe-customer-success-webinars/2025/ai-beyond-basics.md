@@ -28,4 +28,4 @@ ht-degree: 0%
 * 檢查關鍵使用案例、功能的運用，以及成熟度進展的提示和訣竅。
 * 也討論即將推出的功能和增強功能
 
->[!VIDEO](https://video.tv.adobe.com/v/3463357/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463369/?captions=chi_hant&learn=on&enablevpops)

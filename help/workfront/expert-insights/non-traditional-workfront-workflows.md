@@ -34,7 +34,7 @@ ht-degree: 0%
 * 起始Creative簡短稽核，以符合使用者和專案的需求。 
 * *額外優惠！*&#x200B;她還分享她最愛的Fusion使用案例範例！
 
->[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469950/?captions=chi_hant&learn=on&enablevpops)
 
 ## 資源
 

@@ -28,4 +28,4 @@ ht-degree: 0%
 * 在Adobe Commerce中善用細分和動態內容的最佳實務
 * 提升客戶參與度的有效內容管理策略
 
->[!VIDEO](https://video.tv.adobe.com/v/3433146/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456951/?captions=chi_hant&learn=on)

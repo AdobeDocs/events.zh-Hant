@@ -21,7 +21,7 @@ ht-degree: 2%
 
 統一核准代表Workfront中核准的未來。 加入我們的Adobe產品管理團隊，瞭解如何在Workfront中共用產品方向以取得核准、與今日校訂有何不同，以及隨著時間轉換後會是什麼樣子。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481834/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481860/?captions=chi_hant&learn=on&enablevpops)
 
 如果您錯過課程，別擔心！ 檢閱[投影片組](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/032626+-Understanding+Unified+Approvals.pdf)，並觀看隨選錄製。
 

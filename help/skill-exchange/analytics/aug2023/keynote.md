@@ -22,4 +22,4 @@ ht-degree: 0%
 
 好奇Adobe Analytics會走向何方？ Customer Journey Analytics和Adobe Analytics產品管理總監Ben Gaines會告訴您一些預期情況。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425984/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454427/?captions=chi_hant&learn=on)
