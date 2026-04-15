@@ -2,6 +2,8 @@
 title: Adobe Digital Insights — 數位化與GenAI採用狀態網路研討會
 description: 透過1T+網站造訪，探索Adobe的主要零售和旅遊趨勢：GenAI、行動裝置、KPI和消費者分析，協助促進增長。
 solution: General
+feature: Generative AI
+topic: Artificial Intelligence, Performance, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3531
 last-substantial-update: 2025-05-20T00:00:00Z
 jira: KT-18108
 exl-id: 2158dece-ff41-42e7-b000-96172a707599
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---

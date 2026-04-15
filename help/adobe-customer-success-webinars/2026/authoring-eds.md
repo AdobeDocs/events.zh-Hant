@@ -3,19 +3,20 @@ title: 在Edge Delivery Services中製作
 description: 探索Edge Delivery Services中的製作策略，將檔案式製作和通用編輯器與AEM Sites進行比較。
 solution: Experience Manager
 feature: Universal Editor, Edge Delivery Services
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3734
 last-substantial-update: 2026-02-20T00:00:00Z
 jira: KT-20322
-source-git-commit: fbfcb7835f5a51aea9a295fa1adb63b61585adb2
+exl-id: 1afff015-5b4b-41cc-9b64-646f4ec02a4e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
-
 
 # 在Edge Delivery Services中製作
 
@@ -29,4 +30,3 @@ ht-degree: 0%
 * **瞭解您的槍手**&#x200B;瞭解Edge Delivery Services環境中檔案式製作、通用編輯器網站和檔案製作的核心優點、弱點和限制。
 * **選擇正確的武器來進行正確的戰鬥**&#x200B;瞭解哪些撰寫模式適合哪些使用案例（行銷活動、歷久不衰的內容、企業網站、實驗、本地化），以及如何根據您團隊的技能進行調整。
 * **治安官如何維持安寧**&#x200B;瞭解Document Authoring如何在不同撰寫方法間發揮協調者的作用 — 強制一致性、簡化工作流程，讓您安全地選擇所需的工具，而不會失去控制權。
-

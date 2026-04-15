@@ -1,19 +1,21 @@
 ---
 title: 建立共用欄報告
 description: 探索Adobe Workfront中使用共用欄報表的3大理由。 透過逐步指引增強報表美感和溝通。
+feature: Reports and Dashboards
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 743
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-18653
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 952bbc23-692e-4af0-99ff-51b3f079d2ee
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # 建立共用欄報表的3大理由
 
@@ -23,8 +25,6 @@ ht-degree: 0%
 
 關於如何使用文字模式將資訊合併到報表中，我們有很多問題要問，所以我們有逐步影片以及以下一些資源來幫助您入門。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470131/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470076/?learn=on&enablevpops)
 
-正在尋找更多嗎？ 我們在&#x200B;**Experience League社群貼文**&#x200B;上有[三個額外秘訣](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641?profile.language=zh-Hant)！
-
-
+正在尋找更多嗎？ 我們在[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641)上有&#x200B;**三個額外秘訣**！

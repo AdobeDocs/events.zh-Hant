@@ -4,28 +4,29 @@ description: 瞭解新的自動化流程如何協助您將分析和資料從Adob
 jira: KT-14746
 solution: Analytics,Customer Journey Analytics
 feature: Experience Cloud Integration
+topic: Integrations, Migration, Administration
 event-cta-url-live: https://www.youtube.com/watch?v=BkAjaMPgpgE
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-240117.html
 event-start-time: 2024-01-17 10:00-7
 event-guests: Doug Moore,Eric Matisoff,Bryan Skelton
 exl-id: 2c2136a9-0b40-4a0a-907d-5af181568073
 duration: 3655
-source-git-commit: a004d7aa2c01ccd1d4d65749c4aa0440290f8023
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 0%
+source-wordcount: '413'
+ht-degree: 6%
 
 ---
 
 # 將您的Adobe Analytics資料和分析帶入Customer Journey Analytics
 
-與Bryan、Eric和Doug一起討論如何快速開始使用Customer Journey Analytics (CJA)。 您將瞭解如何使用自動化程式將資料和分析從Adobe Analytics移至CJA，以及程式期間要考慮的任何問題。 當然，他們在此過程中還會有一些有趣的秘訣和技巧。
+與Bryan、Eric和Doug一起討論如何快速開始使用Customer Journey Analytics (CJA)。 您將了解如何使用自動化流程將資料和分析從 Adob&#x200B;&#x200B;e Analytics 移至 CJA，以及在此過程中需要考慮的問題。 當然，他們在此過程中還會有一些有趣的秘訣和技巧。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426778/?quality=12&learn=on)
 
 >[!BEGINSHADEBOX 「有問題嗎？」]
 
-繼續討論[Experience League社群論壇討論](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093?profile.language=zh-Hant#M3582)。
+繼續討論[Experience League社群論壇討論](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582)。
 
 >[!ENDSHADEBOX]
 

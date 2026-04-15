@@ -2,6 +2,8 @@
 title: 推動付款人領域的客戶參與
 description: 瞭解AEM Forms如何透過簡化索賠處理和客戶註冊、提高轉換率、效率和合規性，徹底改變健康保險行業的客戶參與度。
 solution: Experience Manager Forms
+feature: Edge Delivery Services, Core Components
+topic: Artificial Intelligence, Headless, Integrations
 role: Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3077
 last-substantial-update: 2025-02-07T00:00:00Z
 jira: KT-17266
 exl-id: 29b18954-f53a-4273-8852-0e42fb9477e9
-source-git-commit: a5112a81216059cfa3f362eb3a7882801c8a001a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -22,11 +24,11 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444127/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 * **支付者領域的挑戰與機遇**&#x200B;醫療保健產業在管理數位資訊與表單的指數式成長方面面臨挑戰，導致低效與高成本。 需要簡化流程、降低成本，並改善客戶參與度。
 
-* **AEM Forms** AEM表單功能可讓組織大規模撰寫表單、自動化工作流程，並提供全通路體驗，進而提升營運效率及卓越的使用者體驗。 這會導致更高轉換率和註冊率、減少表單放棄率，以及提高團隊生產力。
+* **AEM Forms** AEM表單可讓組織大規模撰寫表單、自動化工作流程，並提供全通路體驗，藉以提高營運效率及卓越的使用者體驗。 這會導致更高轉換率和註冊率、減少表單放棄率，以及提高團隊生產力。
 
 * **端對端解決方案** AEM Forms提供端對端解決方案，包括全通道表單、自動化工作流程和互動式客戶通訊。 此解決方案與Adobe Experience Cloud整合，可提升整體使用者體驗和營運效率。
 

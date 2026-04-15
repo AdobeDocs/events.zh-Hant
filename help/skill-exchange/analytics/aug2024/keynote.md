@@ -1,20 +1,22 @@
 ---
 title: 開啟主題演講 — 使用資料強化團隊
-description: 瞭解資料民主化的重要性以及它解決的問題。瞭解提供正確上下文並確保有效資料使用的最佳實務。 探索Adobe Analytics和Customer Journey Analytics如何協助讓您的團隊擁有資料。
+description: 瞭解資料民主化的重要性以及它解決的問題。瞭解提供正確內容並確保有效資料使用的最佳實務。 瞭解Adobe Analytics和Customer Journey Analytics如何協助您的團隊強化資料。
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 642
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-15979
-source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
+exl-id: 9d52c522-8600-4812-997c-dc0182e79236
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '130'
 ht-degree: 1%
 
 ---
-
 
 # 開啟主題演講：使用資料強化團隊
 
@@ -24,6 +26,6 @@ ht-degree: 1%
 
 * 瞭解資料民主化的重要性以及它解決的問題。
 * 瞭解提供正確內容並確保有效資料使用的最佳實務。
-* 探索Adobe Analytics和Customer Journey Analytics如何協助讓您的團隊擁有資料。
+* 瞭解Adobe Analytics和Customer Journey Analytics如何協助您的團隊強化資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453598/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3432751/?learn=on)

@@ -2,6 +2,7 @@
 title: Adobe Developers Live - 11月23日 — Headless突破1
 description: 導覽我們最新的Headless API，瞭解這些API的擴充功能，包括標籤、版本設定和端點搜尋。 瞭解它們如何促進跨數位頻道之應用程式式體驗的有效內容擷取，並瞭解這些API的實際應用程式運作情況。 對於希望將Headless技術用於創新解決方案的開發人員而言，本次研討會是寶貴的資源。
 solution: Experience Manager,Experience Manager Sites
+feature: Edge Delivery Services, Release Information, Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,17 +14,17 @@ jira: KT-14424
 thumbnail: 3425627.jpeg
 exl-id: 86bf94d6-deb5-49db-b919-f5de0fbe254c
 duration: 2004
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
 # Adobe Developers Live Headless突破1 - 2023年11月
 
-在這場由Catalina Dumitru主持的座談中探索Adobe Experience Manager的Headless API的潛力(在Adobe Developers Live現場錄製)。 瞭解這些API的擴充功能，包括標籤、版本設定和端點搜尋。 瞭解它們如何促進跨數位頻道之應用程式式體驗的有效內容擷取，並瞭解這些API的實際應用程式運作情況。 對於希望將Headless技術用於創新解決方案的開發人員而言，本次研討會是寶貴的資源。
+在這場由Catalina Dumitru主持的座談中探索Adobe Experience Manager的Headless API的潛力（在Adobe Developers Live現場錄製）。 瞭解這些API的擴充功能，包括標籤、版本設定和端點搜尋。 瞭解它們如何促進跨數位頻道之應用程式式體驗的有效內容擷取，並瞭解這些API的實際應用程式運作情況。 對於希望將Headless技術用於創新解決方案的開發人員而言，本次研討會是寶貴的資源。
 
-繼續[Experience League社群](https://adobe.ly/3rJfZcN)中的交談。
+在[Experience League社群](https://adobe.ly/3rJfZcN)中繼續交談。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425627/?learn=on)

@@ -2,19 +2,21 @@
 title: Journey Optimizer Mobile功能
 description: 這場Adobe Journey Optimizer入門課程將讓初學者能夠建立SMS和推播頻道客戶體驗，以使用個人化產生結果。 我們將討論片段使用和個人化。
 solution: Journey Optimizer
+feature: Journeys, Email Design, Audiences
+topic: Artificial Intelligence, Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3294
 last-substantial-update: 2024-08-27T00:00:00Z
 jira: KT-16036
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: 2ff99ad3-4876-4760-af0f-c48a0c772e2e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
-
 
 # Journey Optimizer Mobile功能
 
@@ -37,7 +39,7 @@ ht-degree: 0%
 **推播通知設定**
 
 * 定義對象、排程及建立包含個人化內容和媒體的推播通知。
-* 運用Firefly等創作AI，根據品牌樣式建立個人化影像。
+* 利用創作AI （例如Firefly）根據品牌樣式建立個人化影像。
 
 **應用程式開發與服務**
 

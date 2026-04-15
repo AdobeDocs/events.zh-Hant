@@ -2,13 +2,15 @@
 title: Adobe Analytics秘訣與技巧
 description: 加入Adobe Analytics首席產品經理Jen Lasser，她將分享改善您的分析工作流程並突顯最新創新的秘訣
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10321
 thumbnail: 342531.jpeg
 exl-id: 226de6d3-471d-4294-80a3-73f9e4354d5e
 duration: 3721
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%

@@ -1,19 +1,21 @@
 ---
 title: 使用Marketo API自動化及簡化Campaign作業
 description: 在這場深入探討中，瞭解如何使用Marketo API簡化您的行銷作業，我們將示範如何自動化重複工作，例如建立電子郵件電子報、追蹤計畫、合併重複專案、更新計畫成本和複製計畫，讓您專注在策略性計畫上。
+feature: Smart Lists
+topic: Integrations, Performance
 role: Admin, Developer, User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 4370
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16520
-source-git-commit: e54e738d55d4037f500d68597d2d29334ddddae9
+exl-id: ff95d1d0-3150-451d-bf45-17e3248689e5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '340'
 ht-degree: 1%
 
 ---
-
 
 # Adobe Marketo Engage Champion深入探討 — 使用Marketo API自動化及簡化行銷活動作業
 
@@ -33,11 +35,11 @@ ht-degree: 1%
 ## 重點提要
 
 * **焦點**&#x200B;工作階段著重於使用Marketo API自動化及簡化行銷活動作業。
-* **API Importance** API對於自動化重複工作、允許系統通訊以及節省時間和金錢至關重要。API基本概念&#x200B;**說明* &#x200B;** API是什麼，包括Get和Post要求之間的差異，以及它們的運作方式。
+* **API Importance** API對於自動化重複工作、允許系統通訊以及節省時間和金錢至關重要。API基本概念**說明* **API是什麼，包括Get和Post要求之間的差異，以及它們的運作方式。
 
 ### 使用案例
 
-* **大量方案建立**&#x200B;使用Python指令碼來複製方案、更新Token以及啟動智慧行銷活動。&#x200B;URL
+* **大量方案建立**&#x200B;使用Python指令碼來複製方案、更新Token以及啟動智慧行銷活動。 &#x200B;
 * **隨選計畫建立**&#x200B;使用Zapier根據表單提交自動建立Marketo計畫，包括產生UTM引數和建立* **JIRA票證以供追蹤。
-* **API管理**&#x200B;管理API使用量的秘訣，包括針對不同的整合建立個別啟動點服務，以及監控API呼叫使用量。工具和* **資源** Recommendations，用於使用Postman等工具來測試API要求，以及使用ChatGPT產生Python程式碼。
+* **API管理**&#x200B;管理API使用量的秘訣，包括針對不同的整合建立個別啟動點服務，以及監控API呼叫使用量。工具和* **資源**&#x200B;使用Postman等工具來測試API要求和ChatGPT來產生Python程式碼的建議。
 * **其他使用案例**&#x200B;提及Marketo API的其他潛在使用案例，例如回覆資料變更、重複資料刪除以及使用AI連線Marketo。

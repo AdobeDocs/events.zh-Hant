@@ -1,30 +1,32 @@
 ---
-title: Target Personalization - Recommendations快速入門和類別相關性
+title: Target Personalization — 建議與類別相關性快速入門
 description: 瞭解如何為Recommendations快速入門奠定堅實的基礎。 進一步瞭解支援Recs的演演算法，以及如何成功運用Recs。
 solution: Target
+feature: Segments, Profiles
+topic: Personalization, Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 1932
 last-substantial-update: 2024-08-28T00:00:00Z
 jira: KT-16034
-source-git-commit: 87a01d0a4002a35bf538c6ac32ee6631c38f25c0
+exl-id: 037f8493-dc3e-4af6-8a2b-76877a7611ce
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
 
-
-# Target Personalization： Recommendations快速入門與類別相關性
+# 目標Personalization：建議與類別相關性快速入門
 
 瞭解如何為Recommendations快速入門奠定堅實的基礎。 進一步瞭解支援Recs的演演算法，以及如何成功運用Recs。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432999/?learn=on)
 
-## 重要技巧
+## 重點提要
 
-* Rex中的Recommendations提供大規模個人化功能，可依據選擇的演演算法（例如行為型、人氣型、內容相似度等），針對數百或數千個專案提供智慧型建議。
+* Rex中的Recommendations可大規模提供個人化，根據選擇的演演算法（例如行為型、人氣型、內容相似度等），提供數百或數千個專案的智慧型建議。
 * Rex提供自訂選項，例如排序、加權、排除規則等，使其成為個人化銷售控制的強大工具。
 * Rex適合在數千或數百萬個專案中推薦大量產品或內容專案，並根據使用者設定檔提供個人化建議。
 * Rex可能不適合具有少量選件、快速變更目錄專案、低互動頻率或個人化主要根據忠誠度區段或地理位置等使用者特性的情況。

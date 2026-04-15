@@ -1,6 +1,8 @@
 ---
 title: 測量的策略力量 — 將資料轉化為行動
 description: 有效的衡量策略可透過讓利害關係人參與、確保資料熟悉度及建立決策信心，而信任則透過透明度、資料控管及利害關係人一致來建立，而賦權則透過培訓、可存取的工具及可操作的資料來達成，所有這一切都有助於透過業務影響及營運效率展示分析的價值。
+feature: Metrics, Data Governance
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3391
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16628
 exl-id: eaa9642c-c460-410b-9af5-3ff42e50ef89
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440935/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 **測量策略**
 

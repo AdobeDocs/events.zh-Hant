@@ -3,6 +3,8 @@ title: Commerce Intelligence常見問題集
 description: 瞭解Commerce Intelligence中一些常見問題的解答，這些問題涵蓋自助服務設定、整合、安全性、最佳實務等主題。
 solution: Commerce, Commerce Intelligence
 feature-set: Commerce Intelligence
+feature: Data Integration, Reports
+topic: Integrations, Security
 role: Admin, User
 level: Intermediate
 doc-type: Event
@@ -10,9 +12,9 @@ duration: 2167
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15680
 exl-id: ead47498-4526-481c-8910-961377bdb55f
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -23,7 +25,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429617/?learn=on)
 
-## 重要技巧
+## 重點提要
 
 **貨幣管理**
 
@@ -34,7 +36,7 @@ ht-degree: 0%
 **資料匯入方法**
 
 * 資料匯入可使用API連線、CSP上傳和匯入API來完成。
-* 不支援OracleDB；不過，CSP上傳或匯入API可作為替代使用。
+* Oracle DB不受支援，不過CSP上傳或匯入API可作為替代使用。
 * API使用方式的限制包括每月一個沖銷請求和約100個記錄請求，相當於每月約100,000個記錄。
 
 **資料Source整合**

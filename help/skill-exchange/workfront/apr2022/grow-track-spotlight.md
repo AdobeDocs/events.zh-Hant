@@ -2,15 +2,17 @@
 title: 增長追蹤體驗製作者焦點
 description: 通往工作管理成熟度的旅程不會在一夜之間完成。 它需要策略規劃、審慎的領導力，以及準備接受變化的文化。
 solution: Workfront
+feature: Strategic Planning
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10314
 thumbnail: 342524.jpeg
 exl-id: 704dbe58-dc9a-4920-b211-9afb77798079
 duration: 3258
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---

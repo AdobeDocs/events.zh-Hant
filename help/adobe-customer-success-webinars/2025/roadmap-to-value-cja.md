@@ -3,19 +3,20 @@ title: 使用CJA實現價值的藍圖
 description: 透過使用案例藍圖、真實範例和推動資料導向策略性決策的步驟，充分發揮CJA的價值。
 solution: Customer Journey Analytics
 feature: Use Cases
+topic: Integrations, Migration
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3523
 last-substantial-update: 2025-07-25T00:00:00Z
 jira: KT-18546
-source-git-commit: 7db60ca1557fb99ae5fb8bd7181317710ed5f90f
+exl-id: 6df2bdc8-841e-4c7a-8475-158e338fb3e4
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # 使用CJA實現價值的藍圖
 
@@ -31,6 +32,6 @@ ht-degree: 0%
 
 * **CJA的功能**&#x200B;概述CJA的功能，包括合併資料集、自訂資料、研究資料集中的關係，以及普及存取權。
 
-* **使用案例範例** Red Hat、TELUS及Lenovo等公司使用CJA來降低成本、改善程式，以及提高效率的真實案例。&#x200B;URL
+* **使用案例範例** Red Hat、TELUS及Lenovo等公司使用CJA來降低成本、改善程式，以及提高效率的真實案例。 &#x200B;
 
 * **開始使用CJA的步驟**&#x200B;探索資料、建立連線和建立策略計畫的指引，以釋放客戶層級分析的完整潛能。

@@ -1,19 +1,21 @@
 ---
 title: 基礎Marketo使用者群組 — 專業備考
 description: 取得專家指導、學習提示和AI支援的學習支援，讓您的Marketo Engage專業考試充滿信心地在這場聚焦的準備工作階段中取得勝利。
+feature: Programs, Reporting
+topic: Artificial Intelligence, Performance, Certification
 role: User
 level: Beginner
 doc-type: Event
 duration: 3115
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19483
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+exl-id: dc33d6a9-1675-4791-a9f2-a64251f346bd
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
-
 
 # 基礎Marketo使用者群組：專業的考試準備
 
@@ -40,4 +42,3 @@ ht-degree: 0%
 * **Champion與使用者群組內容**&#x200B;檢閱部落格、錄影與討論，以取得實用秘訣與考試等級說明。
 
 這些資源在整個認證歷程中提供堅實的基礎和持續支援。
-

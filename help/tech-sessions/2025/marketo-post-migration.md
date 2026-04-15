@@ -1,7 +1,9 @@
 ---
 title: Marketo移轉至Adobe Admin Console - （移轉後）
-description: 使用Adobe Admin Console集中管理Marketo使用者。 管理角色（系統、產品、設定檔、支援管理員）和身分型別(Adobe、企業、Federated ID)。 設定SSL以進行單一登入、處理使用者管理，以及每三年更新一次憑證。 解決登入問題等常見問題，並使用目錄信任來獲得統一的體驗。 將大型使用者轉換劃分為500的批次。 存取Adobe Experience League頁面上的工作階段錄影。
+description: 使用Adobe Admin Console集中管理Marketo使用者。 管理角色（系統、產品、設定檔、支援管理員）和身分型別（Adobe、企業、Federated ID）。 設定SSL以進行單一登入、處理使用者管理，以及每三年更新一次憑證。 解決登入問題等常見問題，並使用目錄信任來獲得統一的體驗。 將大型使用者轉換劃分為500的批次。 存取Adobe Experience League頁面上的工作階段錄影。
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Security, Migration, Certification
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3194
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17534
 exl-id: d9ccabf4-5eff-4e07-a7ff-6509bb6ff3c8
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -35,7 +37,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3451635/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 * **Admin Console用途** Marketo使用者、管理員和身分識別的集中管理，與其他Adobe產品一致。
 

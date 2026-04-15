@@ -1,19 +1,21 @@
 ---
 title: 解鎖Workfront展示板
 description: 瞭解如何使用Adobe Workfront面板簡化工作流程並增強團隊協同合作。 最適合有效率地管理任務和專案。
+feature: Work Management
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3729
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19751
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: de39bb1c-e112-47a1-99b7-5d49fe750337
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
-
 
 # 解鎖Workfront展示板
 

@@ -1,7 +1,8 @@
 ---
 title: Adobe Developers Live - 11月22日 — 有效運作的Forms — 善用使用者端資料庫和Headless Forms
-description: 運作良好的Forms — 運用使用者端資料庫和Headless FormsAdobe Experience Manager Forms已在Cloud Service上發佈許多令人興奮的新功能。 對於表單開發人員而言，有時需要運用自訂指令碼和第三方JavaScript程式庫來增強Adobe Experience Manager Forms使用者體驗。在此課程中，我們將向您展示如何使用使用者端程式庫，並讓表單作者取得指令碼，讓他們輕鬆選取執行進階計算、日期操作和自訂模型視窗所需的功能。我們還將展示我們在Headless調適性Forms的最新創新，您一次可製作表單，並在多個管道中使用，包括網頁、使用react的SPA應用程式和自訂react應用程式。我們的產品專家將示範如何在互動式管道（如WhatsApp）中使用相同表單來擷取體驗，讓表單以您想要的方式運作。
+description: 運作良好的Forms — 善用使用者端資料庫和Headless FormsAdobe Experience Manager Forms已在Cloud Service上發佈許多令人興奮的新功能。 對於表單開發人員而言，有時候需要運用自訂指令碼和協力廠商JavaScript程式庫來增強Adobe Experience Manager Forms使用者體驗。在這場會議中，我們將向您展示如何使用使用者端程式庫，並讓表單作者無法取得指令碼，讓他們輕鬆選取執行進階計算、日期操控和自訂模型視窗所需的功能。我們也會展示Headless最適化Forms的最新創新，您只需製作表單一次，便可在多個管道中使用，包括Web、使用react的SPA應用程式和自訂react應用程式。我們的產品專家將示範如何在WhatsApp等互動式頻道中，使用相同的表單擷取資料，讓您的表單能以您想要的方式運作。
 solution: Experience Manager,Experience Manager Sites
+feature: Release Information, Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ kt: 11481
 thumbnail: 3411301.jpeg
 exl-id: b221af94-831e-466f-9adf-f0be3b064485
 duration: 2877
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---

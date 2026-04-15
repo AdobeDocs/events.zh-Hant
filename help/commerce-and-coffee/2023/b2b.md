@@ -2,6 +2,7 @@
 title: 強化B2B成功
 description: 透過Cory Gelato探索Adobe Commerce的高階B2B功能，包括共用目錄、報價、請購單清單及核准工作流程，同時瞭解策略以推動成長，並在不斷變化的B2B商業環境中保持競爭力。
 solution: Commerce
+feature: B2B
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -11,7 +12,7 @@ jira: KT-13688
 thumbnail: 3421687.jpeg
 exl-id: 38145136-4868-42ea-b279-7e74704e2b53
 duration: 3506
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%

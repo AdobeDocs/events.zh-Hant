@@ -2,6 +2,7 @@
 title: 按一下即可收集許多簽名
 description: 瞭解Acrobat Sign中的大量傳送功能如何節省您的時間。
 feature: Sign
+topic: Personalization
 role: User
 level: Beginner
 doc-type: Event
@@ -9,9 +10,9 @@ duration: 1108
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15297
 exl-id: c1774a2e-478b-4bec-be9f-69db9e0ef615
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 瞭解Acrobat Sign中的大量傳送功能如何節省您的時間。 如果您需要多人簽署全企業原則更新、NDA或任何其他檔案的唯一副本，大量傳送可讓您準備檔案一次、按一下即可傳送給多位簽署者，並輕鬆追蹤回應。
 
->[!VIDEO](https://video.tv.adobe.com/v/3454906/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3428188/?learn=on)
 
 ## 要點
 

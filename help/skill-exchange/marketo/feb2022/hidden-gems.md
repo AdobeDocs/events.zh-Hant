@@ -2,15 +2,17 @@
 title: 資料庫中隱藏的Gem — 重新參與記錄
 description: 參加我們的會議，我們將逐步引導您完成在Alma實施重新參與流程的步驟，以及在此過程中所學到的知識。
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 kt: 9771
 thumbnail: 340591.jpeg
 exl-id: 500c79fc-75cf-40ef-8a6d-376ea30d432c
 duration: 2375
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---

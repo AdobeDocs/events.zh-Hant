@@ -1,6 +1,8 @@
 ---
 title: AEM在雲端上為何更強大
 description: 透過Adobe的規劃、移轉及準備程度評估工具專家指引轉換至雲端
+feature: Release Information
+topic: Security, Performance, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 2653
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17167
 exl-id: db9ef66b-45ab-4586-8d02-91bdfcf2fdfc
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443023/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 * **效能提升**&#x200B;由於架構、資產處理及全球資料中心更完善，Cloud Service客戶在頁面載入時間上提升了400%。
 

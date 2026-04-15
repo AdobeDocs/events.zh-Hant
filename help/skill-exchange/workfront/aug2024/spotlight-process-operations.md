@@ -2,6 +2,8 @@
 title: Experience Maker的焦點 — 流程增強功能和營運效率
 description: Synchrony的Operational Excellence副總裁James Hill如何評估增強功能的好處和優先順序、監控系統變更的採用，以及最終將這些變更與實際業務結果連線起來。EMMsphere的資深Workfront顧問Daniel Clarke如何發現效率以確保團隊資源可以儘可能發揮的範例。 他將分享幾個成功的Fusion案例，建置案例的方法和原因，以及如何與領導團隊一起顯示其價值
 solution: Workfront
+feature: Workfront Fusion, System Setup and Administration
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,7 +11,7 @@ duration: 2404
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16099
 exl-id: ce5a8f39-c8ac-4a47-baaf-7b105e8b5f5a
-source-git-commit: 0c85d049a1d9771dc6d69ee6682c628e8dec12cf
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%

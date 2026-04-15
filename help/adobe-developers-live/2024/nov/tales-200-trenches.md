@@ -3,23 +3,24 @@ title: 200個戰壕的故事表
 description: 排定效能優先順序、使用Google PageSpeed Insights、最佳化LCP和TBT等關鍵量度、有效率地管理資源，並遵循開發和影像最佳化的最佳實務，以確保Web專案成功。
 solution: Experience Manager, Experience Manager Sites
 feature: Edge Delivery Services
+topic: Integrations, Performance, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1321
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16541
-source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
+exl-id: 1104048d-4074-49aa-a0bc-0065fa2df505
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 0%
+source-wordcount: '306'
+ht-degree: 1%
 
 ---
 
-
 # 200個戰壕的故事表
 
-已完成200多個Edge Delivery Services專案，Adobe資深工程師Kiran Murugulla和Adobe Experience Manager Cloud架構師Varun Mitra分享學到的關鍵經驗教訓。 探索使用卓越的核心網頁重要功能，提供快速、高效能體驗的秘訣。
+在超過200個Edge Delivery Services專案完成之後，Adobe資深工程師Kiran Murugulla和Adobe Experience Manager Cloud架構師Varun Mitra分享了學到的關鍵課程。 探索以卓越的Core Web Vitals提供快速、高效能體驗背後的秘密。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439424/?learn=on&enablevpops)
@@ -28,7 +29,7 @@ ht-degree: 0%
 
 在Adobe Developers Live社群[討論區](https://adobe.ly/4fwWvvi)中繼續交談。
 
-## 重要技巧
+## 重點提要
 
 * **效能是關鍵的**&#x200B;效能，尤其是網頁的速度，是成功網頁專案的關鍵因素。 主要目標是確保績效分數為100。
 * **開發實務**
@@ -50,4 +51,3 @@ ht-degree: 0%
    * 著重於行動優先開發。
    * 確保內容結構對於作者而言是直覺式的。
 * **工具**&#x200B;使用Google Sheets和DSA等工具，追蹤網站一段時間內的績效分數。
-

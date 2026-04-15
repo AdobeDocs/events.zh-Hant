@@ -3,19 +3,20 @@ title: 更聰明的行銷從這裡開始 — 整合Google和Adobe
 description: 加入Adswerve的數位策略副總裁Charles Farina和Adobe主要產品行銷人員Danielle Doolin，參加深入探究整合業界領先平台的變革力量的網路研討會。
 solution: Customer Journey Analytics
 feature: Use Cases
+topic: Personalization, Integrations, Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Value Video
 duration: 3373
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-18029
-source-git-commit: b0f07b52c50ea008e8d0569ef7c8687a9e806f72
+exl-id: 49aa946f-cfc0-49dc-93f5-907ec48048c1
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
-
 
 # 更聰明的行銷從這裡開始：整合Google和Adobe
 
@@ -35,7 +36,7 @@ ht-degree: 0%
 
 - 制定資料導向式決策：超越表面層級量度，獲得可操作的深入分析，以最佳化行銷策略並達成業務目標
 
-您將瞭解的內容：
+您將學到：
 
 - 整合Google Marketing Platform、GA4和Adobe CJA的主要優點
 

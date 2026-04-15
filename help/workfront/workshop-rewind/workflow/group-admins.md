@@ -1,19 +1,21 @@
 ---
 title: 群組管理軟體包
 description: 探索Adobe Workfront中有效群組管理的角色、優點及信任建立策略。
+feature: System Setup and Administration
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3512
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19763
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 7a55ea8d-2e5e-4c74-9beb-d99366a850a0
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
-
 
 # 群組管理軟體包
 

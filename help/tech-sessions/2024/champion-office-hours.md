@@ -1,7 +1,9 @@
 ---
-title: Marketo Engage冠軍技術研討會 — 2024年5月
+title: Marketo Engage Champion技術研討會 — 2024年5月
 description: 參加我們五月Marketo Champion技術研討會，我們的Champion小組成員包括Chris Kelley、Sarah Ryan、Jimmy Spencer和Briney Young，主持人為Courtny Edwards-Jones。無論您是第一次使用Marketo，還是隻想提升您的技能，我們的冠軍將分享他們的專業知識。
 feature-set: Marketo Engage
+feature: Programs, Reporting
+topic: Migration, Certification
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,14 +11,14 @@ duration: 3709
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15592
 exl-id: 1bf5fd1b-9a9d-438c-98c9-f0d2bd9e9f9a
-source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
 
 ---
 
-# Marketo Engage冠軍技術研討會 — 2024年5月
+# Marketo Engage Champion技術研討會 — 2024年5月
 
 參加我們的5月Marketo Champion技術研討會，與我們的冠軍小組Chris Kelley、Sarah Ryan、Jimmy Spencer和Briney Young以及版主Courtny Edwards-Jones。
 
@@ -26,4 +28,4 @@ ht-degree: 0%
 
 ## 會議概觀
 
-會議主要著重討論內部管理規則、即將舉辦的活動，並在5月Adobe的Mark How to Engage冠軍技術研討會上介紹小組成員。 主要主題包括使用表單最佳化行銷實務、追蹤行銷活動的銷售機會、維護人口統計分數，以及在Marketo中處理重複專案。 此外也強調資料庫管理秘訣，例如保持資料庫整潔和資料移轉策略。 小組成員分享了關於未充分使用的Marketo功能（例如Velocity指令碼、權杖使用和程式庫）的深入分析。&#x200B;URL 也討論了Marketo社群的重要性、達至冠軍地位的認證和通過考試的秘訣。&#x200B;URL 會議內容廣泛，著重於行銷技術及營運的各個層面，特別強調Marketo。 小組成員分享了行銷最佳化最佳實務、資料庫管理秘訣和使用不足的Marketo功能（例如Velocity指令碼和代號使用）的相關見解。 社群參與的重要性(尤其是在AdobeMarketo Champion計畫的背景下)受到強調，並討論應用程式流程和成為Marketo Champion的好處。 也討論了通過認證考試和克服冒充者綜合症的策略。 總體而言，會議提供最佳實務、Marketo功能、社群參與，以及行銷技術領域為專業人士所推進的寶貴資訊。
+會議主要著重討論內部管理規則、即將舉辦的活動，並在5月Adobe Mark How to Engage冠軍技術研討會中介紹小組成員。 主要主題包括使用表單最佳化行銷實務、追蹤行銷活動的銷售機會、維護人口統計分數，以及在Marketo中處理重複專案。 此外也強調資料庫管理秘訣，例如保持資料庫整潔和資料移轉策略。 小組成員分享了關於未充分使用的Marketo功能（例如Velocity指令碼、權杖使用和程式庫）的深入分析。 此外，還&#x200B;討論Marketo社群的重要性、有助於提升冠軍地位的認證，以及及格考試的秘訣。 會議內容全&#x200B;面討論，著重於行銷技術及營運的各個層面，特別強調Marketo。 小組成員分享了行銷最佳化最佳實務、資料庫管理秘訣和使用不足的Marketo功能（例如Velocity指令碼和代號使用）的相關見解。 社群參與的重要性（尤其是在Adobe Marketo Champion計畫的背景下）受到強調，並討論應用程式流程和成為Marketo Champion的好處。 也討論了通過認證考試和克服冒充者綜合症的策略。 總體而言，會議提供最佳實務、Marketo功能、社群參與，以及行銷技術領域為專業人士所推進的寶貴資訊。

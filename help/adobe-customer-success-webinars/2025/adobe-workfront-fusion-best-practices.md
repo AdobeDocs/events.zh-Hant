@@ -3,19 +3,20 @@ title: Adobe Workfront Fusion基本概念與最佳作法
 description: 瞭解Workfront Fusion基本概念，以自動化工作流程、提升生產力，並將工具與低程式碼解決方案、範本和最佳實務整合。
 solution: Workfront
 feature: Workfront Fusion
+topic: Integrations, Development
 role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3397
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18020
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 18a91af4-5c21-4f69-ac04-5d8189528fce
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Workfront Fusion基本概念與最佳作法
 
@@ -29,7 +30,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458043/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 * **整合的重要性**&#x200B;工具的緊密整合對於改善協同合作、減少耗時的程式以及提升效率至關重要。 Workfront Fusion等工具可協助連線多個應用程式並自動化工作流程。
 
@@ -40,4 +41,3 @@ ht-degree: 0%
 * **最佳作法**&#x200B;使用Fusion連線的服務帳戶（而非個人帳戶）、維持適當的命名慣例，以及定期清除未使用的案例、連線和Webhook，以避免凌亂。
 
 * **範本和學習** Fusion範本是新使用者學習如何有效建立情境的良好起點。 它們提供預先定義的工作流程，可以根據特定需求加以自訂。
-

@@ -3,6 +3,7 @@ title: 透過資源管理解決待執行工作
 description: 解決倦怠有許多方法，但在工作管理方面，組織需要同時瞭解正在計畫的工作和可執行的資源。
 solution: Workfront
 feature: Resource Management
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -11,7 +12,7 @@ jira: KT-14572
 thumbnail: 3425811.jpeg
 exl-id: 84de9fed-07db-4c67-829a-dd770a710922
 duration: 2301
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -24,10 +25,10 @@ ht-degree: 0%
 
 解決倦怠有許多方法，但在工作管理方面，組織需要同時瞭解正在計畫的工作和可執行的資源。
 
-在這場會議中，產品經理Tia Calvert和Mayo Clinic創意運營經理Erin Kuchera將分享：
+在本次研討會中，Mayo Clinic產品經理Tia Calvert和Creative營運經理Erin Kuchera將分享：
 
 * 為什麼在Workfront中使用計畫時數和任務指派是管理資源的關鍵
 * 如何納入休假追蹤
 * Mayo Clinic如何使用Analytics和Resource Manager為團隊提供透明度，以及規劃新工作的範例
 
->[!VIDEO](https://video.tv.adobe.com/v/3457107/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3425811/?learn=on)

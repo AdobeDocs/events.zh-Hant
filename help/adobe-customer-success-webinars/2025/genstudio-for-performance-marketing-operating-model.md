@@ -2,21 +2,23 @@
 title: 適用於效能行銷的GenStudio — 運作模式與控管策略
 description: Adobe GenStudio for Performance Marketing網路研討會涵蓋建立治理架構，以增強創意流程、共同作業和效率，同時深入瞭解組織整備、運作模型最佳實務和敏捷行銷原則，以實現投資最大化。
 solution: GenStudio for Performance Marketing
+feature: Workfront Planning
+topic: Artificial Intelligence, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3579
 last-substantial-update: 2025-02-18T00:00:00Z
 jira: KT-17369
-source-git-commit: f63e6bcb608eb6d03fa2f8b43babf0cb13909f4b
+exl-id: 2b5db111-2d36-4aea-9fa3-1aeb38ce0dc7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
 
-
-# 適用於PEM的GenStudio：運作模式與控管策略
+# GenStudio for PeM：營運模式與控管策略
 
 此網路研討會是專為實作或考慮Adobe GenStudio for Performance Marketing的客戶所設計。 瞭解如何建立協調創作流程、增強共同作業並提升效率的治理架構。 探索Adobe對組織整備程度的觀點、探索運作模型的最佳實務，並取得利用敏捷行銷原則的可行性深入分析，以最大化您的GenStudio投資。
 
@@ -28,7 +30,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444446/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 ### 組織整備定義
 
@@ -37,8 +39,8 @@ ht-degree: 0%
 
 ### Gen Studio for Performance Marketing的成功標準
 
-* 增強創意團隊生產力：自動化流程以簡化執行。
-* 改善創意評論週期：提高效率和速度。
+* 增強的Creative團隊生產力：自動化流程以簡化執行。
+* 改善Creative稽核週期：提高效率和速度。
 * 符合品牌規範的內容：使用企業護欄產生內容。
 
 ### 敏捷行銷運作模型

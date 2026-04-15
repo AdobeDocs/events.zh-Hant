@@ -2,25 +2,26 @@
 title: 建立高階主管贊助以支援Adobe Customer Journey Analytics成功
 description: 瞭解策略以獲得Adobe Customer Journey Analytics成功的高管贊助。 推動協調、確保預算安全，並促進資料導向式決策。
 feature: Data Governance
+topic: Development
 role: Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1623
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18767
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: 7e5827d4-e243-4030-94f0-1ad25cab8951
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
-
 
 # 為支援Adobe Customer Journey Analytics (CJA)成功建立高階主管贊助
 
 在第四場會議中，我們深入探討缺乏強大的執行贊助會如何延遲決策、預算配置和變更管理。 在此網路研討會中，我們探討高階主管在倡導Adobe Customer Journey Analytics計畫、協調跨職能團隊及推動可衡量的業務成果方面所扮演的關鍵角色。 學習實用策略，與資深利害關係人互動，有效溝通價值，並建立資料導向式決策文化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470865/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3470853/?learn=on&enablevpops)
 
 ## 製作業務案例
 

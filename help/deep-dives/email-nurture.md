@@ -1,6 +1,8 @@
 ---
-title: Adobe [!DNL Marketo Engage] Champion Deep Dive Email Nurture
+title: Adobe [!DNL Marketo Engage] Champion深入分析電子郵件培養
 description: 在這場會議中釋放潛在客戶培養和滴水式行銷的潛力，您將瞭解建立有效策略的關鍵因素、探索成功的範例，並探索如何在您的組織中應用這些技術以實現您的獨特目標。
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ jira: KT-13153
 thumbnail: 3418903.jpeg
 exl-id: b0773186-bffb-49f7-a9e1-7254c33c03b3
 duration: 3462
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---

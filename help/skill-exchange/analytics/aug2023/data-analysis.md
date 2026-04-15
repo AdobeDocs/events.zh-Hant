@@ -1,6 +1,8 @@
 ---
 title: 使用這4項使用不足的功能，將您的資料分析提升到全新的境界
 description: Adobe Analytics擁有看似無窮無盡的眾多特色和功能。 我們已從眾多客戶與產業中選取一些使用率極低、但功能強大的應用程式。 在這場會議中，您將瞭解如何將這些套用至您的分析工作流程，並快速增加您組織見解的價值。
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14656
 thumbnail: 3425990.jpeg
 exl-id: 214cdc71-5815-453a-8fd4-8d1813ede24e
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---

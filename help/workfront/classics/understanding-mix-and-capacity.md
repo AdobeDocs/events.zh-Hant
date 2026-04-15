@@ -1,14 +1,16 @@
 ---
 title: 詢問專家 — 瞭解混合與容量
 description: 瞭解如何衡量企業內的混合與容量。 此網路研討會錄製於2019年10月2日。
+feature: Resource Management, Reports and Dashboards, Work Management
+topic: Administration, Integrations
 doc-type: feature video
 team: Technical Marketing
 kt: 9913
 exl-id: 49cce53f-457b-4973-a0d9-1b5ce2272884
 duration: 4239
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '2229'
+source-wordcount: '2238'
 ht-degree: 0%
 
 ---
@@ -31,7 +33,7 @@ ht-degree: 0%
 
 **問題**
 
-如果您的部門/組織工作負載是專案/任務和問題/請求的混合，您如何建議獲得WPI的高層級審查(在Workfront報告中)。
+如果您的部門/組織工作負載是專案/任務和問題/請求的混合，您如何建議獲得WPI的高層級審查（在Workfront報告中）。
 
 **答案**
 

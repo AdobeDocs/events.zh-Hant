@@ -2,6 +2,8 @@
 title: 使用AEM Forms在Financial Services中個人化數位通訊
 description: 瞭解AEM Forms如何協助金融服務提供可擴充的個人化通訊，以提高參與度、效率和合規性。
 solution: Experience Manager Forms
+feature: Edge Delivery Services, Core Components
+topic: Personalization, Integrations, Performance
 role: Developer, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2971
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18065
 exl-id: d8814206-7a6d-42a5-845f-232839f9a05c
-source-git-commit: db8e0b36dff5abf5665e3a75e9dcda4f9a84e044
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -22,7 +24,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458104/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 * **金融服務現代化所面臨的挑戰**&#x200B;由於多個系統間的大量表單、IT驅動更新速度緩慢，以及擴充舊系統帶來的高成本，金融機構在表單和通訊現代化方面面臨重大障礙。 這些挑戰導致喪失機會，例如無法擷取的成本節省和收入增長。
 

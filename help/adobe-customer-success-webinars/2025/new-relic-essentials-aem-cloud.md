@@ -2,6 +2,8 @@
 title: 適用於AEM雲端的New Relic Essentials
 description: 瞭解如何使用New Relic來監控、疑難排解及最佳化AEM Cloud效能，其中包含關鍵量度、真實世界的秘訣和可操作的最佳實務。
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Performance
 version: Experience Manager as a Cloud Service
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,13 +11,13 @@ doc-type: Event
 duration: 3224
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18240
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: f56ad451-1369-4823-b2b0-2c4858b61c2d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
-
 
 # 適用於AEM Cloud的New Relic Essentials：最佳化效能並防止問題
 

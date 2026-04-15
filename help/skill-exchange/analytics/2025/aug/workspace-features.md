@@ -3,25 +3,26 @@ title: 您應使用的Workspace功能
 description: 探索Adobe Analytics Workspace的主要功能（條件式格式、下拉清單、歸因模型和計算量度），以發掘更深入的見解。
 solution: Analytics
 feature: Workspace Basics
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18821
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+exl-id: 2c7bef44-9af5-4c7c-a9a7-9489a8dbefd2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
-
 
 # 您應使用的Workspace功能
 
 探索Adobe Analytics Workspace中往往被忽略的強大功能，這些功能可提高您的分析能力並帶來實際影響。 在這場會議中，我們將探討實用的使用案例和簡單技術，這些將日常工具轉變為insight的引擎，協助您發掘對業務真正重要的東西。 無論您是經驗豐富的分析師，還是剛開始使用，在離開時會留下可行的構想，以將您的資料價值最大化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471262/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3471117/?learn=on&enablevpops)
 
 ## 解鎖進階分析技術
 

@@ -2,6 +2,7 @@
 title: Adobe Commerce創新焦點網路研討會
 description: 加入我們的行列，瞭解如何採用最新功能和架構，為客戶提供最佳體驗，並發展您的業務！在這場網路研討會中。
 solution: Commerce
+feature: Integration, B2B
 topic: Commerce
 role: Admin, Developer, User
 level: Intermediate
@@ -10,9 +11,9 @@ duration: 3392
 last-substantial-update: 2024-03-18T00:00:00Z
 jira: KT-15182
 exl-id: dcdf76f7-3327-4564-b68f-925506715ac4
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---

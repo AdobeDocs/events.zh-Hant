@@ -1,19 +1,21 @@
 ---
 title: 光明，資料， Insight — 揭開每個歷程背後的故事
 description: 瞭解AEP和CJA如何整合資料、拼接身分並啟用深入分析，以即時個人化和更聰明的客戶歷程。
+feature: Basics, Use Cases
+topic: Personalization, Integrations, Security
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18811
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 31d09a38-1410-4301-b46f-174e7bd6ac7c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
-
 
 # 光，資料， Insight：揭示每個歷程背後的故事
 
@@ -27,7 +29,7 @@ ht-degree: 0%
 
 解鎖Adobe Experience Cloud的強大功能，將零碎的資料轉換為可操作的客戶分析。
 
-* **以敘事方式呈現資料**&#x200B;使用策略架構，將分散的資料轉換為順暢的客戶歷程。
+* **資料做為Storytelling**&#x200B;使用策略架構，將分散的資料轉換為順暢的客戶歷程。
 * **整合工具**&#x200B;整合CJA、Real-Time CDP、Target和Journey Optimizer以提供可測量的體驗。
 * **實作步驟**&#x200B;建立XDM結構描述、設定Web SDK，並優先處理隱私權和符合道德的資料使用同意。
 * **細分和個人化**&#x200B;運用行為、人口統計和交易資料進行動態對象目標定位。

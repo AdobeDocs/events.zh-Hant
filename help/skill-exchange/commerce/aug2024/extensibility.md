@@ -2,19 +2,21 @@
 title: 現代方法 — Adobe Commerce中的有效擴充性
 description: 無需核心修改即可有效自訂Adobe Commerce的最佳實務減少技術債、避免直接整合的重要性如何將Adobe Commerce與其他Adobe產品連結，以獲得更好的效能和使用者體驗
 solution: Commerce
+feature: Integration
+topic: Integrations, Performance, Development
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2507
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-16083
-source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
+exl-id: 568993c6-3090-42e1-8f7f-5d9cc9623838
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # 現代方法：Adobe Commerce中的有效擴充性
 
@@ -24,6 +26,6 @@ ht-degree: 0%
 
 * 不需核心修改即可有效自訂Adobe Commerce的最佳實務
 * 減少技術債務和避免直接整合的重要性
-* 如何將Adobe Commerce與其他Adobe產品連結，以獲得更出色的效能和使用者體驗
+* 如何將Adobe Commerce與其他Adobe產品連結，以獲得更優異的效能和使用者體驗
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433147/?learn=on)

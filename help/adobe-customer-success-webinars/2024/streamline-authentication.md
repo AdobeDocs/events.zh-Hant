@@ -1,19 +1,22 @@
 ---
 title: 簡化驗證 — 從服務帳戶(JWT)移轉至OAuth伺服器對伺服器認證
-description: Adobe網路研討會由資深現場工程師Jeff Homequest和Marco Lara主持，重點從服務帳戶JWT移轉至OAuth伺服器對伺服器憑證，強調2025年1月的淘汰截止日期、移轉步驟、OAuth的優點及AEM的特殊考量，並為該過程提供廣泛的支援和檔案。
+solution: Experience Manager
+feature: Developer Tools, Security
+description: Adobe網路研討會由資深現場工程師Jeff Homequest和Marco Lara主持，重點從服務帳戶JWT移轉至OAuth伺服器對伺服器憑證，強調2025年1月的淘汰截止日期、移轉步驟、OAuth的優點和AEM的特殊考量，並為該過程提供廣泛支援和檔案。
+topic: Integrations, Security, Migration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3292
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16629
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+exl-id: 97e2a2de-1cb4-4f2f-8c9b-47ee40227625
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
-
 
 # 簡化驗證：從服務帳戶(JWT)移轉至OAuth伺服器對伺服器認證
 
@@ -21,13 +24,13 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440936/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 * **會議錄製與投影片**&#x200B;會議已錄製，錄製連結將在結束時提供。
 * **演講者簡介** Jeff Homequest和Marco Lara都是Adobe的資深現場工程師，主持網路研討會。
 * **網路研討會焦點**&#x200B;網路研討會著重於從服務帳戶JWT移轉至OAuth伺服器對伺服器認證。
-* **淘汰期限** Adobe正在淘汰JWT認證，必須在2025年1月底前移轉。
-* **Target對象**&#x200B;此網路研討會是針對在Adobe應用程式中使用JWT憑證的應用程式開發人員、技術領導和整合架構師。
+* **淘汰期限** Adobe即將淘汰JWT認證，必須在2025年1月底前移轉。
+* **目標對象**&#x200B;此網路研討會是針對在Adobe應用程式中使用JWT憑證的應用程式開發人員、技術領導和整合架構師。
 * **移轉步驟**&#x200B;網路研討會包含逐步移轉指南和示範。
 * **問答工作階段**&#x200B;整個會議中都有問題，最後會有一個專門的問答工作階段。
 * **與JWT相比，OAuth的優點** OAuth可簡化開發、增強安全性，並簡化維護作業。
@@ -35,8 +38,8 @@ ht-degree: 0%
    * 2023年5月1日 — 未來淘汰的公告。
    * 2024年6月2日 — 建立新服務帳戶認證的最後日期。
    * 2025年1月27日 — 服務帳戶終止服務，使用它們的API將停止運作。
-* **AEM的&#x200B;特殊考量事項**&#x200B;網路研討會說明移轉如何影響AEM雲端和內部部署客戶，包括特定的授權模式和設定。
-* **自動產生的整合**&#x200B;自動產生的整合將由Adobe在截止日期前自動移轉。
+* **&#x200B;的特殊考量事項**&#x200B;此網路研討會說明移轉如何影響AEM Cloud和內部部署客戶，包括特定的授權模式和設定。
+* **自動產生的整合** Adobe將在截止日期前自動移轉自動產生的整合。
 * **支援和檔案** Adobe提供移轉程式的大量檔案和支援。 客戶可以聯絡Adobe代表或專業服務以尋求協助。
 * **測試和驗證**&#x200B;建議在移轉之後刪除舊的JWT認證之前，完整測試整合。
 * **自訂整合**&#x200B;具有自訂整合的客戶應儘快識別並規劃移轉，尤其是涉及協力廠商時。

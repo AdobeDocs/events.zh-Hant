@@ -2,6 +2,7 @@
 title: 方案、行銷活動及其他
 description: 獲得實用的Marketo Engage技能，以建立可擴充的方案、簡化行銷活動管理，並套用最適合新手和早期使用者的報告最佳實務。
 feature: Programs, Reporting, Templates
+topic: Performance
 speaker-name-1: AJ Navarro
 speaker-title-1: Marketing Operations Manager
 speaker-company-1: Sprout Social
@@ -14,13 +15,13 @@ doc-type: Event
 duration: 3287
 last-substantial-update: 2025-08-01T00:00:00Z
 jira: KT-18450
-source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
+exl-id: 7efac6ad-7a28-436d-8174-28bee14f2853
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
-
 
 # 方案、行銷活動及其他
 

@@ -2,6 +2,8 @@
 title: 進階區段稽核 — 確保Marketo Engage的精確度和效能
 description: 加入Adobe Marketo Engage Champion Darshil Shah，掌握進階分段稽核、瞭解如何最佳化分段策略、與客戶行為一致、維持GDPR法規遵循，並透過最佳實務和即時更新提升行銷績效。
 solution: Marketo Engage
+feature: Smart Lists, Reporting
+topic: Personalization, Performance, Administration
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2493
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16525
 exl-id: ee335fea-f158-4b95-930e-273f023cdf04
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '514'
 ht-degree: 1%
 
 ---
@@ -73,8 +75,8 @@ ht-degree: 1%
 
 * [簡報投影片](https://engage.adobe.com/rs/360-KCI-804/images/AME_Learn%20From%20your%20peers%20Webinar_Advanced%20segmentation%20Audits.pdf?version=0){target="_blank"}
 * 加入行銷國家社群上的討論[對話串](https://nation.marketo.com/t5/product-discussions/register-now-learn-from-your-peers-advanced-segmentation-audits/td-p/353460){target="_blank"}
-* [建立分段](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation){target="_blank"}
-* [編輯分段](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation){target="_blank"}
+* [建立細分](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation){target="_blank"}
+* [編輯分段](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation){target="_blank"}
 * Marketo Engage成功系列 — [分段](https://nation.marketo.com/t5/product-blogs/marketo-success-series-segmentation/ba-p/304969){target="_blank"}
 * [區段健康情況檢查更新](https://nation.marketo.com/t5/product-blogs/segmentation-health-check-updates-tips-and-tricks-for-keeping/ba-p/241963){target="_blank"} — 保持區段更新的秘訣與技巧
-* [以電子郵件傳送效能報告](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}
+* [以電子郵件傳送效能報告](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}

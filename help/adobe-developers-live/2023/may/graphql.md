@@ -1,6 +1,7 @@
 ---
 title: 瞭解GraphQL API效能選項和查詢最佳化
 description: 瞭解GraphQL API效能選項和查詢最佳化瞭解如何根據我們最近發佈的最佳實務來建立高效能的GraphQL查詢。 以GraphQL為基礎的Headless內容傳送速度可能很快，但在某些情況下也可能會導致效能瓶頸。 全部取決於您開發GraphQL查詢的方式。 在本次研討會中，您將會瞭解最新AEM GraphQL功能的詳細資訊，以及如何利用這些功能微調GraphQL查詢，以高效傳送您的內容！
+feature: Edge Delivery Services, Release Information
 product: experience manager
 sub-product: sites
 topic: Development
@@ -12,9 +13,9 @@ jira: KT-13362
 thumbnail: 3419948.jpeg
 exl-id: 47e32914-4899-48f5-91e7-598788adf361
 duration: 1713
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---

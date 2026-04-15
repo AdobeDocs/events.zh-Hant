@@ -1,19 +1,21 @@
 ---
 title: 使用Workfront Fusion簡化工作流程
 description: 探索使用Workfront Fusion自動化工作流程的獨特使用案例，提升生產力和效率。
+feature: Workfront Fusion
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3499
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19767
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 53c1bf66-2bab-41da-99d8-7b93b34579f0
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
-
 
 # 使用Workfront Fusion簡化工作流程
 

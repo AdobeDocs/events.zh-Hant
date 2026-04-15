@@ -1,6 +1,7 @@
 ---
 title: 建立高階主管贊助，協助您在整個內容Supply chain中邁向成功
 description: 瞭解高階主管的贊助如何運用實用的策略推動內容supply chain的成功發展，進而獲得領導力支援並協調團隊。
+feature: Strategic Planning
 topic: Content Supply Chain
 role: Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 2502
 last-substantial-update: 2026-02-20T00:00:00Z
 jira: KT-20311
-source-git-commit: a9eddbd6554ae26c3ed54c29e6894c9e2d1a63a0
+exl-id: e84d484b-3b00-4073-8781-3671449c207c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '139'
 ht-degree: 1%
 
 ---
-
 
 # 建立高階主管贊助，協助您在整個內容Supply chain中邁向成功
 

@@ -1,6 +1,8 @@
 ---
 title: 掌握Adobe Admin Console
 description: Adobe Admin Console是管理Adobe企業解決方案的集中式平台，為組織提供使用者和產品管理、安全性和合規性功能、支援資源以及可擴充的最佳實務。
+feature: Analytics Basics, Analysis Workspace
+topic: Integrations, Security, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,7 +10,7 @@ duration: 2767
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16630
 exl-id: 2a604f0f-d422-4a7d-8e72-bd38dfca7bf0
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 0%
@@ -21,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440937/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 * **Adobe Admin Console概述** Admin Console是管理Adobe企業解決方案的集中式平台，可與Creative Cloud、Document Cloud和Experience Cloud整合。
 

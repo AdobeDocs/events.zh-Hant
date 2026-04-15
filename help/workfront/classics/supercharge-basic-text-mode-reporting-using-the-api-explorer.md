@@ -1,14 +1,16 @@
 ---
 title: 詢問專家 — 使用API Explorer製作超額基本文字模式報表
 description: 瞭解API Explorer、其使用方式，以及如何運用基本文字模式來增強報表。 此網路研討會錄製於2020年1月22日。
+feature: Reports and Dashboards, System Setup and Administration
+topic: Integrations, Development
 doc-type: feature video
 team: Technical Marketing
 kt: 9918
 exl-id: f859c4eb-8b3c-4d91-9765-9957dc4678f5
 duration: 4068
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '1658'
+source-wordcount: '1667'
 ht-degree: 0%
 
 ---
@@ -276,7 +278,7 @@ description=可讓您在欄標題上暫留時顯示工具提示。
 
 **答案**
 
-可以。核取方塊欄位中選取的選擇全部為一個字串，每個選擇以逗號分隔。 您將使用SEARCH運算式來尋找Checkbox欄位中第一個逗號的位置，然後將該索引與LEFT運算式一起使用，以顯示清單開頭的字元數。 程式碼如下：
+可以。 核取方塊欄位中選取的選擇全部為一個字串，每個選擇以逗號分隔。 您將使用SEARCH運算式來尋找Checkbox欄位中第一個逗號的位置，然後將該索引與LEFT運算式一起使用，以顯示清單開頭的字元數。 程式碼如下：
 
 ```
 valueexpression=IF(SEARCH(",",{DE:Checkbox Field},0)>0,LEFT({DE:Checkbox Field},SEARCH(",",{DE:Checkbox Field},0)),{DE:Checkbox Field})

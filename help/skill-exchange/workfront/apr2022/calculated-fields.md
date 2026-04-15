@@ -2,13 +2,15 @@
 title: 提示與秘訣 — 每個人都應該知道的計算欄位
 description: 您是否曾捲動專案更新流的多個頁面，只為了找出專案移至「目前」的日期？ 這是很好的…… （說明應該介於60到160個字元之間）
 solution: Workfront
+feature: Reports and Dashboards
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10316
 thumbnail: 342526.jpeg
 exl-id: 8e7d31e2-78f5-4f02-a85d-f438880a5664
 duration: 1955
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%

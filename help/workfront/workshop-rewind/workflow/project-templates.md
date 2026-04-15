@@ -2,19 +2,20 @@
 title: Workfront Crowdsource挑戰 — 專案範本
 description: 瞭解Ologie如何簡化Adobe Workfront專案範本，並提供簡化設定、改善報告及維護程式彈性的實用秘訣。
 feature: System Setup and Administration, Reports and Dashboards
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3728
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18626
-source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+exl-id: 5377412d-db56-4fca-92c9-0c4c59fa2d79
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Crowdsource挑戰：專案範本
 
@@ -25,7 +26,7 @@ ht-degree: 0%
 除了隨選錄影之外，我們還納入了投影片和聊天中分享的秘訣：  
 
 * [投影片組PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
-* [Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512?profile.language=zh-Hant)
+* [Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
 
 ## 提示
 
@@ -39,4 +40,4 @@ ht-degree: 0%
 
 我們在聊天中看到的最大主題之一，是嘗試保持專案範本簡單，但與此同時追蹤工作量，並確保團隊提供完成專案所需的所有步驟。  
 
- 我們希望在未來的客戶成功工作坊中見到您！  請務必檢視Experience League上的[Workfront活動](https://experienceleague.adobe.com/events/?lang=zh-Hant&filters=Workfront)以取得完整清單並註冊。
+ 我們希望在未來的客戶成功工作坊中見到您！  請務必檢視Experience League上的[Workfront活動](https://experienceleague.adobe.com/events/?filters=Workfront)以取得完整清單並註冊。

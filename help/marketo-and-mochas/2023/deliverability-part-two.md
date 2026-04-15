@@ -1,6 +1,8 @@
 ---
 title: Marketo與Mochas — 傳遞能力（第2部分）
-description: 探索Marketo Deliverability Manager Sean Wirt的電子郵件傳遞能力最佳實務，包括Gmail策略、Apple Mail隱私權、共用與專用IP，以及Marketo Engage傳遞能力工具的詳細示範、種子清單、智慧清單及報告。
+description: 探索Marketo Deliverability Manager Sean Wirt的電子郵件傳遞能力最佳實務，包括Gmail策略、Apple Mail隱私權、共用與專用IP，以及Marketo Engage傳遞能力工具的詳細示範、種子清單、智慧清單和報告。
+feature: Smart Lists, Reporting
+topic: Security
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ thumbnail: 3418668.jpeg
 event-start-time: 2023-4-24 08:30-8
 exl-id: 02bf8dc4-a08a-4c82-812f-6b3e10ec97a2
 duration: 3638
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---

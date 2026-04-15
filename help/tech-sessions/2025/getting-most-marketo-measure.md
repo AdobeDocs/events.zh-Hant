@@ -3,6 +3,7 @@ title: 充份運用Marketo Measure
 description: 透過管道對應、細分、自訂階段對應和接觸點隱藏的最佳實務，最佳化Marketo Measure。 使用特定規則、依邏輯分類資料及排列階段優先順序。 抑制不需要的接觸點，以清除資料。 善用迴旋移動階段等工具，並針對複雜設定提交支援案例。 存取Adobe的「體驗」頁面上的工作階段錄影。
 solution: Marketo Measure
 feature: Touchpoints, Channels, Segmentation
+topic: Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3417
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17542
 exl-id: 5e3ab998-9bb0-4b6d-a1bd-ec9f24789464
-source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -35,7 +36,7 @@ ht-degree: 0%
 * 在優先順序清單的頂端使用特定規則，在底部使用一般規則。
 * 使用分號和星號等特殊字元來建立簡潔的規則。
 
-### 區段
+### 分段
 
 * 使用區段進一步將資料分類，以便在CRM和Discover中報告。
 * 常見的使用案例包括以區域為基礎的細分和帳戶大小分類。

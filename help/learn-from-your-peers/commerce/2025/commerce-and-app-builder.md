@@ -2,19 +2,21 @@
 title: Adobe Commerce與App Builder Essentials — 從基礎知識到影響力
 description: 探索App Builder在Adobe Commerce中的角色，以獲得彈性、敏捷度和成本節省。 瞭解最佳實務、整合和雲端原生優勢。
 solution: Commerce
+feature: Integration
+topic: Integrations, Performance, Migration
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 3555
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19684
-source-git-commit: cea4b75d089d99068b2657ca9656687ba66ad830
+exl-id: 2d4de79e-426b-4b3a-b90c-99e095b1226e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
-
 
 # 向同行的網路研討會學習： Adobe Commerce和App Builder Essentials — 從基礎知識到影響
 

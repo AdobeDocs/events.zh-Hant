@@ -1,19 +1,21 @@
 ---
 title: 使用Workfront面板的3大理由
 description: 探索Workfront主機板如何透過輕鬆的設定、範本和追蹤來提高使用者採用率。 讓您輕鬆與團隊互動。
+feature: System Setup and Administration, Work Management
+topic: Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 223
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-18652
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 3eba141f-fda3-4688-a82a-91e8ebc543d9
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
-
 
 # 使用主機板採用的3大理由
 
@@ -23,15 +25,13 @@ ht-degree: 0%
 
 如果您沒有機會嘗試使用面板功能，別擔心！ 在影片中，我分享如何為使用者提供存取權，以及他們快速入門的幾種方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470109/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470075/?learn=on&enablevpops)
 
 ## 其他資源
 
 如同影片中的承諾，我們有大量資源可分享，包括文章和短片示範：
 
-* [開始使用Adobe Workfront中的展示板](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=zh-Hant)
-* [Adobe Workfront展示板的早期功能選擇加入](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=zh-Hant)
-* [建立或編輯面板 — 包含每個面板範本的說明](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=zh-Hant)
-* [Adobe Workfront主機板 — 短片示範](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=zh-Hant)
-
-
+* [開始使用Adobe Workfront中的面板](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=en)
+* [Adobe Workfront展示板的早期功能選擇加入](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
+* [建立或編輯面板 — 包含每個面板範本的說明](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
+* [Adobe Workfront主機板 — 短片示範](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)

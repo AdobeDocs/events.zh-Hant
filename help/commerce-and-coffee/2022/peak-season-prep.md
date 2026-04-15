@@ -2,6 +2,7 @@
 title: Commerce與咖啡 — 旺季準備
 description: 本課程探討旺季期間您Commerce網站的策略、秘訣和最佳實務。 我們將討論2022年假日期望、行動商務、促銷和結帳選項，以及行銷對於推動成功旺季的重要性。 簡報和示範會隨附Corey Gelato的即時問答。
 solution: Commerce
+feature: Payments
 topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -11,9 +12,9 @@ kt: 11648
 thumbnail: 3412587.jpeg
 exl-id: 56282fe4-931d-40c7-9d34-08a79ba89fa8
 duration: 3848
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---

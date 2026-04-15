@@ -1,25 +1,27 @@
 ---
 title: 增強現場體驗
 description: 探索Adobe Brand Concierge如何運用AI驅動的個人化互動來轉換數位體驗，以提升參與度和轉換率。
+feature: Edge Delivery Services, Release Information
+topic: Personalization, Integrations, Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 779
 last-substantial-update: 2025-12-12T00:00:00Z
 jira: KT-19983
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: dd524527-e8fc-4de1-8974-cdea2573855d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '157'
 ht-degree: 1%
 
 ---
-
 
 # 使用Brand Concierge增強現場體驗
 
 探索Adobe的Brand Concierge，利用AI驅動的個人化互動來轉換數位體驗。 瞭解這款創新的解決方案如何將對話式體驗緊密整合至您的網站，進而促進參與度及促進轉換。 探索如何透過智慧型禮賓功能、豐富使用者歷程及增強客戶連線，與網站訪客交流。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477777/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477680/?learn=on&enablevpops)
 
 此會議 — 透過Brand Concierge增強現場體驗 — 提供Nina Ciocanu探索Adobe創新的網頁整合解決方案，協助企業透過智慧服務人員功能與網站訪客連結。 瞭解如何直接在您的網站新增個人化、AI導向的體驗，以提高參與度和客戶連線。 從聖荷西現場錄製。
 

@@ -4,6 +4,7 @@ description: 瞭解如何善用Marketo中的方案會員自訂欄位(PMCF)來獲
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Field Management
+topic: Personalization, Integrations, Performance
 role: Admin, Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -11,9 +12,9 @@ duration: 3059
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15784
 exl-id: 9fd094c3-d6ad-410e-aeae-1b6bf3f012bd
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -24,7 +25,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430531/?learn=on)
 
-## 重要技巧
+## 重點提要
 
 **程式成員自訂欄位(PMC)**
 

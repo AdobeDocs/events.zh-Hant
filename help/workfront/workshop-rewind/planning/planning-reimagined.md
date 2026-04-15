@@ -1,19 +1,21 @@
 ---
 title: Workfront規劃、重新思考 — SNHU的Creative使用案例
 description: SNHU如何導覽開箱即用的挑戰，並以創意方式使用Workfront Planning功能，提高行銷運作的可見度、一致性和更好的決策
+feature: System Setup and Administration, Strategic Planning
+topic: Performance, Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3273
 last-substantial-update: 2025-12-03T00:00:00Z
 jira: KT-19779
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+exl-id: 278e94c9-ecb5-47ba-a9c7-640bfc0cb98a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 0%
+source-wordcount: '268'
+ht-degree: 1%
 
 ---
-
 
 # Workfront規劃，重新思考：SNHU的Creative使用案例
 
@@ -24,11 +26,8 @@ ht-degree: 0%
 如果您錯過了即時課程，請檢閱[HMac的SNHU投影片](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/SNHU_Adobe+Planning_0825.pdf)，並觀看隨選錄製。
 * （注意：本投影片中的所有專案都只是範例）
 
-如需Workfront Planning後續功能的詳細資訊，請務必將Experience League上的[Adobe Workfront Planning發行活動頁面](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)加入書籤。
+如需Workfront Planning後續功能的詳細資訊，請務必將Experience League上的[Adobe Workfront Planning發行活動頁面](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index)加入書籤。
 
-您是否有想法的分享或活動中的後續問題？ 歡迎在[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-reimagined-snhu-s-creative/td-p/771019?profile.language=zh-Hant)的註解中捨棄這些註解！
+您是否有想法的分享或活動中的後續問題？ 歡迎在[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-reimagined-snhu-s-creative/td-p/771019)的註解中捨棄這些註解！
 
 每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/zh-hant/events)以瞭解最新工作階段。
-
-
-

@@ -1,18 +1,21 @@
 ---
 title: Commerce Intelligence快速入門
-description: 觀看此網路研討會，瞭解Adobe Commerce或Magento Open Source商店的Commerce Intelligence核心功能。
-landing-page-description: 觀看此錄製的網路研討會，瞭解Adobe Commerce或Magento Open Source商店的Commerce Intelligence核心功能。
-short-description: 觀看此錄製的網路研討會，瞭解Adobe Commerce或Magento Open Source商店的Commerce Intelligence核心功能。
+description: 觀看此網路研討會，瞭解適用於Adobe Commerce或Magento Open Source商店的Commerce Intelligence核心功能。
+landing-page-description: 觀看此錄製的網路研討會，瞭解Adobe Commerce或Magento Open Source商店中Commerce Intelligence的核心功能。
+short-description: 觀看此錄製的網路研討會，瞭解Adobe Commerce或Magento Open Source商店中Commerce Intelligence的核心功能。
 kt: 10408
 solution: Commerce, Commerce Intelligence
+feature-set: Commerce Intelligence
+feature: Data Integration, Reports
+topic: Commerce, Performance
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 342501.jpeg
 exl-id: ac932e1b-ae0a-40a3-b7dd-948d88ded358
 duration: 3221
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '173'
 ht-degree: 1%
 
 ---
@@ -31,5 +34,5 @@ ht-degree: 1%
 
 ## 其他資源
 
-[Commerce Intelligence簡介](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html?lang=zh-Hant)
-[Commerce Intelligence支援](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=zh-Hant)
+[Commerce Intelligence簡介](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+[Commerce Intelligence支援](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

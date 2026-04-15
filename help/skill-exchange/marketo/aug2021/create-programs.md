@@ -2,15 +2,17 @@
 title: 在 [!DNL Marketo Engage]內建立程式
 description: 此課程會教導您所有關於方案結構的知識，包括方案型別、頻道和狀態和標籤。
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 kt: 10324
 thumbnail: 342555.jpeg
 exl-id: b4d71211-5eff-440c-8fd5-9de2a248695e
 duration: 2923
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---

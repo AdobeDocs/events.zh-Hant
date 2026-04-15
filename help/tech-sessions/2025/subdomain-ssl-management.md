@@ -3,19 +3,20 @@ title: 技術研討會 — 「控制面板」中的Adobe Campaign子網域和SSL
 description: 瞭解如何在Adobe Campaign的「控制面板」中委派和設定子網域、設定SSL憑證及監控設定，以確保安全的電子郵件傳遞能力。
 solution: Campaign
 feature: Subdomains and Certificates
+topic: Security, Certification, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3409
 last-substantial-update: 2025-09-05T00:00:00Z
 jira: KT-18866
-source-git-commit: 18ce421793d97372198151afc92b24f3bed053a8
+exl-id: 2ccb1f70-17fe-444e-b819-2e6daeb8f79d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
-
 
 # 技術研討會：控制面板中的Adobe Campaign子網域和SSL管理
 

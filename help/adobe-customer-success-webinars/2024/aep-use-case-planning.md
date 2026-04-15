@@ -2,6 +2,8 @@
 title: 從願景到價值 — AEP使用案例規劃
 description: AEP使用案例規劃課程涵蓋價值對應、策略調整，以及透過KPI最大化業務價值。 它可協助組織根據業務成果調整目標，並運用Adobe解決方案打造具影響力的客戶體驗。
 solution: Experience Platform
+feature: AI Assistant, Personalization
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,14 +11,14 @@ duration: 3022
 last-substantial-update: 2024-08-26T00:00:00Z
 jira: KT-16038
 exl-id: 1d30c85d-3e78-4cc1-94f5-0a5b63d20ab2
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 1%
 
 ---
 
-# 從願景到價值：AEP使用案例計畫
+# 從願景到價值：AEP使用案例規劃
 
 研討會的設計目的是提供有關使用案例規劃和啟用的深入分析，特別是專注於價值對應、策略調整，以及透過關鍵績效指標(KPI)最大化業務價值。
 

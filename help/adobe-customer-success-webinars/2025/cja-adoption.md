@@ -2,19 +2,20 @@
 title: 採用Adobe Customer Journey Analytics的變更管理策略
 description: 探索變更管理策略，以確保成功採用Customer Journey Analytics。 克服阻力、協調團隊，並有效追蹤價值實現。
 feature: Basics
+topic: Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2695
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18765
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: 5b635d6d-29e4-4647-a4b0-82713444d927
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
-
 
 # 採用Adobe Customer Journey Analytics (CJA)的變更管理策略
 

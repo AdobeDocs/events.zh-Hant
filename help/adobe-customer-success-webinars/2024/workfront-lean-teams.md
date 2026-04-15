@@ -2,6 +2,8 @@
 title: 使用Adobe Workfront實現效率最大化 — 精益團隊網路研討會
 description: 探索策略與實用方法，藉由Adobe Workfront運用精益方法提升生產力並簡化營運，由業界專家介紹。
 solution: Workfront
+feature: Work Management, Workfront Fusion
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2148
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15558
 exl-id: 1ab0e81c-50eb-4416-baa1-e80572ffe783
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -26,7 +28,7 @@ ht-degree: 0%
 * 使用Workfront支援精益專案管理
 * 持續學習和適應
 
->[!VIDEO](https://video.tv.adobe.com/v/3456721/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3429287/?learn=on)
 
 ## 會議概觀
 

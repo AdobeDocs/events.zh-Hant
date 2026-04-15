@@ -3,6 +3,7 @@ title: 解鎖強大的工作流程自動化 — Marketo Engage REST API的實際
 description: 解鎖Marketo Engage REST API自動化行銷工作流程的潛力、整合Zapier之類的工具、運用Python進行大量動作，並簡化潛在客戶合併、UTM追蹤和活動資料擷取等工作。
 solution: Marketo Engage
 feature: REST API
+topic: Integrations
 role: Admin
 level: Beginner, Intermediate
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 2447
 last-substantial-update: 2024-04-19T00:00:00Z
 jira: KT-15347
 exl-id: bdfc3a26-0af1-4f39-b9ed-2842fecea17c
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---

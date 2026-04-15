@@ -2,19 +2,21 @@
 title: 贏得Adobe Experience Platform專案的執行贊助
 description: 瞭解如何將激情專案與業務目標協調一致、爭取高階主管的支援，以及使用AEP/RT-CDP創造價值，進而轉化為具影響力的方案。
 solution: Experience Platform
+feature: Personalization
+topic: Personalization, Integrations, Administration
 role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3308
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18018
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 2ac66f9c-5a75-437f-8dc5-623b67efbfea
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
-
 
 # 贏得Adobe Experience Platform (AEP)專案的執行贊助
 
@@ -28,7 +30,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458041/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 * **AEP和Real-Time-CDP的核心功能**&#x200B;這些平台提供可即時運作的設定檔、資料整合和統一、客戶細分、個人化、預測性分析和強大的資料控管。 這些功能可協助組織降低成本、提高效率，並推動收入成長。
 

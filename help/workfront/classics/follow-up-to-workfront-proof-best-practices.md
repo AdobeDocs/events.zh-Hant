@@ -1,14 +1,16 @@
 ---
 title: 詢問專家 — 追蹤Workfront Proof最佳實務
 description: 瞭解為何應使用自動化工作流程範本、如何建立範本，以及如何調整校訂設定以確保隱私權。 此網路研討會錄製於2020年3月4日。
+feature: System Setup and Administration
+topic: Security
 doc-type: feature video
 team: Technical Marketing
 kt: 9917
 exl-id: 2b2f6522-2fd9-4d5e-9bc3-903c1d5e4e3b
 duration: 4083
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '1649'
+source-wordcount: '1656'
 ht-degree: 0%
 
 ---
@@ -51,7 +53,7 @@ ht-degree: 0%
 
 **答案**
 
-我建議校訂建立者/擁有者針對其電子郵件警報設定為「決定」。 我建議將所有其他校訂收件者的電子郵件警報設為「已停用」(即使電子郵件警報設為已停用，他們仍會收到新校訂、新版本、延遲校訂和@Mention電子郵件通知)。 此設定會確保電子郵件警示已設為目標，並將電子郵件數量降至最低。
+我建議校訂建立者/擁有者針對其電子郵件警報設定為「決定」。 我建議將所有其他校訂收件者的電子郵件警報設為「已停用」（即使電子郵件警報設為已停用，他們仍會收到新校訂、新版本、延遲校訂和@Mention電子郵件通知）。 此設定會確保電子郵件警示已設為目標，並將電子郵件數量降至最低。
 
 **問題**
 

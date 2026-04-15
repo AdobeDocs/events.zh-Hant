@@ -1,19 +1,21 @@
 ---
 title: 使用AI支援的深入分析加速數位體驗最佳化
 description: 瞭解Adobe Analytics、Target和CJA中的AI如何提升insight速度、個人化和跨管道最佳化，以實現更聰明、更快的行銷決策。
+feature: Basics, Use Cases
+topic: Personalization
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 2970
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18243
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: fcf25ec0-1e23-4efe-a869-9e108456380c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
-
 
 # 使用AI支援的深入分析加速數位體驗最佳化
 

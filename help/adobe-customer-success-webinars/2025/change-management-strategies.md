@@ -2,19 +2,21 @@
 title: 採用Adobe Journey Optimizer的變更管理策略
 description: 探索領導力、共同作業和即時參與的策略，以解鎖Adobe Journey Optimizer的完整價值。
 solution: Journey Optimizer
+feature: Journeys
+topic: Security, Development
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2589
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19689
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 43fcdd6f-5cc7-4cac-9f04-073d05233e06
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
-
 
 # 採用Adobe Journey Optimizer的變更管理策略
 
@@ -55,4 +57,3 @@ ht-degree: 0%
 * 立即回應客戶需求，充分發揮AJO的潛力。
 
 即時回應能力讓團隊能提供更切合實際且更有影響力的客戶體驗。
-

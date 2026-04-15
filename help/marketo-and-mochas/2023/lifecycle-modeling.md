@@ -1,6 +1,8 @@
 ---
 title: 客戶歷程管理 — 生命週期模式
-description: 探索透明度如何建立Cynthia Chang和James Leedom的行銷信譽，讓他們共用生命週期設定、歷程細分的策略，並展示Marketo Engage的生命週期模型工具、報告和分析工具。
+description: 探索透明度如何建立Cynthia Chang和James Leedom的行銷可信度，讓他們共用生命週期設定、歷程細分的策略，並展示Marketo Engage的生命週期模型工具、報告和分析工具。
+feature: Reporting
+topic: Development
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ thumbnail: 3420763.jpeg
 event-start-time: 2023-6-30 08:30-8
 exl-id: e31120ae-3bdd-4974-953b-1f007c6962a8
 duration: 3772
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -22,7 +24,7 @@ ht-degree: 0%
 最近透明化已成為成功行銷策略最寶貴的屬性之一。 在這場會議中，我們將處理所有建立信譽的關鍵問題，並瞭解何時以及運用哪些工具。 Adobe自己的行銷自動化業務顧問Cynthia Chang和Marketo客戶技術顧問James Leedom會協助您解決下列問題：
 
 * 潛在客戶目前處於購買歷程的哪個階段？
-* 漏斗中從階段到階段的轉換率是多少？
+* funnel中不同階段的轉換率是多少？
 * 潛在客戶在客戶歷程中的移動速度如何？
 * 我們需要多少個MQL才能獲得X美元？
 

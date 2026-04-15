@@ -1,6 +1,8 @@
 ---
 title: Marketo和Mochas — 銷售機會評分
-description: 透過Marketo和Mochas的Cynthia Chang和Kelvin Ieng瞭解銷售機會評分的優點，包括策略、設定、Marketo Engage的即時示範，以及關鍵素材和即時問答。
+description: 透過Marketo和Mochas中的Cynthia Chang和Kelvin Ieng瞭解銷售機會評分的優點，包括策略、設定、Marketo Engage中的即時示範，以及關鍵素材和即時問答。
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ thumbnail: 3412722.jpeg
 exl-id: f7a309d6-e5e6-46f7-91b9-a19ce4c2c3fd
 event-start-time: 2023-6-7 08:30-8
 duration: 3631
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---

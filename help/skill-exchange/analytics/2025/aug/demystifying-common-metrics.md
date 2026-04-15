@@ -3,19 +3,20 @@ title: 讓通用量度變得神秘
 description: 瞭解如何解譯Adobe Analytics量度（造訪次數、訪客人數、頁面檢視次數、跳出數、轉換率等），以改進報表的正確性和深入分析。
 solution: Analytics
 feature: Metrics, Analytics Basics
+topic: Security
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18817
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+exl-id: f2f4277d-7778-4100-8768-0fac3edeec55
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
-
 
 # 讓通用量度變得神秘
 
@@ -41,4 +42,3 @@ ht-degree: 0%
 * **機器人流量感知**&#x200B;瞭解機器人量度如何協助您識別並篩選掉非人類流量，以更簡潔的報告。
 
 掌握這些概念有助於您選取符合需求的最佳量度，並最大化分析報表的價值。
-

@@ -2,6 +2,8 @@
 title: Marketo移轉至Adobe Admin Console - （移轉前）
 description: Adobe正在將Marketo Engage移轉至Admin Console，以提升使用者管理效能。 瞭解自動和自行移轉型別、先決條件、移轉後變更、最佳實務、常見陷阱和支援。 存取Adobe Experience League網站上的工作階段影片。
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Integrations, Security, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,10 +11,10 @@ duration: 2280
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17483
 exl-id: 9c3da83f-9e02-4a2e-9784-10213facf056
-source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 0%
+source-wordcount: '426'
+ht-degree: 1%
 
 ---
 
@@ -32,7 +34,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3449712/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 ### 移轉的用途與概覽
 
@@ -46,14 +48,14 @@ Adobe正在將Marketo Engage移轉至Admin Console，以便將所有產品整合
 ### 移轉的必要條件
 
 * 系統管理員必須完成同意電子郵件。
-* SSL必須在Admin Console (而非Marketo執行個體)中設定。
+* SSL必須在Admin Console （而非Marketo執行個體）中設定。
 
 ### 移轉後變更
 
 * 使用者將使用Adobe ID或Federated ID (SSL)登入。
 * 管理員角色和許可權將決定Admin Console中的存取層級。
 
-### 最佳實務
+### 最佳做法
 
 * 在移轉之前，驗證使用者電子郵件並解決鎖定的帳戶。
 * 確保指派適當的管理員角色。

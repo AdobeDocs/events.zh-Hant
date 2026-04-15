@@ -4,16 +4,17 @@ description: 產品支援代理程式採用Adobe Experience Platform Agent Orche
 kt: KT-19794
 solution: Experience Platform
 feature: AI Assistant
+topic: Artificial Intelligence, Personalization
 event-cta-url-live: https://www.youtube.com/live/MW2Ba7HJNbA
 event-start-time: 2025-12-16 09:00-8
 event-guests: Daniel Wright, Huong Vu, Shreya Anantha Raman
-source-git-commit: 04cd7f4e1881d75f6fde97c48e2fb7a4f587a9ee
+exl-id: c3c692a3-ab71-428d-9811-2226dd322f94
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
-
 
 # 透過產品支援代理簡化疑難排解和支援案例管理
 
@@ -28,4 +29,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477984/?learn=on)
 
-[讓討論在社群討論中繼續進行！](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172?profile.language=zh-Hant#M1909){target="_blank"}
+[讓社群討論中的討論持續進行！](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172#M1909){target="_blank"}

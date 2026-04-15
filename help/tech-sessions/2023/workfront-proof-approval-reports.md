@@ -6,12 +6,13 @@ level: Beginner
 doc-type: Event
 feature-set: Workfront
 feature: Workfront Proof
+topic: Administration, Integrations
 last-substantial-update: 2024-07-22T00:00:00Z
 jira: KT-15775
 exl-id: 5727144f-7776-4220-a139-3413a0eefcf5
-source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '37'
 ht-degree: 0%
 
 ---

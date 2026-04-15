@@ -2,19 +2,20 @@
 title: 使用Webhook及自助服務流程步驟(SSFS)自動化並創新建立更聰明的流程
 description: 本Marketo深入分析涵蓋Webhook和自助服務流程步驟(SSFS)，協助您建立更聰明、支援AI的行銷自動化。 瞭解設定最佳實務、即時整合技術和實用使用案例，包括CRM更新、資料擴充、自訂流程邏輯和AI支援的工作流程。 適合Marketo使用者、MOP團隊及管理員使用，聚焦於更優異的資料品質和行銷活動結果。
 feature: Webhooks
+topic: Integrations, Security, Development
 role: Admin, Developer, User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 3177
 last-substantial-update: 2026-02-25T00:00:00Z
 jira: KT-20403
-source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
+exl-id: ad847106-fb71-41c7-9584-a19d5da44024
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
-
 
 # 使用Webhook及自助服務流程步驟(SSFS)自動化並創新建立更聰明的流程
 
@@ -57,4 +58,3 @@ ht-degree: 0%
 * **Marketo管理員**&#x200B;管理資料庫架構、整合及技術基礎建設的管理員
 * **AI/Automation採用者**&#x200B;組織正在準備其Marketo執行個體以使用AI支援的功能
 * **重視資料的行銷人員**&#x200B;希望改善資料品質、報告正確性及行銷活動有效性的團隊
-

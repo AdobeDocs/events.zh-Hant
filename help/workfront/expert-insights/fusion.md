@@ -2,6 +2,7 @@
 title: 專家深入分析 — 與Ewan Hruska融合
 description: 向Ewan Hruska學習Fusion最佳實務。 瞭解如何使用Adobe Workfront Fusion記錄、最佳化和擴展工作流程以提高效率。
 feature: Workfront Fusion
+topic: Performance
 speaker-name-1: Ewan Hruska
 speaker-title-1: Senior Customer Success Architect
 speaker-company-1: Adobe
@@ -12,9 +13,9 @@ duration: 1458
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18618
 exl-id: ab61b492-a391-497b-af45-f2d468e3f24f
-source-git-commit: ed7e2914147dbdc2012186c88e50d7313ef8bf7d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
@@ -27,19 +28,19 @@ ht-degree: 0%
 
 ## 需要您的協助！
 
-Ewan在影片中提到，他正在製作Fusion最佳實務指南，他很樂意聽到您的消息！  如果您使用Fusion支援您的程式，請在[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=zh-Hant)中分享您的建議、建議和秘訣，他將儘量加入更多內容！
+Ewan在影片中提到，他正在製作Fusion最佳實務指南，他很樂意聽到您的消息！  如果您使用Fusion支援您的程式，請在[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114)中分享您的建議、建議和秘訣，他將儘量加入更多內容！
 
 ## 建議
 
 * Fusion是流程的視覺化表示。 檔案是您的朋友！ 說到檔案，請儲存您如何建立流程的詳細資訊。  更棒的是，您可以視訊瀏覽這些影片！
 * 測量重複工作的工作量及時數
-* Ewan提到的Adobe Workfront ROI計算器已附加至[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114?profile.language=zh-Hant)。
+* Ewan提到的Adobe Workfront ROI計算器已附加至[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114)。
 * 使用Fusion解決跨職能挑戰，節省時間（和金錢）並防止錯誤。
 
 ## 資源
 
-* [可用的Fusion範本清單](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=zh-Hant)
-* [Adobe Workfront Fusion影片概述](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=zh-Hant)
+* [可用的Fusion範本清單](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/scenarios-in-fusion/fusion-scenario-templates/currently-available-fusion-templates.html?lang=en)
+* [Adobe Workfront Fusion影片概述](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-basics-videos.html?lang=en)
 
 ## 關於喇叭
 

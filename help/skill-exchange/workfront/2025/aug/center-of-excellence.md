@@ -3,6 +3,7 @@ title: 讓您的Workfront組織做好準備，邁向卓越中心
 description: 瞭解如何透過治理策略、執行贊助和採用最佳實務，啟動並擴展Workfront卓越中心。
 solution: Workfront
 feature: Get Started with Workfront
+topic: Performance, Administration, Development
 role: User
 level: Beginner
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18875
 exl-id: b4e3f704-b0a7-4b1e-a2a5-d8ff427ece84
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -27,7 +28,7 @@ ht-degree: 0%
 * **人員配置考量事項**&#x200B;藉由識別管理員實務的主要角色和職責，探索人員配置您的CoE的重要層面。 瞭解如何建立團隊以有效支援並推動CoE的計畫。
 * **秘訣與技巧**&#x200B;獲得管理及維持您的CoE的實用深入分析和最佳實務。 探索克服共同挑戰、促進共同作業並確保持續改善的策略。 加入我們，為您自己提供在Workfront組織中建立茁壯成長的卓越中心所需的知識與工具。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471595/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3471495/?learn=on&enablevpops)
 
 ## 啟動COE的關鍵步驟
 

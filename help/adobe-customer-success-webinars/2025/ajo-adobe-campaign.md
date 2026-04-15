@@ -3,24 +3,26 @@ title: 使用Adobe Journey Optimizer和Adobe Campaign匯入最新的行銷活動
 description: 瞭解如何協調Adobe Journey Optimizer和Adobe Campaign，以實現順暢、跨頻道的體驗和高效率的工作流程。
 role: Admin, Developer, Leader, User
 solution: Journey Optimizer, Campaign
+feature: Journeys, Email Design, Deliverability
+topic: Personalization, Integrations
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2354
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-20001
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: a0ccec4f-bab0-47f2-b108-7f51936bc974
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '190'
 ht-degree: 1%
 
 ---
-
 
 # 匯入最新的行銷活動執行方式：Adobe Journey Optimizer + Adobe Campaign和諧呈現
 
 瞭解Adobe Journey Optimizer和Adobe Campaign如何搭配運作，轉換行銷活動的執行方式。 此會議展示結合Journey Optimizer即時參與功能與Campaign強大管理的協同效益。 獲得實用策略以簡化工作流程、提升靈活性並解鎖更深入的客戶洞察力，確保有意義的互動。 瞭解如何協調這些工具，以提供順暢的跨管道體驗，改善每次客戶互動的個人化和時機。 此整合有助於更快速、更準確地提供具影響力的行銷活動。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477904/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477880/?learn=on&enablevpops)
 
 ## 重點提要
 

@@ -2,6 +2,8 @@
 title: 詢問我任何事
 description: 與Kate Kolbert和James Letham一起參加Adobe年度最後一次互動式網路研討會，內容涵蓋網路研討會最佳化、計畫更新、未充分利用的Marketo功能、電子郵件行銷最佳作法、資料庫管理、使用者許可權、Marketo-Salesforce同步、動態聊天參與和生命週期階段。
 solution: Marketo Engage
+feature: Programs, Smart Lists
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3438
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16502
 exl-id: a842ed22-c6db-4de3-af02-c7363207d00c
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -32,5 +34,5 @@ ht-degree: 0%
 * **使用者許可權**&#x200B;限制使用者許可權，以防止未經授權的大量電子郵件傳送，並將智慧行銷活動限制設定為安全措施。
 * **Marketo-Salesforce Sync**&#x200B;避免授予Salesforce中的Marketo Sync使用者管理員存取權，以防止資料超載，並確保有效率的同步處理。
 * **Dynamic Chat參與**&#x200B;評估頁面位置、簡化使用者互動，並鎖定正確的對象，藉此最佳化聊天機器人部署。
-* **生命週期階段與漏斗管理**&#x200B;定義清晰的生命週期階段、確保與銷售保持一致，並防止潛在客戶在漏斗中向後移動。
+* **生命週期階段與Funnel管理**&#x200B;定義清晰的生命週期階段、確保與銷售保持一致，並防止潛在客戶在funnel中後退。
 * **電子郵件傳送限制**&#x200B;一般的電子郵件傳送速率上限為每小時100萬封電子郵件，如有需要，可購買更高的限制。

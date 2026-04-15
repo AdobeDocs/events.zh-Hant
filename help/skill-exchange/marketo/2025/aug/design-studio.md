@@ -3,19 +3,20 @@ title: 充分發揮Design Studio的全球行銷運作功能
 description: 瞭解如何使用Marketo Engage中的Design Studio進行擴展。 探索封裝、範本、表單和策略以降低技術債務並提高效率。
 solution: Marketo Engage
 feature: Design Studio
+topic: Integrations, Performance, Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02T00:00:00Z
 jira: KT-18865
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+exl-id: 2b6ceeb6-4ab4-42c8-9183-2a8d3b4b64d7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
-
 
 # 充分發揮Design Studio的全球行銷運作功能
 
@@ -29,7 +30,7 @@ ht-degree: 0%
 * 運用Design Studio中的智慧型編碼做法，可讓您的行銷營運和品牌合規性符合未來需求。
 * Adobe Experience Manager (AEM)整合如何填補Design Studio的空白，以擴充Marketo Engage的功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471441/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3471389/?learn=on&enablevpops)
 
 ## 釋放高效率的Marketo作業
 

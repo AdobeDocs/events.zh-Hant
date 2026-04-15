@@ -1,6 +1,8 @@
 ---
 title: 在Adobe Workfront中管理資源的Creative方法
 description: 此研討會於2025年5月20日錄製，由西部州長大學的Rick Christensen與德國南威爾士州立Designer鞋庫的Kiersten Kollins與Nicole Alanis分享Workfront的容量擷取與報告方式。
+feature: Resource Management, Reports and Dashboards
+topic: Performance, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,10 @@ duration: 3101
 last-substantial-update: 2025-7-7
 jira: KT-18430
 thumbnail: null
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+exl-id: 342292d0-e12b-41d0-8dd4-ec4f55475a33
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -22,8 +25,8 @@ ht-degree: 0%
 如果您錯過了即時課程，錄製內容會張貼在這裡，而投影片平台的連結以及Experience League社群貼文則提供如下：
 
 * [Workfront投影片組PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Creative+Ways+of+Managing+Resources+in+Adobe+Workfront+052025.pdf)
-* [Western Governors University投影片](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Rick+C.s+Presentation+for+Workfront+Event_+Creative+Ways+of+Managing+Resources.pdf)
-* [DSW Designer Shoe Warehouse投影片組](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/DSW+SLIDES+FINAL+V2+-+Creative+Ways+of+Managing+Resources+in+Workfront+.pdf)
-* [Experience League社群貼文含其他資源](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-creative-ways-of-managing-resources-in-adobe/td-p/755145?profile.language=zh-Hant)
+* [西部州長大學投影片](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Rick+C.s+Presentation+for+Workfront+Event_+Creative+Ways+of+Managing+Resources.pdf)
+* [DSW Designer Shoe Warehouse投影片](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/DSW+SLIDES+FINAL+V2+-+Creative+Ways+of+Managing+Resources+in+Workfront+.pdf)
+* [Experience League社群貼文並提供其他資源](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-creative-ways-of-managing-resources-in-adobe/td-p/755145)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464296/?learn=on&enablevpops)

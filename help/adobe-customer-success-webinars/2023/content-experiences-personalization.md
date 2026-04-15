@@ -2,6 +2,7 @@
 title: 內容與體驗 — Personalization跳動的心
 description: 找出並克服建立內容與體驗功能的常見挑戰建立使用案例來推動客戶歷程中的內容
 solution: General
+feature: Personalization
 topic: Personalization
 role: Admin, Architect, Data Architect, Data Engineer, Leader
 level: Intermediate
@@ -11,7 +12,7 @@ jira: KT-13928
 thumbnail: 3424021.jpeg
 exl-id: 365dab7c-ffd4-4788-a3aa-80cbfde68d09
 duration: 2650
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%

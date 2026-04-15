@@ -1,6 +1,9 @@
 ---
 title: 瀏覽變更 — 有效變更管理的資深領導網路研討會
+solution: Experience Cloud
+feature: Personalization
 description: 深入探討「變更管理」的細微差別，並提供策略性深入分析，協助您透過轉型歷程引導組織。
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,7 +11,7 @@ duration: 3340
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15557
 exl-id: 6e71cc1e-f1bd-4c78-9fee-90ba0e0bce47
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%

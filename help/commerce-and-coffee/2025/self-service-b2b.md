@@ -3,6 +3,7 @@ title: Commerce與咖啡 — B2B中自助服務的興起
 description: 使用Adobe Commerce增強B2B體驗！ 探索共用目錄、公司管理、報價和自助服務工具等功能。 瞭解AI功能和B2B趨勢。 實施自助服務的最佳實務並改善客戶體驗。 加入Adobe Summit以取得更多深入見解和資源。
 solution: Commerce
 feature: B2B
+topic: Personalization, Integrations, Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3636
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17514
 exl-id: aa349efe-d8ec-476b-9b1d-6e202193a229
-source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3451619/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 ### 醒目提示的Adobe Commerce功能
 

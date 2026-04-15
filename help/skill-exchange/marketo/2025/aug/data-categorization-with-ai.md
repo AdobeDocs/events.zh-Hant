@@ -2,6 +2,7 @@
 title: 使用微調的AI模型改善Marketo Engage中的資料分類
 description: 探索如何在Marketo Engage中使用微調的AI模型來偵測垃圾訊息、比對職銜與角色，以及使用Webhook分類開啟的文字欄位。
 solution: Marketo Engage
+feature: Reporting
 topic: Artificial Intelligence
 role: User
 level: Beginner, Intermediate, Experienced
@@ -10,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18864
 exl-id: e952d6e7-fb3d-4e5f-9912-825fbd303cc2
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -43,5 +44,5 @@ ht-degree: 0%
 
 * [微調適用於Marketo Engage的AI模型](https://nation.marketo.com/t5/champion-program-blogs/fine-tuned-ai-models-for-marketo/ba-p/357019)
 * [Webhook快速入門手冊](https://nation.marketo.com/t5/champion-program-blogs/webhook-quick-start-guide/ba-p/345717#M2640)
-* [整合ChatGPT與Marketo Engage](https://nation.marketo.com/t5/champion-program-blogs/integrating-chatgpt-with-marketo/ba-p/346886)
+* [將ChatGPT與Marketo Engage整合](https://nation.marketo.com/t5/champion-program-blogs/integrating-chatgpt-with-marketo/ba-p/346886)
 * [自助服務流程步驟指南](https://nation.marketo.com/t5/champion-program-blogs/self-service-flow-steps-guide/ba-p/357008)

@@ -3,6 +3,7 @@ title: 展示板簡介
 description: 面板可讓團隊透過建立虛擬面板來顯示任務、專案和其他工作專案，以更視覺化的方式管理工作。 無論您是系統管理員、專案經理或個人投稿人，展示板都能提供靈活且直覺的方式來管理工作進度。
 solution: Workfront
 feature: Work Management
+topic: Administration, Integrations
 role: User
 level: Beginner
 doc-type: Event
@@ -11,9 +12,9 @@ jira: KT-14560
 thumbnail: 3425791.jpeg
 exl-id: 2e7a541a-e98f-4d0b-bfa1-cb5d929dedfa
 duration: 2314
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---

@@ -2,19 +2,20 @@
 title: 為Marketo Engage和CRM Sync建置資料衛生策略
 description: 學習Marketo Champion Miray Vu行之有效的資料衛生策略，確保獲得乾淨的CRM資料、加快管道速度，並推動可靠的收入增長。
 feature: CRM Sync
+topic: Integrations, Development
 role: Admin
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2635
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19524
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+exl-id: 947db7a2-7dd3-431b-a870-7872e86c10c8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 0%
+source-wordcount: '290'
+ht-degree: 1%
 
 ---
-
 
 # 為Marketo Engage和CRM Sync建置資料衛生策略
 
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476321/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 * **建立明確的資料標準**&#x200B;與所有利害關係人一起設定並強制執行標準，以確保跨系統資料一致、準確。
 * **定義您的資料衛生程式**&#x200B;識別您的程式必須處理的專案 — 重複資料刪除、擴充、不完整/錯誤值、欄位驗證等。
@@ -34,6 +35,6 @@ ht-degree: 0%
 ## 其他資源
 
 * 加入Marketing Nation社群上的[討論](https://nation.marketo.com/t5/product-blogs/learn-from-your-peers-webinar-building-a-data-hygiene-strategy/ba-p/358425)，此社群已張貼問答集。
-* 使用可執行行銷活動的[Marketo Engage資料衛生](https://business.adobe.com/tw/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
-* [與Marketo Engage同步處理Salesforce CRM的資料衛生](https://experienceleague.adobe.com/zh-hant/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
+* [使用可執行行銷活動的Marketo Engage資料衛生](https://business.adobe.com/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
+* [與Marketo Engage同步Salesforce CRM的資料衛生](https://experienceleague.adobe.com/en/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
 * [如何使用Marketo Engage REST API執行重複資料刪除](https://www.revenuepulse.com/blog/how-to-perform-deduplication-using-the-marketo-api/)

@@ -1,23 +1,24 @@
 ---
-title: 使用Analysis Workspace述說資料故事
+title: storytelling資料與Analysis Workspace
 description: 瞭解5項將Adobe Analysis Workspace儀表板轉換為極具吸引力資料故事，進而推動影響、insight和利害關係人動作的策略。
 solution: Analytics
 feature: Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18820
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: cf6a1931-094a-4a2e-b3df-6e20d07e1487
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
 
-
-# 使用Analysis Workspace述說資料故事
+# storytelling資料與Analysis Workspace
 
 控制面板很棒，但通常不會造成任何影響。 在這場會議中，我們將逐步說明如何將您的Adobe Analysis Workspace專案轉換為真實資料故事，以吸引注意並促進行動。
 
@@ -26,12 +27,12 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/3471116/?learn=on&enablevpops)
 
 
-## 解鎖有影響力的資料敘事
+## 解鎖有影響力的資料Storytelling
 
 瞭解如何超越傳統報告並建立可推動利害關係人實際行動的儀表板。
 
-* **講故事驅動行動**&#x200B;利害關係人回應insight、急迫性和情感關聯性，而不僅僅是原始資料。
-* **敘事結構很重要**&#x200B;使用設定、張力和解析度引導使用者透過您的儀表板，映象有效的敘事方式。
+* **Storytelling驅動動作**&#x200B;利害關係人回應insight、急迫性和情感關聯性，而不僅僅是原始資料。
+* **敘述結構很重要**&#x200B;使用設定、張力和解析度，引導使用者透過您的儀表板，映象有效的storytelling。
 * **視覺效果和內容**&#x200B;進階視覺效果和內容文字可協助使用者專注於重要事項，並建立情感互動。
 * **簡報是關鍵**&#x200B;您呈現資料故事的方式可以產生或破壞其影響力 — 個人傳遞可以增加情緒與清晰度。
 

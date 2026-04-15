@@ -1,6 +1,7 @@
 ---
 title: 零售業領導者 — AI驅動的增長和最佳績效手冊
 description: 透過2025年Adobe網路研討會，瞭解零售商如何使用AI支援的流量來提高忠誠度、參與度和轉換。
+feature: Segmentation
 topic: Artificial Intelligence
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3350
 last-substantial-update: 2025-08-27T00:00:00Z
 jira: KT-18836
-source-git-commit: c3e2710187832f1f67a1e73c11b7262b32ed1f8a
+exl-id: 7267b110-fcba-4866-a7f8-4eefa0c14467
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
-
 
 # 零售業領導者：AI驅動的增長和最佳績效手冊
 
@@ -37,7 +38,7 @@ ht-degree: 0%
 ## 逐步套用AI策略
 
 1. **追蹤AI流量**&#x200B;設定分析以識別來自AI平台的造訪（使用LLM區段、UTM）。
-1. **最佳化內容**&#x200B;使用清晰的標題和常見問題集來建構產品頁面，以方便AI編目。
+1. **最佳化內容**&#x200B;使用清晰的標題和常見問題集來建構產品頁面，以方便AI抓取。
 1. **擴大觸及率**&#x200B;在社群媒體、部落格和評論網站上分享產品資訊以提高可見度。
 1. **利用影響者**&#x200B;合作夥伴與社群媒體建立者，以取得附屬機構行銷活動和使用者產生的內容。
 1. **加強忠誠計畫**&#x200B;使用客戶資料來個人化獎勵並鼓勵重複購買。

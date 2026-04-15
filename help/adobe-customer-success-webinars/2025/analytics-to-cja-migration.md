@@ -2,6 +2,7 @@
 title: 從Adobe Analytics移轉至Adobe Customer Journey Analytics的最佳實務
 description: 瞭解從Adobe Analytics移轉至Customer Journey Analytics (CJA)的基本步驟和最佳實務，包括XDM結構描述設計、資料對應和資料檢視設定。
 solution: Analytics, Customer Journey Analytics
+feature: Segmentation, Basics, Use Cases, Identity
 topic: Migration
 role: Developer
 level: Beginner, Intermediate
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 3654
 last-substantial-update: 2025-07-16T00:00:00Z
 jira: KT-18535
-source-git-commit: 90eb4a9d2cf445c58fde776092fb047f820fa207
+exl-id: 725291fa-add4-4c93-8bc9-37155936c9d8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
-
 
 # 從Adobe Analytics移轉至Adobe Customer Journey Analytics的最佳實務
 

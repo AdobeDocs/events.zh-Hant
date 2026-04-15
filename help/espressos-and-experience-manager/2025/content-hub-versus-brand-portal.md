@@ -3,19 +3,20 @@ title: 濃縮咖啡和Experience Manager - Content Hub與Brand Portal
 description: 瞭解AEM Content Hub如何透過更快速的部署、零增加的成本及與所有Asset Cloud Service客戶無縫的整合，來轉換資產發佈。
 solution: Experience Manager, Experience Manager Assets
 feature: Brand Portal
+topic: Integrations, Performance, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3055
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19499
-source-git-commit: f0d7a52dd0634ddb011beb1155866c498dd8d4d9
+exl-id: c454f585-e553-4427-9126-ede95540779c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
-
 
 # 濃縮咖啡和Experience Manager： Content Hub與Brand Portal之比較
 
@@ -37,4 +38,3 @@ ht-degree: 0%
 * **輕鬆移轉**&#x200B;從Brand Portal轉換非常簡單，並具備工程支援及新功能，例如屬性式存取控制和改善的共用。
 
 瞭解這些功能可讓團隊最佳化資產發佈和共同作業，為更快啟動內容和提高投資報酬率鋪平道路。
-

@@ -3,6 +3,7 @@ title: 使用客戶設定檔建立更好的體驗
 description: 要提供絕佳的客戶體驗，需要將我們對客戶的一切瞭解都整合到即時客戶個人檔案中。
 solution: Real-Time Customer Data Platform
 feature: Profiles
+topic: Personalization, Artificial Intelligence
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 thumbnail: 336939.jpg
@@ -10,9 +11,9 @@ kt: 8866
 type: Event
 exl-id: 5adf4fd4-2302-4bd0-86eb-d20b8a3f5a7c
 duration: 2788
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---

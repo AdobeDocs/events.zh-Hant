@@ -1,19 +1,21 @@
 ---
 title: 衡量重要事項 — Schneider Electric如何運用Fusion提升Workfront效率
 description: 瞭解Schneider Electric如何使用Workfront Fusion簡化程式、節省時間，並提高其創意工作室的效率。
+feature: Workfront Fusion
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2920
 last-substantial-update: 2026-03-26T00:00:00Z
 jira: KT-20602
-source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
+exl-id: baebbf5a-be97-4dc3-956b-4669fb8d11ee
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 2%
 
 ---
-
 
 # 衡量重要事項 — Schneider Electric如何運用Fusion提升Workfront效率
 
@@ -24,8 +26,3 @@ ht-degree: 2%
 如果您錯過課程，別擔心！ 檢閱[投影片組](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/120325+-+Measuring+What+Matters+-+How+Schneider+Electric+Drives+Workfront+Efficiency+with+Fusion.pdf)，並觀看隨選錄製。
 
 每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/zh-hant/events)以瞭解最新工作階段。
-
-
-
-
-

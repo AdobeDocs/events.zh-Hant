@@ -7,14 +7,15 @@ doc-type: Event
 duration: 3625
 last-substantial-update: 2025-07-18T00:00:00Z
 feature: Product Announcements
+topic: Performance
 jira: KT-18525
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+exl-id: b2a32f57-3582-457a-975d-1c56a58ec0f6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Workfront 25.7版本網路研討會
 
@@ -27,5 +28,5 @@ ht-degree: 0%
 投影片組的連結和含有問答的Experience League社群貼文張貼於下方，
 
 * [投影片組PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/0710125+-+Adobe+Workfront+Third+Quarter+Release+Webinar.pdf)
-* [Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-third-quarter-release-webinar/td-p/763800?profile.language=zh-Hant)
-* 如需發行功能的詳細資訊，請造訪2025年第三季[發行概觀頁面](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/product-announcements/product-releases/release-25-q3/25-q3-release-overview)。
+* [Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-third-quarter-release-webinar/td-p/763800)
+* 如需發行功能的詳細資訊，請造訪2025年第三季[發行概觀頁面](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q3/25-q3-release-overview)。

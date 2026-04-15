@@ -3,19 +3,20 @@ title: 讓使用者使用新功能 — 攪動就是生命
 description: 瞭解促進Workfront採納的策略 — 吸引使用者、讓功能與業務目標對應以及使用分析來改善轉出。
 solution: Workfront
 feature: Get Started with Workfront, Resource Management
+topic: Integrations, Administration
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02T00:00:00Z
 jira: KT-18874
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+exl-id: 92f42aad-f0e5-4d89-9d98-dc92891b3254
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
-
 
 # 讓使用者使用新功能：攪動就是生命
 

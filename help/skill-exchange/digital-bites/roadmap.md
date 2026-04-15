@@ -1,6 +1,9 @@
 ---
 title: 價值對應和價值實現的藍圖
+solution: Experience Cloud
+feature: Personalization
 description: 瞭解組織如何根據業務價值開發、評估技術使用案例並設定其優先順序、設定及報告KPI，確保您的組織推動可量化的成果和出色的客戶體驗。
+topic: Development
 role: Leader, User
 level: Intermediate
 kt: 11123
@@ -8,7 +11,7 @@ thumbnail: 3409242.jpeg
 hidefromtoc: true
 exl-id: 62885d7a-6331-4061-b570-ae04913147f7
 duration: 1720
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%

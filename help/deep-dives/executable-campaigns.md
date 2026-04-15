@@ -1,6 +1,8 @@
 ---
 title: 可執行檔行銷活動 — 瞭解可執行檔如何提升效率和影響力
-description: 與Chris Willis、Courtny Edwards-Jones和Jane Musatova一起加入這場AdobeChampion深入探討，瞭解Marketo中的可執行行銷活動如何簡化流程、確保資料準確性，以及透過實務範例將複雜工作流程自動化，並專注於儘量減少錯誤和積壓。
+description: 加入Chris Willis、Courtny Edwards-Jones和Jane Musatova的Adobe Champion深入探討，瞭解Marketo中的可執行行銷活動如何簡化程式、確保資料準確性，以及透過實務範例將複雜工作流程自動化，並專注於儘量減少錯誤和積壓。
+feature: Programs, Smart Lists
+topic: Artificial Intelligence, Personalization
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ last-substantial-update: 2024-03-07T00:00:00Z
 jira: KT-15098
 thumbnail: 3427704.jpeg
 exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
@@ -25,7 +27,7 @@ ht-degree: 0%
 
 ## 概觀
 
-在這版的AdobeChampion深入探討，我們將討論Marketo中可執行行銷活動的使用，並提供有關如何使用它們來簡化程式並確保資料準確性的範例。 可執行行銷活動是一種以同步方式執行流程的智慧行銷活動，允許不同步驟之間的相依性。 在繼續下一步之前，它們可用於自動重試失敗的流程，例如資料標準化或銷售機會資格。 本檔案也會說明父行銷活動和巢狀可執行檔的使用情況，以及可執行行銷活動的限制，例如無法使用webhook或等待步驟。
+在這版的Adobe Champion深入探討，我們將討論Marketo中可執行行銷活動的使用，並提供有關如何使用它們來簡化程式並確保資料正確性的範例。 可執行行銷活動是一種以同步方式執行流程的智慧行銷活動，允許不同步驟之間的相依性。 在繼續下一步之前，它們可用於自動重試失敗的流程，例如資料標準化或銷售機會資格。 本檔案也會說明父行銷活動和巢狀可執行檔的使用情況，以及可執行行銷活動的限制，例如無法使用webhook或等待步驟。
 
 ## 使用可執行行銷活動的目的為何？
 

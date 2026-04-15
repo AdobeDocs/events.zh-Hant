@@ -2,6 +2,8 @@
 title: 掌握Adobe Analytics工具帶
 description: 向Adobe專家學習，他將引導您瞭解策略和使用案例，以推進您對Analysis Workspace的使用。 在這場會議中，您將瞭解如何將您的分析提升到新的境界，並觀看Adobe Analytics最新功能示範，以幫助您製作客戶歷程故事。
 solution: Analytics
+feature: Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,7 +12,7 @@ kt: 11535
 thumbnail: 3411894.jpeg
 exl-id: b721d878-7346-4e78-af03-1a4a85c5ae9b
 duration: 2921
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%

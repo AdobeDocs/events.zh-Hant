@@ -1,13 +1,15 @@
 ---
 title: 詢問專家 — 企業現代工作控管
 description: 瞭解如何發展卓越中心的架構以確保成功。 此網路研討會錄製於2020年8月5日。
+feature: System Setup and Administration
+topic: Administration, Development
 doc-type: feature video
 team: Technical Marketing
 kt: 9915
 duration: 3698
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---

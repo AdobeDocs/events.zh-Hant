@@ -3,19 +3,20 @@ title: AEM Lucene搜尋的重要提示和最佳實務
 description: 使用進階AEM搜尋工具，例如篩選器、多面向、自動建議、NGram和拼字檢查，大幅提升數位參與度。 從真實世界的示範中學習。
 solution: Experience Manager
 feature: Search
+topic: Performance
 role: Admin, Developer
 level: Intermediate, Experienced
 doc-type: Event
 duration: 3630
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19550
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 53d83139-90f4-4e6c-ba6d-66638c02b4c3
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
-
 
 # AEM Lucene搜尋的重要提示和最佳實務
 
@@ -60,4 +61,3 @@ AEM Lucene中的有效搜尋最佳化涉及策略設定和遵循最佳實務：
 * **排序與Facet**&#x200B;啟用propertyIndex與排序順序；設定Facet**true以計數篩選。
 
 套用這些策略可加快查詢速度、減少資源使用量，並產生更具相關性的結果。
-

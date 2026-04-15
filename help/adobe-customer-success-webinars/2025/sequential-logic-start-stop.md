@@ -2,19 +2,21 @@
 title: 在Adobe Analytics和Customer Journey Analytics中掌握循序邏輯 — 開始和停止
 description: 透過進階分段、範圍控制項和衍生欄位，在Adobe Analytics中掌握循序邏輯，以發掘客戶行為模式並提高資料準確性。
 solution: Analytics, Customer Journey Analytics
+feature: Segmentation, Basics, Use Cases
+topic: Migration, Integrations
 role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3370
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18017
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 62ccb61c-2de9-4a8c-bf0e-c646c7ede698
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '768'
+source-wordcount: '774'
 ht-degree: 0%
 
 ---
-
 
 # 在Adobe Analytics和Customer Journey Analytics中掌握循序邏輯：開始和停止
 

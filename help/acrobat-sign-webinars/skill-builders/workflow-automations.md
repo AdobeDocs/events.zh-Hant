@@ -2,6 +2,7 @@
 title: 由Microsoft Power Automate支援的工作流程自動化
 description: 直接在Adobe Acrobat Sign中利用Microsoft的低程式碼/無程式碼解決方案Power Automate，駕馭所有自動化功能。
 feature: Integrations
+topic: Integrations, Development
 role: User
 level: Intermediate
 doc-type: Event
@@ -9,9 +10,9 @@ duration: 1109
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15303
 exl-id: 72fc12aa-05fe-4856-9c34-bb61f6f3a295
-source-git-commit: 27c53f62fe63e9b166b46cefa04abcdcc7823556
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 直接在Adobe Acrobat Sign中利用Microsoft的低程式碼/無程式碼解決方案Power Automate，駕馭所有自動化功能。 瞭解非開發人員如何擁有建立下一代工作流程的能力和彈性。 在這場會議中，您將瞭解如何：設定工作流程整合以開始使用預先製作的範本快速啟動您的工作流程建立利用龐大的聯結器生態系統將Acrobat Sign整合至您的封裝和自訂應用程式提高生產力並擴充Acrobat Sign的功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/3454935/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3428194/?learn=on)
 
 ## 有關Power Automate的更多詳細資料
 

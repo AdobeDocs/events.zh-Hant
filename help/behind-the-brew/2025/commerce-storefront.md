@@ -1,6 +1,8 @@
 ---
 title: 最佳化Commerce店面
 description: 透過Adobe的維護、機器人活動和資料管理專家提示，最佳化Commerce執行個體
+feature: Integration, Edge Delivery Services
+topic: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3383
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17175
 exl-id: 0b63be70-ada7-4c7f-a38a-b823a59405ea
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -24,9 +26,9 @@ ht-degree: 0%
 *主持人*
 
 * **Jeff McGuire** Adobe的數位參與策略師
-* **Andre**&#x200B;是Adobe的客戶技術顧問，專長於Adobe Commerce (原稱Magento)
+* **Andre**&#x200B;是Adobe的客戶技術顧問，專長於Adobe Commerce （原稱Magento）
 
-## 重要技巧
+## 重點提要
 
 此網路研討會著重於最佳化電子商務店面。
 這是互動式，最後會有一個問答環節。
@@ -35,7 +37,7 @@ ht-degree: 0%
 * **涵蓋的主題**
 
    * 儲存使用情況監控和最佳化。
-   * Web編目程式、流量偵測和減少。
+   * 網頁爬蟲、流量偵測和減少。
 
 * **儲存最佳化**
 
@@ -43,9 +45,9 @@ ht-degree: 0%
    * 實施資料管理和最佳化的最佳實務。
    * 啟用深度影像最佳化以節省磁碟空間。
 
-* **網頁編目程式**
+* **網頁爬蟲**
 
-   * 使用New Relic和自訂SQL查詢之類的工具，偵測並緩解濫用Web編目程式。
+   * 使用New Relic和自訂SQL查詢等工具，偵測並緩解濫用Web爬蟲。
    * 針對非法機器人實施速率限制和封鎖策略。
    * 考慮使用進階服務，例如人類機器人防護器，以進行複雜的機器人偵測。
 

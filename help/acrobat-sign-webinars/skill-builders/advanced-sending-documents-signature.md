@@ -2,6 +2,7 @@
 title: 傳送檔案以索取簽名的進階秘訣
 description: 瞭解如何傳送給多個收件者可用的收件者角色（簽署者、表單填寫者、委派者及其他）新增CC欄位密碼保護等。
 feature: Sign
+topic: Security, Administration
 role: User
 level: Intermediate
 doc-type: Event
@@ -9,9 +10,9 @@ duration: 1143
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15295
 exl-id: 15b61eb5-3a5f-4dbe-94ac-2d4a20976566
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 更深入地瞭解傳送協定以索取簽名時可用的所有選項。 在此會議中，您將瞭解：傳送給多個收件者可用的收件者角色（簽署者、表單填寫者、委派者等）新增CC欄位密碼保護等。
 
->[!VIDEO](https://video.tv.adobe.com/v/3454891/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3428186/?learn=on)
 
 此網路研討會深入探討Acrobat Sign的進階功能，包括設定多參與者工作流程、設定收件者角色，以及運用收件者群組和私人訊息。 此學習有助於簡化傳送檔案以索取簽名的流程，並改善簽名參與者之間的協同合作。
 

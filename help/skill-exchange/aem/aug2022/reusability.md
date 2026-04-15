@@ -2,13 +2,15 @@
 title: 可重複使用的功能
 description: 我們將討論如何利用體驗片段來推動整個生態系統的重複使用和效率。  這會影響ROI並加快速度。  與會者將可瞭解如何定位及使用體驗片段。 出席者。 將瞭解如何套用此功能來加速為客戶提供數位體驗。
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Performance
 role: User
 level: Beginner, Intermediate, Experienced
 kt: 10950
 thumbnail: 346387.jpeg
 exl-id: c4c1608b-5119-4060-b10d-9095a1d9adc6
 duration: 2437
-source-git-commit: ee04b99d756bdc6f7b460c91960fd49e501f57eb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%

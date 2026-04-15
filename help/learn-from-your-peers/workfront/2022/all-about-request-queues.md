@@ -3,15 +3,17 @@ title: 關於請求佇列網路研討會
 description: 向同業瞭解如何最大化Workfront請求佇列。 在我們的隨選網路研討會中，探索Disney's Yellow Shoes的各種用途和最佳實務。
 role: Admin
 solution: Workfront
+feature: Reports and Dashboards, System Setup and Administration
+topic: Administration, Integrations
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3611
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15814
 exl-id: fa9b2c3b-62ac-4f4f-9aec-2e696be5ef48
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---

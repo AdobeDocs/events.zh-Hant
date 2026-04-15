@@ -1,6 +1,7 @@
 ---
 title: 建立您的Nurture配方
 description: 在Marketo Engage中掌握培養 — 學習策略、自動化、個人化和效能追蹤，以提升參與度和結果。
+feature: Programs, Reporting
 speaker-name-1: Amanda Thomas
 speaker-title-1: Senior Marketing Operations Manager
 speaker-company-1: Iron Horse
@@ -14,13 +15,13 @@ doc-type: Event
 duration: 3123
 last-substantial-update: 2025-09-24T00:00:00Z
 jira: KT-19288
-source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
+exl-id: 8f65f7e0-e90d-4be7-be0d-3ecedafdfcfe
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # 建立您的Nurture配方
 
@@ -42,5 +43,3 @@ ht-degree: 0%
 * **績效測量**&#x200B;深入瞭解如何追蹤、分析和最佳化Nurture行銷活動的績效。
 
 此課程非常適合想要在Marketo中奠定堅實基礎，並透過更聰明的培養推動可測量結果的行銷人員。
-
-

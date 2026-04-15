@@ -2,19 +2,21 @@
 title: 運用NorthStar架構實現Adobe Journey Optimizer願景
 description: 瞭解運用NorthStar架構如何協助診斷實作中的差距，並維護AJO和整個Adobe解決方案棧疊的組織一致性。
 solution: Journey Optimizer
+feature: Journeys, Email Design, Audiences
+topic: Personalization, Content Supply Chain, Development
 role: Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3226
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19522
-source-git-commit: 1e74aaa6e67ae372bb6811ebaeac5459353942eb
+exl-id: 19046906-cc6f-41bc-86dd-535dcd3641ad
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
-
 
 # 運用NorthStar架構實現Adobe Journey Optimizer願景
 
@@ -45,4 +47,3 @@ Northstar架構圖表列出Adobe平台有效協調歷程所需的重要技術元
 * **目的地**&#x200B;指定電子郵件、簡訊、網頁和應用程式內傳訊等管道。
 
 每個元件都根據組織的產業與使用案例量身打造，確保架構能支援目前與未來的業務需求。
-

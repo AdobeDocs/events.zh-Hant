@@ -1,19 +1,22 @@
 ---
 title: 在Commerce Intelligence中管理資料集
-description: 觀看此網路研討會，瞭解Commerce IntelligenceData Warehouse管理員的一些強大功能。
-landing-page-description: 觀看此網路研討會，瞭解Commerce IntelligenceData Warehouse管理員的一些強大功能。
-short-description: 觀看此網路研討會，瞭解Commerce IntelligenceData Warehouse管理員的一些強大功能。
+description: 觀看此網路研討會，瞭解Commerce Intelligence Data Warehouse Manager的一些強大功能。
+landing-page-description: 觀看此網路研討會，瞭解Commerce Intelligence Data Warehouse Manager的一些強大功能。
+short-description: 觀看此網路研討會，瞭解Commerce Intelligence Data Warehouse Manager的一些強大功能。
 kt: 10410
 solution: Commerce, Commerce Intelligence
+feature-set: Commerce Intelligence
+feature: Data Integration, Reports
+topic: Commerce
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 344680.jpeg
 exl-id: 657dfb41-0364-4f45-86f7-2e09897860c7
 duration: 3410
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 21%
+source-wordcount: '180'
+ht-degree: 18%
 
 ---
 
@@ -23,7 +26,7 @@ ht-degree: 21%
 >
 >Adobe Commerce Intelligence先前稱為[!DNL Magento Business Intelligence (MBI)]。 過去活動的錄影反映了先前的名稱。
 
-直接從 Adobe Commerce 產品團隊了解 MBI Data Warehouse Manager 的一些強大功能。超越基本報告建置，了解如何利用資料事半功倍。
+直接從 Adobe Commerce 產品團隊了解 MBI Data Warehouse Manager 的一些強大功能。 超越基本報告建置，了解如何利用資料事半功倍。
 
 在這場錄製的網路研討會中，您將瞭解如何加入Adobe Commerce、Google E-commerce和Google AdWords的資料，以計算廣告促銷活動的投資報酬率。
 
@@ -33,5 +36,5 @@ ht-degree: 21%
 
 ## 有用的資源
 
-[Data Warehouse管理員導覽](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html?lang=zh-Hant)
-[連線您的資料](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html?lang=zh-Hant)
+[Data Warehouse管理員導覽](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
+[連線您的資料](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)

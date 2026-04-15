@@ -2,6 +2,7 @@
 title: 魔術按鈕及其建置方式
 description: 透過Adobe的UI擴充性增強工作流程和使用者體驗，可透過Adobe App Builder進行自訂整合，使用「神奇按鈕」簡化複雜工作，並支援與企業系統的順暢整合，以及未來擴充至更多Adobe服務。
 solution: Experience Manager
+feature: Developer Tools, Authoring
 topic: Development
 role: Developer
 level: Beginner, Intermediate
@@ -10,9 +11,9 @@ duration: 1226
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16548
 exl-id: 9dafd048-8b3a-444f-bf0e-d49f76ae7054
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,7 @@ ht-degree: 0%
 
 在Adobe Developers Live社群[討論區](https://adobe.ly/3Ywf6kg)中繼續交談。
 
-## 重要技巧
+## 重點提要
 
 * **UI擴充性** Sarah，Adobe的產品經理，討論UI擴充性的概念，此概念可讓開發人員建立自訂整合和擴充功能，以改善工作流程和使用者體驗。
 * **魔術按鈕**&#x200B;我們引入了「魔術按鈕」的概念，將複雜的工作流程簡化為單一動作，以提高效率並減少挫敗感。

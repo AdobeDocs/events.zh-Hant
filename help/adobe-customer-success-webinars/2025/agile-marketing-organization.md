@@ -2,6 +2,8 @@
 title: 培養敏捷行銷組織
 description: 有關培養敏捷行銷組織的座談會強調敏捷行銷的原則、它的好處、傳統瀑布方法的挑戰、文化轉變和變更管理的需要，以及成功的敏捷行銷所必須的角色和結構。
 solution: General
+feature: Personalization, Analytics Basics
+topic: Personalization, Performance, Development
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3333
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17371
 exl-id: c4cce472-9730-41d8-8292-663d5a2e03a5
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -28,7 +30,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444450/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 * **敏捷行銷原則**&#x200B;敏捷行銷會套用從敏捷軟體開發到行銷流程的原則，著重於反複開發、客戶中心、透明度、資料導向式決策和持續改進。
 

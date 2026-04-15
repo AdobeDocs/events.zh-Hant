@@ -2,6 +2,8 @@
 title: 使用 [!DNL Marketo Engage]在規模程式碼中解密Personalization
 description: 涵蓋Adobe [!DNL Marketo Engage]中可用的個人化功能；代號、區段、動態內容和程式碼片段以及Velocity指令碼。  進階Velocity指令碼使用案例，包括使用來自自訂物件的資料製作個人化內容。
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Personalization, Performance, Development
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -11,9 +13,9 @@ thumbnail: 3419133.jpeg
 event-start-time: 2023-5-4 08:30-8
 exl-id: 56947a3f-ce77-4b57-b780-035366f59117
 duration: 2460
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---

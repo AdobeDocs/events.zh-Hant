@@ -1,6 +1,9 @@
 ---
 title: Adobe Developer App Builder
+solution: Commerce
+feature: App Builder
 description: 使用Adobe Commerce專家指導和現場示範，將App Builder與任何電子商務應用程式整合
+topic: Personalization, Integrations, Performance
 role: Admin, Developer
 level: Intermediate, Experienced
 doc-type: Event
@@ -8,9 +11,9 @@ duration: 3460
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17171
 exl-id: 0a645dc1-0f5d-4b85-bd09-80a453754434
-source-git-commit: 0f08a5e73b4c8842b2639d89552a69b06b7a6788
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '356'
 ht-degree: 2%
 
 ---
@@ -21,7 +24,7 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443027/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 * **Adobe Commerce App Builder簡介**&#x200B;此網路研討會推出Adobe Commerce App Builder，強調其可讓開發人員建立、自訂及開發根據特定需求量身打造的應用程式和擴充功能，以提升及簡化Adobe Commerce體驗。
 

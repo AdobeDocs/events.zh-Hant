@@ -1,6 +1,8 @@
 ---
 title: Marketo Measure與Mochas活動與自訂模型
-description: 加入Adobe業務顧問Kate Colbert和客戶技術顧問James Leedom，探索在Adobe Marketo Measure中運用自訂歸因模型和活動歸因的策略，示範現實生活中的範例，並以現場問答環節結束。
+description: 加入Adobe業務顧問Kate Colbert和客戶技術顧問James Leedom，探索在Adobe Marketo Measure中運用自訂歸因模型和活動歸因的策略，示範真實生活的範例，並以現場問答會結束。
+feature: Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 4080
 last-substantial-update: 2024-08-16T00:00:00Z
 jira: KT-15926
 exl-id: 21a6d921-abe4-4787-b51f-f57faf669c1f
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---

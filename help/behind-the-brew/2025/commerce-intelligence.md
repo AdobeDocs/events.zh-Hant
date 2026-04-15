@@ -1,6 +1,8 @@
 ---
 title: Adobe Commerce Intelligence (fka MBI)
 description: 使用Adobe Commerce Intelligence自訂儀表板和報表，將您的電子商務資料轉換為可操作的深入分析
+feature: Integration
+topic: Integrations, Performance, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3236
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17169
 exl-id: 3d459527-e454-41fc-a952-0b36bb529184
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443025/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 * **Adobe Commerce Intelligence (ACI)簡介**&#x200B;此網路研討會推出Adobe Commerce Intelligence （先前稱為Magento Business Intelligence），強調其作為雲端型資料管理和分析平台的功能，已針對Adobe Commerce和Magento開放原始碼專案最佳化。
 

@@ -2,6 +2,8 @@
 title: Marketo與Mochas — 透過報告推動成長（成熟度Pt 3）
 description: 加入Adobe的業務顧問Cynthia Chang和Carly Gaver，一同參加Marketo成熟度網路研討會系列的第3部分，透過即時問答，探索如何運用Marketo的報告工具來推動業務增長、監控績效並提供具影響力的量度。
 solution: Marketo Engage
+feature: Programs, Smart Lists, Reporting
+topic: Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3505
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16392
 exl-id: 4ad37a4b-8544-4000-8e21-062e3f93909e
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -24,7 +26,7 @@ ht-degree: 0%
 
 成熟度第三部分為Marketo成熟度系列的第三部分，著重於透過報告推動成長。 總結一下，
 
-* 第一部分著重於編目階段，為Marketo執行個體奠定基礎。
+* 第一部分著重於抓取階段，為Marketo例項奠定了基礎。
 * 第2部分涵蓋了行進階段，以最佳化及擴大使用範圍。
 * 第3部分著重於執行階段、縮放及提升效率。
 
@@ -36,7 +38,7 @@ ht-degree: 0%
 * Cynthia已在Adobe工作兩年，之前曾在諮詢業工作並身為Marketo客戶。
 * Carly已在Adobe工作三年，具有數位行銷和行銷自動化背景。
 
-## 重要技巧
+## 重點提要
 
 * **監視**&#x200B;持續監視執行個體的效能，包括傳遞能力及資料庫健康狀況。
 * **稽核**&#x200B;檢閱使用者存取權、許可權和CRM同步處理。

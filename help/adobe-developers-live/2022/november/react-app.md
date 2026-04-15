@@ -1,7 +1,8 @@
 ---
 title: Adobe Developers Live - 11月22日 — 建置您的第一個React應用程式
-description: 使用Adobe Experience Manager Headless CMS內容片段GraphQL功能的Experience ManagerHeadless CMSI簡介建置您的第一個React應用程式。在本次研討會中，您將瞭解如何快速設定React應用程式，並搭配來自Adobe Experience Manager Headless CMS的資料。
+description: 使用Experience Manager Headless CMSI簡介Adobe Experience Manager Headless CMS內容片段GraphQL功能，建立您的第一個React應用程式。在這場會議中，您將瞭解如何快速設定React應用程式，以來自Adobe Experience Manager headless CMS的資料為基礎。
 solution: Experience Manager,Experience Manager Sites
+feature: Edge Delivery Services, Release Information, Content Fragments
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ kt: 11474
 thumbnail: 3411298.jpeg
 exl-id: b04737ec-86b9-44fe-ac47-90d4452da89a
 duration: 1629
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -24,6 +25,6 @@ ht-degree: 0%
 
 Adobe Experience Manager headless CMS內容片段GraphQL功能簡介。
 
-在這場會議中，您將瞭解如何快速設定React應用程式，以來自Adobe Experience Manager Headless CMS的資料為基礎。
+在這場會議中，您將瞭解如何快速設定React應用程式，以來自Adobe Experience Manager headless CMS的資料為基礎。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411298/?quality=12&learn=on)

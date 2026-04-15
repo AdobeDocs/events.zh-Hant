@@ -2,6 +2,7 @@
 title: 專家深入分析 — 採用Leslie Spier
 description: 向Leslie Spier學習採用策略，以提升Workfront參與度、改善流程並認可使用者貢獻。
 feature: Strategic Planning
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 speaker-name-1: Leslie Spier
 speaker-title-1: Customer Success Manager
@@ -11,13 +12,13 @@ doc-type: Event
 duration: 875
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18615
-source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
+exl-id: 1e6c3720-61d1-4d6e-ac7e-85df816f9780
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
-
 
 # 專家深入分析 — 採用Leslie Spier
 
@@ -25,7 +26,7 @@ ht-degree: 0%
 
 歡迎光臨您的On-Demand Workfront CSM，我與Leslie討論為什麼採用是如此重要的主題，還有我們最喜歡的一些策略。
 
->[!VIDEO](https://video.tv.adobe.com/v/3469938/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3469893/?learn=on&enablevpops)
 
 ## 提示、建議等
 
@@ -52,12 +53,12 @@ ht-degree: 0%
 
 ## 資源
 
-* 在尋找更多範例嗎？ 檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314?profile.language=zh-Hant)，瞭解評論中分享的更多想法！
-* [所有關於Blueprint](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=zh-Hant)
-* [上次附註報告](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=zh-Hant)
-* [新增基本條件式格式至檢視](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=zh-Hant)
-* [新增儀表板至左側導覽面板](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=zh-Hant)
-* [配置範本 — 釘住](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=zh-Hant)
+* 在尋找更多範例嗎？ 檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314)，瞭解評論中分享的更多想法！
+* [關於Blueprint](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=en)
+* [上一筆記報告](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=en)
+* [新增基本條件式格式至檢視](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
+* [新增儀表板至左側導覽面板](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=en)
+* [版面配置範本 — 釘選](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=en)
 
 ## 關於喇叭
 

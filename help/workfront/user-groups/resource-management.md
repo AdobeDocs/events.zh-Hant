@@ -1,15 +1,17 @@
 ---
 title: 資源管理（2021年5月18日）
 description: 聆聽Samantha Isin分享她透過Workfront的資源管理和報告工具在Melaleuca所做的事。 也請聽聽Aaron Behr，來自VaynerMedia的…… （說明應該介於60到160個字元之間）
+feature: Resource Management, Reports and Dashboards
+topic: Administration, Integrations
 role: Admin, User
 level: Intermediate, Experienced
 kt: 10008
 thumbnail: 341226.jpeg
 exl-id: fd13b975-1ea2-463a-bb1f-afc6bf4e97ab
 duration: 4171
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---

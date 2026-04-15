@@ -1,6 +1,8 @@
 ---
 title: 使用Workfront喚醒 — 詢問錄製的任何內容
 description: 使用Workfront充分發揮生產力！ 使用最佳實務、里程碑、藍圖和整合。 管理資源、校訂和系統設定。 鼓勵使用者採用並簡化溝通。
+feature: Resource Management, Reports and Dashboards, System Setup and Administration
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3404
 last-substantial-update: 2025-01-24T00:00:00Z
 jira: KT-17213
 exl-id: 11842d50-a898-4326-be35-634ecaa94487
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443085/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 * **專案管理最佳實務**
 

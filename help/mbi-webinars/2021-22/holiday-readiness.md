@@ -5,15 +5,18 @@ landing-page-description: 觀看此錄製的網路研討會，瞭解如何使用
 short-description: 觀看此錄製的網路研討會，瞭解如何使用您的電子商務資料在假期中取得成功。
 kt: 10409
 solution: Commerce, Commerce Intelligence
+feature: Data Integration, Reports
+feature-set: Commerce Intelligence
+topic: Headless, Performance, Commerce
 role: Leader, User, Data Architect
 level: Intermediate
 thumbnail: 342496.jpeg
 exl-id: 9c05e0c7-50cd-42e8-bf7a-7e278b7060bc
 duration: 3197
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 0%
+source-wordcount: '220'
+ht-degree: 4%
 
 ---
 
@@ -40,5 +43,5 @@ ht-degree: 0%
 
 ## 有用的資源
 
-[Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=zh-Hant)
-[Commerce Intelligence支援](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=zh-Hant)
+[Commerce Intelligence使用手冊](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html)
+[Commerce Intelligence支援](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

@@ -2,19 +2,21 @@
 title: 卓越的資源 — 自訂工作負載平衡器
 description: 當您選擇一種工具（工作負載平衡器或資源規劃工具）時，或同時使用兩種工具的情況如何自訂篩選器和檢視表以精確地檢視您在報告中需要的資料為何輸入休假對於精確的產能計畫是關鍵使用Workfront的資源管理工具如何讓Steve及其團隊決定未來3個月的日常資源產能和未來資源計畫
 solution: Workfront
+feature: Resource Management, Reports and Dashboards, Strategic Planning
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 2623
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16102
-source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
+exl-id: 16622bad-db10-4deb-9182-753d0abdcd55
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
-
 
 # 卓越的資源：自訂工作負載平衡器
 

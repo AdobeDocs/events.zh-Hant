@@ -1,19 +1,21 @@
 ---
 title: Workfront中的有效溝通技巧
 description: 探索10項溝通技巧，以提升Adobe Workfront的工作流程效率，進而促進更出色的協同合作及生產力。
+feature: Workfront Fusion
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3317
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19762
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 24aedd87-d213-46c9-b6c5-d55906105115
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
-
 
 # Workfront中的有效溝通技巧
 

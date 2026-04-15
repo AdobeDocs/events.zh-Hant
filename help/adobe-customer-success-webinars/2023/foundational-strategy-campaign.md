@@ -4,6 +4,7 @@ description: Campaign Orchestration的基礎在Personalization中，Campaign Orc
 solution: Campaign
 feature-set: Campaign
 feature: Personalization
+topic: Personalization, Performance
 role: Admin, Architect, Data Architect, Data Engineer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -12,7 +13,7 @@ jira: KT-13927
 thumbnail: 3424016.jpeg
 exl-id: 0cebc7d8-fcba-453d-a160-d9de443c8f4c
 duration: 2298
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%

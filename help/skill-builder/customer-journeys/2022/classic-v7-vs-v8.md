@@ -2,6 +2,8 @@
 title: Adobe [!DNL Campaign Classic] V7與V8
 description: 參加此會議，從我們的產品經理那裡瞭解最新的產品更新，以及V7和V8之間的差異。
 solution: Campaign, Campaign Classic v7, Campaign v8 Client Console
+feature: Email Design, Deliverability, SMS
+topic: Development
 role: Admin, User
 level: Intermediate, Experienced
 kt: 10566
@@ -9,14 +11,14 @@ thumbnail: 343823.jpeg
 hideFromToc: true
 hideFromSearch: true
 duration: 2282
-source-git-commit: b6441f405838ea5c7cf25f839984f439dd6323e2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Adobe[!DNL Campaign Classic] V7與V8
+# Adobe [!DNL Campaign Classic] V7與V8
 
 參加此會議，從我們的產品經理那裡瞭解最新的產品更新，以及V7和V8之間的差異。
 

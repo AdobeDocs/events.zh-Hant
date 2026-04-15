@@ -1,13 +1,15 @@
 ---
 title: 善用適用於AEM Screens的author-publish
 description: 取得AEM Screens的完整生產設定，並瞭解將內容發佈到Screens/數位看板播放器的所有必要步驟。
+feature: Authoring
+topic: Development
 discoiquuid: ea92d8e0-1dc3-4933-9fd2-f8d240ec65ba
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: 27bf6d01-d720-41a1-87b2-7d1d6d29a10c
 duration: 3012
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -18,7 +20,7 @@ ht-degree: 0%
 
 **展示者：**
 
-Iulia Grumaz，電腦科學家，軟體開發，Adobe
+Adobe軟體開發部電腦科學家Iulia Grumaz
 
 >[!VIDEO](https://video.tv.adobe.com/v/28706/?quality=9)
 

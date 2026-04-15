@@ -1,15 +1,17 @@
 ---
 title: Workfront系統維護（2021年7月27日）
 description: 聽取Workfront系統管理員專家分享他們的想法和技巧，瞭解如何讓您的系統保持整潔和連續的系統運作…… （說明應該介於60到160個字元之間）
+feature: System Setup and Administration
+topic: Administration, Integrations
 role: Admin
 level: Beginner, Intermediate
 kt: 10011
 thumbnail: 341213.jpeg
 exl-id: 4c6bbad9-7501-4c7c-9c31-d23ae4cd1d95
 duration: 4969
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---

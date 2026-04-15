@@ -3,6 +3,7 @@ title: 分析資料
 description: 自由格式表格是Analysis Workspace的彈性基礎 — 熟悉這些強大的表格將帶您進入Workspace歷程更深入瞭解區段是極為靈活的方式，可篩選及深入瞭解您的資料，並可在量度層級全域套用，或作為獨立維度使用。 面板提供複雜分析的捷徑 — 尤其是快速深入分析面板，是輕鬆回答您的業務所面臨的問題的絕佳選項
 feature-set: Analytics
 feature: Freeform Tables, Metrics
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event
@@ -11,7 +12,7 @@ last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14653
 thumbnail: 3425987.jpeg
 exl-id: 548d16b0-0f13-479b-ac99-69f94c6f9c0a
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%

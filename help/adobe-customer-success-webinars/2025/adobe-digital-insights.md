@@ -2,6 +2,8 @@
 title: Adobe數位深入分析 — 揭露2024年假期結果和2025年初趨勢
 description: 加入Adobe的網路研討會，深入瞭解2024年節日購物趨勢和2025年初市場預測、探索高成長產品類別，並學習使用AI和進階技術建立個人化購物體驗的最佳實務。
 solution: General
+feature: Generative AI, Personalization
+topic: Artificial Intelligence, Personalization, Performance
 role: Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3049
 last-substantial-update: 2025-02-20T00:00:00Z
 jira: KT-17395
 exl-id: bf20e43a-efc6-4d54-af79-15f89d4fd02b
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -29,7 +31,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446271/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 * **2024年假日季節表現** 2024年假日季節按年成長率為8.7%，支出達到創紀錄的2,414億美元，全年總支出達1.05萬億美元。 關鍵驅動因素包括價格敏感度、社交和行銷頻道，以及行動購物。
 

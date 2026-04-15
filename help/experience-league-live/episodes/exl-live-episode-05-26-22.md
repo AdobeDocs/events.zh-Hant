@@ -3,15 +3,16 @@ title: 詢問專家 — 網路SDK基礎知識
 description: 瞭解網頁SDK。 我們將向您展示Web SDK的所有基本知識，包括它背後的推理、它如何運作以及它提供支援的重要使用案例。
 solution: Data Collection,Experience Platform
 feature: Data Collection
+topic: Development
 kt: 10412
 event-start-time: 2022-05-26 09:00-7
 event-guests: Doug Moore, Eric Matisoff, Rudi Shumpert, Jeff Chasin
 exl-id: b2ea730b-d4ad-4be0-b229-7063369cba7f
 duration: 3863
-source-git-commit: a004d7aa2c01ccd1d4d65749c4aa0440290f8023
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 1%
+source-wordcount: '204'
+ht-degree: 6%
 
 ---
 
@@ -24,8 +25,8 @@ ht-degree: 1%
 ## 一些實用連結
 
 * [教學課程：使用Web SDK實作Adobe Experience Cloud](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=zh-Hant){target="_blank"}
-* [在網頁SDK中自動收集資訊](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=zh-Hant){target="_blank"}
+* [在網頁SDK中自動收集的資訊](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
 * [免費的Web SDK布建](https://adobe.ly/websdkaccess){target="_blank"}
-* [網頁SDK中第一方裝置識別碼的相關資訊](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html?lang=zh-Hant){target="_blank"}
-* [Adobe Experience Platform Debugger概觀和下載](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=zh-Hant){target="_blank"}
+* [網頁SDK中第一方裝置識別碼的相關資訊](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
+* [Adobe Experience Platform Debugger概觀和下載](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
 * [行動SDK檔案](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}

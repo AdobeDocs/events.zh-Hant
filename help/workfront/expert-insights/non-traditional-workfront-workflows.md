@@ -2,6 +2,7 @@
 title: 專家深入分析 — 非傳統Workfront工作流程與Kiersten Kollins
 description: 瞭解DSW的Kiersten Kollins如何使用非傳統Adobe Workfront工作流程、自訂報告和Fusion自動化，以最佳化行銷作業並提高團隊效率。
 feature: Work Management
+topic: Performance, Development
 speaker-name-1: Kiersten Kollins
 speaker-title-1: Senior Marketing Ops Technologist
 speaker-company-1: DSW
@@ -12,9 +13,9 @@ duration: 1129
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18622
 exl-id: a67e7d79-fbfa-4268-9418-98fe977e13f3
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -33,11 +34,11 @@ ht-degree: 0%
 * 起始Creative簡短稽核，以符合使用者和專案的需求。 
 * *額外優惠！*&#x200B;她還分享她最愛的Fusion使用案例範例！
 
->[!VIDEO](https://video.tv.adobe.com/v/3469950/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
 
 ## 資源
 
-在活動期間，Kiersten提到了我們附加至[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315?profile.language=zh-Hant)的兩個資源。
+在活動期間，Kiersten提到了我們附加至[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315)的兩個資源。
 * **範例報表** — 營業時間後的任務報表 
 * **DSW意見路由護欄**&#x200B;這是如何教導您的使用者如何在Workfront中提供更新的絕佳範例！ 
 

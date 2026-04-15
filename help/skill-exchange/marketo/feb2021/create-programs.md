@@ -2,20 +2,22 @@
 title: 在Adobe [!DNL Marketo Engage]中建立程式
 description: 此課程會教導您所有關於方案結構的知識，包括 — 方案型別、頻道和狀態和標籤。
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 kt: 9706
 thumbnail: 340308.jpeg
 exl-id: f317ea35-e460-4c2f-89ca-e3d2d088d220
 duration: 2698
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-# 在Adobe[!DNL Marketo Engage]中建立程式
+# 在Adobe [!DNL Marketo Engage]中建立程式
 
 此課程會教導您所有關於方案結構的知識，包括 — 方案型別、頻道和狀態和標籤。 您也會學習到基礎計畫概念以及組成計畫的內容。
 

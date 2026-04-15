@@ -2,19 +2,20 @@
 title: 利用自動化簡化資源規劃
 description: 瞭解Deloitte如何使用Fusion在Workfront中自動化資源規劃和PTO追蹤。 探索提高精確度、可見度和團隊採用率的真實秘訣。
 feature: Resource Management, Strategic Planning
+topic: Administration, Integrations
 role: Admin
 level: Intermediate
 doc-type: Event
 duration: 3587
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-19421
-source-git-commit: 92e2db2c13888d036dce70e07cd0ac0b6bdc111b
+exl-id: b059479a-bc5b-417d-a2c7-6ce6ea6b0c5e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
-
 
 # 利用自動化簡化資源規劃
 
@@ -39,4 +40,3 @@ ht-degree: 0%
 * **利害關係人參與** Collaboration和創造性的問題解決對於根據團隊需求量身打造解決方案至關重要。
 
 採用自動化不僅能減少手動工作量，還能讓團隊更有效地管理資源，並適應不斷變化的專案需求。
-

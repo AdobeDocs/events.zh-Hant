@@ -1,6 +1,8 @@
 ---
 title: Personalization成熟度 — 實現超個人化的途徑
-description: 瞭解超個人化的新紀元。 我們將在個人化成熟度模型上建構基礎、討論常用封鎖程式，並提供開始使用的戰術提示。重要討論點 — 現代客戶歷程​超個人化之路​如何在您的組織開始使用
+description: 瞭解超個人化的新紀元。 我們將建立個人化成熟度模型的基礎，討論常見的阻斷因素，並提供開始使用的戰術秘訣。重要討論點 — 現代客戶歷程​超個人化的途徑​如何開始使用您的組織
+feature: Basics, Use Cases
+topic: Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 2360
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15559
 exl-id: e6dc873d-ff2c-453e-95fa-f8b0ecd3b491
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -19,7 +21,7 @@ ht-degree: 0%
 
 瞭解超個人化的新紀元。 我們將建立個人化成熟度模型的基礎，討論常見的阻斷因素，並提供開始使用的戰術秘訣。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457356/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3429288/?learn=on)
 
 ## 主要討論點
 

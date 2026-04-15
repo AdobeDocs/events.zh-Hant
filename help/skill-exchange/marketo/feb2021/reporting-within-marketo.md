@@ -2,16 +2,18 @@
 title: 在 [!DNL Marketo Engage]內報告
 description: 瞭解 [!DNL Marketo Engage]的高階報告功能，並深入瞭解報告和智慧列示。
 solution: Marketo Engage
+feature: Smart Lists, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 kt: 9710
 thumbnail: 340309.jpeg
 exl-id: 87f18c5d-5bf3-4789-912c-a4072b26e940
 duration: 1996
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 

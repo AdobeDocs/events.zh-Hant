@@ -2,19 +2,21 @@
 title: 體驗製作者焦點
 description: 瞭解在您的專案中可能未使用的幾項Workspace功能瞭解如何使用這些功能為您和您的Workspace專案一般使用者提供深入分析取得一些您可以套用至您組織的Workspace專案的使用案例範例。
 solution: Analytics
+feature: Analysis Workspace, Visualizations
+topic: Security
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 2569
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-15972
-source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
+exl-id: b59ee10f-cc6e-4b85-8ea6-ce639e63bf5a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
-
 
 # 體驗製作者焦點
 

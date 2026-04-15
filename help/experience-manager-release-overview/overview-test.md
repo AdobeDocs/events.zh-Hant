@@ -1,13 +1,15 @@
 ---
 title: Adobe Experience Manager as a Cloud Service版本總覽
 description: 取得Adobe Experience Manager as a Cloud Service最新功能快速總覽
+feature: Edge Delivery Services, Release Information, Developer Tools
+topic: Development, Headless
 user-guide-breadcrumb: AEM Release Events
 duration: 91
 hidefromtoc: true
 exl-id: eb9580ae-84c9-4c68-84c3-007e67b91a92
-source-git-commit: 4d0f5c7de34d29e86eb0c3a875015508776e8e16
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -31,8 +33,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://video.tv.adobe.com/v/3440931/?learn=on&enablevpops&autoplay=true&captions=chi_hant" title="2024.11.0 AEM版本總覽" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456085/?format=jpeg&captions=chi_hant" alt="2024.11.0 AEM版本總覽"
+                    <a href="https://video.tv.adobe.com/v/3440920/?learn=on&enablevpops&autoplay=true" title="2024.11.0 AEM版本總覽" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg" alt="2024.11.0 AEM版本總覽"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -145,7 +147,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-7-0.md" title="2024.7.0 AEM版本總覽" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432547/?format=jpeg&nocache=1733938196066&captions=chi_hant" alt="2024.7.0 AEM版本總覽"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431707/?format=jpeg&nocache=1733938196066" alt="2024.7.0 AEM版本總覽"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -155,7 +157,7 @@ ht-degree: 0%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2024/2024-7-0.md" target="_blank" rel="referrer" title="2024.7.0 AEM版本總覽">2024.7.0 AEM版本總覽</a>
                     </p>
-                    <p class="is-size-6">此版本中的功能著重於Experience Manager Assets和Cloud Service創新，包括下列專案：使用Dynamic Media​Asset Selector增強功能上傳影片的AEM AssetsCloud Manager ​AI支援字幕AEM AssetsContent Credentials ​：自助設定客戶管理的CDN憑證​CDN清除​ ​流量篩選器規則警報</p>
+                    <p class="is-size-6">此版本中的功能著重於Experience Manager Assets和Cloud Service創新，包括下列專案：使用Dynamic Media​Asset Selector增強功能上傳影片的AEM Assets​AI支援字幕AEM Assets​：自助設定客戶管理的CDN憑證​CDN清除​ ​流量篩選器規則警報</p>
                 </div>
                 <a href="2024/2024-7-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">更多詳細資料</span>
@@ -191,7 +193,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-5-0.md" title="2024.5.0 AEM版本總覽" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448073/?format=jpeg&nocache=1733938196089&captions=chi_hant" alt="2024.5.0 AEM版本總覽"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429503/?format=jpeg&nocache=1733938196089" alt="2024.5.0 AEM版本總覽"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -214,7 +216,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-4-0.md" title="2024.4.0 AEM版本總覽" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3446320/?format=jpeg&nocache=1733938196102&captions=chi_hant" alt="2024.4.0 AEM版本總覽"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429111/?format=jpeg&nocache=1733938196102" alt="2024.4.0 AEM版本總覽"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -237,7 +239,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-3-0.md" title="2024.3.0 AEM版本總覽" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3450618/?format=jpeg&nocache=1733938196095&captions=chi_hant" alt="2024.3.0 AEM版本總覽"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428344/?format=jpeg&nocache=1733938196095" alt="2024.3.0 AEM版本總覽"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -260,7 +262,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-1-0.md" title="2024.1.0 AEM版本總覽" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448940/?format=jpeg&nocache=1733938196099&captions=chi_hant" alt="2024.1.0 AEM版本總覽"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427041/?format=jpeg&nocache=1733938196099" alt="2024.1.0 AEM版本總覽"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -1,19 +1,21 @@
 ---
 title: 熟悉數位資產管理 — 使用Adobe ContentHub的最佳實務
 description: 探索Adobe ContentHub如何與AEM Assets整合，以簡化工作流程、提升存取許可權並改善跨團隊和行業的資產管理。
+feature: Edge Delivery Services, Release Information
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3543
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18242
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: 84e7d369-1811-47e3-b9ed-f525f89303ce
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
-
 
 # 熟悉數位資產管理：使用Adobe ContentHub的最佳實務
 

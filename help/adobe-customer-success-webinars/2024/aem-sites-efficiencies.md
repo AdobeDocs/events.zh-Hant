@@ -2,6 +2,8 @@
 title: AEM Sites效率 — 效能最佳化、設定和疑難排解
 description: 有關AMP網站效率的網路研討會內容包括效能最佳化、Dispatcher設定、許可權管理最佳實務，以及解決效能問題的策略。
 solution: Experience Manager
+feature: Authoring
+topic: Performance
 version: Experience Manager as a Cloud Service
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -10,9 +12,9 @@ duration: 3452
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16353
 exl-id: 55f7c1d8-7c2c-4392-894a-2aa9b3cc0e4a
-source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---

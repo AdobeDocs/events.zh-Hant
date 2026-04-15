@@ -3,15 +3,17 @@ title: 與一般使用者通訊網路研討會
 description: 在我們的隨選網路研討會中，探索與Workfront使用者溝通的各種策略。 向IDEXX、Adobe和Adobe Workfront專家學習有效管道、通訊型別，以及迭代開發您策略的相關資訊。
 role: Admin, Leader
 solution: Workfront
+feature: System Setup and Administration
+topic: Administration, Integrations
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3649
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15825
 exl-id: d1cec74c-aeca-4832-a7e7-be1e9cee112c
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -26,6 +28,6 @@ ht-degree: 0%
 * 決定使用哪些管道進行通訊的秘訣
 * 如何以反複的方式思考您的溝通策略，從您的位置開始並隨著您的發展而成熟
 
-您也可以在此處下載「通訊逐步指南」，其中包含同事要與使用者分享的想法以及實際通訊範例： https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144?profile.language=zh-Hant
+您也可以在此處下載「通訊逐步指南」，其中包含同事要與使用者分享的想法以及實際通訊範例： https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431019/?learn=on)

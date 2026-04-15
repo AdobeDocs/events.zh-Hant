@@ -1,6 +1,8 @@
 ---
 title: 透過Adobe解決方案深入分析Edge Network和行動Personalization
 description: 瞭解如何使用Adobe解決方案來增強行動策略、改善使用者參與度並有效提供個人化體驗。
+feature: Data Configuration and Collection
+topic: Personalization, Security, Migration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,10 +10,10 @@ duration: 3460
 last-substantial-update: 2024-09-04T00:00:00Z
 jira: KT-16137
 exl-id: 235124fa-ff68-44d7-8e8e-70ce67a19134
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 0%
+source-wordcount: '198'
+ht-degree: 1%
 
 ---
 
@@ -23,9 +25,9 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433328/?learn=on)
 
-## 重要技巧
+## 重點提要
 
-### 專注於Edge Network和行動Personalization：
+### 聚焦Edge Network和Mobile Personalization：
 
 * 瞭解用於資料收集和傳播的Adobe Edge架構。
 * 設定行動SDK以提供個人化體驗的重要性。
@@ -33,7 +35,7 @@ ht-degree: 0%
 
 ### 強調最佳化和Personalization
 
-* 移轉至較新SDK版本或使用Mobile Edge SDK進行最佳化。
+* 移轉至較新的SDK版本或使用Mobile Edge SDK進行最佳化。
 * 利用雙重決策擴充功能進行個人化。
 * 透過個人化體驗增強行動應用程式參與度和應用程式內轉換。
 

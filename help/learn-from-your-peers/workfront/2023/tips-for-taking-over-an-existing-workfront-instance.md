@@ -5,13 +5,15 @@ role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 solution: Workfront
+feature: System Setup and Administration
+topic: Commerce
 duration: 3641
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15820
 exl-id: 742737b9-4177-4a21-a883-ba6b67d67195
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
@@ -26,6 +28,6 @@ ht-degree: 0%
 * 現在每個管理員應該做什麼，才能讓未來的自己（和未來的管理員）獲得成功
 * 包含問題、資源和連結的可下載檢查清單，可引導您完成稽核和記錄執行個體的程式
 
-也請務必檢視繼承執行個體檢查清單和Blueprint： https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
+也請務必檢視繼承執行個體檢查清單和Blueprint： https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431014/?learn=on)

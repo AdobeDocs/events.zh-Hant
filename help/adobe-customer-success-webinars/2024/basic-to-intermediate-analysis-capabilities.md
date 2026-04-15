@@ -2,6 +2,8 @@
 title: Adobe Analytics與CJA基本至中繼分析功能快速入門
 description: 課程內容涵蓋設定分析功能、比較Adobe Analytics和Customer Journey Analytics，以及行銷報表的主要功能。
 solution: Customer Journey Analytics, Analytics
+feature: Use Cases, Visualizations, Data Governance, Data Configuration and Collection
+topic: Security, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
 exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
-source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---

@@ -1,19 +1,21 @@
 ---
 title: 在Marketo中套用AI
 description: 加入Lucas、AJ和Darshil的行列，瞭解如何在Marketo中使用人工智慧（從銷售機會評分到轉換），以及使用實用的秘訣和新工具來促進您的行銷活動。
+feature: Programs, Reporting
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 3377
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18117
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: b45f02c5-e9b7-405e-9637-83440b39f254
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
-
 
 # 在Marketo中套用AI：實用策略與實施
 

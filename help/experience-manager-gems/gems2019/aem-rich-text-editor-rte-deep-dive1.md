@@ -1,20 +1,22 @@
 ---
 title: AEM RTF編輯器(RTE)深入探討
-description: 瞭解AEM中豐富設定和RTE使用的最佳實務。 我們將介紹在AEM中使用RTE時的不同使用案例、限制、陷阱、設定工作流程以及常見疑難排解步驟。 我們也會探討其Command-Plugin架構以及Html規則、核心和反序列化等核心概念。
+description: 瞭解AEM中豐富設定和RTE使用的最佳實務。 我們將說明在AEM中使用RTE時的各種使用案例、限制、陷阱、設定工作流程以及常見疑難排解步驟。 我們也會探討其Command-Plugin架構以及Html規則、核心和反序列化等核心概念。
+feature: Authoring
+topic: Development, Headless
 discoiquuid: d4220ddf-360a-4068-9558-b42f29038cc7
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: d6ecba7f-e82b-4b26-9769-392449c9d070
 duration: 3186
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
 # AEM RTF編輯器(RTE)深入探討{#aem-rich-text-editor-rte-deep-dive}
 
-瞭解AEM中豐富設定和RTE使用的最佳實務。 我們將介紹在AEM中使用RTE時的不同使用案例、限制、陷阱、設定工作流程以及常見疑難排解步驟。 我們也會探討其Command-Plugin架構以及Html規則、核心和反序列化等核心概念。
+瞭解AEM中豐富設定和RTE使用的最佳實務。 我們將說明在AEM中使用RTE時的各種使用案例、限制、陷阱、設定工作流程以及常見疑難排解步驟。 我們也會探討其Command-Plugin架構以及Html規則、核心和反序列化等核心概念。
 
 ## AEM RTF編輯器(RTE)深入探討
 
@@ -24,7 +26,7 @@ ht-degree: 0%
 
 **展示者：**
 
-Hanish Bansal，Adobe電腦科學家
+Adobe電腦科學家Hanish Bansal
 
 簡報者投影片，日期： 2019年4月17日
 

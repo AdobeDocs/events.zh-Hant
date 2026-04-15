@@ -3,6 +3,7 @@ title: 用途驅動自動化
 description: 事實證明，自動化的實用範例可建立更有效率的工作流程。
 solution: Workfront
 feature: Workfront Fusion, Work Management
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -11,9 +12,9 @@ jira: KT-14573
 thumbnail: 3425812.jpeg
 exl-id: 9c0ebb6b-ec36-4ff2-af03-2cc9f6e7ca91
 duration: 2581
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---

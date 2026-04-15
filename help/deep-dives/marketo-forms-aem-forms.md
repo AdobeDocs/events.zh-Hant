@@ -1,27 +1,29 @@
 ---
 title: 到底是誰的表單？ 深入探討Marketo表單與AEM Forms的比較
 description: 整合Marketo和AEM Forms以提供自訂PDF等個人化體驗。 AEM Forms透過即時驗證和集中管理來處理複雜表單。
+feature: Programs, Reporting
+topic: Personalization, Integrations
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2753
 last-substantial-update: 2025-03-04T00:00:00Z
 jira: KT-17434
-source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
+exl-id: 44986108-d59e-4729-bfa5-4cb3adb3719e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
 
-
 # 到底是誰的表單？ 深入探討Marketo表單與AEM Forms的比較
 
-探索使用Marketo表單與AEM表單的各種方式和使用案例。 在這場會議中，Adobe專家將探討不同型別的表單、關鍵使用案例、每種型別的利弊等等！ 瞭解如何善用這些不同型別的表單，以最符合您的業務需求和使用案例。
+探索使用Marketo表單與AEM表單的各種方式和使用案例。在這場會議中，Adobe專家將探討不同型別的表單、關鍵使用案例、每種型別的利弊等等！ 瞭解如何善用這些不同型別的表單，以最符合您的業務需求和使用案例。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3448534/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 * **整合Marketo和AEM Forms**&#x200B;討論會強調如何整合Marketo和AEM Forms，以建立個人化和動態的使用者體驗。 例如，使用AEM Forms根據來自Marketo的使用者資料來產生自訂PDF。
 

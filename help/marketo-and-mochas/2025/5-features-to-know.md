@@ -1,6 +1,8 @@
 ---
 title: Marketo與Mochas - 2025年須知5項Marketo功能
 description: 與我們的Marketo Engage專家Carly Gaver和Kate Colbert一起觀看我們年度第一個Marketo和Mochas研討會。 Carly和Kate在Marketo套件中超過5項功能豐富的功能，有助於提升您的客戶體驗並推動2025年的需求。 調整並釋放您Marketo平台的完整潛能！
+feature: Reporting
+topic: Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,13 +10,12 @@ duration: 3382
 last-substantial-update: 2025-02-13T00:00:00Z
 jira: KT-17272
 exl-id: d536d724-9a25-47ae-9a60-c29861359e0b
-source-git-commit: bca10c328d4118782de5fd6d63b8b32861cd5155
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '553'
 ht-degree: 2%
 
 ---
-
 
 # Marketo與Mochas：2025年須知5項Marketo功能
 
@@ -30,25 +31,25 @@ ht-degree: 2%
    * [2025年須知的5項功能](../assets/marketo-&-mochas-5-features-handout.pdf)
 
 * **目標帳戶管理**
-   * [概觀](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
+   * [概觀](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
    * [常見問題集](https://nation.marketo.com/t5/knowledgebase/target-account-management-previously-abm-faq-product-facts-and/ta-p/301199)
    * [提示與秘訣影片](https://nation.marketo.com/t5/product-blogs/marketo-engage-abm-tips-amp-tricks-with-corey-bayless/ba-p/304664)
 
 * **預測客群**
-   * [概觀](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
+   * [概觀](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
    * [使用案例](https://nation.marketo.com/t5/product-blogs/using-predictive-audiences-in-marketo-engage/ba-p/301937)
 
 * **進階歷程分析**
-   * [報告總覽](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
-   * [生命週期Modeler概觀](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
+   * [報表概觀](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
+   * [生命週期Modeler概觀](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
 
 * **沙箱**
-   * [概觀](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
+   * [概觀](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
 
 * **工作區與分割區**
-   * [概觀](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
+   * [概觀](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
 
-## 重要技巧
+## 重點提要
 
 ### 工作階段結構
 

@@ -2,6 +2,8 @@
 title: Experience Makers焦點 — 簡化客戶生命週期中的後續追蹤
 description: 瞭解可執行與請求行銷活動如何簡化工作流程、改善資料準確性，並透過即時多管道策略提升參與度。
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Integrations, Commerce
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18867
 exl-id: 1659fd7b-c12d-4ea0-bba1-e3f583edf949
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '387'
 ht-degree: 1%
 
 ---
@@ -28,9 +30,9 @@ ht-degree: 1%
 
 ## 其他資源
 
-* [可執行的行銷活動](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
-* [您需要瞭解有關Marketo Engage中新的可執行檔行銷活動型別的一切](https://mugs.marketo.com/events/details/marketo-houston-mug-presents-everything-you-need-to-know-about-the-new-executable-campaign-type-in-marketo/)
-* [可執行行銷活動：瞭解可執行檔如何提高效率及影響力](https://www.youtube.com/watch?v=QGC4Bhn5BpU)
+* [可執行的行銷活動](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
+* [關於Marketo Engage中新的可執行行銷活動型別，您需要瞭解的一切](https://mugs.marketo.com/events/details/marketo-houston-mug-presents-everything-you-need-to-know-about-the-new-executable-campaign-type-in-marketo/)
+* [可執行檔行銷活動：瞭解可執行檔如何提升效率和影響力](https://www.youtube.com/watch?v=QGC4Bhn5BpU)
 
 ## 掌握電子郵件以外的多管道生命週期參與
 
@@ -38,8 +40,8 @@ ht-degree: 1%
 
 ## 其他資源
 
-* [深入探究電子郵件：具有應用程式通知、Dynamic Chat和傳訊應用程式的多通道行銷](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-beyond-emails-multi-channel-marketing-with-app-notifications-dynamic-chat-and-messaging-apps/)
-* [全通路參與](https://business.adobe.com/sg/products/marketo/omnichannel-engagement.html)
-* [如何建立應用程式內訊息](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
-* [如何建立推播通知](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
+* [超越電子郵件的深入探討：使用應用程式通知、Dynamic Chat和傳訊應用程式的多通道行銷](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-beyond-emails-multi-channel-marketing-with-app-notifications-dynamic-chat-and-messaging-apps/)
+* [全通道參與](https://business.adobe.com/sg/products/marketo/omnichannel-engagement.html)
+* [如何建立應用程式內訊息](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
+* [如何建立推播通知](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
 * [如何建立WhatsApp範本](https://community.sinch.com/t5/Settings/Create-a-WhatsApp-message-template-new-experience/ta-p/11599)

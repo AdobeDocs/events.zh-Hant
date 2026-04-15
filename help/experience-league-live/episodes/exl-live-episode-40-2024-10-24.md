@@ -4,13 +4,14 @@ description: 瞭解同盟受眾構成如何透過Real-Time CDP和Journey Optimiz
 kt: KT-15473
 solution: Real-Time Customer Data Platform, Experience Platform, Journey Optimizer
 feature: Audiences
+topic: Personalization, Performance
 event-cta-url-live: https://youtube.com/live/ghN-XWdBLvg
 event-start-time: 2024-10-24 08:30-7
 event-guests: Doug Moore,Alyssa Espiritu,Abhijit Ghosh,Arthur Lacroix
 exl-id: bfaacf49-a7a1-48a4-b3e4-52b9346b9f1b
-source-git-commit: bd9ad0e45591576dda38452e40abee08e4b490b2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3436457?quality=12&learn=on)
 
-**若要繼續討論，請造訪我們在Experience League社群上的[討論](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976?profile.language=zh-Hant#M636){target="_blank"}。**
+**若要繼續討論，請造訪我們在Experience League社群上的[討論](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976#M636){target="_blank"}。**
 
 **顯示詳細資料**：
 取得對企業資料倉儲的擴充存取權，以組成對象並強化品牌啟動和即時的體驗。

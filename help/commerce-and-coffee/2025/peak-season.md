@@ -1,19 +1,21 @@
 ---
 title: Commerce與咖啡 — 為旺季做準備
 description: 探索運用Adobe Commerce擴展、個人化和最佳化您的商務體驗的策略，包括B2B、SaaS工具、搜尋和尖峰後分析。
+feature: B2B, Payments
+topic: Personalization, Performance, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3415
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19501
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+exl-id: f7fa9b2a-5a1f-4d19-86e3-23c01c4d6c36
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
-
 
 # Commerce與咖啡：為旺季做準備
 
@@ -44,4 +46,3 @@ ht-degree: 0%
 * **反複改進**&#x200B;監視分析，並調整整個季節的策略，以獲得最佳結果。
 
 Personalization讓購物更容易、更吸引人，藉此建立忠誠度並增加銷售額。
-

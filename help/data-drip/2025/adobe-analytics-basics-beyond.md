@@ -1,6 +1,8 @@
 ---
 title: Adobe Analytics基本概念及更多內容
 description: 加入Taylor Walker和Vishnu Pillai的網路研討會，以掌握Adobe Analytics、最佳化工作區、匯出資料及整合工具。 立即觀賞專家深入分析
+feature: Analysis Workspace, Segmentation, Visualizations
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3437
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17172
 exl-id: 348404c6-3886-4af0-ae16-82ff379d0181
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443028/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 * **Adobe Analytics簡介**&#x200B;會議著重於Adobe Analytics基本知識和進階功能，包括如何開始使用並有效利用平台。
 

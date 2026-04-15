@@ -1,22 +1,24 @@
 ---
 title: 掌握AA和CJA中的循序邏輯 — 視覺化架構
-description: 瞭解如何掌握Adobe Analytics中的循序邏輯，並透過視覺化架構進行Customer Journey Analytics，以便將案例轉換為可操作的計畫並建立有效的循序區段。
+description: 瞭解如何透過視覺化架構掌握Adobe Analytics和Customer Journey Analytics中的循序邏輯，以便將案例轉換為可操作的計畫並建置有效的循序區段。
 solution: Analytics
+feature: Segmentation, Visualizations
+topic: Migration, Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3331
 last-substantial-update: 2025-01-31T00:00:00Z
 jira: KT-17216
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+exl-id: c0cc6c9d-863b-4651-8d0e-d05c7813c285
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
 
-
-# 掌握AA和CJA中的循序邏輯：視覺架構
+# 掌握AA和CJA中的循序邏輯：視覺化架構
 
 取得視覺化架構，將循序分析案例轉譯為計畫，然後建立正確的循序區段（篩選器）。
 
@@ -26,7 +28,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443129/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 * **Analytics中的循序邏輯**&#x200B;工作階段著重於使用&quot;then&quot;運運算元掌握循序邏輯，以啟用高值分析。 這涉及瞭解如何定義和分析資料中的事件序列。
 

@@ -1,8 +1,9 @@
 ---
 title: 深入探討AEM Sites的工具
-description: 有效利用工具並轉換AEM Sites體驗的最佳實務。 標籤型別瞭解不同的標籤型別如何增加內容組織和可發現性。  設定和套用標籤獲得有效標籤實作的實作深入分析，以節省時間並提高生產力。  資料夾中繼資料結構描述透過資料夾中繼資料結構描述探索結構化內容管理的強大功能。中繼資料結構描述熟悉中繼資料結構描述設計，提升內容關聯性和使用者體驗。 設定報表透過設定全面報表，利用資料導向的深入分析以進行策略決策。您可以在此處存取簡報幻燈片。
+description: 有效利用工具並轉換AEM Sites體驗的最佳實務。 標籤型別瞭解不同的標籤型別如何增加內容組織和可發現性。  設定和套用標籤獲得有效標籤實作的實作深入分析，以節省時間並提高生產力。  資料夾中繼資料結構描述透過資料夾中繼資料結構描述探索結構化內容管理的強大功能。中繼資料結構描述精通中繼資料結構設計，可提高內容關聯性和使用者體驗。 設定報表透過設定全面報表，利用資料導向的深入分析以進行策略決策。您可以在這裡存取簡報投影片。
 feature-set: Experience Manager
 feature: Tagging
+topic: Development, Headless
 role: Leader, Architect, Developer, Admin, User
 level: Beginner, Intermediate
 solution: Experience Manager
@@ -12,9 +13,9 @@ jira: KT-14118
 thumbnail: 3424735.jpeg
 exl-id: 337a19c3-2959-492a-b0c6-87d5a7731797
 duration: 2640
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---

@@ -2,15 +2,17 @@
 title: 行銷管道，請負責任地使用
 description: 瞭解您的每個品牌接觸點在您客戶使用行銷管道和歸因模型的歷程中所產生的影響。在此會議中，您將…… （說明應該介於60到160個字元之間）
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Intermediate, Experienced
 kt: 10322
 thumbnail: 342532.jpeg
 exl-id: 858fbd40-c520-4974-a6f1-2d573b0a1bf6
 duration: 1952
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---

@@ -4,14 +4,15 @@ description: 瞭解如何在AEM Cloud Service中設定Adobe Managed CDN，以透
 role: Developer, User
 level: Intermediate
 feature: Edge Delivery Services
+topic: Security, Performance, Certification
 doc-type: Event
 duration: 3438
 last-substantial-update: 2025-01-30T00:00:00Z
 jira: KT-17227
 exl-id: 4cd0332f-95bf-45f4-a765-aba020c0d7b0
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '447'
 ht-degree: 0%
 
 ---
@@ -31,7 +32,7 @@ ht-degree: 0%
 
 有疑問嗎，可以發表意見嗎？  加入[Experience League社群](https://adobe.ly/4haufPK)中的討論！
 
-## 重要技巧
+## 重點提要
 
 ### Adobe Managed CDN的主要功能
 
@@ -63,7 +64,7 @@ ht-degree: 0%
 * **部署組態**&#x200B;示範部署流量篩選規則與重新導向。
 * **驗證和來源選擇**&#x200B;顯示如何設定基本驗證和Proxy流量到不同來源。
 
-### 最佳實務
+### 最佳做法
 
 * **快速回應**&#x200B;確保來自來源的快速回應，以避免漏洞。
 * **良好的快取**&#x200B;利用快取來有效處理流量。

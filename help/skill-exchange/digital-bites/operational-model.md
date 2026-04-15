@@ -1,6 +1,9 @@
 ---
 title: 以同級最佳的營運模型釋放營運效率
-description: 探索如何為AdobeMarTech Stack開發同級最佳營運模型，以及我們觀察的最佳作法
+solution: Experience Cloud
+feature: Personalization
+description: 探索如何為Adobe MarTech Stack開發同級最佳作業模型，以及我們觀察到的最佳實務
+topic: Development
 role: Leader, User
 level: Intermediate
 kt: 11124
@@ -8,15 +11,15 @@ thumbnail: 3409247.jpeg
 hidefromtoc: true
 exl-id: a03cdc91-47c3-488e-846d-86059fee60ab
 duration: 1683
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
 # 以同級最佳的營運模型釋放營運效率
 
-隨著公司轉型成為體驗式企業，提供更豐富的資料以實現真正以客戶為中心的體驗，他們也需要重新思考工作和組織方式。 該會議將探討如何為AdobeMarTech Stack開發同級最佳作業模型、我們觀察到哪些最佳實務，以及如何協調變更管理並確保成功推出作業。 橫跨數位組織的模型。
+隨著公司轉型成為體驗式企業，提供更豐富的資料以實現真正以客戶為中心的體驗，他們也需要重新思考工作和組織方式。 該會議將探討如何為Adobe MarTech Stack開發同級最佳作業模型、我們觀察到哪些最佳實務，以及如何協調變更管理並確保成功推出作業。 橫跨數位組織的模型。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409247/?quality=12&learn=on)

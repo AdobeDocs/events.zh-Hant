@@ -1,6 +1,8 @@
 ---
 title: 全新Discover控制面板
 description: 加入Adobe資深業務顧問Kate Colbert和技術顧問James Leedom的行列，一同探索Marketo Measure中的9個全新Discover控制面板，提供收入、ROI、參與度和銷售機會速度等量度的動態深入分析，並透過即時示範和問答環節進行。
+feature: Reporting
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,22 +10,22 @@ duration: 3619
 last-substantial-update: 2024-05-01T00:00:00Z
 jira: KT-15339
 exl-id: 7f69f653-e293-4fec-a38d-211bc6dac4e1
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
 # 全新Discover控制面板
 
-加入Adobe資深業務顧問Kate Colbert和技術顧問James Leedom的行列，一同探索現在可供所有Marketo Measure執行個體使用的九個新Discover控制面板。 這些新推出的控制面板提供收入、歸因收入、ROI、參與度、銷售機會速度、機會速度和網路流量等關鍵量度的動態觀點和增強型深入分析。 資料導向式深入分析是精簡參與策略、強化成長與轉換的關鍵。
+加入Adobe資深業務顧問Kate Colbert和技術顧問James Leedom的行列，一同探索適用於所有Marketo Measure執行個體的9個全新Discover控制面板。 這些新推出的控制面板提供收入、歸因收入、ROI、參與度、銷售機會速度、機會速度和網路流量等關鍵量度的動態觀點和增強型深入分析。 資料導向式深入分析是精簡參與策略、強化成長與轉換的關鍵。
 
 在這場會議中，我們將示範如何以最高效率將這些新的儀表板合併到您的行銷報告中。 我們也一如既往地會在問答期間即時回答您的問題！
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428405/?learn=on)
 
-## 重要技巧
+## 重點提要
 
 * Marketo Measure中的Discover儀表板是一組新的和改進的預先建立儀表板，旨在增強可用性並為報告功能增加價值。
 * 舊控制面板已於3月淘汰，新控制面板現在可供所有Marketo Measure客戶使用。

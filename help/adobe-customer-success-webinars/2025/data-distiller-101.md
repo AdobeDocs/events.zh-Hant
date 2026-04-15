@@ -2,6 +2,8 @@
 title: 資料Distiller 101
 description: Data Distiller 101網路研討會重點說明其在資料細分、擴充和AI/ML整合方面的功能，為資料架構師和行銷實體提供可擴充的解決方案，以增強資料導向式決策。
 solution: Experience Platform
+feature: AI Assistant, Personalization
+topic: Personalization, Integrations, Development
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,10 +11,10 @@ duration: 2659
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17375
 exl-id: 111724c4-a20b-4b18-b600-c285f54195a8
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 0%
+source-wordcount: '289'
+ht-degree: 1%
 
 ---
 
@@ -28,7 +30,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444454/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 ### Data Distiller的概述和用途
 

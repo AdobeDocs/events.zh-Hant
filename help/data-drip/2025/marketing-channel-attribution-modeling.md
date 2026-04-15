@@ -1,16 +1,18 @@
 ---
 title: 行銷管道和歸因模型
 description: 解鎖Adobe Analytics設定行銷管道的強大功能，透過專家指導運用歸因模型
+feature: Segmentation
+topic: Personalization, Security
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3494
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17164
 exl-id: bdfa9338-f9ef-4bbc-8afb-7fa63305b2f6
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 0%
+source-wordcount: '426'
+ht-degree: 1%
 
 ---
 
@@ -43,7 +45,7 @@ ht-degree: 0%
 
 * **錄製與資源**&#x200B;網路研討會正在錄製，將透過電子郵件寄出。 在工作階段期間也有講義和資源可供下載。
 
-## 重要技巧
+## 重點提要
 
 * **行銷管道**
 

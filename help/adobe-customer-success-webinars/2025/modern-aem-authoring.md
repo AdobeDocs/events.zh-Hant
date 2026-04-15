@@ -3,19 +3,20 @@ title: 現代Adobe Experience Manager編寫的通用編輯器總覽
 description: 探索AEM的Universal Editor — 使用案例、跨架構支援，以及簡化製作和提升內容傳送的關鍵考量事項。
 solution: Experience Manager
 feature: Authoring
+topic: Headless, Integrations, Security
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2891
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18763
-source-git-commit: 3b54c46988da18248024d115997704d9881f5e68
+exl-id: 6212a20d-f58c-481c-a475-89153cb0d040
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '242'
 ht-degree: 2%
 
 ---
-
 
 # Universal Editor：現代AEM撰寫策略概觀
 
@@ -43,7 +44,7 @@ ht-degree: 2%
 
 | 功能 | AEM頁面編輯器 | 通用編輯器 |
 |--------------------------|-------------------------------|-----------------------------|
-| **已匯入** | 2014 （觸控式UI） | 2024 版 |
+| **已匯入** | 2014 （觸控式UI） | 2024 年 |
 | **內容來源** | AEM JCR | AEM JCR、GraphQL、Edge |
 | **UI架構** | Coral UI | React Spectrum |
 | **使用案例** | 傳統AEM網站 | Headless、Edge Delivery |

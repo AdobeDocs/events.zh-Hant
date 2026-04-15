@@ -1,13 +1,15 @@
 ---
 title: AEM現代化套裝簡介
 description: 瞭解如何將靜態範本頁面轉換為可編輯的範本。 瞭解如何將自訂或舊版元件轉換為核心元件代理程式等。
+feature: Authoring
+topic: Development, Headless
 discoiquuid: 2bb43197-11dc-4e96-a4ec-326fef150845
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: 1a3fb1de-4c75-4527-9743-a14822566369
 duration: 3324
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -27,8 +29,8 @@ ht-degree: 0%
 
 **展示者：**
 
-* Bryan Stopp，AEM技術架構師，Adobe
-* Gilles Nonbloch，Adobe資深工程經理
+* AEM技術架構師Bryan Stopp
+* Adobe資深工程經理Gilles Knonbloch
 
 **簡報者投影片**
 

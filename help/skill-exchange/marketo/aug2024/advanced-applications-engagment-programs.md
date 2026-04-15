@@ -2,6 +2,8 @@
 title: 釋放多串流歷程的力量 — 參與計畫的進階應用程式
 description: 使用不同業務模式的範例來定義客戶歷程階段。  將客戶歷程Blueprint轉換為多串流參與計畫。  利用原生報告功能來跨客戶生命週期分析您的參與計畫。
 solution: Marketo Engage
+feature: Reporting
+topic: Development
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2384
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-15999
 exl-id: 4ea88475-d316-47e2-8851-2712f07632e4
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---

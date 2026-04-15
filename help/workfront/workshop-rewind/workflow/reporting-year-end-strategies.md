@@ -1,19 +1,21 @@
 ---
 title: Workfront報表 — 年終策略
 description: 透過Adobe Workfront探索有效的年終報告策略。 瞭解如何規劃、執行及最佳化您的報告，以邁向業務成功。
+feature: Reports and Dashboards, Strategic Planning
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3432
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19759
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 4414b9a4-1620-4092-9bdb-604ab6c5d308
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
-
 
 # 年終Workfront報告
 

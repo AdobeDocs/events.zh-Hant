@@ -2,13 +2,15 @@
 title: 您的Marketo藍圖
 description: Marketo可自訂且可擴充，因此有很多商機。 但同時，不良規劃或缺乏規劃可能會使您留下…… （說明應該介於60到160個字元之間）
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Development
 role: User
 level: Intermediate, Experienced
 kt: 10329
 thumbnail: 342564.jpeg
 exl-id: b1b3d59a-6c45-4712-9eb8-d44406a6a4e9
 duration: 2379
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%

@@ -1,19 +1,21 @@
 ---
 title: 使用Workfront Fusion自動化命名慣例的5個秘訣
 description: 車間倒帶 — Fusion
+feature: Workfront Fusion, Reports and Dashboards, System Setup and Administration
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3552
 last-substantial-update: 2025-11-20T00:00:00Z
 jira: KT-19791
-source-git-commit: 48d93e64b075db84d164a743db97fa0202b3e26c
+exl-id: 26883731-1cae-4119-8c12-0d7e39f455ce
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 1%
+source-wordcount: '216'
+ht-degree: 2%
 
 ---
-
 
 # 使用Workfront Fusion自動化命名慣例的5個秘訣
 

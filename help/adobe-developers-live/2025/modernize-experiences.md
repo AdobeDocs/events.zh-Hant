@@ -1,19 +1,21 @@
 ---
 title: 使用Adobe Experience Manager移轉體驗並使其現代化，以進行使用者參與和AI原生探索
 description: 探索Adobe Experience Manager如何使用AI來有效率地匯入和遷移網站，以提升參與度和探索度。
+feature: Edge Delivery Services, Release Information
+topic: Artificial Intelligence, Integrations, Migration
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 975
 last-substantial-update: 2025-12-11T00:00:00Z
 jira: KT-19987
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: 34d729aa-6eb8-48f7-a9ea-66d6f179eb39
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 1%
+source-wordcount: '202'
+ht-degree: 0%
 
 ---
-
 
 # 使用Adobe Experience Manager移轉體驗並使其現代化，以進行使用者參與和AI原生探索
 

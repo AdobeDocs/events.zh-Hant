@@ -1,19 +1,21 @@
 ---
 title: Fusion的好處與最佳實務
 description: 向專家探索Fusion的好處和最佳實務。 瞭解如何使用Adobe Fusion簡化流程並提高效率。
+feature: Workfront Fusion
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3439
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19744
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 7fbc88c2-97b6-46a5-aae3-ef6f633cf04b
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
-
 
 # Fusion的好處與最佳實務
 

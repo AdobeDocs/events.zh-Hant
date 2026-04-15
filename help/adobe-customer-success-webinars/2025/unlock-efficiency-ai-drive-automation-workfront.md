@@ -1,19 +1,21 @@
 ---
 title: 解鎖效率 — Adobe Workfront中的AI驅動自動化
 description: 探索Adobe Workfront中的AI驅動自動化如何簡化專案管理、提高效率，以及支援更聰明、資料導向的決策。
+feature: Resource Management
+topic: Administration, Integrations
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3379
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18241
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: 7d8d5e87-52d9-4b4a-a123-b9e2a3e4f065
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
-
 
 # 解鎖效率：Adobe Workfront中的AI驅動自動化
 

@@ -3,6 +3,7 @@ title: 解決電子郵件以外的Adobe歷程
 description: 瞭解如何使用Adobe Journey Optimizer設計和測試多頻道歷程，使用測試設定檔、事件資料和現實世界情境來達到最佳參與。
 solution: Journey Optimizer
 feature: Email, Direct Mail, Journeys
+topic: Personalization
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-28T00:00:00Z
 jira: KT-18850
 exl-id: e611a377-0e3c-4ccd-ac9c-280638b6ea36
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---

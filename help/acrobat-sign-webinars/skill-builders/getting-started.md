@@ -2,6 +2,7 @@
 title: Acrobat Sign 101 — 快速入門
 description: 瞭解Acrobat Sign的基本知識，以開始快速簽署檔案。
 feature: Sign
+topic: Development
 role: User
 level: Beginner
 doc-type: Event
@@ -9,10 +10,10 @@ duration: 1623
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15292
 exl-id: 30be76bf-738d-4716-8de6-6f5387dbf905
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 0%
+source-wordcount: '190'
+ht-degree: 12%
 
 ---
 
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 瞭解Acrobat Sign的基本知識，以開始快速簽署檔案。 我們將向您展示如何：準備並傳送您的檔案以進行電子簽章檢視您的簽署者所看到的內容管理和追蹤合約進度建立您自己的簽名等等。
 
->[!VIDEO](https://video.tv.adobe.com/v/3455476/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3428183/?learn=on)
 
 ## 要點
 

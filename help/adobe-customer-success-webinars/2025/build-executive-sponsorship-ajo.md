@@ -2,19 +2,21 @@
 title: 建立高階主管贊助以支援Adobe Journey Optimizer成功
 description: 瞭解主管領導如何倡導AJO計畫、協調團隊，並透過贊助者參與和領導力的策略推動成果。
 solution: Journey Optimizer
+feature: Journeys
+topic: Personalization, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2422
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19625
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 2524ce6c-d654-4b17-aa0f-ecefe17aa2ee
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
-
 
 # VRA諮詢#4：建立高階主管贊助以支援Adobe Journey Optimizer (AJO)成功
 
@@ -50,4 +52,3 @@ ht-degree: 0%
 * **建立關係**&#x200B;促進透明度、設定明確的期望，並維持持續溝通，將高階主管支援轉換為策略性合作關係。
 
 使用利害關係人策略地圖可幫助組織選擇正確的執行贊助者和盟友，以確保成功實施和持續變更。
-

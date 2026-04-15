@@ -1,6 +1,8 @@
 ---
 title: Commerce與咖啡 — 精通Ecommerce Essentials
 description: Corey Gelato的會議涵蓋Adobe Commerce上的電子商務要領，強調個人化銷售、忠誠度計畫、最佳化付款和運送策略，以及提高客戶參與度、保留率和轉換率的有效行銷活動。
+feature: Payments
+topic: Personalization, Security, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3480
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15605
 exl-id: e9061413-76b5-496c-91a2-a8bb54e1d21d
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---

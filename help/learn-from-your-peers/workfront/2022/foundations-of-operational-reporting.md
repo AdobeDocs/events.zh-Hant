@@ -2,6 +2,7 @@
 title: Operational Reporting網路研討會基礎
 description: 向同儕學習系統管理員應在Workfront中測量哪些專案。 在我們的隨選網路研討會中探索關鍵量度、報告需求和控制面板範例。
 feature: Reports and Dashboards
+topic: Administration, Integrations
 role: Admin
 solution: Workfront
 level: Beginner, Intermediate, Experienced
@@ -10,9 +11,9 @@ duration: 3672
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15813
 exl-id: 3f98a8e2-c288-4270-b6ea-b21d5751ae2b
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '147'
 ht-degree: 1%
 
 ---

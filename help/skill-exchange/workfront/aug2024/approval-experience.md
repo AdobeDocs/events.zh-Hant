@@ -2,19 +2,21 @@
 title: 提升核准體驗的實證方法
 description: 如何在您的執行個體中尋找和設定理想的校訂許可權，以將通知最小化給您的使用者如何持續使用校訂的實用範例培訓您的使用者如何使用Workfront報告來追蹤核准流程，並讓利害關係人瞭解該方式的每個步驟展望Monique希望如何透過整合Frame.io進一步改進其流程
 solution: Workfront
+feature: Reports and Dashboards, System Setup and Administration
+topic: Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 2084
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16101
-source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
+exl-id: c41bb2ad-001d-43f7-90a4-40fda4c63523
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
-
 
 # 提升核准體驗的實證方法
 

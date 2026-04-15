@@ -2,6 +2,7 @@
 title: 建立XDM結構描述模型的最佳實務和深入分析
 description: 在AEP中建立主要資料模型，運用XDM結構描述、身分管理和最佳作法，以實現可擴充、即時個人化和細分。
 solution: Experience Platform
+feature: Personalization
 topic: Personalization
 role: Developer
 level: Intermediate
@@ -10,9 +11,9 @@ duration: 3488
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18019
 exl-id: 3327dc51-b5e4-49bd-884a-4defea8664eb
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458042/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 **在Adobe Experience Platform (AEP)中建立資料模型**
 

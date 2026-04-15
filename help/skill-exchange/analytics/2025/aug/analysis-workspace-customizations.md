@@ -3,23 +3,24 @@ title: Adobe Analytics Workspace中的三個改變遊戲規則的自訂
 description: 透過Champions Isha Gupta和Deb William的深入分析，瞭解如何在Adobe Analytics中建立儀表板的品牌、設定不重複訪客ID和對抗機器人流量。
 solution: Analytics
 feature: Analysis Workspace, Workspace Basics
+topic: Personalization
 role: User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 2408
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18827
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 14ec70f1-4302-4afd-a5b9-d89f1b240aaa
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Analytics Workspace中的三個改變遊戲規則的自訂
 
-Adobe Analytics我們大多數人都將一生都花在預設設定上，完全不知道我們可以加以自訂！ 我在此為您呈現三個選項，可讓您以最有意義的方式展示您的Analytics Workspace儀表板，以引起您的品牌認同感以及您自己的風格！ 這些強大但使用不足的自訂功能可讓您的儀表板從標準型轉變為卓越型。
+我們大多數人都將一生都花在預設設定上，完全不知道我們可以加以自訂！ 我在此為您呈現三個選項，可讓您以最有意義的方式展示您的Analytics Workspace儀表板，以引起您的品牌認同感以及您自己的風格！ 這些強大但使用不足的自訂功能可讓您的儀表板從標準型轉變為卓越型。
 
 ## 掌握機器人流量：偵測、細分和降低
 

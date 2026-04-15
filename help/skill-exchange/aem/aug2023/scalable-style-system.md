@@ -5,6 +5,7 @@ solution: Experience Manager
 version: Experience Manager as a Cloud Service
 feature-set: Experience Manager Sites
 feature: Style System
+topic: Development, Headless
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -13,13 +14,12 @@ jira: KT-14150
 thumbnail: 3424019.jpeg
 exl-id: 4b420f9e-bf6d-469c-9b43-0a25151f46c5
 duration: 1696
-source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
 
 ---
-
 
 # 2023年8月技能交流活動 — AEM Developer Track — 釋放樣式的力量：建立有效且可擴充的樣式系統
 

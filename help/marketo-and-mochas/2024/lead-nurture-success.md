@@ -1,6 +1,8 @@
 ---
 title: Marketo與Mochas — 為領導培養成功奠定基礎
 description: 加入業務顧問Cynthia Chang和Carly Gaver的行列，瞭解如何在Adobe Marketo Engage中最大限度地培養潛在客戶，探索內容散佈的參與計畫，並觀看使用最佳實務範本設定參與計畫的即時示範，以及即時問答。
+feature: Programs
+topic: Personalization, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3544
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15604
 exl-id: 7afdf1ae-a73a-4b04-92bf-6deacc2925fc
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---

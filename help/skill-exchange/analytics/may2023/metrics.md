@@ -4,6 +4,7 @@ description: 瞭解基本訪客量度並新增維度和量度。 在此工作階
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics, Metrics, Segmentation
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event
@@ -13,7 +14,7 @@ thumbnail: 3420944.jpeg
 event-start-time: 2023-5-1 08:30-8
 exl-id: 666ea2a9-12b1-4ecf-828c-fdc4ad554c63
 duration: 2183
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%

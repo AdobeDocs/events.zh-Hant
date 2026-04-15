@@ -2,6 +2,8 @@
 title: 使用全域組合大規模釋放成功
 description: 使用AEM擴充全域內容，使用自訂元件、藍圖、工作流程和片段，以有效控制、核准和區域彈性。
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Performance
 version: Experience Manager as a Cloud Service
 role: Admin, User
 level: Intermediate
@@ -10,9 +12,9 @@ duration: 3603
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-17926
 exl-id: 40ee87d8-0ff9-44a8-8bd2-8000e7db89ed
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -23,7 +25,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457918/?learn=on&enablevpops)
 
-## 重要技巧
+## 重點提要
 
 * **元件自訂與管理**&#x200B;這些功能可因應區域細微差別與需求，可針對特定區域或全域進行自訂，有助於在一個地方滿足各種需求。
 

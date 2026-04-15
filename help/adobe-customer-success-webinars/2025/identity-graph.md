@@ -2,6 +2,7 @@
 title: 身分圖表使用案例和疑難排解
 description: 瞭解Adobe Experience Platform Identity Service如何強化分段、啟用和設定檔合併深入分析，以解決現實世界的行銷挑戰。
 feature: Identities, Profiles, Segments
+topic: Personalization, Security, Administration
 solution: Experience Platform
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 3232
 last-substantial-update: 2025-09-24T00:00:00Z
 jira: KT-19286
-source-git-commit: ae72352725cfb057cab771b08c4419c11e17e385
+exl-id: ffe6ced7-998c-4e40-a91f-e34e5174dc2c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
-
 
 # 身分圖表使用案例和疑難排解
 
@@ -46,4 +47,3 @@ ht-degree: 0%
 * **圖形摺疊與修復**&#x200B;共用裝置、未驗證的資料或實作錯誤可能會分割設定檔；模擬工具和修復工作可協助還原準確性。
 
 瞭解這些概念可讓組織發揮最大的資料價值、確保法規遵循並提供個人化體驗。
-

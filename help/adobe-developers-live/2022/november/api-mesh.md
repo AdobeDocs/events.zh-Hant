@@ -2,6 +2,7 @@
 title: Adobe Developers Live - 11月22日 — 如何使用App Builder和API Mesh建立內容和Commerce體驗
 description: 在這場會議中，您將瞭解建立Headless體驗導向型商業店面的端對端開發人員流程，從AppBuilder API Mesh開始，以彙總Adobe Experience Manager和Commerce中的不同內容來源。瞭解如何建立Headless體驗，顯示擴充了Adobe Experience Manager內容片段的產品使用Micro Frontend將購物車整合到您的應用程式中
 solution: Experience Manager,Experience Manager Sites
+feature: Developer Tools, Content Fragments
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,9 +14,9 @@ kt: 11501
 thumbnail: 3411440.jpeg
 exl-id: ce1cd4d4-ee6c-41c6-9235-7da2ef4cd2a9
 duration: 2172
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---

@@ -2,19 +2,21 @@
 title: Marketo新電子郵件編輯器
 description: 探索Marketo新的電子郵件編輯器功能、最佳實務、移轉提示，以及常見問答錯誤。
 solution: Marketo Engage
+feature: Design Studio
+topic: Migration, Administration
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3543
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-20002
-source-git-commit: fa067dfc5293d58cbd73c5d1a87be0ccf82b8f3e
+exl-id: a6f42de8-a739-4682-855a-2ff6f727c7c4
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
-
 
 # Marketo新電子郵件編輯器
 

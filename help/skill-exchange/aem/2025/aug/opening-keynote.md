@@ -1,7 +1,8 @@
 ---
 title: Adobe Experience Manager開幕主題演講
-description: 瞭解Adobe Experience Manager如何與AI一起進化。 探索代理式工作流程、AI搜尋、大規模個人化和更聰明的內容最佳化。
+description: 瞭解Adobe Experience Manager如何與AI一起進化。 探索代理式工作流程、AI 搜尋、大規模個人化及更聰明的內容最佳化。
 solution: Experience Manager as a Cloud Service
+feature: Edge Delivery Services, Migration
 topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-03T00:00:00Z
 jira: KT-18861
-source-git-commit: 247ffab879bedf7d4e0d5258325d63af2916684a
+exl-id: eafba020-b895-4100-9f63-760787eb97f6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
-
 
 # 開啟主題演講
 
@@ -25,11 +26,11 @@ ht-degree: 0%
 
 * AI代理程式和Experience Hub如何簡化內容產生和工作流程。
 * AI驅動啟動的角色，可跨每個管道和裝置提供正確內容。
-* AI搜尋如何改善資產探索、重複使用和內容速度。
+* AI 搜尋如何改善資產探索、重複使用和內容速度。
 * Sites Optimizer和Content Advisor等全新最佳化工具，提供更出色的參與度和轉換率。
 * 如何安全有效地擴充一對一個人化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471407/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3471386/?learn=on&enablevpops)
 
 
 ## 開啟內容體驗的未來

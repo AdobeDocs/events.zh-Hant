@@ -1,6 +1,7 @@
 ---
-title: 專家深入分析 — 內容供應鏈與Core Kombol
-description: 向Core Kombol學習使用Adobe解決方案最佳化內容供應鏈的專家策略。 提升效率、協同合作及成果。
+title: 專家深入分析 — 使用Core Kombol的內容Supply chain
+description: 向Core Kombol學習有關使用Adobe解決方案最佳化您的內容supply chain的專家策略。 提升效率、協同合作及成果。
+feature: Strategic Planning
 topic: Content Supply Chain
 speaker-name-1: Corre Kombol
 speaker-title-1: Principal Customer Success Manager
@@ -12,18 +13,18 @@ duration: 801
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18621
 exl-id: f8600288-a19b-440c-b60d-94078014353e
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
 
-# 專家深入分析 — 內容供應鏈與Core Kombol
+# 專家深入分析 — 使用Core Kombol的內容Supply chain
 
 歡迎返回Expert Insights！  我是您的「隨選」Workfront客戶成功經理(CSM) Cynthia Boon，在本集中，我們將與Adobe的首席客戶成功經理Corre Kombol一起參加！  
 
-Core是真正具有策略性的CSM，他為我們設定了有關如何使用Adobe解決方案來支援貴組織的內容供應鏈工作的進度。 
+Core是真正具有策略性的CSM，他為我們設定了有關如何使用Adobe解決方案來支援貴組織的內容Supply chain工作的進度。 
 
 ## Corre的建議
 
@@ -37,13 +38,13 @@ Core是真正具有策略性的CSM，他為我們設定了有關如何使用Adob
 
 ### 高峰會會議
 
-* [Adobe如何最佳化其內容供應鏈 — S316](https://business.adobe.com/tw/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) ：探索Adobe如何跨其行銷組織部署其內容供應鏈 
-* [使用Adobe徹底改變內容生產 — S305](https://business.adobe.com/tw/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) ：瞭解Adobe如何最大化您的內容供應鏈並加速您的創意工作流程 
+* [Adobe如何最佳化其內容Supply chain - S316](https://business.adobe.com/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) ：探索Adobe如何跨其自己的行銷組織部署其內容Supply chain 
+* [使用Adobe徹底改變內容生產 — S305](https://business.adobe.com/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) ：瞭解Adobe如何最大化您的內容supply chain並加速您的創意工作流程 
 
 ### 產品示範
 
-* [Workfront](https://business.adobe.com/tw/product-demos/workfront/interactive-tour.html) — 因為需要互動式[產品示範]，以說明企業工作管理解決方案中可存在的範圍。  
-* [GenStudio](https://business.adobe.com/tw/resources/sdk/getting-started-with-adobe-genstudio.html) — 我喜歡這項功能有多全面，可讓我們的客戶開始將他們的需求與Adobe現有的解決方案聯絡起來。
+* [Workfront](https://business.adobe.com/product-demos/workfront/interactive-tour.html) — 因為需要互動式[產品示範]，以說明企業工作管理解決方案中可存在的範圍。  
+* [GenStudio](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) — 我喜歡這項功能有多全面，可讓我們的客戶開始將他們的需求與Adobe現有的解決方案聯絡起來。
 
 ## 關於喇叭 
 

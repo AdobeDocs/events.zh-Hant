@@ -2,6 +2,7 @@
 title: AEM 中的 AI 助理
 description: 瞭解AEM的AI助理如何簡化撰寫和管理工作。 探索其範圍、設定，並透過即時示範觀看其運作中。
 solution: Experience Manager
+feature: Authoring
 topic: Artificial Intelligence
 role: Developer, User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 2491
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19626
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 5334e833-d83a-4c78-a1e1-901a9cec1e14
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '289'
 ht-degree: 2%
 
 ---
-
 
 # AEM 中的 AI 助理
 
@@ -45,8 +46,7 @@ ht-degree: 2%
 
 * **清除提示**&#x200B;提供具體、定義明確的問題，以獲得最準確的回應。
 * **調整互動**&#x200B;視需要調整提示以向下鑽研或釐清；檢閱提供可信度的來源。
-* **範圍感知**&#x200B;助理僅能在支援的產品和知識庫中回答；它無法存取自訂組織資料或不支援的產品(例如Photoshop外掛程式)。
+* **範圍感知**&#x200B;助理僅能在支援的產品和知識庫中回答；它無法存取自訂組織資料或不支援的產品（例如Photoshop外掛程式）。
 * **無內容產生**&#x200B;目前，助理不會產生或製作內容，重點在於知識和支援。
 
 未來的增強功能：正在考慮其他功能和更廣泛的功能，並預期隨著產品發展進行更新。
-

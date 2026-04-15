@@ -5,14 +5,17 @@ landing-page-description: 觀看此錄製的網路研討會，以逐步引導您
 short-description: 觀看此錄製的網路研討會，以逐步引導您瞭解設定中每個Commerce Intelligence帳戶的四個控制面板。
 kt: 10496
 solution: Commerce, Commerce Intelligence
+feature: Data Integration, Reports
+feature-set: Commerce Intelligence
+topic: Commerce
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 343498.jpeg
 exl-id: f11829c9-3c7b-4da5-8ad8-762086a820b9
 duration: 2932
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 76653a37bdcd3176067a4f0c3f4a073e902a63de
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -35,5 +38,5 @@ ht-degree: 0%
 
 ## 有用的資源
 
-[儀表板](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html?lang=zh-Hant)
-[匯出圖表資料](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html?lang=zh-Hant)
+[儀表板](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
+[匯出圖表資料](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)

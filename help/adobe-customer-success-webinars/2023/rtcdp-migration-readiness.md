@@ -1,7 +1,9 @@
 ---
 title: Real-time CDP遷移整備
-description: 移轉至Real-time CDP的工作量、組織轉換與移動，以及Adobe Audience Manager支援的其他Adobe資源
+description: 移轉至Real-time CDP的工作量、組織轉換與移動，以及用於Adobe Audience Manager支援的其他Adobe資源
 solution: Real-Time Customer Data Platform
+feature: Audiences
+topic: Migration
 role: Admin, Data Architect, Data Engineer, Leader
 level: Intermediate
 doc-type: Event
@@ -10,9 +12,9 @@ jira: KT-13899
 thumbnail: 3423829.jpeg
 exl-id: 26b27608-f2e8-4452-9258-92353dfd2ec5
 duration: 2774
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
@@ -23,7 +25,7 @@ ht-degree: 0%
 
 * 移轉的工作量
 * 包含移轉的組織轉換
-* Adobe Audience Manager支援的其他Adobe資源
+* 適用於Adobe Audience Manager支援的其他Adobe資源
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423829/?learn=on)

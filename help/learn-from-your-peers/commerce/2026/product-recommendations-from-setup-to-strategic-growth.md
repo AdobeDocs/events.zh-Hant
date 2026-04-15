@@ -1,6 +1,8 @@
 ---
 title: Adobe Commerce Recommendations — 從設定到策略成長
 description: 瞭解如何最佳化Adobe Commerce產品建議，以推動AOV、清查和客戶保留等KPI。
+feature: Integration, Edge Delivery Services
+topic: Personalization, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -8,7 +10,7 @@ duration: 3633
 last-substantial-update: 2026-03-12T00:00:00Z
 jira: KT-20526
 exl-id: bb3a9675-562a-4614-80bd-c2d164b47968
-source-git-commit: a74b16144c63581e387e590ff4aa98f9a218ec84
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%

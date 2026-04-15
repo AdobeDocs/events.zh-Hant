@@ -1,6 +1,8 @@
 ---
 title: 潛在客戶生命週期
 description: 瞭解如何透過策略性銷售機會生命週期模型，在此深入探討中有效吸引及培育銷售機會，並由Marketo Champion提供建議，協助您在繼承、改良或設計新模型時避免常見陷阱。
+feature: Programs, Reporting
+topic: Development
 role: Admin, User
 level: Intermediate
 doc-type: Event
@@ -9,7 +11,7 @@ jira: KT-13697
 thumbnail: KT-13697.jpeg
 exl-id: 03258f9b-ca5d-406b-a260-e41bc04396f8
 duration: 2916
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
