@@ -28,21 +28,21 @@ ht-degree: 0%
 
 ## 資源
 
-功能警示！  檢視[新工作時間欄位](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855#M519)的詳細資料：現在您可以調整使用者容量，並根據使用者的排程計算可用性。
+功能警示！  檢視[新工作時間欄位](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-new-work-time-field-now-you-can-adjust-user-capacity-and/m-p/582855?profile.language=zh-Hant#M519)的詳細資料：現在您可以調整使用者容量，並根據使用者的排程計算可用性。
 
 正在尋找更好的資料分析方式，以確定您已做好準備？ 請檢視立即可用的藍圖目錄！
 
-[使用Workfront藍圖來最佳化您的工作管理環境！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
+[使用Workfront藍圖來最佳化您的工作管理環境！](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=zh-Hant)
 
 在尋找資源規劃工具和工作負載平衡器之間的差異？ 以下是一些短片：
 
-* [什麼是資源規劃工具？](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=en)
-* [在工作負載平衡器中指派工作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=en)
+* [什麼是資源規劃工具？](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=zh-Hant)
+* [在工作負載平衡器中指派工作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.html?lang=zh-Hant)
 
 由於資源規劃工具和工作負載平衡器是資源管理功能中的兩個不同工具，因此瞭解兩個工具中的篩選是關鍵。 如需詳細資訊，請前往這裡：
 
-* [在資源規劃工具中篩選資訊](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=en)
-* [在工作負載平衡器中篩選資訊](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=en)
+* [在資源規劃工具中篩選資訊](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/filter-resource-planner.html?lang=zh-Hant)
+* [在工作負載平衡器中篩選資訊](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=zh-Hant)
 
 ## 關於喇叭
 

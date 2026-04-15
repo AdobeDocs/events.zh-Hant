@@ -26,7 +26,7 @@ ht-degree: 0%
 除了隨選錄影之外，我們還納入了投影片和聊天中分享的秘訣：  
 
 * [投影片組PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
-* [Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
+* [Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512?profile.language=zh-Hant)
 
 ## 提示
 
@@ -40,4 +40,4 @@ ht-degree: 0%
 
 我們在聊天中看到的最大主題之一，是嘗試保持專案範本簡單，但與此同時追蹤工作量，並確保團隊提供完成專案所需的所有步驟。  
 
- 我們希望在未來的客戶成功工作坊中見到您！  請務必檢視Experience League上的[Workfront活動](https://experienceleague.adobe.com/events/?filters=Workfront)以取得完整清單並註冊。
+ 我們希望在未來的客戶成功工作坊中見到您！  請務必檢視Experience League上的[Workfront活動](https://experienceleague.adobe.com/events/?lang=zh-Hant&filters=Workfront)以取得完整清單並註冊。

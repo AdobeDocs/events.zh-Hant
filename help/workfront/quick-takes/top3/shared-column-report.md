@@ -27,4 +27,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470076/?learn=on&enablevpops)
 
-正在尋找更多嗎？ 我們在[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641)上有&#x200B;**三個額外秘訣**！
+正在尋找更多嗎？ 我們在[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641?profile.language=zh-Hant)上有&#x200B;**三個額外秘訣**！

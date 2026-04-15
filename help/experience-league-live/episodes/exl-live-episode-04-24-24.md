@@ -29,6 +29,6 @@ ht-degree: 19%
 
 >[!BEGINSHADEBOX 「有問題嗎？」]
 
-**在Adobe Experience League [社群貼文](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}上繼續討論此主題。**
+**在Adobe Experience League [社群貼文](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305?profile.language=zh-Hant#M205){target="_blank"}上繼續討論此主題。**
 
 >[!ENDSHADEBOX]

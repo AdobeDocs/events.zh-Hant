@@ -22,7 +22,7 @@ ht-degree: 3%
 
 # 專家深入分析 — 與Lyndsy Denk的請求佇列
 
-歡迎使用Expert Insights！  我是Cynthia Boon，您的「隨選」Workfront CSM，而本集我們有Workfront Celebrity， [@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167)！ 我們討論Lyndsy的Workfront故事，然後深入探討她的服務檯請求佇列。
+歡迎使用Expert Insights！  我是Cynthia Boon，您的「隨選」Workfront CSM，而本集我們有Workfront Celebrity， [@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167?profile.language=zh-Hant)！ 我們討論Lyndsy的Workfront故事，然後深入探討她的服務檯請求佇列。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3465272/?learn=on&enablevpops)
 
@@ -37,15 +37,15 @@ Lyndsy在聊天中分享，
 
 誠如承諾，以下是我們討論的資源，以及幾個請求佇列和佇列主題的額外連結：
 
-* 有關如何[管理繼承的執行個體](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance)的資源，包括網路研討會的連結以及[藍圖教學課程](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)的詳細資訊
+* 有關如何[管理繼承的執行個體](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance)的資源，包括網路研討會的連結以及[藍圖教學課程](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)的詳細資訊
 
-* 瞭解請求佇列檔案： [建立佇列主題](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
+* 瞭解請求佇列檔案： [建立佇列主題](https://experienceleague.adobe.com/zh-hant/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
-* Lyndsy針對[System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096)的網路研討會簡報：與一般使用者通訊（此頁面也包含[一般使用者Comms逐步指南](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439)的連結）
+* Lyndsy針對[System Admin Essentials](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096?profile.language=zh-Hant)的網路研討會簡報：與一般使用者通訊（此頁面也包含[一般使用者Comms逐步指南](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=zh-Hant)的連結）
 
-* Lyndsy的[技能交流簡報資源](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841#M3642)
+* Lyndsy的[技能交流簡報資源](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841?profile.language=zh-Hant#M3642)
 
-* 還有，別忘了檢視[Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798) 「詢問我有關Workfront Proof的任何事情」，Lyndsy以及Monique Evans和Richard Carlson回答了關於校訂的問題！
+* 還有，別忘了檢視[Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798?profile.language=zh-Hant) 「詢問我有關Workfront Proof的任何事情」，Lyndsy以及Monique Evans和Richard Carlson回答了關於校訂的問題！
 
 ## 關於喇叭 
 

@@ -24,6 +24,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475370/?quality=12&learn=on)
 
-加入我們以進行[Adobe Journey Optimizer社群問我任何事！](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-october-15th-with-journey-optimizer-product/ec-p/778477) 10月15日&#x200B;**星期三，太平洋時間上午8點至上午9點**&#x200B;我們將加入Adobe Journey Optimizer專家：Nikhil Sharma (@snikhil) — 資深工程經理、Travis Jordan (@Travis_Jordan) — 首席產品經理和Sandra Hausmann (@SHausmann) — 資深技術行銷工程師。
+加入我們以進行[Adobe Journey Optimizer社群問我任何事！](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-october-15th-with-journey-optimizer-product/ec-p/778477?profile.language=zh-Hant) 10月15日&#x200B;**星期三，太平洋時間上午8點至上午9點**&#x200B;我們將加入Adobe Journey Optimizer專家：Nikhil Sharma (@snikhil) — 資深工程經理、Travis Jordan (@Travis_Jordan) — 首席產品經理和Sandra Hausmann (@SHausmann) — 資深技術行銷工程師。
 
 我們將會在此即時聊天中回答您的問題。

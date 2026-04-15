@@ -28,5 +28,5 @@ ht-degree: 0%
 
 在這場Experience League即時會議中，產品專家將向您展示Real-Time CDP和Journey Optimizer中的「計算屬性」如何協助您使用簡單UI來建立行為彙總作為設定檔屬性，用於增強細分和個人化。
 
-**在節目的[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722#M5){target="_blank"}**&#x200B;上繼續討論這個主題。
+**在節目的[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722?profile.language=zh-Hant#M5){target="_blank"}**&#x200B;上繼續討論這個主題。
 

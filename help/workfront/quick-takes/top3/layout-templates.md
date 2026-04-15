@@ -23,6 +23,6 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477026/?learn=on&enablevpops)
 
-如需更多資源，請參閱[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-layout-templates-in-adobe-workfront/m-p/575531#M313)！
+如需更多資源，請參閱[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-layout-templates-in-adobe-workfront/m-p/575531?profile.language=zh-Hant#M313)！
 
 如果您想要瞭解新的想法和創意方法，別忘了在[Experience League活動頁面](https://experienceleague.adobe.com/zh-hant/events)上註冊即將舉辦的研討會。

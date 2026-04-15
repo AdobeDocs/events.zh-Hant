@@ -35,12 +35,12 @@ ht-degree: 5%
 
 ## 其他資源
 
-* [透過電子郵件傳送Designer概覽](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
-* [AI 助理](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
-* [可自訂的片段](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
-* [條件式內容](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
+* [透過電子郵件傳送Designer概覽](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/email-designer/overview)
+* [AI 助理](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant)
+* [可自訂的片段](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments)
+* [條件式內容](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/email-designer/conditional-content)
 * [品牌主題](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/brand-themes)
-* [比較舊版與新版Email Designer的功能](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
+* [比較舊版與新版Email Designer的功能](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/product-docs/email-marketing/email-designer/feature-comparison#_blank)
 * [發行說明](https://experienceleague.adobe.com/zh-hant/docs/marketo/using/release-notes/current)
-* [Champion深入探討：探索Marketo Engage中的新電子郵件Designer](https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
+* [Champion深入探討：探索Marketo Engage中的新電子郵件Designer](https://experienceleague.adobe.com/zh-hant/docs/events/deep-dives-recordings/deep-dives-marketo/email-designer)
 * [透過問答加入社群上的對話](https://nation.marketo.com/t5/product-blogs/watch-on-demand-learn-from-your-peers-webinar-beyond-the-launch/ba-p/359083)

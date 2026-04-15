@@ -25,6 +25,6 @@ ht-degree: 2%
 
 如果您錯過課程，別擔心！ 檢閱[投影片組](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/022626+-+Enablement+that+Scales+-+Training+and+Blueprints+slides.pdf)，並觀看隨選錄製。
 
-在尋找其他活動資源嗎？ 檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-enablement-that-scales-turning-workfront-blueprints-into-real-world-training-programs-february-26-2026-248830)！
+在尋找其他活動資源嗎？ 檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-enablement-that-scales-turning-workfront-blueprints-into-real-world-training-programs-february-26-2026-248830?profile.language=zh-Hant)！
 
-每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/en/events)以瞭解最新工作階段。
+每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/zh-hant/events)以瞭解最新工作階段。

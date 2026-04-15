@@ -25,7 +25,7 @@ ht-degree: 3%
 
 >[!BEGINSHADEBOX 「有問題嗎？」]
 
-繼續在Adobe Experience League [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488)上討論此主題。
+繼續在Adobe Experience League [社群貼文](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643?profile.language=zh-Hant#M488)上討論此主題。
 
 >[!ENDSHADEBOX]
 
@@ -52,7 +52,7 @@ ht-degree: 3%
 
 ## 其他資源
 
-* **[使用案例教戰手冊概覽](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html){target="_blank"}**
+* **[使用案例教戰手冊概覽](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html?lang=zh-Hant){target="_blank"}**
   *使用案例教戰手冊可協助您在開始使用Real-Time CDP或Adobe Journey Optimizer時克服問題，但您可能無法確切瞭解如何開始使用，或無法建立正確的資產，進而達成您想要的使用案例。*
 
 * **[使用案例教學課程快速入門](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=zh-Hant){target="_blank"}**
