@@ -23,7 +23,7 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484927/?learn=on&enablevpops)
 
-正在尋找更多在活動期間共用的資源？  檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-confessions-of-a-workfront-team-of-one-4-29-26-250238?tid=250238)！
+正在尋找更多在活動期間共用的資源？  檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-confessions-of-a-workfront-team-of-one-4-29-26-250238?profile.language=zh-Hant&tid=250238)！
 
-每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/en/events)以瞭解最新工作階段。
+每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/zh-hant/events)以瞭解最新工作階段。
 

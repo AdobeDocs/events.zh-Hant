@@ -23,9 +23,9 @@ ht-degree: 9%
 
 想要進一步瞭解如何使用問題、自訂Forms和專案範本？ 檢視更多資源：
 
-* 瞭解客戶如何使用[Power範本管理他們的實際工作： IDEXX如何重新設定專案範本以取得全域成功](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/workflow/power-templates)！
+* 瞭解客戶如何使用[Power範本管理他們的實際工作： IDEXX如何重新設定專案範本以取得全域成功](https://experienceleague.adobe.com/zh-hant/docs/events/workfront-recordings/workshop-rewind/workflow/power-templates)！
 * 無論您偏好，瞭解如何[建立問題管理的自訂報告](https://experienceleague.adobe.com/zh-hant/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/report-on-issues) （像專家一樣）。
 
-對新的想法和方法感興趣嗎？ 註冊即將舉辦的[Experience League活動頁面](https://experienceleague.adobe.com/en/events?filters=Workfront)研討會。 我們希望很快就能見到您！
+對新的想法和方法感興趣嗎？ 註冊即將舉辦的[Experience League活動頁面](https://experienceleague.adobe.com/zh-hant/events?filters=Workfront)研討會。 我們希望很快就能見到您！
 
 
