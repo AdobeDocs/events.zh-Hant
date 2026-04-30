@@ -3,9 +3,9 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: 88adf7e72d49b8f8e8cf8199e320152556304d46
+source-git-commit: 50e173546cb6086bbe8170b0120e48abecd1bf3c
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '544'
 ht-degree: 1%
 
 ---
@@ -75,6 +75,7 @@ ht-degree: 1%
       + [獲得高階主管的贊助](workshop-rewind/workflow/secure-executive-sponsorship.md)
       + [自學走向成功](workshop-rewind/workflow/self-taught-to-success.md)
       + [使用Workfront報表進行春季清理](workshop-rewind/workflow/workfront-reports-cleanup.md)
+      + [一個團隊](workshop-rewind/workflow/team-of-one.md)
       + [10個溝通秘訣](workshop-rewind/workflow/10-communication-tips.md)
       + [10個文字模式提示](workshop-rewind/workflow/text-mode-tips.md)
       + [其他10個文字模式提示](workshop-rewind/workflow/10-more-text-mode-tips.md)
@@ -109,6 +110,7 @@ ht-degree: 1%
          + [Workfront中工作者的前3大功能](quick-takes/top3/watch-me-work-3.md)
    + 與！ {#versus}
       + [群組與團隊](quick-takes/versus/groups-vs-teams.md)
+      + [問題與專案](quick-takes/versus/issues-vs-projects.md)
 + 專家深入分析 {#expert-insights}
    + [採用](expert-insights/adoption.md)
    + [採用調查](expert-insights/adoption-surveys.md)
