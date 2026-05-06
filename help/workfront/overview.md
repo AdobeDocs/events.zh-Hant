@@ -162,7 +162,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/office-hours.md" title="前3大辦公時間方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1778106659577" alt="前3大辦公時間方法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470153/?captions=chi_hant&format=jpeg&nocache=1778106659577" alt="前3大辦公時間方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
