@@ -26,7 +26,7 @@ ht-degree: 0%
 
 加入Adobe Experience Manager Champion Vengadesh Shanmugavelu，深入瞭解如何在Adobe Experience Manager Assets中使用Dynamic Media。 他將介紹擴展數位內容製作的關鍵元素，包括：
 
->[!VIDEO](https://video.tv.adobe.com/v/3481545/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481556/?captions=chi_hant&learn=on&enablevpops)
 
 * Adobe Experience Manager Dynamic Media如何使用設定檔設定、智慧型轉譯和即時最佳化，來啟用智慧型媒體發佈。
 * 如何透過AEM核心元件啟用Dynamic Media，並使用Dynamic Media Open API在整個企業內擴充其功能。
