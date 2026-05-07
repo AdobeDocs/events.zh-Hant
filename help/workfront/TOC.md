@@ -3,9 +3,9 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: 50e173546cb6086bbe8170b0120e48abecd1bf3c
+source-git-commit: c8c1cfef7a03b025037b5b061452f4cb2b25f2f0
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '547'
 ht-degree: 1%
 
 ---
@@ -62,6 +62,7 @@ ht-degree: 1%
       + [治理、執行和採用秘訣](workshop-rewind/workflow/governance-execution-adoption.md)
       + [群組管理軟體包](workshop-rewind/workflow/group-admins.md)
       + [Workfront管理員的課程](workshop-rewind/workflow/lessons-learned-admins.md)
+      + [掌握業務規則](workshop-rewind/workflow/business-rules.md)
       + [掌握電子郵件通知](workshop-rewind/workflow/email-notifications.md)
       + [主控EXISTS陳述式](workshop-rewind/workflow/master-exists-statements.md)
       + [Workfront價值最大化](workshop-rewind/workflow/value-realization.md)
