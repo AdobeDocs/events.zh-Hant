@@ -29,7 +29,7 @@ ht-degree: 0%
 
 [按一下這裡下載會議簡報。](../../assets/experience-manager/may2026/AEM_Dynamic_Media_Webinar-May-7-2026.pdf)
 
->[!VIDEO](https://video.tv.adobe.com/v/3481545/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481556/?captions=chi_hant&learn=on&enablevpops)
 
 * Adobe Experience Manager Dynamic Media如何使用設定檔設定、智慧型轉譯和即時最佳化，來啟用智慧型媒體發佈。
 * 如何透過AEM核心元件啟用Dynamic Media，並使用Dynamic Media Open API在整個企業內擴充其功能。
