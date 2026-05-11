@@ -1,6 +1,6 @@
 ---
 title: 設定可持續的Workfront採用 — 從架構到日常使用
-description: 探索可持續採用Workfront的策略，包括治理、範本、自動化和使用者參與，以獲得長期成功。
+description: 探索可持續採用Adobe Workfront的策略，包括治理、範本、自動化和使用者參與，以獲得長期成功。
 feature: Workfront Fusion, System Setup and Administration
 topic: Performance, Administration
 role: Admin, Developer, Leader, User
@@ -12,9 +12,9 @@ hidefromtoc: true
 hide: true
 jira: KT-20786
 exl-id: d751d2d8-0779-451f-a2bf-351d26a56eab
-source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
+source-git-commit: 2f1f453350eff1dd50752212e1f8e0a5d7c707ae
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
