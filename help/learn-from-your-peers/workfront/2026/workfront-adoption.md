@@ -8,11 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 9
 last-substantial-update: 2026-04-08T00:00:00Z
-hidefromtoc: true
-hide: true
 jira: KT-20786
 exl-id: d751d2d8-0779-451f-a2bf-351d26a56eab
-source-git-commit: 2f1f453350eff1dd50752212e1f8e0a5d7c707ae
+source-git-commit: c2e4b1ad02e11c18f37a06caaad4034aff15a7d2
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
