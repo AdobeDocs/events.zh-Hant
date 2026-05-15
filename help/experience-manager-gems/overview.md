@@ -12,10 +12,10 @@ type: Event
 user-guide-description: AEM GEM講座
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: f0179cfd595c2d1ced94c230141428430ed9abfb
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '923'
-ht-degree: 2%
+source-wordcount: '949'
+ht-degree: 3%
 
 ---
 
@@ -34,7 +34,8 @@ ht-degree: 2%
 
 ## 2025 版
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * gems2025/mastering-cache-efficiency-for-optimal-page-performance.md
 * gems2025/maximize-impact-with-sites-optimizer.md
@@ -61,7 +62,7 @@ ht-degree: 2%
                     <p class="is-size-6">探索Sites Optimizer如何使用AI透過行銷和開發團隊的即時見解和建議來提升網站效能、SEO和使用者參與度。</p>
                 </div>
                 <a href="gems2025/maximize-impact-with-sites-optimizer.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -84,7 +85,7 @@ ht-degree: 2%
                     <p class="is-size-6">瞭解如何在AEM Cloud Service中設定Adobe Managed CDN，以透過新的CDN設定功能增強效能和安全性。</p>
                 </div>
                 <a href="gems2025/getting-started-adobe-managed-cdn.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -92,9 +93,10 @@ ht-degree: 2%
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## 2024 版
+## 2024 年
 
-<!-- CARDS
+<!-- 
+CARDS
 * gems2024/aem-authoring-and-edge-delivery.md
 * gems2024/content-management-apis.md
 * gems2024/edge-delivery-for-aem-assets.md
@@ -124,7 +126,7 @@ ht-degree: 2%
                     <p class="is-size-6">AEM GEM網路研討會會示範AEM製作如何與Edge Delivery Services整合、使用AEM Cloud Service建立專案以及維護WYSIWYG製作介面。</p>
                 </div>
                 <a href="gems2024/aem-authoring-and-edge-delivery.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -147,7 +149,7 @@ ht-degree: 2%
                     <p class="is-size-6">AEM GEM會議探索AEM Sites中的API優先模式，涵蓋進階OpenAPI標準、事件和Webhook，以及用於翻譯自動化的新REST API，其中包含Adobe專家的深入分析。</p>
                 </div>
                 <a href="gems2024/content-management-apis.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -170,7 +172,7 @@ ht-degree: 2%
                     <p class="is-size-6">AEM GEM網路研討會將展示如何將AEM Assets整合至以AEM Edge Delivery Services為基礎的網站、如何自訂整合、如何透過Open API使用AEM Dynamic Media傳送資產，以及探索實務使用案例和最佳實務。</p>
                 </div>
                 <a href="gems2024/edge-delivery-for-aem-assets.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -193,7 +195,7 @@ ht-degree: 2%
                     <p class="is-size-6">瞭解如何使用Edge Delivery Services建立和發佈AEM Forms，內容涵蓋檔案式和AEM式撰寫、自訂專案設定，以及利用AEM Forms as a Cloud Service進行後端處理。</p>
                 </div>
                 <a href="gems2024/edge-delivery-for-aem-forms.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -216,7 +218,7 @@ ht-degree: 2%
                     <p class="is-size-6">AEM開發人員可以探索新的Assets Open API和雲端原生I/O事件，以建立程式外的AEM擴充功能、簡化工作流程、提升開發速度並減少維護工作，並展示實用的使用案例和最佳實務。</p>
                 </div>
                 <a href="gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -239,7 +241,7 @@ ht-degree: 2%
                     <p class="is-size-6">AEM GEM網路研討會將示範如何在Cloud Manager中新增私人GitHub存放庫、將其直接連結至管道，以及按住Shift鍵測試，以在合併程式碼之前識別提取請求層級的問題。</p>
                 </div>
                 <a href="gems2024/private-github-for-aem-cloud-manager.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -262,7 +264,7 @@ ht-degree: 2%
                     <p class="is-size-6">該會議將展示RDE如何實現快速部署和變更稽核、縮短開發週期並提供近乎即時的意見反應。 它也會引入新功能，例如改進的記錄和前端支援。</p>
                 </div>
                 <a href="gems2024/rapid-development-environment-news.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -285,7 +287,7 @@ ht-degree: 2%
                     <p class="is-size-6">AEM GEM網路研討會會教導您在Adobe Commerce的Edge Delivery Services上建立高效能店面，內容包括專案設定、Commerce SaaS整合、可自訂的前端元件，以及可增強Commerce體驗的新撰寫功能。</p>
                 </div>
                 <a href="gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -300,7 +302,7 @@ ht-degree: 2%
 
 ## 繼續討論
 
-在我們的[Experience Manager社群](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=zh-Hant)中，您可以與其他開發人員交流，讓AEM討論持續進行。  您可以與同業和Adobe員工建立網路來取得從實作到擴充產品使用的指引和最佳實務。  取得您問題的快速解答，並向Adobe提供您的產品構想和有價值的意見回饋。
+在我們的[Experience Manager社群](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)中，您可以與其他開發人員交流，讓AEM討論持續進行。  您可以與同業和Adobe員工建立網路來取得從實作到擴充產品使用的指引和最佳實務。  取得您問題的快速解答，並向Adobe提供您的產品構想和有價值的意見回饋。
 
 <!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
 
@@ -330,7 +332,7 @@ If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
 
 Our latest AEM GEMs webinar on **Unlocking the Power of AEM Sites - Master the Content Management APIs** has been conducted on *October 9th, 2024*.
 The **recording** can be viewed here:
-[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/zh-hant/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
+[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
@@ -349,7 +351,7 @@ The webinars will be conducted regularly, including the following:
 
 ## Experience League Community
 
-Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=zh-Hant) play a critical role in supporting product adoption and customer success.
+Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) play a critical role in supporting product adoption and customer success.
 
 * Connection: Network with peers and Adobe personnel for guidance and best practices from implementation to expanding product use
 * Quick Answers: Extensive pool of real-world use case answers to support successful active use of Adobe solutions

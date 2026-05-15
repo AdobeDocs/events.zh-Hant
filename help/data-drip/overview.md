@@ -3,7 +3,7 @@ title: 資料滴落
 description: 加入Adobe專家的Data Drip系列，探索Adobe Analytics和Target的最新功能和最佳實務，並透過即時示範確保客戶最大化產品潛力並保持競爭力。
 duration: 15
 exl-id: dd36b140-d53a-41fd-9c26-4d97ab7740a1
-source-git-commit: d195ceaea0b4ccd0c16949e6cff65ec6d04a5e6d
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
@@ -14,7 +14,8 @@ ht-degree: 0%
 
 Data Drip系列擁有Adobe專家，並歡迎所有技能級別的現有Adobe Analytics和Target客戶。 此系列著重於反映事件主題的一些最新功能和最佳實務。 簡報之後會進行即時示範或熒幕擷圖，展示如何運用產品中的功能採取最佳實務的範例。 客戶在離開時會更清楚瞭解如何保持競爭力並取得成功，同時儘可能提高產品的供應量。
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

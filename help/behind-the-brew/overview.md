@@ -3,9 +3,9 @@ title: 在釀造物之後
 description: Brew是Commerce & Coffee的配套系列，專為具有技術傾向的客戶量身打造，協助他們掌握後端最佳實務、整合和進階功能，以提升電子商務體驗。
 duration: 15
 exl-id: 30dd8695-7fd9-430b-87b6-05f82b6e9732
-source-git-commit: f5d96e8aefd0e0b3b9a27e7e2ace6a09c6b1478b
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '289'
 ht-degree: 5%
 
 ---
@@ -14,7 +14,8 @@ ht-degree: 5%
 
 Brew的背後是Commerce &amp; Coffee的隨附系列。 此課程專為具有技術背景的客戶，且希望瞭解後端最佳實務、整合和進階功能，以便自訂以增強公司的電子商務體驗。
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

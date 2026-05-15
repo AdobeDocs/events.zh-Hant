@@ -1,20 +1,21 @@
 ---
 title: 濃縮咖啡和Experience Manager
-description: Espressos & Experience Manager系列擁有Adobe專家，可為所有技能等級的AEM (Sites和Assets)客戶提供常見使用案例、最佳實務、即時示範的深入分析，並會以問答環節結束。
+description: Espressos & Experience Manager系列擁有Adobe專家，可為所有技能等級的AEM （Sites和Assets）客戶提供常見使用案例、最佳實務、即時示範的深入分析，並會以問答環節結束。
 duration: 15
 exl-id: ac3902e5-bf6a-456c-83c8-cfcff806875d
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
 # Espressos和Experience Manager活動
 
-Espressos和Experience Manager系列擁有Adobe專家，並歡迎所有技能等級的現有AEM (Sites和Assets)客戶。 此系列專注於常見客戶使用案例，並分享反映事件主題的最佳實務。 簡報之後會進行即時示範或熒幕擷圖，展示如何根據最佳實務採取行動的範例。 每個活動都會在即時問答環節中與Adobe專家共同結束。
+Espressos和Experience Manager系列擁有Adobe專家，並歡迎所有技能等級的現有AEM （Sites和Assets）客戶。 此系列專注於常見客戶使用案例，並分享反映事件主題的最佳實務。 簡報之後會進行即時示範或熒幕擷圖，展示如何根據最佳實務採取行動的範例。 每個活動都會在即時問答環節中與Adobe專家共同結束。
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

@@ -3,20 +3,21 @@ title: Marketo和Mochas
 description: Marketo隨選活動是一個影片庫，專家和同行可以在其中分享他們關於如何最佳使用Adobe Marketo的想法和想法。
 exl-id: eab06791-de71-4c26-bbb6-cbdeb9f6f8ec
 duration: 15
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '1401'
+source-wordcount: '1427'
 ht-degree: 2%
 
 ---
 
 # Marketo和Mochas
 
-歡迎使用Marketo和Mochas錄製。 若將這些資源與Adobe Marketo [檔案](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=zh-Hant)和[教學課程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=zh-Hant)搭配使用，您將能更妥善地瞭解如何使用Adobe Marketo支援您的業務。
+歡迎使用Marketo和Mochas錄製。 若將這些資源與Adobe Marketo [檔案](https://experienceleague.adobe.com/docs/marketo-engage.html)和[教學課程](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)搭配使用，您將能更妥善地瞭解如何使用Adobe Marketo支援您的業務。
 
 ## 2025年錄製
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch}
 
@@ -148,7 +149,8 @@ ht-degree: 2%
 
 ## 2024年錄製
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * 2024/ask-me-anything.md
 * 2024/attribution-dashboard-recording.md
@@ -180,7 +182,7 @@ ht-degree: 2%
                     <p class="is-size-6">與Kate Kolbert和James Letham一起參加Adobe年度最後一次互動式網路研討會，內容涵蓋網路研討會最佳化、計畫更新、未充分利用的Marketo功能、電子郵件行銷最佳作法、資料庫管理、使用者許可權、Marketo-Salesforce同步、動態聊天參與和生命週期階段。</p>
                 </div>
                 <a href="2024/ask-me-anything.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -203,7 +205,7 @@ ht-degree: 2%
                     <p class="is-size-6">加入Adobe資深業務顧問Cynthia Chang和技術顧問James Leedom，深入瞭解如何掌握Marketo的歸因模型和效能分析(MPI)儀表板，涵蓋設定、方案追蹤、資料同步，並展示行銷對收入和客戶贏取的影響。</p>
                 </div>
                 <a href="2024/attribution-dashboard-recording.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -226,7 +228,7 @@ ht-degree: 2%
                     <p class="is-size-6">加入Adobe的業務顧問Cynthia Chang和Carly Gaver，一同參加Marketo成熟度網路研討會系列的第3部分，透過即時問答，探索如何運用Marketo的報告工具來推動業務增長、監控績效並提供具影響力的量度。</p>
                 </div>
                 <a href="2024/drive-growth-with-reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -249,7 +251,7 @@ ht-degree: 2%
                     <p class="is-size-6">加入業務顧問Cynthia Chang和Carly Gaver的行列，瞭解如何在Adobe Marketo Engage中最大限度地培養潛在客戶，探索內容散佈的參與計畫，並觀看使用最佳實務範本設定參與計畫的即時示範，以及即時問答。</p>
                 </div>
                 <a href="2024/lead-nurture-success.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -272,7 +274,7 @@ ht-degree: 2%
                     <p class="is-size-6">加入Adobe業務顧問Kate Colbert和客戶技術顧問James Leedom，探索在Adobe Marketo Measure中運用自訂歸因模型和活動歸因的策略，示範真實生活的範例，並以現場問答會結束。</p>
                 </div>
                 <a href="2024/marketo-measure-and-mochas-activities-and-custom-models.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -295,7 +297,7 @@ ht-degree: 2%
                     <p class="is-size-6">加入Adobe的業務顧問Cynthia Chang和Carly Gaver的行列，他們將探索Marketo成熟度曲線，提供最佳化技術設定、實施最佳實務、維護有效檔案和平台控管的深入見解，並現場展示計畫範本庫。</p>
                 </div>
                 <a href="2024/maturity-part1-foundation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -318,7 +320,7 @@ ht-degree: 2%
                     <p class="is-size-6">加入Adobe資深業務顧問Kate Colbert和技術顧問James Leedom的行列，一同探索Marketo Measure中的9個全新Discover控制面板，提供收入、ROI、參與度和銷售機會速度等量度的動態深入分析，並透過即時示範和問答環節進行。</p>
                 </div>
                 <a href="2024/new-discover-dashboard.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -341,7 +343,7 @@ ht-degree: 2%
                     <p class="is-size-6">加入Adobe的業務顧問Cynthia Chang和Carly Gaver的行列，參加Marketo成熟度系列的第2部分，專注於資料管理、CRM整合和行銷活動最佳化，透過即時問答來增強您的Marketo使用量。</p>
                 </div>
                 <a href="2024/optimize-marketo-usage.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -351,7 +353,8 @@ ht-degree: 2%
 
 ## 2023年錄製
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * 2023/attribution.md
 * 2023/deliverability-part-one.md
@@ -383,7 +386,7 @@ ht-degree: 2%
                     <p class="is-size-6">與Elizabeth Lundberg和Kate Colbert一起參加這場Marketo和Mochas研討會，探索Marketo Measure中的歸因，包括股票模型、選擇正確模型的最佳作法，以及增強行銷洞察力的即時問答。</p>
                 </div>
                 <a href="2023/attribution.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -406,7 +409,7 @@ ht-degree: 2%
                     <p class="is-size-6">加入Marketo和Mochas，與Sean Wirt和Cynthia Chang一起探索電子郵件傳遞能力最佳實務，涵蓋聲譽管理、資料品質、共用與專用IP，以及Marketo Engage中的傳遞能力計畫示範。</p>
                 </div>
                 <a href="2023/deliverability-part-one.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -429,7 +432,7 @@ ht-degree: 2%
                     <p class="is-size-6">探索Marketo Deliverability Manager Sean Wirt的電子郵件傳遞能力最佳實務，包括Gmail策略、Apple Mail隱私權、共用與專用IP，以及Marketo Engage傳遞能力工具的詳細示範、種子清單、智慧清單和報告。</p>
                 </div>
                 <a href="2023/deliverability-part-two.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -452,7 +455,7 @@ ht-degree: 2%
                     <p class="is-size-6">透過Marketo和Mochas中的Cynthia Chang和Kelvin Ieng瞭解銷售機會評分的優點，包括策略、設定、Marketo Engage中的即時示範，以及關鍵素材和即時問答。</p>
                 </div>
                 <a href="2023/lead-scoring.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -475,7 +478,7 @@ ht-degree: 2%
                     <p class="is-size-6">探索透明度如何建立Cynthia Chang和James Leedom的行銷可信度，讓他們共用生命週期設定、歷程細分的策略，並展示Marketo Engage的生命週期模型工具、報告和分析工具。</p>
                 </div>
                 <a href="2023/lifecycle-modeling.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -498,7 +501,7 @@ ht-degree: 2%
                     <p class="is-size-6">與Cynthia Chang和James Leedom一同探索Marketo Sales Insights (MSI)的關鍵功能、Salesforce整合、授權管理及策略，以提高銷售和行銷效率，充分釋放他們的潛力。</p>
                 </div>
                 <a href="2023/msi-best-practices.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -521,7 +524,7 @@ ht-degree: 2%
                     <p class="is-size-6">加入Adobe的行銷自動化業務顧問Kate Colbert和Elizabeth Lundberg，深入探討90分鐘的Marketo Measure屬性線上和離線頻道最佳化工作，其中包括策略設定、最佳實務和即時問答。</p>
                 </div>
                 <a href="2023/online-offline.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -544,7 +547,7 @@ ht-degree: 2%
                     <p class="is-size-6">探索Marketo計畫的基本元素，包括資料夾設定、命名慣例、成員搜尋和計畫狀態檢查，以及計畫資料庫範本、創意資產和最佳作法示範的最新更新。</p>
                 </div>
                 <a href="2023/program-management.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>

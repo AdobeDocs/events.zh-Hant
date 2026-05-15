@@ -1,10 +1,11 @@
 ---
 title: Acrobat Analyzer網路研討會
 description: 探索Adobe Acrobat Analyzer網路研討會，瞭解Generative AI如何從檔案中擷取結構化、可稽核的深入分析，以自動化工作流程、降低風險並大規模加速企業決策。
-source-git-commit: 679892dcd193ed2a9529f32a3d4cf2b90c054854
+exl-id: cbc929b5-3673-4118-826f-763dacff987b
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
 
@@ -12,7 +13,8 @@ ht-degree: 0%
 
 探索Adobe Acrobat Analyzer如何使用Generative AI從大量檔案中擷取結構化、可稽核的深入分析。 瞭解如何自動化工作流程、降低風險，以及實現更快速、更明智的大規模決策。 瀏覽我們即將舉辦的網路研討會，瞭解如何在組織內轉換檔案情報。
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -46,7 +48,3 @@ ht-degree: 0%
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-
-
-

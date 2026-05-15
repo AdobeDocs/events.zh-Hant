@@ -3,9 +3,9 @@ title: Experience Cloud技術研討會
 description: 透過Adobe專家主持的即時和隨選技術研討會，提升您的Adobe Experience Cloud技能。 隨時取得可操作的提示和策略，以提供順暢的學習體驗。
 exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
 duration: 53
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '1630'
+source-wordcount: '1666'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,8 @@ ht-degree: 2%
 
 ## 2025年工作階段
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2025/acc-delivery-performance.md
@@ -164,7 +165,7 @@ ht-degree: 2%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2025/marketo-post-migration.md" target="_blank" rel="referrer" title="Marketo移轉至Adobe Admin Console - （移轉後）">Marketo移轉至Adobe Admin Console - （移轉後）</a>
                     </p>
-                    <p class="is-size-6">使用Adobe Admin Console集中管理Marketo使用者。 管理角色（系統、產品、設定檔、支援管理員）和身分型別(Adobe、企業、Federated ID)。 設定SSL以進行單一登入、處理使用者管理，以及每三年更新一次憑證。 解決登入問題等常見問題，並使用目錄信任來獲得統一的體驗。 將大型使用者轉換劃分為500的批次。 存取Adobe Experience League頁面上的工作階段錄影。</p>
+                    <p class="is-size-6">使用Adobe Admin Console集中管理Marketo使用者。 管理角色（系統、產品、設定檔、支援管理員）和身分型別（Adobe、企業、Federated ID）。 設定SSL以進行單一登入、處理使用者管理，以及每三年更新一次憑證。 解決登入問題等常見問題，並使用目錄信任來獲得統一的體驗。 將大型使用者轉換劃分為500的批次。 存取Adobe Experience League頁面上的工作階段錄影。</p>
                 </div>
                 <a href="2025/marketo-post-migration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
@@ -223,7 +224,8 @@ ht-degree: 2%
 
 ## 2024年工作階段
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2024/aep-web-sdk-troubleshooting.md
@@ -356,7 +358,8 @@ ht-degree: 2%
 
 ## 2023年工作階段
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta = Watch}
 

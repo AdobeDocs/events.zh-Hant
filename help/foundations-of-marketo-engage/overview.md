@@ -2,7 +2,7 @@
 title: Marketo Engage基礎
 description: 透過對初學者友好的支援課程，加入基礎Marketo使用者群組，在Adobe Marketo Engage中建立信心和核心技能。
 exl-id: 0f4ac207-0828-4f35-915b-8ba5715af780
-source-git-commit: b0f9751c3e081316fa82cbde237404ba0c5fc07f
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 1%
@@ -15,7 +15,8 @@ ht-degree: 1%
 
 ## 2026年工作階段
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -53,7 +54,8 @@ ht-degree: 1%
 
 ## 2025年工作階段
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 

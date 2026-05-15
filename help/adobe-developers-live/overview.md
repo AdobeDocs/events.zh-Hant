@@ -4,16 +4,16 @@ description: 來自Adobe Developers Live的工作階段錄影集合
 solution: Experience Cloud, Experience Manager
 exl-id: bb103c45-18c7-4ace-8ebe-bb99f8eb6a88
 duration: 156
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '744'
 ht-degree: 5%
 
 ---
 
 # Adobe Developers Live {#overview}
 
-Adobe Developers Live 匯集多元背景的 Adobe 開發人員和有經驗的建置者，其目的只有一個，就是創造令人驚艷的端對端體驗。此為期兩天的會議將提供重要的開發人員更新、技術會議和社群交流機會。
+Adobe Developers Live 匯集多元背景的 Adobe 開發人員和有經驗的建置者，其目的只有一個，就是創造令人驚艷的端對端體驗。 此為期兩天的會議將提供重要的開發人員更新、技術會議和社群交流機會。
 
 橫跨Adobe Experience Cloud、Document Cloud和Creative Cloud的Adobe產品團隊將展示最新的技術進展和開發人員工具，藉以促進各產業的設計、內容創作工作流程、檔案服務和客戶體驗管理。
 
@@ -21,7 +21,8 @@ Adobe Developers Live 匯集多元背景的 Adobe 開發人員和有經驗的建
 
 ## Adobe Developers Live 2025 ：建立代理網站
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta = Watch}
 
@@ -58,7 +59,7 @@ Adobe Developers Live 匯集多元背景的 Adobe 開發人員和有經驗的建
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2025/keynote.md" target="_blank" rel="referrer" title="建立代理網路主題演講">建置代理網路主題演講</a>
                     </p>
-                    <p class="is-size-6">透過Adobe對代理程式Web的願景(其中包含AEM代理程式等)，探索AI在數位體驗中的角色。</p>
+                    <p class="is-size-6">透過Adobe對代理程式Web的願景（其中包含AEM代理程式等），探索AI在數位體驗中的角色。</p>
                 </div>
                 <a href="2025/keynote.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
@@ -94,7 +95,7 @@ Adobe Developers Live 匯集多元背景的 Adobe 開發人員和有經驗的建
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-in-projects.md" title="Adobe專案中的AI — 實務案例" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477636/?captions=chi_hant&format=jpeg&nocache=1765499677692" alt="Adobe專案中的AI — 實務案例"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477606/?format=jpeg&nocache=1765499677692" alt="Adobe專案中的AI — 實務案例"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,7 +118,7 @@ Adobe Developers Live 匯集多元背景的 Adobe 開發人員和有經驗的建
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/coding-agent.md" title="AI程式碼大戰 — 好、壞、醜" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477659/?captions=chi_hant&format=jpeg&nocache=1765499677608" alt="AI程式碼大戰 — 好、壞、醜"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477619/?format=jpeg&nocache=1765499677608" alt="AI程式碼大戰 — 好、壞、醜"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,7 +141,7 @@ Adobe Developers Live 匯集多元背景的 Adobe 開發人員和有經驗的建
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/brand-concierge.md" title="增強現場體驗" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477777/?captions=chi_hant&format=jpeg&nocache=1765499677605" alt="增強現場體驗"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477680/?format=jpeg&nocache=1765499677605" alt="增強現場體驗"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +187,7 @@ Adobe Developers Live 匯集多元背景的 Adobe 開發人員和有經驗的建
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-content-discovery.md" title="使用Adobe Experience Manager進行AI內容探索" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477751/?captions=chi_hant&format=jpeg&nocache=1765499677611" alt="使用Adobe Experience Manager進行AI內容探索"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477673/?format=jpeg&nocache=1765499677611" alt="使用Adobe Experience Manager進行AI內容探索"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +210,7 @@ Adobe Developers Live 匯集多元背景的 Adobe 開發人員和有經驗的建
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/content-ai.md" title="Adobe Experience Manager中的Content AI" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477830/?captions=chi_hant&format=jpeg&nocache=1765499677634" alt="Adobe Experience Manager中的Content AI"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477729/?format=jpeg&nocache=1765499677634" alt="Adobe Experience Manager中的Content AI"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -232,7 +233,7 @@ Adobe Developers Live 匯集多元背景的 Adobe 開發人員和有經驗的建
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/document-authoring-at-scale.md" title="大規模檔案製作 — 智慧型、AI最佳化體驗的基礎" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477819/?captions=chi_hant&format=jpeg&nocache=1765499677631" alt="大規模檔案製作 — 智慧型、AI最佳化體驗的基礎"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477753/?format=jpeg&nocache=1765499677631" alt="大規模檔案製作 — 智慧型、AI最佳化體驗的基礎"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -278,7 +279,7 @@ Adobe Developers Live 匯集多元背景的 Adobe 開發人員和有經驗的建
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-agents.md" title="探索Adobe Experience Manager代理程式" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477671/?captions=chi_hant&format=jpeg&nocache=1765499677627" alt="探索Adobe Experience Manager代理程式"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477620/?format=jpeg&nocache=1765499677627" alt="探索Adobe Experience Manager代理程式"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

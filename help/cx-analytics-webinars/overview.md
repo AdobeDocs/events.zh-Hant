@@ -1,7 +1,8 @@
 ---
 title: CX Analytics隨選網路研討會
-description: 探索隨選CX Analytics影片，內容包括產品發佈、功能更新、Adobe解決方案整合、上線網路研討會，以及真實世界的客戶和合作夥伴成功案例，以建立專業技能，並掌握最新的CX Analytics創新技術。
-source-git-commit: cb5b307d248b0f972db897b699d6bcc82bfab0bc
+description: 探索隨選CX Analytics影片，內容包括產品發佈、功能更新、Adobe解決方案整合、入門網路研討會，以及真實世界的客戶和合作夥伴成功案例，以建立專業技能，並掌握最新的CX Analytics創新技術。
+exl-id: daaa107c-522b-4d57-88b8-b2242ebad043
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -10,9 +11,10 @@ ht-degree: 0%
 
 # CX Analytics隨選網路研討會 {#cx-analytics-ondemand-webinars}
 
-探索精選的CX Analytics影片庫，包括產品和功能發佈、跨Adobe解決方案彙集故事、快速入門網路研討會，以及合作夥伴/客戶成功案例。 您可以隨選觀看，銳利化您的分析專業知識，並透過定期新增的新內容，掌握CX Analytics產品組合的最新創新技術。
+探索精選的CX Analytics影片庫，包括產品和功能發佈、跨Adobe解決方案彙集故事、快速入門網路研討會，以及合作夥伴/客戶成功案例。 您可以隨時觀看，銳利化您的分析專業知識，並透過定期新增的新內容，掌握整個CX Analytics產品組合的最新創新技術。
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -46,4 +48,3 @@ ht-degree: 0%
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
