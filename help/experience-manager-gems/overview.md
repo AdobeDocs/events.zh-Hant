@@ -302,7 +302,7 @@ CARDS
 
 ## 繼續討論
 
-在我們的[Experience Manager社群](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)中，您可以與其他開發人員交流，讓AEM討論持續進行。  您可以與同業和Adobe員工建立網路來取得從實作到擴充產品使用的指引和最佳實務。  取得您問題的快速解答，並向Adobe提供您的產品構想和有價值的意見回饋。
+在我們的[Experience Manager社群](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=zh-Hant)中，您可以與其他開發人員交流，讓AEM討論持續進行。  您可以與同業和Adobe員工建立網路來取得從實作到擴充產品使用的指引和最佳實務。  取得您問題的快速解答，並向Adobe提供您的產品構想和有價值的意見回饋。
 
 <!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
 
@@ -332,7 +332,7 @@ If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
 
 Our latest AEM GEMs webinar on **Unlocking the Power of AEM Sites - Master the Content Management APIs** has been conducted on *October 9th, 2024*.
 The **recording** can be viewed here:
-[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/en/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
+[Unlocking the Power of AEM Sites - Master the Content Management APIs](* https://experienceleague.adobe.com/zh-hant/docs/events/experience-manager-gems-recordings/gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
@@ -351,7 +351,7 @@ The webinars will be conducted regularly, including the following:
 
 ## Experience League Community
 
-Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) play a critical role in supporting product adoption and customer success.
+Our [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=zh-Hant) play a critical role in supporting product adoption and customer success.
 
 * Connection: Network with peers and Adobe personnel for guidance and best practices from implementation to expanding product use
 * Quick Answers: Extensive pool of real-world use case answers to support successful active use of Adobe solutions
