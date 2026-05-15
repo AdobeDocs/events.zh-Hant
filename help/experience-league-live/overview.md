@@ -1,17 +1,17 @@
 ---
-title: Experience League LIVE活動
+title: Experience League 直播活動
 description: 先前Experience League LIVE活動的連結集合
 solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 85c30a3089b44ab1067f602d01de6d8d2a1efce4
+source-git-commit: f31943fd1575309c29d091c26c92be9fb1f310d4
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 29%
+ht-degree: 31%
 
 ---
 
@@ -79,5 +79,5 @@ Experience League LIVE 是 Experience League 團隊製作的直播串流節目�
 
 >[!TIP]
 >
->如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/zh-hant#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
+>如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
 
