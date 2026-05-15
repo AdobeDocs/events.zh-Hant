@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: 從 [!DNL Experience Makers Learn from your peers]的錄製集合
-source-git-commit: a74b16144c63581e387e590ff4aa98f9a218ec84
+source-git-commit: 52ae84732dd4afdd0ffb29afbb5d3a3bd5921a43
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '370'
 ht-degree: 7%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 7%
    + 2023 版 {#2023}
       + [使用AEM核心元件提供卓越的開發人員](experience-manager/2023/core-components.md)
       + [深入探討AEM Sites的工具](experience-manager/2023/aem-sites-tools.md)
-      + [在Cloud Service中有效的安全性策略](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
+      + 在Cloud Service中[有效的安全性策略](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
       + [掌握內容與體驗片段](experience-manager/2023/mastering-content-and-experience-fragments.md)
 + GenAi {#genai}
    + 2025 版 {#2025}
@@ -70,7 +70,7 @@ ht-degree: 7%
    + 2026 {#2026}
       + [可持續的Workfront採用](workfront/2026/workfront-adoption.md)
    + 2025 版 {#2025}
-      + [中繼資料混亂](https://experienceleague.adobe.com/zh-hant/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [中繼資料混亂](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [清楚說明影響 — 如何測量和共用Workfront值](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [利用自動化簡化資源規劃](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 年 {#2024}
@@ -93,5 +93,6 @@ ht-degree: 7%
       + [Operational Reporting的基礎](workfront/2022/foundations-of-operational-reporting.md)
       + [善用群組管理員](workfront/2022/leveraging-the-group-admin.md)
       + [什麼是Workfront控管？](workfront/2022/what-is-workfront-governance.md)
-+ [探索Experience Cloud中的Adobe使用者群組](./adobe-user-groups.md)
++ [解鎖Adobe Champion的優勢](./unlock-the-adobe-champion-advantage.md)
 + [瞭解如何申請並脫穎而出，成為冠軍](./adobe-champion-application.md)
++ [探索Experience Cloud中的Adobe使用者群組](./adobe-user-groups.md)
