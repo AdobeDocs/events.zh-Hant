@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491410/?learn=on&enablevpops)
 
-正在尋找更多在活動期間共用的資源？ 檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-inside-the-workfront-admin-role-10-lessons-from-my-first-two-years-may-21-2026-250661?fid=23&tid=250661)，並確實將透過Workfront成長：真管理學課程[&#128279;](https://experienceleague.adobe.com/en/perspectives/growing-through-workfront-real-admin-lessons)的觀點加入書籤！
+正在尋找更多在活動期間共用的資源？ 檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-inside-the-workfront-admin-role-10-lessons-from-my-first-two-years-may-21-2026-250661?profile.language=zh-Hant&fid=23&tid=250661)，並確實將透過Workfront成長：真管理學課程[&#128279;](https://experienceleague.adobe.com/en/perspectives/growing-through-workfront-real-admin-lessons)的觀點加入書籤！
 
-每月都會新增事件，請檢閱[Experience League事件頁面](https://experienceleague.adobe.com/en/events?lang=en)以瞭解最新工作階段。
+每月都會新增事件，請檢閱[Experience League事件頁面](https://experienceleague.adobe.com/zh-hant/events?lang=en)以瞭解最新工作階段。
 
