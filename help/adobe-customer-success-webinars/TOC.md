@@ -2,9 +2,9 @@
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
 user-guide-description: Adobe客戶成功引導的網路研討會，旨在協助您最佳化Adobe Experience Cloud投資。 獲得有價值的深入分析，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: 4d76f9900ce9cdc2783223443b5e47cddea09c3b
+source-git-commit: 6e906d6414d8e745c23fc144325430f2bbc996ac
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '666'
 ht-degree: 5%
 
 ---
@@ -29,6 +29,7 @@ ht-degree: 5%
       + [內容Supply chain變更管理策略](2026/csc-change-management.md)
       + [內容Supply chain高階主管贊助](2026/csc-executive-sponsorship.md)
       + [內容Supply chain的基礎架構](2026/csc-architecture.md)
+      + [GenAI流量更新2026年第二季](2026/gen-ai-traffic-update-q2.md)
       + [GenAI流量更新](2026/gen-ai-traffic-update.md)
       + [內容Supply chain的作業模型](2026/csc-operating-model.md)
    + Workfront {#workfront2026}
