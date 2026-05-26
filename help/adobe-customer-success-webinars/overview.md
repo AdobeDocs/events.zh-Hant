@@ -57,7 +57,7 @@ CARDS ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/unlock-identities.md" title="順暢的歷程 — 使用CJA解除身分鎖定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480150/?format=jpeg&nocache=1779819963453" alt="順暢的歷程 — 使用CJA解除身分鎖定"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480163/?captions=chi_hant&format=jpeg&nocache=1779819963453" alt="順暢的歷程 — 使用CJA解除身分鎖定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -145,7 +145,7 @@ CARDS ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/value-with-content-supply-chain.md" title="最大化內容供應鏈" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1779819963927" alt="最大化內容供應鏈"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479097/?captions=chi_hant&format=jpeg&nocache=1779819963927" alt="最大化內容供應鏈"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -168,7 +168,7 @@ CARDS ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/modern-delivery-model-aem.md" title="AEM Sites的現代化傳遞模型" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478775/?format=jpeg&nocache=1779819963962" alt="AEM Sites的現代化傳遞模型"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478786/?captions=chi_hant&format=jpeg&nocache=1779819963962" alt="AEM Sites的現代化傳遞模型"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -319,7 +319,7 @@ CARDS ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/csc-change-management.md" title="VRA第5場會議 — 管理策略的變更，以操作您的內容Supply chain" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479816/?format=jpeg&nocache=1779819964699" alt="VRA第5場會議 — 管理策略的變更，以操作您的內容Supply chain"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479828/?captions=chi_hant&format=jpeg&nocache=1779819964699" alt="VRA第5場會議 — 管理策略的變更，以操作您的內容Supply chain"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
