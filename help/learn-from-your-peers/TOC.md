@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: 從 [!DNL Experience Makers Learn from your peers]的錄製集合
-source-git-commit: 52ae84732dd4afdd0ffb29afbb5d3a3bd5921a43
+source-git-commit: 64cded01bdde73fff5b5b8e292f973af997f5386
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '374'
 ht-degree: 7%
 
 ---
@@ -27,6 +27,7 @@ ht-degree: 7%
       + [使用資料訴說有影響力的故事](analytics/2022/stories-with-data.md)
 + Commerce {#commerce}
    + 2026 {#2026}
+      + [Adobe Commerce地理策略](commerce/2026/commerce-geo-strategy.md)
       + [Adobe Commerce產品建議 — 從設定到策略成長](commerce/2026/product-recommendations-from-setup-to-strategic-growth.md)
    + 2025 版 {#2025}
       + [Adobe Commerce和App Builder Essentials — 從基礎知識到影響力](commerce/2025/commerce-and-app-builder.md)
@@ -43,7 +44,7 @@ ht-degree: 7%
    + 2023 版 {#2023}
       + [使用AEM核心元件提供卓越的開發人員](experience-manager/2023/core-components.md)
       + [深入探討AEM Sites的工具](experience-manager/2023/aem-sites-tools.md)
-      + [在Cloud Service中有效的安全性策略](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
+      + 在Cloud Service中[有效的安全性策略](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
       + [掌握內容與體驗片段](experience-manager/2023/mastering-content-and-experience-fragments.md)
 + GenAi {#genai}
    + 2025 版 {#2025}
@@ -70,7 +71,7 @@ ht-degree: 7%
    + 2026 {#2026}
       + [可持續的Workfront採用](workfront/2026/workfront-adoption.md)
    + 2025 版 {#2025}
-      + [中繼資料混亂](https://experienceleague.adobe.com/zh-hant/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [中繼資料混亂](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [清楚說明影響 — 如何測量和共用Workfront值](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [利用自動化簡化資源規劃](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 年 {#2024}
