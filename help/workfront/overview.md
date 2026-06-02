@@ -3,10 +3,10 @@ title: Adobe Workfront隨選研討會
 description: Workfront活動是影片庫，專家和同業可在此分享他們的想法和想法，瞭解如何使用Workfront來增強為組織完成的工作。
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
+source-git-commit: ba77e7ad6a08fd33a6ef336bc0f40bbb6300d350
 workflow-type: tm+mt
-source-wordcount: '949'
-ht-degree: 1%
+source-wordcount: '911'
+ht-degree: 0%
 
 ---
 
@@ -42,7 +42,7 @@ CARDS
                     <p class="is-size-6">探索Adobe Workfront 2026年第二季度版本的最新更新，包括計畫、工作流程等的增強功能。</p>
                 </div>
                 <a href="releases/26-q2-release-webinar.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
                 </a>
             </div>
         </div>
@@ -53,11 +53,11 @@ CARDS
 
 ## 車間倒帶
 
-5月是畢業季的開始，是向以前到過那裡的人學習新觀點的時刻。 為了慶祝，我們推出一系列講座，邀請經驗豐富的Adobe Workfront客戶分享實用建議、真實世界體驗和您立即可以應用的見解。 本月的精選影片包含全新的內容與過往的傑出會議，今天仍然適用。
+六月已到，[Workfront Wire](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/the-workfront-wire-june-2026-your-go-to-source-for-news-updates-events-250880?tid=250880)的最新版本亦已到！ 此電子報是您提供Workfront世界最新消息、更新、活動及一切資訊的一站式服務。
 
 正在尋找更多嗎？ 透過我們精心挑選的隨選活動，從您的Adobe Workfront社群探索最新消息。 使用左側導覽選單來瀏覽「研討會倒帶」下的主題，其中會場會依Fusion、規劃和工作流程分組，協助您快速找到符合需求的內容。
 
-此外，請務必加入即將舉辦的即時活動，以提出問題、分享見解並與同業共同作業。 請定期造訪[Experience League Workfront活動頁面](https://experienceleague.adobe.com/zh-hant/events?filters=Workfront)，瞭解後續活動！
+此外，請務必加入即將舉辦的即時活動，以提出問題、分享見解並與同業共同作業。 請定期造訪[Experience League Workfront活動頁面](https://experienceleague.adobe.com/en/events?filters=Workfront)，瞭解後續活動！
 
 <!-- 
 CARDS 
@@ -87,7 +87,7 @@ CARDS
                     <p class="is-size-6">適用於本地化案例全球行銷活動的範本化方法！</p>
                 </div>
                 <a href="workshop-rewind/workflow/power-templates.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
                 </a>
             </div>
         </div>
@@ -133,7 +133,7 @@ CARDS
                     <p class="is-size-6">瞭解Schneider Electric如何使用Workfront Fusion簡化程式、節省時間，並提高其創意工作室的效率。</p>
                 </div>
                 <a href="workshop-rewind/fusion/schneider-electric-efficiency.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
                 </a>
             </div>
         </div>
@@ -165,7 +165,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/office-hours.md" title="前3大辦公時間方法" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470153/?captions=chi_hant&format=jpeg&nocache=1778106659577" alt="前3大辦公時間方法"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470053/?format=jpeg&nocache=1778106659577" alt="前3大辦公時間方法"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +178,7 @@ CARDS
                     <p class="is-size-6">探索執行有效Adobe Workfront辦公時間的秘訣、資源和社群最佳實務，以提升採用率和參與度。</p>
                 </div>
                 <a href="quick-takes/top3/office-hours.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
                 </a>
             </div>
         </div>
@@ -196,12 +196,12 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="quick-takes/versus/issues-vs-projects.md" target="_blank" rel="referrer" title="與  — 問題與專案">與  — 問題與專案</a>
+                        <a href="quick-takes/versus/issues-vs-projects.md" target="_blank" rel="referrer" title="與  — 問題與專案">與 — 問題與專案</a>
                     </p>
                     <p class="is-size-6">探索Workfront中問題和專案之間的差異，並瞭解適合您團隊工作流程和報告需求的方法。</p>
                 </div>
                 <a href="quick-takes/versus/issues-vs-projects.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
                 </a>
             </div>
         </div>
@@ -244,7 +244,7 @@ CARDS
                     <p class="is-size-6">向Core Kombol學習有關使用Adobe解決方案最佳化您的內容supply chain的專家策略。 提升效率、協同合作及成果。</p>
                 </div>
                 <a href="expert-insights/content-supply-chain.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
                 </a>
             </div>
         </div>
@@ -267,7 +267,7 @@ CARDS
                     <p class="is-size-6">向Ewan Hruska學習Fusion最佳實務。 瞭解如何使用Adobe Workfront Fusion記錄、最佳化和擴展工作流程以提高效率。</p>
                 </div>
                 <a href="expert-insights/fusion.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
                 </a>
             </div>
         </div>
@@ -290,7 +290,7 @@ CARDS
                     <p class="is-size-6">探索Danielle Johnston關於使用Workfront建立治理和卓越中心的策略，以推動採用和積極變革。</p>
                 </div>
                 <a href="expert-insights/centers-of-excellence.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
                 </a>
             </div>
         </div>

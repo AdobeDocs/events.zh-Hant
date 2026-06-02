@@ -3,9 +3,9 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: 36763fd27b11d53a7f6cf82e9967109773471776
+source-git-commit: ba77e7ad6a08fd33a6ef336bc0f40bbb6300d350
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '560'
 ht-degree: 1%
 
 ---
@@ -47,6 +47,7 @@ ht-degree: 1%
       + [Adobe Workfront規劃示範](workshop-rewind/planning/planning-demo.md)
       + [建立基礎實作](workshop-rewind/planning/base-implementation.md)
       + [連線Planning、Workflow和Canvas控制面板](workshop-rewind/planning/planning-workflow-canvas.md)
+      + [Workfront Planning全域記錄型別](workshop-rewind/planning/global-record-types.md)
       + [Syracuse如何運用Planning](workshop-rewind/planning/syracuse-planning.md)
       + [SNHU的Creative使用案例](workshop-rewind/planning/planning-reimagined.md)
       + [使用Workfront Planning取得團隊層級的成功](workshop-rewind/planning/team-success-workfront-planning.md)
