@@ -2,9 +2,9 @@
 user-guide-title: Adobe客戶成功網路研討會
 breadcrumb-title: Adobe客戶成功網路研討會
 user-guide-description: Adobe客戶成功引導的網路研討會，旨在協助您最佳化Adobe Experience Cloud投資。 獲得有價值的深入分析，以最大化價值並提高Adobe解決方案的採用率。
-source-git-commit: 6e906d6414d8e745c23fc144325430f2bbc996ac
+source-git-commit: e23d3b95b7551d025f912f9a299dd11decc29407
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '679'
 ht-degree: 5%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 5%
       + [為Customer Journey Analytics建立BRD-SDR檔案](2026/brd-sdr-file-best-practices.md)
       + [解除鎖定身分](2026/unlock-identities.md)
    + Experience Manager {#aem2026}
+      + [使用AI代理和助理來轉換AEM](2026/transform-aem-with-ai-agents-and-assistants.md)
       + [在Edge Delivery Services中製作](2026/authoring-eds.md)
       + [最大化內容供應鏈](2026/value-with-content-supply-chain.md)
       + [AEM Sites的現代化傳遞模型](2026/modern-delivery-model-aem.md)
@@ -25,6 +26,7 @@ ht-degree: 5%
    + Experience Platform {#aep2026}
       + [內嵌式智慧轉換](2026/embedded-intelligence.md)
    + 一般 {#general2026}
+      + [釋放代理AI的力量](2026/unlock-the-power-of-agentic-ai.md)
       + [假期成功的AI策略](2026/2025-holiday-results.md)
       + [內容Supply chain變更管理策略](2026/csc-change-management.md)
       + [內容Supply chain高階主管贊助](2026/csc-executive-sponsorship.md)
