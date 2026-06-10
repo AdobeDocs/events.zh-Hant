@@ -3,9 +3,9 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: ba77e7ad6a08fd33a6ef336bc0f40bbb6300d350
+source-git-commit: 3ba1c8a76e6929f47b3a72683e7bde0ba45a01b2
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '565'
 ht-degree: 1%
 
 ---
@@ -60,6 +60,7 @@ ht-degree: 1%
       + [資料彙集](workshop-rewind/workflow/data-collection.md)
       + [定義與溝通Workfront值](workshop-rewind/workflow/workfront-value.md)
       + [Workfront中的有效溝通技巧](workshop-rewind/workflow/communication-tips.md)
+      + [增強的自訂Forms和本地化](workshop-rewind/workflow/enhanced-logic-localization.md)
       + [治理、執行和採用秘訣](workshop-rewind/workflow/governance-execution-adoption.md)
       + [群組管理軟體包](workshop-rewind/workflow/group-admins.md)
       + [進階企業作業簡介](workshop-rewind/workflow/intro-aeo.md)
