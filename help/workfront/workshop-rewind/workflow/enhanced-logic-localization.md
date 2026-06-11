@@ -23,6 +23,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492142/?learn=on&enablevpops)
 
-正在尋找更多嗎？ 訂閱我們的[進階企業營運活動系列Experience League貼文](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-series-advanced-enterprise-operations-capabilities-250546)，在新增工作階段、註冊連結、錄製作業和資源時，自動接收通知！
+正在尋找更多嗎？ 訂閱我們的[進階企業營運活動系列Experience League貼文](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-series-advanced-enterprise-operations-capabilities-250546?profile.language=zh-Hant)，在新增工作階段、註冊連結、錄製作業和資源時，自動接收通知！
 
-每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/en/events?lang=en)以瞭解最新工作階段。
+每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/zh-hant/events?lang=en)以瞭解最新工作階段。
