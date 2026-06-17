@@ -23,6 +23,6 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492389/?learn=on&enablevpops)
 
-正在尋找更多嗎？ 繼續交談[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-scaling-marketing-operations-mckesson-s-automation-journey-with-workfront-fusion-june-16-2026-251162)！
+正在尋找更多嗎？ 繼續交談[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-scaling-marketing-operations-mckesson-s-automation-journey-with-workfront-fusion-june-16-2026-251162?profile.language=zh-Hant)！
 
-每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/en/events)以瞭解最新工作階段。
+每月都會新增事件，因此請務必檢視[Experience League事件頁面](https://experienceleague.adobe.com/zh-hant/events)以瞭解最新工作階段。
