@@ -3,9 +3,9 @@ user-guide-title: Workfront事件
 breadcrumb-title: Workfront事件
 user-guide-description: Workfront事件
 solution: Workfront
-source-git-commit: 3ba1c8a76e6929f47b3a72683e7bde0ba45a01b2
+source-git-commit: 259802ff23ae19444b03976becefe4fabeff38aa
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '569'
 ht-degree: 1%
 
 ---
@@ -34,6 +34,7 @@ ht-degree: 1%
       + [Fusion已解碼](workshop-rewind/fusion/fusion-decoded.md)
       + [Fusion解碼的第2部分 — 開始建立](workshop-rewind/fusion/fusion-decoded-part-2.md)
       + [Workfront Fusion如何協助人類](workshop-rewind/fusion/inside-mayo-clinic.md)
+      + [McKesson Fusion資源自動化](workshop-rewind/fusion/mckesson-fusion-automation.md)
       + [輕鬆導覽多選欄位的變更](workshop-rewind/fusion/mulit-select-fields.md)
       + [主動式例外狀況處理](workshop-rewind/fusion/proactive-exception-handling.md)
       + [施耐德電動硬碟Workfront效率](workshop-rewind/fusion/schneider-electric-efficiency.md)
