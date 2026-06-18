@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 7f3035c2cb1e7c7fbd3ff17854dc9121e041849b
+source-git-commit: bb45c593ea931bf57ced7f358f9300b83cd707a2
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 49%
+source-wordcount: '112'
+ht-degree: 47%
 
 ---
 
@@ -50,6 +50,20 @@ Experience League LIVE 是 Experience League 團隊製作的直播串流節目�
     </div>
   </td>
 </tr>
+<tr>
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-16-26.md">
+      <img alt="Experience League LIVE 7月16日" src="assets/WebBannerExlLive-July16-2026.png">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-07-16-26.md">
+        <strong>「Adobe Journey Optimizer中的AEM內容片段：新增功能及使用方式」</strong>
+      </a>
+      <br/><em>與Sandra Hausmann、Jyothitha Chandran、Tyson Wai和Chris Ivory</em>
+      <br/><em>2026年7月16日</em>
+    </div>
+  </td>
+</tr>
+
 </table>
 
 <div id="recs-overview-body-1"></div>
@@ -101,5 +115,5 @@ Experience League LIVE 是 Experience League 團隊製作的直播串流節目�
 
 >[!TIP]
 >
->如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/zh-hant#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
+>如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
 

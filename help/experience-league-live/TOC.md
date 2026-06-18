@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 50b5538ac3ad157286a0ba23b548e6d05eaa22b3
+source-git-commit: 5c9d0425f08771e901052fffb0c62a640d4de6f9
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '407'
 ht-degree: 15%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 15%
 
 + [概觀](overview.md)
 + 集數 {#episodes}
+   + [Adobe Journey Optimizer中的AEM內容片段：新增功能及使用方式](episodes/exl-live-episode-07-16-26.md)
    + [如何在Adobe Target中善用Target MCP和其他主要新版本](episodes/exl-live-episode-06-24-26.md)
    + [上線前有效率地測試、模擬及驗證歷程](episodes/exl-live-episode-06-17-26.md)
    + [客戶參與的新使用案例：iOS上線活動、網頁推播和永久訊息](episodes/exl-live-episode-04-08-26.md)
