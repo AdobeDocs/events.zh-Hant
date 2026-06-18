@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492438/?learn=on&enablevpops)
 
-加入[Experience League社群](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-june-17-2026-8-30-am-pt-journey-testing-validation-in-adobe-journey-optimizer-251138)的對話 — 我們的專家會隨時回答您的問題。
+加入[Experience League社群](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-june-17-2026-8-30-am-pt-journey-testing-validation-in-adobe-journey-optimizer-251138?profile.language=zh-Hant)的對話 — 我們的專家會隨時回答您的問題。
