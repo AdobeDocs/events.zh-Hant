@@ -28,4 +28,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492605/?learn=on&enablevpops)
 
-如需有關[Adobe Target MCP伺服器](https://experienceleague.adobe.com/en/docs/target/using/mcp/target-mcp)的詳細資訊，請瀏覽產品檔案。
+如需有關[Adobe Target MCP伺服器](https://experienceleague.adobe.com/zh-hant/docs/target/using/mcp/target-mcp)的詳細資訊，請瀏覽產品檔案。

@@ -25,6 +25,6 @@ ht-degree: 1%
 
 從基礎知識到實際應用程式，本課程將引導您以清楚易懂的方式瞭解Workfront API的世界，並接受每天與其合作的專家的指導。 無論您是API的新手還是希望擴展您的技術工具組，此課程將幫助您在概念與功能之間取得聯絡。
 
-正在尋找更多在活動期間共用的資源？ 檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-nathan-s-five-faves-basic-apis-for-the-workfront-world-june-23-2026-251328)！
+正在尋找更多在活動期間共用的資源？ 檢視[Experience League社群貼文](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-nathan-s-five-faves-basic-apis-for-the-workfront-world-june-23-2026-251328?profile.language=zh-Hant)！
 
-每月都會新增事件，請檢閱[Experience League事件頁面](https://experienceleague.adobe.com/en/events)以瞭解最新工作階段。
+每月都會新增事件，請檢閱[Experience League事件頁面](https://experienceleague.adobe.com/zh-hant/events)以瞭解最新工作階段。
