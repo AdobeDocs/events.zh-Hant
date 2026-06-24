@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: ae074af2754b15146b372023fa2ec297a51e4cac
+source-git-commit: 266d1337ab989ab9a9ba91f9c167d687e08050e9
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 49%
+source-wordcount: '102'
+ht-degree: 51%
 
 ---
 
@@ -23,19 +23,6 @@ Experience League LIVE 是 Experience League 團隊製作的直播串流節目�
 ## 即將推出的Experience League LIVE活動
 
 <table>
-<tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-24-26.md">
-      <img alt="Experience League LIVE 6月24日" src="episodes/assets/webbanner-june-24-2026.png">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-06-24-26.md">
-        <strong>如何在Adobe Target中善用Target MCP和其他主要新版本</strong>
-      </a>
-      <br/><em>與Daniel Wright、James Torio和Drew Burns</em>
-      <br/><em>2026年6月24日</em>
-    </div>
-  </td>
-</tr>
 <tr>
     <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-16-26.md">
       <img alt="Experience League LIVE 7月16日" src="assets/WebBannerExlLive-July16-2026.png">
@@ -95,5 +82,5 @@ Experience League LIVE 是 Experience League 團隊製作的直播串流節目�
 
 >[!TIP]
 >
->如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/zh-hant#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
+>如需其他學習方法，請檢視我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
 
