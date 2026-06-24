@@ -7,15 +7,13 @@ doc-type: Event
 duration: 5
 last-substantial-update: 2026-05-26T00:00:00Z
 jira: KT-21383
-hidefromtoc: true
-hide: true
-source-git-commit: 64cded01bdde73fff5b5b8e292f973af997f5386
+exl-id: 28a56924-b608-48b9-bbcd-ebf48616c2cc
+source-git-commit: 059d7a6869a7b223ffa67dd878c6db5b35249a37
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce地理策略 — 跨D2C體驗的LLM最佳化
 
@@ -25,6 +23,8 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491452/?learn=on&enablevpops)
 
+[*工作階段投影片*](../../assets/commerce/adobe-commerce-geo-strategy-llm-optimization-slides.pdf){target="_blank"}
+
 ## 您將瞭解的內容
 
 * 瞭解GEO基礎知識：瞭解結構化、意圖導向的內容如何影響AI導向的可發現性
@@ -33,5 +33,3 @@ ht-degree: 0%
 * 建立實用的地理架構：為業務利害關係人提供清晰的路徑，以啟動地理策略並衡量內容影響
 
 無論您是剛開始考慮GEO，還是希望透過AI原生功能將您的電子商務體驗最佳化，本次研討會將為您提供實用的架構，以啟用GEO原則，進而轉化為對真實世界的商業影響。
-
-
