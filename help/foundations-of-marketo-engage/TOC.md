@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage基礎
 breadcrumb-title: Marketo Engage基礎
 user-guide-description: 透過對初學者友好的支援課程，加入基礎Marketo使用者群組，在Adobe Marketo Engage中建立信心和核心技能。
 solution: Marketo Engage
-source-git-commit: 57f4721e199ca2f2108901ef11167784c2d4ffe8
+source-git-commit: a62b7c342f31cfc7a4fc858d84d6cf149f725545
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '74'
 ht-degree: 2%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 2%
 
 + [Marketo Engage網路研討會基礎](overview.md)
 + 2026 {#2026}
+   + [發表新產品或功能](2026/new-product.md)
    + [部署每月的Newsletter](2026/monthly-newsletter.md)
    + [Marketo Engage基礎](2026/fundamentals.md)
 + 2025 版 {#2025}
